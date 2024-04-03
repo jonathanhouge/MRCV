@@ -1,5 +1,6 @@
 # This file contains functions that checks the user-input and, if deemed valid, imports the relevant information
-# If user-input is not valid, a relevant error message is generated and printed 
+# If user-input is not valid, a relevant error message is generated and printed
+
 
 def checkimport_url(url_string):
     """
@@ -7,7 +8,7 @@ def checkimport_url(url_string):
 
         Parameters:
             url_string (str):   The input URL.
-        
+
         Returns:
             check (boolean):    True or False depending on if the input URL is recognized by the program.
             type (str):         The list type (watchlist, list, films).
@@ -15,9 +16,9 @@ def checkimport_url(url_string):
             listname (str):     The program-assigned name for the list, extracted from the URL.
     """
 
-    url_chunks = url_string.split('/')
-    
-    try: 
+    url_chunks = url_string.split("/")
+
+    try:
         # All user-type lists
         if url_chunks[4] == "list":
             type = "list"
@@ -36,7 +37,7 @@ def checkimport_url(url_string):
             username = url_chunks[3]
             listname = f"{username.lower()}-films"
             check = True
-        
+
         # Letterboxd site generic lists
         elif url_chunks[3] == "films" and len(url_chunks) > 5:
             type = "LBfilms"
@@ -46,29 +47,32 @@ def checkimport_url(url_string):
 
         else:
             check = False
-            type, username, listname = ['']*3
+            type, username, listname = [""] * 3
 
     except:
         check = False
-        type, username, listname = ['']*3
+        type, username, listname = [""] * 3
 
     # Check for additional selection in URL and add it to the list output name
-    if (type in {"list"} and len(url_chunks) > 7):
+    if type in {"list"} and len(url_chunks) > 7:
         extra_chunks = url_chunks[6:-1]
         listname = listname + "-" + ("-").join(extra_chunks)
 
-    elif (type in {"watchlist", "films"} and len(url_chunks) > 6):
+    elif type in {"watchlist", "films"} and len(url_chunks) > 6:
         extra_chunks = url_chunks[5:-1]
         listname = listname + "-" + ("-").join(extra_chunks)
-        
-    elif (type in {"LBfilms"}):
+
+    elif type in {"LBfilms"}:
         extra_chunks = url_chunks[4:-1]
         listname = listname + "-" + ("-").join(extra_chunks)
 
     return check, type, username, listname
 
-def checkimport_outputname(output_name, global_output_name, listname, url_total, url_count, concat):
-    """ 
+
+def checkimport_outputname(
+    output_name, global_output_name, listname, url_total, url_count, concat
+):
+    """
     Checks if valid output names are given, then finds the appropriate output name for the list.
 
     Returns:
@@ -79,32 +83,33 @@ def checkimport_outputname(output_name, global_output_name, listname, url_total,
     # Checks for if concat was applied
     if concat and global_output_name:
         check = True
-        name = global_output_name + ".csv" 
+        name = global_output_name + ".json"
         return check, name
     elif concat and (global_output_name == None):
         check = True
-        name = "concatenated.csv" 
+        name = "concatenated.json"
         return check, name
     else:
 
         # Checks if concat was not applied
         if output_name == None:
             check = True
-            name = listname + ".csv"
+            name = listname + ".json"
         elif output_name != global_output_name:
             check = True
-            name = output_name + ".csv"
+            name = output_name + ".json"
         elif (output_name != None) and (url_total == 1):
             check = True
-            name = output_name + ".csv"
+            name = output_name + ".json"
         elif (output_name != None) and (url_total > 1):
             check = True
-            name = output_name + f"_{url_count - 1}.csv"
+            name = output_name + f"_{url_count - 1}.json"
         else:
             check = False
             name = ""
-    
+
     return check, name
+
 
 def checkimport_pages(pages_string):
     """
@@ -113,7 +118,7 @@ def checkimport_pages(pages_string):
 
         Parameters:
             pages_string (str): The input after the "-p" flag
-        
+
         Returns:
             check (boolean):    True or False depending on if the input string could be decoded.
             final_pages (list): An explicit list of integers denoting the pages that should be scraped.
@@ -133,19 +138,19 @@ def checkimport_pages(pages_string):
                 if int(i) <= int(j):
                     if int(i) == 0:
                         i = 1
-                    final_pages.extend(range(int(i),int(j)+1))
+                    final_pages.extend(range(int(i), int(j) + 1))
                 else:
                     check = False
                     return check, final_pages
-            
+
             elif "<" in chunk:
                 j = chunk.split("<")[1]
                 print(j)
-                final_pages.extend(range(1,int(j)))
+                final_pages.extend(range(1, int(j)))
             else:
                 final_pages.append(int(chunk))
 
-        final_pages = list(sorted(set(final_pages)))            # Delete duplicates and sort
+        final_pages = list(sorted(set(final_pages)))  # Delete duplicates and sort
         check = True
     except:
         check = False

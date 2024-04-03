@@ -122,42 +122,13 @@ def scrape_film(film_html):
     # Finding the film name
     film_dict["Film_title"] = film_soup.find("div", {"class": "col-17"}).find("h1").text
 
-    # Try to find release year, if missing or 0 insert nan
-    release_year = int(
-        str(film_soup.find_all("script"))
-        .split("releaseYear: ")[1]
-        .split(",")[0]
-        .strip('"')
-    )
-    if release_year == 0:
-        release_year = np.nan
-    film_dict["Release_year"] = release_year
-
-    # Try to find director, if missing insert nan
-    director = film_soup.find("meta", attrs={"name": "twitter:data1"}).attrs["content"]
-    if director == "":
-        director = np.nan
-    film_dict["Director"] = director
-
-    # Finding the cast, if not found insert a nan
-    try:
-        cast = [
-            line.contents[0]
-            for line in film_soup.find("div", attrs={"id": "tab-cast"}).find_all("a")
-        ]
-
-        # remove all the 'Show All...' tags if they are present
-        film_dict["Cast"] = [i for i in cast if i != "Show All…"]
-    except:
-        film_dict["Cast"] = np.nan
-
     # Finding average rating, if not found insert a nan
     try:
         film_dict["Average_rating"] = float(
             film_soup.find("meta", attrs={"name": "twitter:data2"}).attrs["content"][:4]
         )
     except:
-        film_dict["Average_rating"] = np.nan
+        film_dict["Average_rating"] = "nan"
 
     # Try to find the list owner's rating of a film if possible and converting to float
     try:
@@ -165,23 +136,14 @@ def scrape_film(film_html):
         if stringval != "0":
             film_dict["Owner_rating"] = float(int(stringval) / 2)
         else:
-            film_dict["Owner_rating"] = np.nan
+            film_dict["Owner_rating"] = "nan"
     except:
         # Extra clause for type 'film' lists
         try:
             starval = film_html.find_all("span")[-1].text
             film_dict["Owner_rating"] = stars2val(starval)
         except:
-            film_dict["Owner_rating"] = np.nan
-
-    # Finding film's genres, if not found insert nan
-    try:
-        genres = film_soup.find("div", {"class": "text-sluglist capitalize"})
-        film_dict["Genres"] = [
-            genres.text for genres in genres.find_all("a", {"class": "text-slug"})
-        ]
-    except:
-        film_dict["Genres"] = np.nan
+            film_dict["Owner_rating"] = "nan"
 
     # Get movie runtime by searching for first sequence of digits in the p element with the runtime, if not found insert nan
     try:
@@ -191,7 +153,7 @@ def scrape_film(film_html):
             ).group()
         )
     except:
-        film_dict["Runtime"] = np.nan
+        film_dict["Runtime"] = "nan"
 
     # Finding countries
     try:
@@ -202,9 +164,9 @@ def scrape_film(film_html):
             )
         ]
         if film_dict["Countries"] == []:
-            film_dict["Countries"] = np.nan
+            film_dict["Countries"] = "nan"
     except:
-        film_dict["Countries"] = np.nan
+        film_dict["Countries"] = "nan"
 
     # Finding spoken and original languages
     try:
@@ -218,32 +180,8 @@ def scrape_film(film_html):
         film_dict["Original_language"] = languages[
             0
         ]  # original language (always first)
-        film_dict["Spoken_languages"] = list(
-            sorted(set(languages), key=languages.index)
-        )  # all unique spoken languages
     except:
-        film_dict["Original_language"] = np.nan
-        film_dict["Spoken_languages"] = np.nan
-
-    # !! Currently not working with films that have a comma in their title
-    # # Finding alternative titles
-    # try:
-    #     alternative_titles = film_soup.find('div', attrs={'id':'tab-details'}).find('div', class_="text-indentedlist").text.strip().split(", ")
-    # except:
-    #     alternative_titles = np.nan
-
-    # Finding studios
-    try:
-        film_dict["Studios"] = [
-            line.contents[0]
-            for line in film_soup.find("div", attrs={"id": "tab-details"}).find_all(
-                "a", href=re.compile(r"studio")
-            )
-        ]
-        if film_dict["Studios"] == []:
-            film_dict["Studios"] = np.nan
-    except:
-        film_dict["Studios"] = np.nan
+        film_dict["Original_language"] = "nan"
 
     # Getting number of watches, appearances in lists and number of likes (requires new link) ##
     movie = film_url.split("/")[-2]  # Movie title in URL
@@ -308,12 +246,5 @@ def scrape_film(film_html):
             tot_ratings += Nratings
 
     film_dict["Total_ratings"] = tot_ratings
-
-    # Thumbnail URL?
-
-    # Banner URL?
-
-    # Save the film URL as an extra column
-    film_dict["Film_URL"] = film_url
 
     return film_dict

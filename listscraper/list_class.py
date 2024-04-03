@@ -1,8 +1,9 @@
 from listscraper.scrape_functions import scrape_list
 import listscraper.checkimport_functions as cef
 import sys
-import csv
+import json
 import os
+
 
 class List:
     """
@@ -21,15 +22,24 @@ class List:
         write_to_csv():         Writes the objects's films to a CSV.
         scrape_and_write():     Wrapper function to both scrape and write out to CSV.
     """
-    
-    def __init__(self, list_url, pagestring, output_name, global_output_name, url_total, url_count, concat):
+
+    def __init__(
+        self,
+        list_url,
+        pagestring,
+        output_name,
+        global_output_name,
+        url_total,
+        url_count,
+        concat,
+    ):
         """
         Constructs necessary attributes of the list object.
 
         Parameters:
             url (str):              The URL of the list.
             pagestring (str):       Literal string syntax that was input.
-            
+
             type (str):             The list type of this object.
             username (str):         The username of the list owner.
             listname (str):         The list name from the URL.
@@ -37,26 +47,34 @@ class List:
             output_name (str):      The final output name of the CSV.
             page_options (list):    List of integers corresponding to all selected pages.
         """
-        
+
         self.url = list_url
-        self.pagestring = pagestring.strip("\'\"").replace(" ", "")
+        self.pagestring = pagestring.strip("'\"").replace(" ", "")
 
         print(f"Checking inputs for URL {url_count}/{url_total}...")
 
         # URL input check
-        urlcheck, self.type, self.username, self.listname = cef.checkimport_url(self.url)
+        urlcheck, self.type, self.username, self.listname = cef.checkimport_url(
+            self.url
+        )
         if not urlcheck:
             sys.exit(f"     {self.url} is not a valid list URL. Please try again!")
 
         # (-on) output name check
-        outputnamecheck, self.output_name = cef.checkimport_outputname(output_name, global_output_name, self.listname, url_total, url_count, concat)
+        outputnamecheck, self.output_name = cef.checkimport_outputname(
+            output_name, global_output_name, self.listname, url_total, url_count, concat
+        )
         if not outputnamecheck:
-            sys.exit(f"    Incorrect output name(s) were given. Please check and try again.")       
+            sys.exit(
+                f"    Incorrect output name(s) were given. Please check and try again."
+            )
 
         # (-p) pages syntax check
         pagecheck, self.page_options = cef.checkimport_pages(self.pagestring)
         if not pagecheck:
-            sys.exit(f"    The input syntax of the pages (-p flag) was not correct. Please try again!")
+            sys.exit(
+                f"    The input syntax of the pages (-p flag) was not correct. Please try again!"
+            )
 
         ## Summary of all properties before scraping starts
         print(f"    url:         {self.url}")
@@ -78,7 +96,9 @@ class List:
 
         # If list is of generic LB site, URL should be slightly altered
         if self.type == "LBfilms":
-            scrape_url = "films/ajax".join(self.url.split("films"))         # 'ajax' is inserted
+            scrape_url = "films/ajax".join(
+                self.url.split("films")
+            )  # 'ajax' is inserted
         else:
             scrape_url = self.url
 
@@ -90,19 +110,18 @@ class List:
         """
 
         if len(self.films) == 1:
-            return print(f"        No films found to write out for list {self.listname}. Please try a different selection.")
+            return print(
+                f"        No films found to write out for list {self.listname}. Please try a different selection."
+            )
 
         else:
-            header = list( self.films[0].keys() )
+            # TODO make this output a json file
             outpath = os.path.join(output_path, self.output_name)
 
-            with open(outpath, 'w', newline="", encoding = "utf-8") as f:
-                write = csv.DictWriter(f, delimiter=",", fieldnames=header)
-                write.writeheader()
-                write.writerows(self.films)
-        
+            with open(outpath, "w", encoding="utf-8") as jsonf:
+                jsonf.write(json.dumps(self.films, indent=4))
+
             return print(f"    Written to {self.output_name}!")
-    
 
     def scrape_and_write(self, output_path, quiet, concat):
         """
