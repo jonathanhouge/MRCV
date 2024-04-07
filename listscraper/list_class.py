@@ -119,7 +119,7 @@ class List:
             outpath = os.path.join(output_path, self.output_name)
 
             with open(outpath, "w", encoding="utf-8") as jsonf:
-                jsonf.write(json.dumps(self.films, indent=4))
+                jsonf.write(json.dumps(self.films, indent=4, ensure_ascii=False))
 
             return print(f"    Written to {self.output_name}!")
 

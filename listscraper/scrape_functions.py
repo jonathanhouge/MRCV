@@ -128,7 +128,7 @@ def scrape_film(film_html):
             film_soup.find("meta", attrs={"name": "twitter:data2"}).attrs["content"][:4]
         )
     except:
-        film_dict["Average_rating"] = "nan"
+        film_dict["Average_rating"] = None
 
     # Try to find the list owner's rating of a film if possible and converting to float
     try:
@@ -136,14 +136,14 @@ def scrape_film(film_html):
         if stringval != "0":
             film_dict["Owner_rating"] = float(int(stringval) / 2)
         else:
-            film_dict["Owner_rating"] = "nan"
+            film_dict["Owner_rating"] = None
     except:
         # Extra clause for type 'film' lists
         try:
             starval = film_html.find_all("span")[-1].text
             film_dict["Owner_rating"] = stars2val(starval)
         except:
-            film_dict["Owner_rating"] = "nan"
+            film_dict["Owner_rating"] = None
 
     # Get movie runtime by searching for first sequence of digits in the p element with the runtime, if not found insert nan
     try:
@@ -153,7 +153,7 @@ def scrape_film(film_html):
             ).group()
         )
     except:
-        film_dict["Runtime"] = "nan"
+        film_dict["Runtime"] = None
 
     # Finding countries
     try:
@@ -164,9 +164,9 @@ def scrape_film(film_html):
             )
         ]
         if film_dict["Countries"] == []:
-            film_dict["Countries"] = "nan"
+            film_dict["Countries"] = None
     except:
-        film_dict["Countries"] = "nan"
+        film_dict["Countries"] = None
 
     # Finding spoken and original languages
     try:
@@ -181,7 +181,7 @@ def scrape_film(film_html):
             0
         ]  # original language (always first)
     except:
-        film_dict["Original_language"] = "nan"
+        film_dict["Original_language"] = None
 
     # Getting number of watches, appearances in lists and number of likes (requires new link) ##
     movie = film_url.split("/")[-2]  # Movie title in URL
