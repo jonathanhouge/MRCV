@@ -88,12 +88,8 @@ def scrape_page(list_url, og_list_url, quiet=False, concat=False):
     # Iterate through films
     for film in films if quiet else tqdm(films):
         film_dict = scrape_film(film)
-
-        # Adds an extra column with OG list URL
-        if concat:
-            film_dict["List_URL"] = og_list_url
-
-        page_films.append(film_dict)
+        if film_dict is not None:
+            page_films.append(film_dict)
 
     return page_films, page_soup
 
@@ -155,6 +151,9 @@ def scrape_film(film_html):
     except:
         film_dict["Runtime"] = None
 
+    if film_dict["Runtime"] is None or film_dict["Runtime"] <= 40:
+        return None
+
     # Finding countries
     try:
         film_dict["Countries"] = [
@@ -196,6 +195,9 @@ def scrape_film(film_html):
     ]
     watches = re.findall(r"\d+", watches)  # Find the number from string
     film_dict["Watches"] = int("".join(watches))  # Filter out commas from large numbers
+
+    if film_dict["Watches"] is None or film_dict["Watches"] < 2500:
+        return None
 
     # Get number of film appearances in lists
     list_appearances = stats_soup.find(

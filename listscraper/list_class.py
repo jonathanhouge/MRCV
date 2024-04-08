@@ -115,11 +115,10 @@ class List:
             )
 
         else:
-            # TODO make this output a json file
             outpath = os.path.join(output_path, self.output_name)
 
             with open(outpath, "w", encoding="utf-8") as jsonf:
-                jsonf.write(json.dumps(self.films, indent=4, ensure_ascii=False))
+                jsonf.write(json.dumps(self.films, indent=2, ensure_ascii=False))
 
             return print(f"    Written to {self.output_name}!")
 

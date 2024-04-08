@@ -36,7 +36,7 @@ def cli_arguments():
         type=str,
         help="set the path for the output CSV(s). Default output is a folder called 'scraper_outputs'.",
         required=False,
-        default="scraper_outputs",
+        default="academy-scraping",
     )
 
     parser.add_argument(
