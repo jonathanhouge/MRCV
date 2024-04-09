@@ -151,7 +151,7 @@ def scrape_film(film_html):
     except:
         film_dict["Runtime"] = None
 
-    if film_dict["Runtime"] is None or film_dict["Runtime"] <= 40:
+    if film_dict["Runtime"] is None or film_dict["Runtime"] > 40 or film_dict["Runtime"] < 7:
         return None
 
     # Finding countries
@@ -196,7 +196,7 @@ def scrape_film(film_html):
     watches = re.findall(r"\d+", watches)  # Find the number from string
     film_dict["Watches"] = int("".join(watches))  # Filter out commas from large numbers
 
-    if film_dict["Watches"] is None or film_dict["Watches"] < 2500:
+    if film_dict["Watches"] is None or film_dict["Watches"] < 1000:
         return None
 
     # Get number of film appearances in lists
