@@ -36,7 +36,7 @@ def cli_arguments():
         type=str,
         help="set the path for the output CSV(s). Default output is a folder called 'scraper_outputs'.",
         required=False,
-        default="academy-scraping",
+        default="academy-scraping/docs-short",
     )
 
     parser.add_argument(
@@ -74,6 +74,14 @@ def cli_arguments():
         action="store_true",
         help="option to output all the scraped lists into a single concatenated CSV. An extra column is added that specifies the original list URL.",
         required=False,
+    )
+
+    parser.add_argument(
+        "-r",
+        "--review",
+        help="option to output all the scraped lists into a single concatenated CSV. An extra column is added that specifies the original list URL.",
+        type=bool,
+        default=False
     )
 
     parser.add_argument(

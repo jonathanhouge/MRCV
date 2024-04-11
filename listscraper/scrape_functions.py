@@ -8,7 +8,7 @@ import re
 _domain = "https://letterboxd.com/"
 
 
-def scrape_list(list_url, page_options, quiet=False, concat=False):
+def scrape_list(list_url, page_options, quiet=False, concat=False, reviews=False):
     """
     Scrapes a Letterboxd list. Takes into account any optional page selection.
 
@@ -27,7 +27,7 @@ def scrape_list(list_url, page_options, quiet=False, concat=False):
     # If all pages should be scraped, go through all available pages
     if (page_options == []) or (page_options == "*"):
         while True:
-            page_films, page_soup = scrape_page(list_url, list_url, quiet, concat)
+            page_films, page_soup = scrape_page(list_url, list_url, quiet, concat, reviews)
             list_films.extend(page_films)
 
             # Check if there is another page of ratings and if yes, continue to that page
@@ -42,7 +42,7 @@ def scrape_list(list_url, page_options, quiet=False, concat=False):
         for p in page_options:
             new_link = list_url + f"page/{p}/"
             try:
-                page_films, page_soup = scrape_page(new_link, list_url, quiet, concat)
+                page_films, page_soup = scrape_page(new_link, list_url, quiet, concat, reviews)
                 list_films.extend(page_films)
             except:
                 print(f"        No films on page {p}...")
@@ -51,7 +51,7 @@ def scrape_list(list_url, page_options, quiet=False, concat=False):
     return list_films
 
 
-def scrape_page(list_url, og_list_url, quiet=False, concat=False):
+def scrape_page(list_url, og_list_url, quiet=False, concat=False, reviews=False):
     """
     Scrapes the page of a LB list URL, finds all its films and iterates over each film URL
     to find the relevant information.
@@ -76,20 +76,31 @@ def scrape_page(list_url, og_list_url, quiet=False, concat=False):
 
     page_soup = BeautifulSoup(page_response.content, "lxml")
 
-    # Grab the main film grid
-    table = page_soup.find("ul", class_="poster-list")
-    if table is None:
-        return
+    # get reviewers
+    if reviews:
+        page = page_soup.find("section", class_="viewings-list")
+        reviews = page.find_all("li", class_="film-detail")
 
-    films = table.find_all("li")
-    if films == []:
-        return
+        for review in reviews if quiet else tqdm(reviews):
+            reviewer_soup = review.find("a", class_="context")["href"]
+            reviewer = reviewer_soup.split("/")[1]
+            page_films.append(reviewer)
 
-    # Iterate through films
-    for film in films if quiet else tqdm(films):
-        film_dict = scrape_film(film)
-        if film_dict is not None:
-            page_films.append(film_dict)
+    else:
+        # Grab the main film grid
+        table = page_soup.find("ul", class_="poster-list")
+        if table is None:
+            return
+
+        films = table.find_all("li")
+        if films == []:
+            return
+
+        # Iterate through films
+        for film in films if quiet else tqdm(films):
+            film_dict = scrape_film(film)
+            if film_dict is not None:
+                page_films.append(film_dict)
 
     return page_films, page_soup
 
@@ -151,6 +162,9 @@ def scrape_film(film_html):
     except:
         film_dict["Runtime"] = None
 
+    # MOVIE SPECIFIC running time
+    # for short films: film_dict["Runtime"] > 40 or film_dict["Runtime"] < 7
+    # for other films:
     if film_dict["Runtime"] is None or film_dict["Runtime"] > 40 or film_dict["Runtime"] < 7:
         return None
 
@@ -196,6 +210,9 @@ def scrape_film(film_html):
     watches = re.findall(r"\d+", watches)  # Find the number from string
     film_dict["Watches"] = int("".join(watches))  # Filter out commas from large numbers
 
+    # MOVIE SPECIFIC for number of watchers 
+    # 1000 for shorts
+    # 2500 for docs
     if film_dict["Watches"] is None or film_dict["Watches"] < 1000:
         return None
 
