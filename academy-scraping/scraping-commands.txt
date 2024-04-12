@@ -1,6 +1,6 @@
-for getting reviewers:
-python3 -m listscraper {URL} -r True -on "{movie}-reviewers.json" -p #~#
-ex: python3 -m listscraper https://letterboxd.com/film/pacific-rim/reviews/ -r True -on "pacific-rim-reviewers.json" -p 1
+for getting watchers:
+python3 -m listscraper {URL} -w True -on "{movie}-watchers.json" -p #~#
+ex: python3 -m listscraper https://letterboxd.com/film/terminator-2-judgment-day/members/ -w True -on "t2-reviewers.json" -p 1
 
 for getting films:
 python3 -m listscraper {URL} -p #~# -on "{year}-{category}"

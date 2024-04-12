@@ -1,0 +1,165 @@
+[
+  {
+    "year": 2013,
+    "nominees": [
+      "12 Years a Slave",
+      "American Hustle",
+      "Captain Phillips",
+      "Dallas Buyers Club",
+      "Gravity",
+      "Her",
+      "Nebraska",
+      "Philomena",
+      "The Wolf of Wall Street"
+    ],
+    "winner": ""
+  },
+  {
+    "year": 2014,
+    "nominees": [
+      "Birdman or (The Unexpected Virtue of Ignorance)",
+      "American Sniper",
+      "Boyhood",
+      "The Grand Budapest Hotel",
+      "The Imitation Game",
+      "Selma",
+      "The Theory of Everything",
+      "Whiplash"
+    ],
+    "winner": ""
+  },
+  {
+    "year": 2015,
+    "nominees": [
+      "Spotlight",
+      "The Big Short",
+      "Bridge of Spies",
+      "Brooklyn",
+      "Mad Max: Fury Road",
+      "The Martian",
+      "The Revenant",
+      "Room"
+    ],
+    "winner": ""
+  },
+  {
+    "year": 2016,
+    "nominees": [
+      "Moonlight",
+      "Arrival",
+      "Fences",
+      "Hacksaw Ridge",
+      "Hell or High Water",
+      "Hidden Figures",
+      "La La Land",
+      "Lion"
+    ],
+    "winner": ""
+  },
+  {
+    "year": 2017,
+    "nominees": [
+      "The Shape of Water",
+      "Call Me by Your Name",
+      "Darkest Hour",
+      "Dunkirk",
+      "Get Out",
+      "Lady Bird",
+      "Phantom Thread",
+      "The Post",
+      "Three Billboards Outside Ebbing, Missouri"
+    ],
+    "winner": ""
+  },
+  {
+    "year": 2018,
+    "nominees": [
+      "Black Panther",
+      "BlacKkKlansman",
+      "Bohemian Rhapsody",
+      "The Favourite",
+      "Green Book",
+      "Roma",
+      "A Star Is Born",
+      "Vice"
+    ],
+    "winner": ""
+  },
+  {
+    "year": 2019,
+    "nominees": [
+      "Ford v Ferrari",
+      "The Irishman",
+      "Jojo Rabbit",
+      "Joker",
+      "Little Women",
+      "Marriage Story",
+      "1917",
+      "Once Upon a Time in Hollywood",
+      "Parasite"
+    ],
+    "winner": ""
+  },
+  {
+    "year": 2020,
+    "nominees": [
+      "The Father",
+      "Judas and the Black Messiah",
+      "Mank",
+      "Minari",
+      "Nomadland",
+      "Promising Young Woman",
+      "Sound of Metal",
+      "The Trial of the Chicago 7"
+    ],
+    "winner": ""
+  },
+  {
+    "year": 2021,
+    "nominees": [
+      "Belfast",
+      "CODA",
+      "Don't Look Up",
+      "Drive My Car",
+      "Dune",
+      "King Richard",
+      "Licorice Pizza",
+      "Nightmare Alley",
+      "The Power of the Dog",
+      "West Side Story"
+    ],
+    "winner": ""
+  },
+  {
+    "year": 2022,
+    "nominees": [
+      "Everything Everywhere All at Once",
+      "All Quiet on the Western Front",
+      "Avatar: The Way of Water",
+      "The Banshees of Inisherin",
+      "Elvis",
+      "The Fabelmans",
+      "Tár",
+      "Top Gun: Maverick",
+      "Triangle of Sadness",
+      "Women Talking"
+    ],
+    "winner": ""
+  },
+  {
+    "year": 2023,
+    "nominees": [
+      "Oppenheimer",
+      "American Fiction",
+      "Anatomy of a Fall",
+      "Barbie",
+      "The Holdovers",
+      "Killers of the Flower Moon",
+      "Maestro",
+      "Past Lives",
+      "Poor Things",
+      "The Zone of Interest"
+    ],
+    "winner": ""
+  }
+]

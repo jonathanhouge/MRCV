@@ -1,6 +1,7 @@
 [
   {
     "Film_title": "Idem Paris",
+    "url": "https://letterboxd.com/film/idem-paris/",
     "Average_rating": 3.03,
     "Owner_rating": null,
     "Runtime": 8,
@@ -24,6 +25,7 @@
   },
   {
     "Film_title": "Linklater: On Cinema and Time",
+    "url": "https://letterboxd.com/film/linklater-on-cinema-and-time/",
     "Average_rating": 4.1,
     "Owner_rating": null,
     "Runtime": 9,
@@ -47,6 +49,7 @@
   },
   {
     "Film_title": "The Queen",
+    "url": "https://letterboxd.com/film/the-queen-2013/",
     "Average_rating": 3.69,
     "Owner_rating": null,
     "Runtime": 18,
@@ -70,6 +73,7 @@
   },
   {
     "Film_title": "Urban Rashomon",
+    "url": "https://letterboxd.com/film/urban-rashomon/",
     "Average_rating": 3.72,
     "Owner_rating": null,
     "Runtime": 21,
@@ -93,6 +97,7 @@
   },
   {
     "Film_title": "Beyoncé: Self-Titled",
+    "url": "https://letterboxd.com/film/beyonce-self-titled/",
     "Average_rating": 4.08,
     "Owner_rating": null,
     "Runtime": 25,
@@ -116,6 +121,7 @@
   },
   {
     "Film_title": "Antonyms of Beauty",
+    "url": "https://letterboxd.com/film/antonyms-of-beauty/",
     "Average_rating": 3.53,
     "Owner_rating": null,
     "Runtime": 27,
@@ -139,6 +145,7 @@
   },
   {
     "Film_title": "The Age of Stone",
+    "url": "https://letterboxd.com/film/the-age-of-stone/",
     "Average_rating": 3.23,
     "Owner_rating": null,
     "Runtime": 29,
@@ -162,6 +169,7 @@
   },
   {
     "Film_title": "Taylor Swift: Live On the Seine",
+    "url": "https://letterboxd.com/film/taylor-swift-live-on-the-seine/",
     "Average_rating": 4.02,
     "Owner_rating": null,
     "Runtime": 30,
@@ -185,6 +193,7 @@
   },
   {
     "Film_title": "From One Second to the Next",
+    "url": "https://letterboxd.com/film/from-one-second-to-the-next/",
     "Average_rating": 3.58,
     "Owner_rating": null,
     "Runtime": 34,
@@ -208,6 +217,7 @@
   },
   {
     "Film_title": "James Gandolfini: Tribute to a Friend",
+    "url": "https://letterboxd.com/film/james-gandolfini-tribute-to-a-friend/",
     "Average_rating": 3.83,
     "Owner_rating": null,
     "Runtime": 35,

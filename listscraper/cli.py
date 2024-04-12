@@ -36,7 +36,7 @@ def cli_arguments():
         type=str,
         help="set the path for the output CSV(s). Default output is a folder called 'scraper_outputs'.",
         required=False,
-        default="academy-scraping/docs-short",
+        default="academy-scraping/animated-short",
     )
 
     parser.add_argument(
@@ -77,11 +77,7 @@ def cli_arguments():
     )
 
     parser.add_argument(
-        "-r",
-        "--review",
-        help="option to output all the scraped lists into a single concatenated CSV. An extra column is added that specifies the original list URL.",
-        type=bool,
-        default=False
+        "-c", "--candidates", help="option to make ballots.", type=str, default=""
     )
 
     parser.add_argument(

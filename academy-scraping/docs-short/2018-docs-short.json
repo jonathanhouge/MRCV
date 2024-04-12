@@ -1,6 +1,7 @@
 [
   {
     "Film_title": "Souvenir",
+    "url": "https://letterboxd.com/film/souvenir-2018/",
     "Average_rating": 3.76,
     "Owner_rating": null,
     "Runtime": 8,
@@ -24,6 +25,7 @@
   },
   {
     "Film_title": "Norman Norman",
+    "url": "https://letterboxd.com/film/norman-norman/",
     "Average_rating": 3.48,
     "Owner_rating": null,
     "Runtime": 8,
@@ -47,6 +49,7 @@
   },
   {
     "Film_title": "Art of Style: Jean Cocteau",
+    "url": "https://letterboxd.com/film/art-of-style-jean-cocteau/",
     "Average_rating": 3.84,
     "Owner_rating": null,
     "Runtime": 10,
@@ -70,6 +73,7 @@
   },
   {
     "Film_title": "Zion",
+    "url": "https://letterboxd.com/film/zion-2018/",
     "Average_rating": 3.44,
     "Owner_rating": null,
     "Runtime": 10,
@@ -93,6 +97,7 @@
   },
   {
     "Film_title": "All Inclusive",
+    "url": "https://letterboxd.com/film/all-inclusive-2018/",
     "Average_rating": 3.44,
     "Owner_rating": null,
     "Runtime": 10,
@@ -116,6 +121,7 @@
   },
   {
     "Film_title": "Warp Speed Chic",
+    "url": "https://letterboxd.com/film/warp-speed-chic/",
     "Average_rating": 4.23,
     "Owner_rating": null,
     "Runtime": 12,
@@ -139,6 +145,7 @@
   },
   {
     "Film_title": "Vever (For Barbara)",
+    "url": "https://letterboxd.com/film/vever-for-barbara/",
     "Average_rating": 3.31,
     "Owner_rating": null,
     "Runtime": 12,
@@ -162,6 +169,7 @@
   },
   {
     "Film_title": "Tungrus",
+    "url": "https://letterboxd.com/film/tungrus/",
     "Average_rating": 3.68,
     "Owner_rating": null,
     "Runtime": 13,
@@ -185,6 +193,7 @@
   },
   {
     "Film_title": "My Dead Dad's Porno Tapes",
+    "url": "https://letterboxd.com/film/my-dead-dads-porno-tapes/",
     "Average_rating": 3.87,
     "Owner_rating": null,
     "Runtime": 14,
@@ -208,6 +217,7 @@
   },
   {
     "Film_title": "Altiplano",
+    "url": "https://letterboxd.com/film/altiplano-2018/",
     "Average_rating": 3.67,
     "Owner_rating": null,
     "Runtime": 16,
@@ -231,6 +241,7 @@
   },
   {
     "Film_title": "Little Miss Sumo",
+    "url": "https://letterboxd.com/film/little-miss-sumo/",
     "Average_rating": 3.38,
     "Owner_rating": null,
     "Runtime": 18,
@@ -254,6 +265,7 @@
   },
   {
     "Film_title": "Last Year When the Train Passed By",
+    "url": "https://letterboxd.com/film/last-year-when-the-train-passed-by/",
     "Average_rating": 3.54,
     "Owner_rating": null,
     "Runtime": 18,
@@ -277,6 +289,7 @@
   },
   {
     "Film_title": "The Trader",
+    "url": "https://letterboxd.com/film/the-trader/",
     "Average_rating": 3.32,
     "Owner_rating": null,
     "Runtime": 23,
@@ -300,6 +313,7 @@
   },
   {
     "Film_title": "Lessons from a School Shooting: Notes from Dunblane",
+    "url": "https://letterboxd.com/film/lessons-from-a-school-shooting-notes-from-dunblane/",
     "Average_rating": 3.3,
     "Owner_rating": null,
     "Runtime": 23,
@@ -323,6 +337,7 @@
   },
   {
     "Film_title": "Period. End of Sentence.",
+    "url": "https://letterboxd.com/film/period-end-of-sentence/",
     "Average_rating": 3.8,
     "Owner_rating": null,
     "Runtime": 26,
@@ -346,6 +361,7 @@
   },
   {
     "Film_title": "Black Sheep",
+    "url": "https://letterboxd.com/film/black-sheep-2018/",
     "Average_rating": 3.65,
     "Owner_rating": null,
     "Runtime": 27,
@@ -369,6 +385,7 @@
   },
   {
     "Film_title": "A 3 Minute Hug",
+    "url": "https://letterboxd.com/film/a-3-minute-hug/",
     "Average_rating": 3.41,
     "Owner_rating": null,
     "Runtime": 28,
@@ -392,6 +409,7 @@
   },
   {
     "Film_title": "In the Absence",
+    "url": "https://letterboxd.com/film/in-the-absence/",
     "Average_rating": 3.9,
     "Owner_rating": null,
     "Runtime": 29,
@@ -415,6 +433,7 @@
   },
   {
     "Film_title": "Detainment",
+    "url": "https://letterboxd.com/film/detainment/",
     "Average_rating": 2.8,
     "Owner_rating": null,
     "Runtime": 30,
@@ -438,6 +457,7 @@
   },
   {
     "Film_title": "The Road to Stardom: The Making of A Star is Born",
+    "url": "https://letterboxd.com/film/the-road-to-stardom-the-making-of-a-star-is-born/",
     "Average_rating": 3.55,
     "Owner_rating": null,
     "Runtime": 30,
@@ -461,6 +481,7 @@
   },
   {
     "Film_title": "Gulyabani",
+    "url": "https://letterboxd.com/film/gulyabani-2018/",
     "Average_rating": 3.5,
     "Owner_rating": null,
     "Runtime": 32,
@@ -484,6 +505,7 @@
   },
   {
     "Film_title": "Lifeboat",
+    "url": "https://letterboxd.com/film/lifeboat-2018/",
     "Average_rating": 3.36,
     "Owner_rating": null,
     "Runtime": 34,
@@ -507,6 +529,7 @@
   },
   {
     "Film_title": "Now, at Last!",
+    "url": "https://letterboxd.com/film/now-at-last/",
     "Average_rating": 3.36,
     "Owner_rating": null,
     "Runtime": 38,
@@ -530,6 +553,7 @@
   },
   {
     "Film_title": "End Game",
+    "url": "https://letterboxd.com/film/end-game-2018/",
     "Average_rating": 3.44,
     "Owner_rating": null,
     "Runtime": 40,
@@ -553,6 +577,7 @@
   },
   {
     "Film_title": "Pandas",
+    "url": "https://letterboxd.com/film/pandas-2018/",
     "Average_rating": 3.44,
     "Owner_rating": null,
     "Runtime": 40,

@@ -8,7 +8,7 @@ import re
 _domain = "https://letterboxd.com/"
 
 
-def scrape_list(list_url, page_options, quiet=False, concat=False, reviews=False):
+def scrape_list(list_url, page_options, quiet=False, concat=False, watched=False):
     """
     Scrapes a Letterboxd list. Takes into account any optional page selection.
 
@@ -27,7 +27,9 @@ def scrape_list(list_url, page_options, quiet=False, concat=False, reviews=False
     # If all pages should be scraped, go through all available pages
     if (page_options == []) or (page_options == "*"):
         while True:
-            page_films, page_soup = scrape_page(list_url, list_url, quiet, concat, reviews)
+            page_films, page_soup = scrape_page(
+                list_url, list_url, quiet, concat, watched
+            )
             list_films.extend(page_films)
 
             # Check if there is another page of ratings and if yes, continue to that page
@@ -42,7 +44,9 @@ def scrape_list(list_url, page_options, quiet=False, concat=False, reviews=False
         for p in page_options:
             new_link = list_url + f"page/{p}/"
             try:
-                page_films, page_soup = scrape_page(new_link, list_url, quiet, concat, reviews)
+                page_films, page_soup = scrape_page(
+                    new_link, list_url, quiet, concat, watched
+                )
                 list_films.extend(page_films)
             except:
                 print(f"        No films on page {p}...")
@@ -51,7 +55,7 @@ def scrape_list(list_url, page_options, quiet=False, concat=False, reviews=False
     return list_films
 
 
-def scrape_page(list_url, og_list_url, quiet=False, concat=False, reviews=False):
+def scrape_page(list_url, og_list_url, quiet=False, concat=False, watched=False):
     """
     Scrapes the page of a LB list URL, finds all its films and iterates over each film URL
     to find the relevant information.
@@ -77,14 +81,14 @@ def scrape_page(list_url, og_list_url, quiet=False, concat=False, reviews=False)
     page_soup = BeautifulSoup(page_response.content, "lxml")
 
     # get reviewers
-    if reviews:
-        page = page_soup.find("section", class_="viewings-list")
-        reviews = page.find_all("li", class_="film-detail")
+    if watched:
+        watchers_table = page_soup.find("table", class_="person-table film-table")
+        watchers_soup = watchers_table.find_all("td", class_="table-person")
 
-        for review in reviews if quiet else tqdm(reviews):
-            reviewer_soup = review.find("a", class_="context")["href"]
-            reviewer = reviewer_soup.split("/")[1]
-            page_films.append(reviewer)
+        for watcher_soup in watchers_soup if quiet else tqdm(watchers_soup):
+            user_link = watcher_soup.find("a", class_="name")["href"]
+            watcher = user_link.split("/")[1]
+            page_films.append(watcher)
 
     else:
         # Grab the main film grid
@@ -128,6 +132,7 @@ def scrape_film(film_html):
 
     # Finding the film name
     film_dict["Film_title"] = film_soup.find("div", {"class": "col-17"}).find("h1").text
+    film_dict["url"] = film_url
 
     # Finding average rating, if not found insert a nan
     try:
@@ -163,9 +168,14 @@ def scrape_film(film_html):
         film_dict["Runtime"] = None
 
     # MOVIE SPECIFIC running time
-    # for short films: film_dict["Runtime"] > 40 or film_dict["Runtime"] < 7
-    # for other films:
-    if film_dict["Runtime"] is None or film_dict["Runtime"] > 40 or film_dict["Runtime"] < 7:
+    # for docs shorts: film_dict["Runtime"] > 40 or film_dict["Runtime"] < 7
+    # for animated shorts: film_dict["Runtime"] > 40 or film_dict["Runtime"] < 3
+    # for feature films: film_dict["Runtime"] < 60 or film_dict["Runtime"] > 240
+    if (
+        film_dict["Runtime"] is None
+        or film_dict["Runtime"] > 40
+        or film_dict["Runtime"] < 3
+    ):
         return None
 
     # Finding countries
@@ -210,7 +220,7 @@ def scrape_film(film_html):
     watches = re.findall(r"\d+", watches)  # Find the number from string
     film_dict["Watches"] = int("".join(watches))  # Filter out commas from large numbers
 
-    # MOVIE SPECIFIC for number of watchers 
+    # MOVIE SPECIFIC for number of watchers
     # 1000 for shorts
     # 2500 for docs
     if film_dict["Watches"] is None or film_dict["Watches"] < 1000:

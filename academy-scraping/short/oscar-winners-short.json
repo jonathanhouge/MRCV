@@ -1,0 +1,117 @@
+[
+  {
+    "year": 2013,
+    "nominees": [
+      "Aquel No Era Yo (That Wasn't Me)",
+      "Avant Que De Tout Perdre (Just Before Losing Everything)",
+      "Helium",
+      "Pitääkö Mun Kaikki Hoitaa? (Do I Have to Take Care of Everything?)",
+      "The Voorman Problem"
+    ],
+    "winner": "Helium"
+  },
+  {
+    "year": 2014,
+    "nominees": [
+      "Aya",
+      "Boogaloo and Graham",
+      "Butter Lamp (La Lampe Au Beurre De Yak)",
+      "Parvaneh",
+      "The Phone Call"
+    ],
+    "winner": "The Phone Call"
+  },
+  {
+    "year": 2015,
+    "nominees": [
+      "Ave Maria",
+      "Day One",
+      "Everything Will Be Okay (Alles Wird Gut)",
+      "Shok",
+      "Stutterer"
+    ],
+    "winner": "Stutterer"
+  },
+  {
+    "year": 2016,
+    "nominees": [
+      "Ennemis Intérieurs",
+      "La Femme et le TGV",
+      "Silent Nights",
+      "Sing (Mindenki)",
+      "Timecode"
+    ],
+    "winner": "Sing (Mindenki)"
+  },
+  {
+    "year": 2017,
+    "nominees": [
+      "DeKalb Elementary",
+      "The Eleven O'Clock",
+      "My Nephew Emmett",
+      "The Silent Child",
+      "Watu Wote/All of Us"
+    ],
+    "winner": "The Silent Child"
+  },
+  {
+    "year": 2018,
+    "nominees": ["Detainment", "Fauve", "Marguerite", "Mother", "Skin"],
+    "winner": "Skin"
+  },
+  {
+    "year": 2019,
+    "nominees": [
+      "Brotherhood",
+      "Nefta Football Club",
+      "The Neighbors' Window",
+      "Saria",
+      "A Sister"
+    ],
+    "winner": "The Neighbors' Window"
+  },
+  {
+    "year": 2020,
+    "nominees": [
+      "Feeling Through",
+      "The Letter Room",
+      "The Present",
+      "Two Distant Strangers",
+      "White Eye"
+    ],
+    "winner": "Two Distant Strangers"
+  },
+  {
+    "year": 2021,
+    "nominees": [
+      "The Dress",
+      "The Long Goodbye",
+      "On My Mind",
+      "Please Hold",
+      "Ala Kachuu - Take and Run"
+    ],
+    "winner": "The Long Goodbye"
+  },
+  {
+    "year": 2022,
+    "nominees": [
+      "An Irish Goodbye",
+      "Ivalu",
+      "Le pupille",
+      "Night Ride",
+      "The Red Suitcase"
+    ],
+    "winner": "An Irish Goodbye"
+  },
+  {
+    "year": 2023,
+    "nominees": [
+      "The Wonderful Story of Henry Sugar",
+      "The After",
+      "Invincible",
+      "Knight of Fortune",
+      "Red, White and Blue"
+    ],
+    "winner": "The Wonderful Story of Henry Sugar"
+  }
+]

@@ -1,6 +1,7 @@
 [
   {
     "Film_title": "Four Roads",
+    "url": "https://letterboxd.com/film/four-roads/",
     "Average_rating": 3.62,
     "Owner_rating": null,
     "Runtime": 8,
@@ -24,6 +25,7 @@
   },
   {
     "Film_title": "The Hand of God: Through the Eyes of Sorrentino",
+    "url": "https://letterboxd.com/film/the-hand-of-god-through-the-eyes-of-sorrentino/",
     "Average_rating": 3.38,
     "Owner_rating": null,
     "Runtime": 8,
@@ -47,6 +49,7 @@
   },
   {
     "Film_title": "On Memory",
+    "url": "https://letterboxd.com/film/on-memory-2021/",
     "Average_rating": 3.82,
     "Owner_rating": null,
     "Runtime": 9,
@@ -70,6 +73,7 @@
   },
   {
     "Film_title": "The Legacy of Chucky",
+    "url": "https://letterboxd.com/film/the-legacy-of-chucky/",
     "Average_rating": 3.56,
     "Owner_rating": null,
     "Runtime": 10,
@@ -93,6 +97,7 @@
   },
   {
     "Film_title": "Fire in My Belly",
+    "url": "https://letterboxd.com/film/fire-in-my-belly/",
     "Average_rating": 2.95,
     "Owner_rating": null,
     "Runtime": 11,
@@ -116,6 +121,7 @@
   },
   {
     "Film_title": "Love, Dad",
+    "url": "https://letterboxd.com/film/love-dad/",
     "Average_rating": 3.78,
     "Owner_rating": null,
     "Runtime": 12,
@@ -139,6 +145,7 @@
   },
   {
     "Film_title": "Our Ark",
+    "url": "https://letterboxd.com/film/our-ark/",
     "Average_rating": 3.34,
     "Owner_rating": null,
     "Runtime": 12,
@@ -162,6 +169,7 @@
   },
   {
     "Film_title": "Granny's Sexual Life",
+    "url": "https://letterboxd.com/film/grannys-sexual-life/",
     "Average_rating": 3.55,
     "Owner_rating": null,
     "Runtime": 13,
@@ -185,6 +193,7 @@
   },
   {
     "Film_title": "Creating The Queen's Gambit",
+    "url": "https://letterboxd.com/film/creating-the-queens-gambit/",
     "Average_rating": 3.7,
     "Owner_rating": null,
     "Runtime": 14,
@@ -208,6 +217,7 @@
   },
   {
     "Film_title": "Marvel Studios' 2021 Disney+ Day Special",
+    "url": "https://letterboxd.com/film/marvel-studios-2021-disney-day-special/",
     "Average_rating": 3.2,
     "Owner_rating": null,
     "Runtime": 14,
@@ -231,6 +241,7 @@
   },
   {
     "Film_title": "Nuisance Bear",
+    "url": "https://letterboxd.com/film/nuisance-bear/",
     "Average_rating": 3.43,
     "Owner_rating": null,
     "Runtime": 15,
@@ -254,6 +265,7 @@
   },
   {
     "Film_title": "Citadel",
+    "url": "https://letterboxd.com/film/citadel-2021/",
     "Average_rating": 3.04,
     "Owner_rating": null,
     "Runtime": 16,
@@ -277,6 +289,7 @@
   },
   {
     "Film_title": "Squish!",
+    "url": "https://letterboxd.com/film/film:761014/",
     "Average_rating": 2.88,
     "Owner_rating": null,
     "Runtime": 17,
@@ -300,6 +313,7 @@
   },
   {
     "Film_title": "Star Wars Biomes",
+    "url": "https://letterboxd.com/film/star-wars-biomes/",
     "Average_rating": 3.29,
     "Owner_rating": null,
     "Runtime": 18,
@@ -323,6 +337,7 @@
   },
   {
     "Film_title": "Glass Life",
+    "url": "https://letterboxd.com/film/glass-life/",
     "Average_rating": 3.1,
     "Owner_rating": null,
     "Runtime": 19,
@@ -346,6 +361,7 @@
   },
   {
     "Film_title": "The Night",
+    "url": "https://letterboxd.com/film/the-night-2021-3/",
     "Average_rating": 3.19,
     "Owner_rating": null,
     "Runtime": 20,
@@ -369,6 +385,7 @@
   },
   {
     "Film_title": "Train Again",
+    "url": "https://letterboxd.com/film/train-again/",
     "Average_rating": 3.62,
     "Owner_rating": null,
     "Runtime": 20,
@@ -392,6 +409,7 @@
   },
   {
     "Film_title": "Under the Helmet: The Legacy of Boba Fett",
+    "url": "https://letterboxd.com/film/under-the-helmet-the-legacy-of-boba-fett/",
     "Average_rating": 3.34,
     "Owner_rating": null,
     "Runtime": 21,
@@ -415,6 +433,7 @@
   },
   {
     "Film_title": "Chadwick Boseman: Portrait of an Artist",
+    "url": "https://letterboxd.com/film/chadwick-boseman-portrait-of-an-artist/",
     "Average_rating": 3.56,
     "Owner_rating": null,
     "Runtime": 21,
@@ -438,6 +457,7 @@
   },
   {
     "Film_title": "Three Songs for Benazir",
+    "url": "https://letterboxd.com/film/three-songs-for-benazir/",
     "Average_rating": 3.15,
     "Owner_rating": null,
     "Runtime": 22,
@@ -461,6 +481,7 @@
   },
   {
     "Film_title": "The Queen of Basketball",
+    "url": "https://letterboxd.com/film/the-queen-of-basketball/",
     "Average_rating": 3.68,
     "Owner_rating": null,
     "Runtime": 22,
@@ -484,6 +505,7 @@
   },
   {
     "Film_title": "New York City Ballet",
+    "url": "https://letterboxd.com/film/new-york-city-ballet/",
     "Average_rating": 3.48,
     "Owner_rating": null,
     "Runtime": 26,
@@ -507,6 +529,7 @@
   },
   {
     "Film_title": "One-Tenth of a Millimeter Apart",
+    "url": "https://letterboxd.com/film/one-tenth-of-a-millimeter-apart/",
     "Average_rating": 3.73,
     "Owner_rating": null,
     "Runtime": 27,
@@ -530,6 +553,7 @@
   },
   {
     "Film_title": "Creating an Army of the Dead",
+    "url": "https://letterboxd.com/film/creating-an-army-of-the-dead/",
     "Average_rating": 3.23,
     "Owner_rating": null,
     "Runtime": 28,
@@ -553,6 +577,7 @@
   },
   {
     "Film_title": "How Do You Measure a Year?",
+    "url": "https://letterboxd.com/film/how-do-you-measure-a-year/",
     "Average_rating": 3.27,
     "Owner_rating": null,
     "Runtime": 29,
@@ -576,6 +601,7 @@
   },
   {
     "Film_title": "The Making of Happier Than Ever: A Love Letter to Los Angeles",
+    "url": "https://letterboxd.com/film/the-making-of-happier-than-ever-a-love-letter-to-los-angeles/",
     "Average_rating": 3.68,
     "Owner_rating": null,
     "Runtime": 30,
@@ -599,6 +625,7 @@
   },
   {
     "Film_title": "What Would Sophia Loren Do?",
+    "url": "https://letterboxd.com/film/what-would-sophia-loren-do/",
     "Average_rating": 3.31,
     "Owner_rating": null,
     "Runtime": 33,
@@ -622,6 +649,7 @@
   },
   {
     "Film_title": "Don't Go Tellin' Your Momma",
+    "url": "https://letterboxd.com/film/dont-go-tellin-your-momma/",
     "Average_rating": 3.9,
     "Owner_rating": null,
     "Runtime": 34,
@@ -645,6 +673,7 @@
   },
   {
     "Film_title": "Camp Confidential: America's Secret Nazis",
+    "url": "https://letterboxd.com/film/camp-confidential-americas-secret-nazis/",
     "Average_rating": 3.39,
     "Owner_rating": null,
     "Runtime": 34,
@@ -668,6 +697,7 @@
   },
   {
     "Film_title": "When We Were Bullies",
+    "url": "https://letterboxd.com/film/when-we-were-bullies/",
     "Average_rating": 2.19,
     "Owner_rating": null,
     "Runtime": 36,
@@ -691,6 +721,7 @@
   },
   {
     "Film_title": "North Terminal",
+    "url": "https://letterboxd.com/film/north-terminal/",
     "Average_rating": 3.22,
     "Owner_rating": null,
     "Runtime": 37,
@@ -714,6 +745,7 @@
   },
   {
     "Film_title": "Making The Witcher: Season 2",
+    "url": "https://letterboxd.com/film/making-the-witcher-season-2/",
     "Average_rating": 3.48,
     "Owner_rating": null,
     "Runtime": 37,
@@ -737,6 +769,7 @@
   },
   {
     "Film_title": "Audible",
+    "url": "https://letterboxd.com/film/audible/",
     "Average_rating": 3.52,
     "Owner_rating": null,
     "Runtime": 39,
@@ -760,6 +793,7 @@
   },
   {
     "Film_title": "Lead Me Home",
+    "url": "https://letterboxd.com/film/lead-me-home-2021/",
     "Average_rating": 2.89,
     "Owner_rating": null,
     "Runtime": 40,
@@ -783,6 +817,7 @@
   },
   {
     "Film_title": "The Last Cruise",
+    "url": "https://letterboxd.com/film/the-last-cruise-2021/",
     "Average_rating": 3.05,
     "Owner_rating": null,
     "Runtime": 40,
@@ -806,6 +841,7 @@
   },
   {
     "Film_title": "Catwoman: The Feline Femme Fatale",
+    "url": "https://letterboxd.com/film/catwoman-the-feline-femme-fatale/",
     "Average_rating": 3.32,
     "Owner_rating": null,
     "Runtime": 40,
@@ -829,6 +865,7 @@
   },
   {
     "Film_title": "Savage X Fenty Show Vol. 3",
+    "url": "https://letterboxd.com/film/savage-x-fenty-show-vol-3/",
     "Average_rating": 3.63,
     "Owner_rating": null,
     "Runtime": 40,

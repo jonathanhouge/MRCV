@@ -1,6 +1,7 @@
 [
   {
     "Film_title": "Andor: A Disney+ Day Special Look",
+    "url": "https://letterboxd.com/film/andor-a-disney-day-special-look/",
     "Average_rating": 4.22,
     "Owner_rating": null,
     "Runtime": 10,
@@ -23,7 +24,8 @@
     "Total_ratings": 8448
   },
   {
-    "Film_title": "You’ve Never Been Completely Honest",
+    "Film_title": "You've Never Been Completely Honest",
+    "url": "https://letterboxd.com/film/youve-never-been-completely-honest/",
     "Average_rating": 3.62,
     "Owner_rating": null,
     "Runtime": 11,
@@ -47,6 +49,7 @@
   },
   {
     "Film_title": "Flora",
+    "url": "https://letterboxd.com/film/flora-2022/",
     "Average_rating": 3.41,
     "Owner_rating": null,
     "Runtime": 11,
@@ -70,6 +73,7 @@
   },
   {
     "Film_title": "Oasis",
+    "url": "https://letterboxd.com/film/oasis-2022/",
     "Average_rating": 3.54,
     "Owner_rating": null,
     "Runtime": 12,
@@ -93,6 +97,7 @@
   },
   {
     "Film_title": "The Garbage Man",
+    "url": "https://letterboxd.com/film/the-garbage-man-2022/",
     "Average_rating": 3.45,
     "Owner_rating": null,
     "Runtime": 12,
@@ -116,6 +121,7 @@
   },
   {
     "Film_title": "Aphotic Zone",
+    "url": "https://letterboxd.com/film/aphotic-zone/",
     "Average_rating": 3.24,
     "Owner_rating": null,
     "Runtime": 16,
@@ -139,6 +145,7 @@
   },
   {
     "Film_title": "Behind the Scenes With Jane Campion",
+    "url": "https://letterboxd.com/film/behind-the-scenes-with-jane-campion/",
     "Average_rating": 3.46,
     "Owner_rating": null,
     "Runtime": 17,
@@ -162,6 +169,7 @@
   },
   {
     "Film_title": "Jill, Uncredited",
+    "url": "https://letterboxd.com/film/jill-uncredited/",
     "Average_rating": 3.68,
     "Owner_rating": null,
     "Runtime": 18,
@@ -185,6 +193,7 @@
   },
   {
     "Film_title": "Making All Quiet on the Western Front",
+    "url": "https://letterboxd.com/film/making-all-quiet-on-the-western-front/",
     "Average_rating": 3.55,
     "Owner_rating": null,
     "Runtime": 18,
@@ -208,6 +217,7 @@
   },
   {
     "Film_title": "There's No End",
+    "url": "https://letterboxd.com/film/theres-no-end/",
     "Average_rating": 3.88,
     "Owner_rating": null,
     "Runtime": 19,
@@ -231,6 +241,7 @@
   },
   {
     "Film_title": "Will You Look at Me",
+    "url": "https://letterboxd.com/film/will-you-look-at-me/",
     "Average_rating": 3.75,
     "Owner_rating": null,
     "Runtime": 21,
@@ -254,6 +265,7 @@
   },
   {
     "Film_title": "Haulout",
+    "url": "https://letterboxd.com/film/haulout/",
     "Average_rating": 3.63,
     "Owner_rating": null,
     "Runtime": 25,
@@ -277,6 +289,7 @@
   },
   {
     "Film_title": "James Corden's Top Gun Training with Tom Cruise",
+    "url": "https://letterboxd.com/film/james-cordens-top-gun-training-with-tom-cruise/",
     "Average_rating": 3.38,
     "Owner_rating": null,
     "Runtime": 27,
@@ -300,6 +313,7 @@
   },
   {
     "Film_title": "Honoring a Broadway Legacy: Behind the Scenes of tick, tick...Boom!",
+    "url": "https://letterboxd.com/film/honoring-a-broadway-legacy-behind-the-scenes-of-tick-tickboom/",
     "Average_rating": 3.81,
     "Owner_rating": null,
     "Runtime": 28,
@@ -323,6 +337,7 @@
   },
   {
     "Film_title": "Stranger at the Gate",
+    "url": "https://letterboxd.com/film/stranger-at-the-gate/",
     "Average_rating": 2.61,
     "Owner_rating": null,
     "Runtime": 30,
@@ -346,6 +361,7 @@
   },
   {
     "Film_title": "Spider-Man: All Roads Lead to No Way Home",
+    "url": "https://letterboxd.com/film/spider-man-all-roads-lead-to-no-way-home/",
     "Average_rating": 3.32,
     "Owner_rating": null,
     "Runtime": 30,
@@ -369,6 +385,7 @@
   },
   {
     "Film_title": "Aribada",
+    "url": "https://letterboxd.com/film/aribada/",
     "Average_rating": 3.24,
     "Owner_rating": null,
     "Runtime": 30,
@@ -392,6 +409,7 @@
   },
   {
     "Film_title": "Just Love and a Thousand Songs",
+    "url": "https://letterboxd.com/film/just-love-and-a-thousand-songs/",
     "Average_rating": 3.73,
     "Owner_rating": null,
     "Runtime": 30,
@@ -415,6 +433,7 @@
   },
   {
     "Film_title": "A Farewell to Ozark",
+    "url": "https://letterboxd.com/film/a-farewell-to-ozark/",
     "Average_rating": 3.98,
     "Owner_rating": null,
     "Runtime": 31,
@@ -438,6 +457,7 @@
   },
   {
     "Film_title": "The Weeknd x The Dawn FM Experience",
+    "url": "https://letterboxd.com/film/the-weeknd-x-the-dawn-fm-experience/",
     "Average_rating": 4.0,
     "Owner_rating": null,
     "Runtime": 34,
@@ -461,6 +481,7 @@
   },
   {
     "Film_title": "Beyond Infinity: Buzz and the Journey to Lightyear",
+    "url": "https://letterboxd.com/film/beyond-infinity-buzz-and-the-journey-to-lightyear/",
     "Average_rating": 3.29,
     "Owner_rating": null,
     "Runtime": 35,
@@ -484,6 +505,7 @@
   },
   {
     "Film_title": "How to score 10 runs in the first inning and lose",
+    "url": "https://letterboxd.com/film/how-to-score-10-runs-in-the-first-inning-and-lose/",
     "Average_rating": 3.71,
     "Owner_rating": null,
     "Runtime": 36,
@@ -507,6 +529,7 @@
   },
   {
     "Film_title": "Guillermo del Toro's Pinocchio: Handcarved Cinema",
+    "url": "https://letterboxd.com/film/guillermo-del-toros-pinocchio-handcarved-cinema/",
     "Average_rating": 3.94,
     "Owner_rating": null,
     "Runtime": 37,
@@ -530,6 +553,7 @@
   },
   {
     "Film_title": "38 at the Garden",
+    "url": "https://letterboxd.com/film/38-at-the-garden/",
     "Average_rating": 3.28,
     "Owner_rating": null,
     "Runtime": 38,
@@ -553,6 +577,7 @@
   },
   {
     "Film_title": "Avatar: The Deep Dive - A Special Edition of 20/20",
+    "url": "https://letterboxd.com/film/avatar-the-deep-dive-a-special-edition-of-20-20/",
     "Average_rating": 3.2,
     "Owner_rating": null,
     "Runtime": 38,
@@ -576,6 +601,7 @@
   },
   {
     "Film_title": "Athena: The Making Of",
+    "url": "https://letterboxd.com/film/athena-the-making-of/",
     "Average_rating": 3.66,
     "Owner_rating": null,
     "Runtime": 38,
@@ -599,6 +625,7 @@
   },
   {
     "Film_title": "The Mechanics of Fluids",
+    "url": "https://letterboxd.com/film/the-mechanics-of-fluids/",
     "Average_rating": 3.53,
     "Owner_rating": null,
     "Runtime": 39,
@@ -622,6 +649,7 @@
   },
   {
     "Film_title": "The Elephant Whisperers",
+    "url": "https://letterboxd.com/film/the-elephant-whisperers/",
     "Average_rating": 3.74,
     "Owner_rating": null,
     "Runtime": 40,
@@ -645,6 +673,7 @@
   },
   {
     "Film_title": "The Martha Mitchell Effect",
+    "url": "https://letterboxd.com/film/the-martha-mitchell-effect/",
     "Average_rating": 3.21,
     "Owner_rating": null,
     "Runtime": 40,
@@ -668,6 +697,7 @@
   },
   {
     "Film_title": "Dave Chappelle: What's in a Name?",
+    "url": "https://letterboxd.com/film/dave-chappelle-whats-in-a-name/",
     "Average_rating": 3.35,
     "Owner_rating": null,
     "Runtime": 40,
@@ -691,6 +721,7 @@
   },
   {
     "Film_title": "Hold Your Breath: The Ice Dive",
+    "url": "https://letterboxd.com/film/hold-your-breath-the-ice-dive/",
     "Average_rating": 3.28,
     "Owner_rating": null,
     "Runtime": 40,
@@ -714,6 +745,7 @@
   },
   {
     "Film_title": "State of Alabama vs. Brittany Smith",
+    "url": "https://letterboxd.com/film/state-of-alabama-vs-brittany-smith/",
     "Average_rating": 3.11,
     "Owner_rating": null,
     "Runtime": 40,

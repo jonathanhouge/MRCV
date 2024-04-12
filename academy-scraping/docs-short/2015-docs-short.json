@@ -1,6 +1,7 @@
 [
   {
     "Film_title": "Quay",
+    "url": "https://letterboxd.com/film/quay-2015/",
     "Average_rating": 2.91,
     "Owner_rating": null,
     "Runtime": 8,
@@ -24,6 +25,7 @@
   },
   {
     "Film_title": "Copycat",
+    "url": "https://letterboxd.com/film/copycat-2015/",
     "Average_rating": 2.96,
     "Owner_rating": null,
     "Runtime": 8,
@@ -47,6 +49,7 @@
   },
   {
     "Film_title": "The Above",
+    "url": "https://letterboxd.com/film/the-above/",
     "Average_rating": 3.64,
     "Owner_rating": null,
     "Runtime": 8,
@@ -70,6 +73,7 @@
   },
   {
     "Film_title": "Jáaji Approx.",
+    "url": "https://letterboxd.com/film/jaaji-approx/",
     "Average_rating": 3.53,
     "Owner_rating": null,
     "Runtime": 8,
@@ -93,6 +97,7 @@
   },
   {
     "Film_title": "Alone in the Woods: The Legend of Cambo",
+    "url": "https://letterboxd.com/film/alone-in-the-woods-the-legend-of-cambo/",
     "Average_rating": 3.47,
     "Owner_rating": null,
     "Runtime": 10,
@@ -116,6 +121,7 @@
   },
   {
     "Film_title": "Birdman",
+    "url": "https://letterboxd.com/film/birdman/",
     "Average_rating": 3.71,
     "Owner_rating": null,
     "Runtime": 13,
@@ -139,6 +145,7 @@
   },
   {
     "Film_title": "American Reflexxx",
+    "url": "https://letterboxd.com/film/american-reflexxx/",
     "Average_rating": 3.83,
     "Owner_rating": null,
     "Runtime": 14,
@@ -162,6 +169,7 @@
   },
   {
     "Film_title": "Hi, How Are You Daniel Johnston?",
+    "url": "https://letterboxd.com/film/hi-how-are-you-daniel-johnston/",
     "Average_rating": 4.07,
     "Owner_rating": null,
     "Runtime": 15,
@@ -185,6 +193,7 @@
   },
   {
     "Film_title": "A Century of Energy",
+    "url": "https://letterboxd.com/film/a-century-of-energy/",
     "Average_rating": 3.65,
     "Owner_rating": null,
     "Runtime": 15,
@@ -208,6 +217,7 @@
   },
   {
     "Film_title": "Wrestling Isn't Wrestling",
+    "url": "https://letterboxd.com/film/wrestling-isnt-wrestling/",
     "Average_rating": 3.6,
     "Owner_rating": null,
     "Runtime": 24,
@@ -231,6 +241,7 @@
   },
   {
     "Film_title": "Who Killed Eloá?",
+    "url": "https://letterboxd.com/film/who-killed-eloa/",
     "Average_rating": 3.86,
     "Owner_rating": null,
     "Runtime": 24,
@@ -254,6 +265,7 @@
   },
   {
     "Film_title": "Sense8: Creating the World",
+    "url": "https://letterboxd.com/film/sense8-creating-the-world/",
     "Average_rating": 3.95,
     "Owner_rating": null,
     "Runtime": 25,
@@ -277,6 +289,7 @@
   },
   {
     "Film_title": "Game of Thrones: A Day in the Life",
+    "url": "https://letterboxd.com/film/game-of-thrones-a-day-in-the-life/",
     "Average_rating": 3.76,
     "Owner_rating": null,
     "Runtime": 26,
@@ -300,6 +313,7 @@
   },
   {
     "Film_title": "Maximum Fury: Filming 'Fury Road'",
+    "url": "https://letterboxd.com/film/maximum-fury-filming-fury-road/",
     "Average_rating": 3.56,
     "Owner_rating": null,
     "Runtime": 29,
@@ -323,6 +337,7 @@
   },
   {
     "Film_title": "One Soldier's Story: The Journey of American Sniper",
+    "url": "https://letterboxd.com/film/one-soldiers-story-the-journey-of-american-sniper/",
     "Average_rating": 3.35,
     "Owner_rating": null,
     "Runtime": 30,
