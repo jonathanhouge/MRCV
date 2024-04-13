@@ -181,7 +181,7 @@ def scrape_film(film_html, looking_for=[]):
         film_dict["Runtime"] = None
 
     # MOVIE SPECIFIC running time
-    # for docs shorts: film_dict["Runtime"] > 40 or film_dict["Runtime"] < 7
+    # for docs and live action shorts: film_dict["Runtime"] > 40 or film_dict["Runtime"] < 7
     # for animated shorts: film_dict["Runtime"] > 40 or film_dict["Runtime"] < 3
     # for feature films: film_dict["Runtime"] < 60 or film_dict["Runtime"] > 240
     if (
