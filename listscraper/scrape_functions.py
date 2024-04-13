@@ -8,7 +8,9 @@ import re
 _domain = "https://letterboxd.com/"
 
 
-def scrape_list(list_url, page_options, quiet=False, concat=False, watched=False):
+def scrape_list(
+    list_url, page_options, quiet=False, concat=False, watched=False, looking_for=[]
+):
     """
     Scrapes a Letterboxd list. Takes into account any optional page selection.
 
@@ -28,7 +30,7 @@ def scrape_list(list_url, page_options, quiet=False, concat=False, watched=False
     if (page_options == []) or (page_options == "*"):
         while True:
             page_films, page_soup = scrape_page(
-                list_url, list_url, quiet, concat, watched
+                list_url, list_url, quiet, concat, watched, looking_for
             )
             list_films.extend(page_films)
 
@@ -45,7 +47,7 @@ def scrape_list(list_url, page_options, quiet=False, concat=False, watched=False
             new_link = list_url + f"page/{p}/"
             try:
                 page_films, page_soup = scrape_page(
-                    new_link, list_url, quiet, concat, watched
+                    new_link, list_url, quiet, concat, watched, looking_for
                 )
                 list_films.extend(page_films)
             except:
@@ -55,7 +57,9 @@ def scrape_list(list_url, page_options, quiet=False, concat=False, watched=False
     return list_films
 
 
-def scrape_page(list_url, og_list_url, quiet=False, concat=False, watched=False):
+def scrape_page(
+    list_url, og_list_url, quiet=False, concat=False, watched=False, looking_for=[]
+):
     """
     Scrapes the page of a LB list URL, finds all its films and iterates over each film URL
     to find the relevant information.
@@ -80,7 +84,7 @@ def scrape_page(list_url, og_list_url, quiet=False, concat=False, watched=False)
 
     page_soup = BeautifulSoup(page_response.content, "lxml")
 
-    # get reviewers
+    # get watchers
     if watched:
         watchers_table = page_soup.find("table", class_="person-table film-table")
         watchers_soup = watchers_table.find_all("td", class_="table-person")
@@ -102,14 +106,14 @@ def scrape_page(list_url, og_list_url, quiet=False, concat=False, watched=False)
 
         # Iterate through films
         for film in films if quiet else tqdm(films):
-            film_dict = scrape_film(film)
+            film_dict = scrape_film(film, looking_for)
             if film_dict is not None:
                 page_films.append(film_dict)
 
     return page_films, page_soup
 
 
-def scrape_film(film_html):
+def scrape_film(film_html, looking_for=[]):
     """
     Scrapes all available information regarding a film.
     The function makes multiple request calls to relevant Letterboxd film URLs and gets their raw HTML code.
@@ -134,6 +138,10 @@ def scrape_film(film_html):
     film_dict["Film_title"] = film_soup.find("div", {"class": "col-17"}).find("h1").text
     film_dict["url"] = film_url
 
+    # if we're making ballots, stop if the movie isn't a candidate
+    if len(looking_for) != 0 and film_dict["Film_title"] not in looking_for:
+        return None
+
     # Finding average rating, if not found insert a nan
     try:
         film_dict["Average_rating"] = float(
@@ -148,14 +156,19 @@ def scrape_film(film_html):
         if stringval != "0":
             film_dict["Owner_rating"] = float(int(stringval) / 2)
         else:
-            film_dict["Owner_rating"] = None
+            film_dict["Owner_rating"] = 0
     except:
         # Extra clause for type 'film' lists
         try:
             starval = film_html.find_all("span")[-1].text
             film_dict["Owner_rating"] = stars2val(starval)
         except:
-            film_dict["Owner_rating"] = None
+            film_dict["Owner_rating"] = 0
+
+    # if we're making ballots, grab the movie
+    if len(looking_for) != 0 and film_dict["Film_title"] in looking_for:
+        del film_dict["Average_rating"]
+        return film_dict
 
     # Get movie runtime by searching for first sequence of digits in the p element with the runtime, if not found insert nan
     try:

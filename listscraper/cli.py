@@ -76,8 +76,13 @@ def cli_arguments():
         required=False,
     )
 
+    # arguments for ballot creation
     parser.add_argument(
-        "-c", "--candidates", help="option to make ballots.", type=str, default=""
+        "-c", "--candidates", help="json file of candidates", type=str, default=""
+    )
+
+    parser.add_argument(
+        "-cat", "--category_path", help="year genre sort by", type=str, default=""
     )
 
     parser.add_argument(

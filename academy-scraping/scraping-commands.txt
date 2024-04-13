@@ -1,6 +1,6 @@
-for getting watchers:
-python3 -m listscraper {URL} -w True -on "{movie}-watchers.json" -p #~#
-ex: python3 -m listscraper https://letterboxd.com/film/terminator-2-judgment-day/members/ -w True -on "t2-reviewers.json" -p 1
+for getting ballots:
+python3 -m listscraper null -c {category-scrape-path} -cat {member-filters} -on "{category}-ballots.json"
+ex: python3 -m listscraper null -c "academy-scraping/animated-short/2013-animated-short.json" -cat "2013/genre/animation/by/shortest/" -on "2013-animated-short-ballots.json"
 
 for getting films:
 python3 -m listscraper {URL} -p #~# -on "{year}-{category}"

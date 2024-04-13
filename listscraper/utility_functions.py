@@ -24,7 +24,7 @@ def stars2val(stars):
         val = conv_dict[stars]
         return val
     except:
-        return None
+        return 0
 
 
 def val2stars(val):
@@ -47,4 +47,4 @@ def val2stars(val):
         stars = conv_dict[val]
         return stars
     except:
-        return None
+        return 0
