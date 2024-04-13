@@ -186,8 +186,8 @@ def scrape_film(film_html, looking_for=[]):
     # for feature films: film_dict["Runtime"] < 60 or film_dict["Runtime"] > 240
     if (
         film_dict["Runtime"] is None
-        or film_dict["Runtime"] > 40
-        or film_dict["Runtime"] < 3
+        or film_dict["Runtime"] < 60
+        or film_dict["Runtime"] > 240
     ):
         return None
 
@@ -234,9 +234,10 @@ def scrape_film(film_html, looking_for=[]):
     film_dict["Watches"] = int("".join(watches))  # Filter out commas from large numbers
 
     # MOVIE SPECIFIC for number of watchers
-    # 1000 for shorts
+    # 1000 for shorts (all kinds)
     # 2500 for docs
-    if film_dict["Watches"] is None or film_dict["Watches"] < 1000:
+    # 3500 for animated
+    if film_dict["Watches"] is None or film_dict["Watches"] < 3500:
         return None
 
     # Get number of film appearances in lists
