@@ -1,0 +1,2365 @@
+{
+  "ballots": [
+    {
+      "count": 11,
+      "ranking": ["Stupid Dinner"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stupid Dinner", "Carl's Date"]
+    },
+    {
+      "count": 7,
+      "ranking": ["Stupid Dinner", "Nothing to Hide (Bad Kid Stuff)"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stupid Dinner", "Donks"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Stupid Dinner",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stupid Dinner",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Wild Summon",
+        "I'm Hip",
+        "Our Uniform"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stupid Dinner",
+        "Nothing to Hide (Bad Kid Stuff)",
+        "Peter & the Wolf",
+        "I'm Hip",
+        "Our Uniform",
+        "Once Upon a Studio",
+        "Carl's Date",
+        "Wild Summon",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "The Bad Guys: A Very Bad Holiday",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nothing to Hide (Bad Kid Stuff)",
+        "Once Upon a Studio",
+        "Carl's Date",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Stupid Dinner"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stupid Dinner", "Donks", "Once Upon a Studio"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Nothing to Hide (Bad Kid Stuff)", "Stupid Dinner"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Carl's Date",
+        "Resilience",
+        "Once Upon a Studio",
+        "Stupid Dinner",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stupid Dinner",
+        "Nothing to Hide (Bad Kid Stuff)",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Resilience", "Carl's Date"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Resilience",
+        "Hidari",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Resilience", "Stupid Dinner", "Donks"]
+    },
+    {
+      "count": 12,
+      "ranking": ["Resilience"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Resilience", "The Spider Within: A Spider-Verse Story"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Resilience", "27"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Resilience",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Resilience",
+        "Our Uniform",
+        "WAR IS OVER! Inspired by the Music of John & Yoko"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Resilience",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Groot's Sweet Treat",
+        "Are You My Groot?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Summon",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Resilience"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Kind of Testament",
+        "Resilience",
+        "27",
+        "Our Uniform",
+        "Summer 96"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "I'm Hip",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "Donks",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Carl's Date",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "I'm Hip",
+        "Our Uniform",
+        "Mooned",
+        "Wild Summon",
+        "WAR IS OVER! Inspired by the Music of John & Yoko"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Our Uniform",
+        "I'm Hip"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Our Uniform",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "I'm Hip",
+        "Wild Summon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Trident",
+        "The Spider Within: A Spider-Verse Story",
+        "Wild Summon",
+        "Once Upon a Studio",
+        "I'm Hip"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "I'm Hip",
+        "Wild Summon",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Our Uniform",
+        "I'm Hip",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Wild Summon"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "I'm Hip",
+        "Our Uniform",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Wild Summon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Carl's Date",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Wild Summon",
+        "I'm Hip",
+        "Our Uniform"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Wild Summon",
+        "Our Uniform",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "I'm Hip"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["I'm Hip"]
+    },
+    {
+      "count": 1,
+      "ranking": ["I'm Hip", "The Spider Within: A Spider-Verse Story"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "I'm Hip",
+        "Groot Noses Around",
+        "Groot's Sweet Treat",
+        "Are You My Groot?",
+        "Our Uniform",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Mooned",
+        "Carl's Date",
+        "27",
+        "Wild Summon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "I'm Hip",
+        "Our Uniform",
+        "Wild Summon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "I'm Hip",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "Our Uniform",
+        "Carl's Date",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Wild Summon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "I'm Hip",
+        "The Spider Within: A Spider-Verse Story",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Wild Summon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Our Uniform", "I'm Hip", "Wild Summon"]
+    },
+    {
+      "count": 8,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Groot Noses Around",
+        "Groot's Sweet Treat",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot Noses Around",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Groot Noses Around", "Are You My Groot?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Are You My Groot?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Are You My Groot?",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Carl's Date",
+        "Groot and the Great Prophecy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Groot and the Great Prophecy",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Are You My Groot?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot Noses Around",
+        "Groot's Sweet Treat",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Are You My Groot?",
+        "Groot and the Great Prophecy",
+        "Donks",
+        "Carl's Date",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot Noses Around",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot and the Great Prophecy",
+        "Groot's Sweet Treat",
+        "Are You My Groot?",
+        "Groot Noses Around"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Maggie Simpson in Rogue Not Quite One"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Maggie Simpson in Rogue Not Quite One", "Carl's Date"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Once Upon a Studio", "Maggie Simpson in Rogue Not Quite One"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Maggie Simpson in Rogue Not Quite One",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Once Upon a Studio",
+        "Star Wars: Visions – The Pit",
+        "The Spider Within: A Spider-Verse Story",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – Aau's Song",
+        "Maggie Simpson in Rogue Not Quite One"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "Carl's Date",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Carl's Date",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Maggie Simpson in Rogue Not Quite One"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "Maggie Simpson in Rogue Not Quite One",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Carl's Date",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot and the Great Prophecy",
+        "Groot Noses Around",
+        "The Spider Within: A Spider-Verse Story",
+        "Are You My Groot?",
+        "Maggie Simpson in Rogue Not Quite One"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Maggie Simpson in Rogue Not Quite One", "Once Upon a Studio"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Carl's Date",
+        "27"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "Maggie Simpson in Rogue Not Quite One",
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in Rogue Not Quite One",
+        "Once Upon a Studio",
+        "The Bad Guys: A Very Bad Holiday"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in Rogue Not Quite One",
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Mooned",
+        "The Bad Guys: A Very Bad Holiday",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["The Trident"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Trident",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snoopy Presents: One-of-a-Kind Marcie",
+        "The Trident",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date",
+        "The Trident",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Spider Within: A Spider-Verse Story", "The Trident"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Studio", "The Trident"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Are You My Groot?",
+        "Carl's Date",
+        "Stupid Dinner",
+        "The Trident",
+        "Nothing to Hide (Bad Kid Stuff)",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Carl's Date",
+        "The Bad Guys: A Very Bad Holiday",
+        "Maggie Simpson in Rogue Not Quite One",
+        "The Trident",
+        "Our Uniform",
+        "The Spider Within: A Spider-Verse Story",
+        "Mooned",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Once Upon a Studio",
+        "WAR IS OVER! Inspired by the Music of John & Yoko"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Trident", "Mooned", "Carl's Date"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "The Trident",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "The Trident",
+        "Groot and the Great Prophecy",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Are You My Groot?",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Mog's Christmas"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Trident",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Trident", "Carl's Date"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Trident",
+        "The Bad Guys: A Very Bad Holiday",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Trident",
+        "Mog's Christmas",
+        "The Bad Guys: A Very Bad Holiday"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Resilience",
+        "The Trident",
+        "Donks",
+        "The Spider Within: A Spider-Verse Story",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Carl's Date",
+        "Mooned",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Trident", "Mog's Christmas"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Trident", "The Spider Within: A Spider-Verse Story"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date",
+        "The Trident",
+        "Our Uniform",
+        "WAR IS OVER! Inspired by the Music of John & Yoko"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "Snoopy Presents: One-of-a-Kind Marcie",
+        "The Bad Guys: A Very Bad Holiday",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "The Trident",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Are You My Groot?"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Groot and the Great Prophecy"]
+    },
+    {
+      "count": 10,
+      "ranking": ["Nothing to Hide (Bad Kid Stuff)"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Nothing to Hide (Bad Kid Stuff)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stupid Dinner",
+        "Nothing to Hide (Bad Kid Stuff)",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "Stupid Dinner",
+        "Nothing to Hide (Bad Kid Stuff)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stupid Dinner",
+        "Nothing to Hide (Bad Kid Stuff)",
+        "Donks",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stupid Dinner",
+        "The Trident",
+        "Nothing to Hide (Bad Kid Stuff)",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stupid Dinner",
+        "Nothing to Hide (Bad Kid Stuff)",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Hidari", "The Spider Within: A Spider-Verse Story"]
+    },
+    {
+      "count": 15,
+      "ranking": ["Hidari"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hidari",
+        "The Spider Within: A Spider-Verse Story",
+        "Star Wars: Visions – Sith"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Stupid Dinner",
+        "Hidari",
+        "Nothing to Hide (Bad Kid Stuff)",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Hidari"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Hidari",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hidari",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Spider Within: A Spider-Verse Story", "Hidari"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Kind of Testament",
+        "27",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Mooned",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Hidari",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – The Spy Dancer"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": [
+        "Our Uniform",
+        "WAR IS OVER! Inspired by the Music of John & Yoko"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Our Uniform",
+        "Once Upon a Studio",
+        "WAR IS OVER! Inspired by the Music of John & Yoko"
+      ]
+    },
+    {
+      "count": 9,
+      "ranking": ["Our Uniform"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Our Uniform", "27", "A Kind of Testament"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hidari", "Our Uniform", "27"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Our Uniform", "A Kind of Testament"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Carl's Date", "Our Uniform", "Once Upon a Studio"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Our Uniform",
+        "Once Upon a Studio",
+        "Carl's Date",
+        "WAR IS OVER! Inspired by the Music of John & Yoko"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Our Uniform", "The Spider Within: A Spider-Verse Story"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Our Uniform"
+      ]
+    },
+    {
+      "count": 15,
+      "ranking": ["Donks"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stupid Dinner", "Donks", "Nothing to Hide (Bad Kid Stuff)"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Spider Within: A Spider-Verse Story", "Donks"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Donks", "Once Upon a Studio"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Donks",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Star Wars: Visions – Screecher's Reach",
+        "A Kind of Testament",
+        "Star Wars: Visions – The Spy Dancer",
+        "27"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Spider Within: A Spider-Verse Story", "27", "Donks"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Nothing to Hide (Bad Kid Stuff)",
+        "Donks",
+        "Hidari",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hidari",
+        "Once Upon a Studio",
+        "The Spider Within: A Spider-Verse Story",
+        "Donks"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Donks", "Mog's Christmas"]
+    },
+    {
+      "count": 23,
+      "ranking": ["The Spider Within: A Spider-Verse Story"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Are You My Groot?",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "The Spider Within: A Spider-Verse Story",
+        "Maggie Simpson in Rogue Not Quite One",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly"
+      ]
+    },
+    {
+      "count": 20,
+      "ranking": ["Once Upon a Studio"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Groot and the Great Prophecy",
+        "The Spider Within: A Spider-Verse Story",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Are You My Groot?",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Once Upon a Studio",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 19,
+      "ranking": ["Carl's Date"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Studio", "Carl's Date"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date",
+        "Mooned"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot Noses Around",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Our Uniform",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "Carl's Date",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Are You My Groot?",
+        "Our Uniform",
+        "Mooned",
+        "Carl's Date",
+        "The Trident",
+        "Groot and the Great Prophecy",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Wild Summon",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "I'm Hip"
+      ]
+    },
+    {
+      "count": 12,
+      "ranking": ["Mooned"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Mooned",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Mooned",
+        "Once Upon a Studio",
+        "Snoopy Presents: One-of-a-Kind Marcie"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mooned", "Once Upon a Studio"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Studio", "Carl's Date", "Mooned"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Spider Within: A Spider-Verse Story", "Mooned"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Carl's Date", "Mooned"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "Mooned",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "The Spider Within: A Spider-Verse Story",
+        "Mooned",
+        "Snoopy Presents: One-of-a-Kind Marcie"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in Rogue Not Quite One",
+        "The Spider Within: A Spider-Verse Story",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Once Upon a Studio",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Once Upon a Studio",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Once Upon a Studio",
+        "The Bad Guys: A Very Bad Holiday"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in Rogue Not Quite One",
+        "Carl's Date",
+        "The Trident",
+        "The Spider Within: A Spider-Verse Story",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Mooned",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["The Wonderful World of Mickey Mouse: Steamboat Silly"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Once Upon a Studio",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Groot and the Great Prophecy",
+        "Mooned",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Are You My Groot?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Once Upon a Studio",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Carl's Date",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Mooned"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Once Upon a Studio",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Carl's Date",
+        "Groot Noses Around",
+        "Groot's Sweet Treat",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "Mooned",
+        "The Trident",
+        "The Bad Guys: A Very Bad Holiday"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "Carl's Date",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Pit",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Are You My Groot?",
+        "Carl's Date",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Carl's Date",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Resilience",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Our Uniform",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Carl's Date",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "WAR IS OVER! Inspired by the Music of John & Yoko"
+      ]
+    },
+    {
+      "count": 11,
+      "ranking": ["WAR IS OVER! Inspired by the Music of John & Yoko"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Carl's Date", "27"]
+    },
+    {
+      "count": 24,
+      "ranking": ["27"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Summer 96", "Wild Summon"]
+    },
+    {
+      "count": 16,
+      "ranking": ["Summer 96"]
+    },
+    {
+      "count": 1,
+      "ranking": ["27", "Summer 96"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Kind of Testament", "Summer 96", "Wild Summon"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Summer 96", "27", "Our Uniform"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Summer 96", "27", "A Kind of Testament"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot and the Great Prophecy",
+        "Carl's Date",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Are You My Groot?",
+        "Mooned",
+        "Summer 96"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Summer 96", "Our Uniform", "A Kind of Testament"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Carl's Date", "27", "Summer 96"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Our Uniform", "Summer 96", "A Kind of Testament"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Wild Summon"]
+    },
+    {
+      "count": 1,
+      "ranking": ["27", "Wild Summon"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "27",
+        "The Spider Within: A Spider-Verse Story",
+        "Wild Summon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": [
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "27",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "The Spider Within: A Spider-Verse Story",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – The Bandits of Golak"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Star Wars: Visions – Screecher's Reach"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hidari",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Star Wars: Visions – The Bandits of Golak"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in Rogue Not Quite One",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – In the Stars"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Sith",
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Star Wars: Visions – Sith"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Once Upon a Studio",
+        "Carl's Date",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – In the Stars"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Mog's Christmas"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Spy Dancer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Kind of Testament", "Mooned", "Carl's Date"]
+    },
+    {
+      "count": 10,
+      "ranking": ["A Kind of Testament"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Kind of Testament", "Once Upon a Studio"]
+    },
+    {
+      "count": 5,
+      "ranking": ["27", "A Kind of Testament"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "A Kind of Testament",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "27"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Donks",
+        "Star Wars: Visions – Screecher's Reach",
+        "A Kind of Testament",
+        "27",
+        "Wild Summon",
+        "Star Wars: Visions – Sith"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Carl's Date", "A Kind of Testament", "Once Upon a Studio"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Star Wars: Visions – In the Stars"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – Sith"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Spy Dancer",
+        "Groot and the Great Prophecy",
+        "The Spider Within: A Spider-Verse Story",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Are You My Groot?",
+        "Our Uniform",
+        "Star Wars: Visions – Aau's Song",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Star Wars: Visions – The Pit",
+        "Maggie Simpson in Rogue Not Quite One"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Are You My Groot?", "Star Wars: Visions – In the Stars"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Sith",
+        "The Spider Within: A Spider-Verse Story",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "The Trident",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – The Bandits of Golak"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Bad Guys: A Very Bad Holiday",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Star Wars: Visions – Aau's Song"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Star Wars: Visions – Screecher's Reach",
+        "Carl's Date",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Star Wars: Visions – The Bandits of Golak",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Once Upon a Studio",
+        "Star Wars: Visions – The Spy Dancer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Carl's Date",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date",
+        "Once Upon a Studio",
+        "Star Wars: Visions – The Bandits of Golak"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stupid Dinner",
+        "Once Upon a Studio",
+        "Star Wars: Visions – The Pit",
+        "Nothing to Hide (Bad Kid Stuff)",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – Journey to the Dark Head"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – The Pit",
+        "Groot Noses Around",
+        "Groot's Sweet Treat",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Carl's Date"
+      ]
+    },
+    {
+      "count": 14,
+      "ranking": ["Mog's Christmas"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Mooned",
+        "Once Upon a Studio",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Carl's Date",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Spy Dancer",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Mog's Christmas",
+        "The Bad Guys: A Very Bad Holiday",
+        "Peter & the Wolf",
+        "Snoopy Presents: One-of-a-Kind Marcie"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Maggie Simpson in Rogue Not Quite One", "Mog's Christmas"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Star Wars: Visions – In the Stars",
+        "Star Wars: Visions – The Spy Dancer",
+        "Mog's Christmas",
+        "Snoopy Presents: One-of-a-Kind Marcie"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Mooned",
+        "Mog's Christmas",
+        "The Bad Guys: A Very Bad Holiday"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Studio", "Mooned", "Mog's Christmas"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Studio", "Mog's Christmas"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Carl's Date", "Mog's Christmas"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "Mog's Christmas",
+        "Carl's Date",
+        "The Spider Within: A Spider-Verse Story",
+        "27",
+        "Summer 96"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Carl's Date", "Once Upon a Studio", "Mog's Christmas"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Mog's Christmas"
+      ]
+    },
+    {
+      "count": 15,
+      "ranking": ["The Bad Guys: A Very Bad Holiday"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "The Bad Guys: A Very Bad Holiday",
+        "Snoopy Presents: One-of-a-Kind Marcie"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Bad Guys: A Very Bad Holiday",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "The Bad Guys: A Very Bad Holiday"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "The Bad Guys: A Very Bad Holiday"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Bad Guys: A Very Bad Holiday",
+        "Snoopy Presents: One-of-a-Kind Marcie"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Once Upon a Studio",
+        "Carl's Date",
+        "The Bad Guys: A Very Bad Holiday"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date",
+        "The Bad Guys: A Very Bad Holiday"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Bad Guys: A Very Bad Holiday", "Mooned"]
+    },
+    {
+      "count": 16,
+      "ranking": ["Peter & the Wolf"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Donks",
+        "Star Wars: Visions – Screecher's Reach",
+        "Once Upon a Studio",
+        "Wild Summon",
+        "Stupid Dinner",
+        "I'm Hip",
+        "Nothing to Hide (Bad Kid Stuff)",
+        "Our Uniform",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Carl's Date",
+        "Peter & the Wolf",
+        "The Spider Within: A Spider-Verse Story",
+        "WAR IS OVER! Inspired by the Music of John & Yoko"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot's Sweet Treat",
+        "Groot and the Great Prophecy",
+        "Once Upon a Studio",
+        "Peter & the Wolf"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot Noses Around",
+        "Groot's Sweet Treat",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Peter & the Wolf"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Our Uniform",
+        "Carl's Date",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Peter & the Wolf",
+        "Once Upon a Studio"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in Rogue Not Quite One",
+        "Donks",
+        "Peter & the Wolf",
+        "Once Upon a Studio",
+        "Stupid Dinner",
+        "Nothing to Hide (Bad Kid Stuff)",
+        "The Bad Guys: A Very Bad Holiday"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Star Wars: Visions – In the Stars",
+        "Groot and the Great Prophecy",
+        "Carl's Date",
+        "Star Wars: Visions – Aau's Song",
+        "Star Wars: Visions – Journey to the Dark Head",
+        "Peter & the Wolf",
+        "Star Wars: Visions – The Spy Dancer",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Are You My Groot?",
+        "Star Wars: Visions – The Pit",
+        "Star Wars: Visions – The Bandits of Golak",
+        "Star Wars: Visions – Screecher's Reach",
+        "Star Wars: Visions – Sith"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Snoopy Presents: One-of-a-Kind Marcie",
+        "Our Uniform",
+        "Once Upon a Studio",
+        "Peter & the Wolf"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Our Uniform",
+        "Carl's Date",
+        "27",
+        "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "Peter & the Wolf"
+      ]
+    },
+    {
+      "count": 18,
+      "ranking": ["Snoopy Presents: One-of-a-Kind Marcie"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Once Upon a Studio", "Snoopy Presents: One-of-a-Kind Marcie"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snoopy Presents: One-of-a-Kind Marcie", "Once Upon a Studio"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Groot Noses Around",
+        "Maggie Simpson in Rogue Not Quite One",
+        "Are You My Groot?",
+        "The Spider Within: A Spider-Verse Story",
+        "Once Upon a Studio",
+        "Carl's Date",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Snoopy Presents: One-of-a-Kind Marcie"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Snoopy Presents: One-of-a-Kind Marcie"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Studio",
+        "Snoopy Presents: One-of-a-Kind Marcie",
+        "The Spider Within: A Spider-Verse Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Spider Within: A Spider-Verse Story",
+        "Carl's Date",
+        "The Wonderful World of Mickey Mouse: Steamboat Silly",
+        "Snoopy Presents: One-of-a-Kind Marcie",
+        "Groot's Sweet Treat",
+        "Groot Noses Around",
+        "Groot and the Great Prophecy",
+        "Are You My Groot?",
+        "Maggie Simpson in Rogue Not Quite One"
+      ]
+    }
+  ]
+}

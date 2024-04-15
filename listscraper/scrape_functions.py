@@ -180,7 +180,7 @@ def scrape_film(film_html, looking_for=[]):
     except:
         film_dict["Runtime"] = None
 
-    # MOVIE SPECIFIC running time
+    # CATEGORY SPECIFIC running time
     # for docs and live action shorts: film_dict["Runtime"] > 40 or film_dict["Runtime"] < 7
     # for animated shorts: film_dict["Runtime"] > 40 or film_dict["Runtime"] < 3
     # for feature films: film_dict["Runtime"] < 60 or film_dict["Runtime"] > 240
@@ -219,6 +219,34 @@ def scrape_film(film_html, looking_for=[]):
     except:
         film_dict["Original_language"] = None
 
+    if (
+        film_dict["Original_language"] is None
+        or film_dict["Original_language"] == "English"
+    ):
+        return None
+
+    # Finding genres
+    try:
+        film_dict["Genres"] = [
+            line.contents[0]
+            for line in film_soup.find("div", attrs={"id": "tab-genres"}).find_all(
+                "a", href=re.compile(r"genre")
+            )
+        ]
+        if film_dict["Genres"] == []:
+            film_dict["Genres"] = None
+    except:
+        film_dict["Genres"] = None
+
+    # CATEGORY SPECIFIC genre
+    # for best picture, international, and live action shorts
+    if (
+        film_dict["Genres"] is None
+        or "Documentary" in film_dict["Genres"]
+        or "Animation" in film_dict["Genres"]
+    ):
+        return None
+
     # Getting number of watches, appearances in lists and number of likes (requires new link) ##
     movie = film_url.split("/")[-2]  # Movie title in URL
     r = requests.get(
@@ -233,11 +261,12 @@ def scrape_film(film_html, looking_for=[]):
     watches = re.findall(r"\d+", watches)  # Find the number from string
     film_dict["Watches"] = int("".join(watches))  # Filter out commas from large numbers
 
-    # MOVIE SPECIFIC for number of watchers
+    # CATEGORY SPECIFIC for number of watchers
     # 1000 for shorts (all kinds)
     # 2500 for docs
     # 3500 for animated
-    if film_dict["Watches"] is None or film_dict["Watches"] < 3500:
+    # 5000 for international
+    if film_dict["Watches"] is None or film_dict["Watches"] < 5000:
         return None
 
     # Get number of film appearances in lists

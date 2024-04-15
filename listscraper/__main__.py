@@ -30,9 +30,11 @@ def main():
         movies = [movie["Film_title"] for movie in candidates]
         user_pages = list(range(1, ceil(len(movies) / 72) + 1))
         overall_watchers = set()
+        count = 1
 
         ballots = {"ballots": []}
         for candidate in candidates:
+            print(f"Movie #{count} / {len(movies)}")
             watch_url = f"{candidate["url"]}members/"
             watchers = scrape_list(watch_url, [1], watched=True) # 25 watchers per film
             for watcher in watchers:
@@ -52,6 +54,7 @@ def main():
                     ballots["ballots"][index]["count"] += 1
                 except:
                     ballots["ballots"].append(ballot)
+            count += 1
 
             overall_watchers.update(watchers) # avoid repeats
 
@@ -73,7 +76,7 @@ def main():
             args.threads,
         )
 
-        # # End message
+        # End message
         print(
             f"\nProgram successfully finished! Your CSV(s) can be found in ./{LBscraper.output_path}/."
         )
