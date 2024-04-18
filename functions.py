@@ -1,11 +1,31 @@
 import customtkinter as ctk
 import threading
+import subprocess
+
 
 MODE = True
 APP = ""
 MRCV = False
 WWTAP = False
 ERRORS = []
+
+SCHEMES = [
+    "baldwin",
+    "black",
+    "borda",
+    "bucklin",
+    "coombs",
+    "copeland",
+    "irv",
+    "minimax",
+    "nanson",
+    "river",
+    "rouse",
+    "schulze",
+    "smith_irv",
+    "tideman",
+    "topmost_median_rank",
+]
 
 
 def create_start_menu(app):
@@ -74,6 +94,22 @@ def start_wwtap():
     WWTAP.geometry("500x500")
     WWTAP.resizable(False, False)
     WWTAP.attributes("-topmost", True)
+
+    global SCHEMES
+
+    chosen_scheme = ctk.StringVar(value=SCHEMES[6])  # set initial value
+
+    combobox = ctk.CTkComboBox(
+        master=WWTAP,
+        values=SCHEMES,
+        variable=chosen_scheme,
+    )
+    combobox.pack(padx=20, pady=10)
+
+    # reminder to make 'copeland' {chosen_scheme} and to make 'rcv-schemes' -> 'schemes' and add brackets in ballots
+    command = f"py schemes/copeland.py --elections academy-ballots/animated-short/2013-animated-short-ballots.json"
+    result = subprocess.check_output(command, shell=True, text=True)
+    print(result)
 
 
 def error_window(message):
