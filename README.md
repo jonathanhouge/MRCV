@@ -29,6 +29,9 @@ Create an executable:
 
 `python -m PyInstaller main.py --onefile`
 
+Note: There should already be an executable in 'dist'!
+(reminder to check this out: https://github.com/TomSchimansky/CustomTkinter/wiki/Packaging)
+
 ## References
 
 - https://github.com/TomSchimansky/CustomTkinter

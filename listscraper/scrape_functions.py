@@ -186,8 +186,8 @@ def scrape_film(film_html, looking_for=[]):
     # for feature films: film_dict["Runtime"] < 60 or film_dict["Runtime"] > 240
     if (
         film_dict["Runtime"] is None
-        or film_dict["Runtime"] < 60
-        or film_dict["Runtime"] > 240
+        or film_dict["Runtime"] > 40
+        or film_dict["Runtime"] < 7
     ):
         return None
 
@@ -219,11 +219,12 @@ def scrape_film(film_html, looking_for=[]):
     except:
         film_dict["Original_language"] = None
 
-    if (
-        film_dict["Original_language"] is None
-        or film_dict["Original_language"] == "English"
-    ):
-        return None
+    # CATEGORY SPECIFIC language (international only)
+    # if (
+    #     film_dict["Original_language"] is None
+    #     or film_dict["Original_language"] == "English"
+    # ):
+    #     return None
 
     # Finding genres
     try:
@@ -266,7 +267,7 @@ def scrape_film(film_html, looking_for=[]):
     # 2500 for docs
     # 3500 for animated
     # 5000 for international
-    if film_dict["Watches"] is None or film_dict["Watches"] < 5000:
+    if film_dict["Watches"] is None or film_dict["Watches"] < 1000:
         return None
 
     # Get number of film appearances in lists

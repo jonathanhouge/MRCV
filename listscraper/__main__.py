@@ -3,6 +3,7 @@ from listscraper.instance_class import ScrapeInstance
 from listscraper.scrape_functions import scrape_list, scrape_film
 import json
 import os
+import time
 from math import ceil
 
 
@@ -21,6 +22,7 @@ def main():
 
     if args.candidates:
         print("Crafting ballots.")
+        start = time.time()
 
         # load candidates from previous scrape
         with open(args.candidates, "r", encoding="utf-8") as jsonf:
@@ -62,8 +64,9 @@ def main():
         outpath = os.path.join(args.output_path, args.output_name)
         with open(outpath, "w", encoding="utf-8") as jsonf:
             jsonf.write(json.dumps(ballots, indent=2, ensure_ascii=False))
-
-        print("Ballots crafted!")
+        
+        end = time.time()
+        print(f"Ballots crafted! Run time: {end - start :.2f}")
     else:
         LBscraper = ScrapeInstance(
             args.listURL,

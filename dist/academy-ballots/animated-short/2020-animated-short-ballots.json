@@ -1,0 +1,6074 @@
+{
+  "ballots": [
+    {
+      "count": 18,
+      "ranking": ["Puparia"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "If Anything Happens I Love You",
+        "Puparia",
+        "Forky Asks a Question: What Is Reading?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Out",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Cops and Robbers",
+        "Puparia",
+        "If Anything Happens I Love You",
+        "Smiling Friends",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Pitch Black Panacea"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Smiling Friends",
+        "Twins in Paradise",
+        "OPAL",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Puparia"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["OPAL", "Puparia", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Puparia", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Smiling Friends",
+        "OPAL",
+        "Puparia",
+        "If Anything Happens I Love You",
+        "Forky Asks a Question: What Is Reading?",
+        "Lamp Life",
+        "Once Upon a Snowman",
+        "Minions: Holiday Special"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Once Upon a Snowman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Songs to Sing in the Dark",
+        "Out",
+        "If Anything Happens I Love You",
+        "Forky Asks a Question: What Is Cheese?",
+        "BoxBallet",
+        "Forky Asks a Question: What Is Reading?",
+        "Yes-People",
+        "Burrow",
+        "Opera",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "Lamp Life",
+        "Out",
+        "If Anything Happens I Love You",
+        "Yes-People",
+        "BoxBallet",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Forky Asks a Question: What Is Cheese?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "If Anything Happens I Love You",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Lamp Life",
+        "Once Upon a Snowman",
+        "Myth: A Frozen Tale"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "Once Upon a Snowman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "The Turning Point",
+        "Puparia",
+        "Forky Asks a Question: What Is Reading?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Sol Levante",
+        "A Dog That Smokes Weed",
+        "Songs to Sing in the Dark",
+        "Model Citizen",
+        "Sundown",
+        "Burrow",
+        "Lamp Life",
+        "Throat Notes",
+        "Yes-People",
+        "Canvas",
+        "Out",
+        "Twins in Paradise",
+        "Smiling Friends",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "From Our Family to Yours",
+        "Burrow",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Out",
+        "Myth: A Frozen Tale",
+        "If Anything Happens I Love You",
+        "BoxBallet",
+        "Minions: Holiday Special"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Minions: Holiday Special"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "OPAL",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "Lamp Life",
+        "Out",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Once Upon a Snowman",
+        "Lamp Life"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Out",
+        "Forky Asks a Question: What Is Reading?",
+        "Forky Asks a Question: What Is Cheese?",
+        "Burrow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Lamp Life",
+        "Out",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Once Upon a Snowman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Forky Asks a Question: What Is Cheese?", "Out"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Lamp Life",
+        "Once Upon a Snowman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "Lamp Life",
+        "Once Upon a Snowman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "Lamp Life",
+        "Out",
+        "Smiling Friends"
+      ]
+    },
+    {
+      "count": 10,
+      "ranking": ["The Turning Point"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Model Citizen", "The Turning Point"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "From Our Family to Yours",
+        "The Turning Point",
+        "Forky Asks a Question: What Is Cheese?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Forky Asks a Question: What Is Reading?",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Twins in Paradise",
+        "Out",
+        "Myth: A Frozen Tale",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Turning Point",
+        "Burrow",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Turning Point", "Lamp Life"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "The Return of the Waves",
+        "Burrow",
+        "Cops and Robbers",
+        "The Turning Point",
+        "Forky Asks a Question: What Is Cheese?",
+        "The Box Assassin",
+        "Forky Asks a Question: What Is Reading?",
+        "Colza",
+        "Sundown",
+        "Songs to Sing in the Dark",
+        "Twins in Paradise",
+        "Out",
+        "Smiling Friends",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "Genius Loci",
+        "Model Citizen",
+        "Umbrella",
+        "Yes-People"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Turning Point",
+        "Once Upon a Snowman",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Minions: Holiday Special",
+        "Puparia",
+        "A Dog That Smokes Weed",
+        "Burrow",
+        "Lamp Life",
+        "Twins in Paradise",
+        "Smiling Friends",
+        "The Boss Baby: Get That Baby!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Umbrella",
+        "The Turning Point",
+        "First Born",
+        "Let's Eat",
+        "Burrow",
+        "A Folded Wish",
+        "Canvas",
+        "Out",
+        "If Anything Happens I Love You",
+        "Napo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "The Turning Point",
+        "The Return of the Waves",
+        "Napo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Box Assassin", "The Turning Point", "Puparia"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Turning Point",
+        "The Return of the Waves",
+        "Pitch Black Panacea",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Napo",
+        "The Turning Point",
+        "Lamp Life",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Turning Point",
+        "Puparia",
+        "Model Citizen",
+        "Twins in Paradise",
+        "Smiling Friends",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "Friendly Shadow",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Myth: A Frozen Tale", "The Turning Point"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Turning Point", "OPAL", "Throat Notes"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "The Turning Point"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Box Assassin", "Smiling Friends"]
+    },
+    {
+      "count": 9,
+      "ranking": ["The Box Assassin"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "You Sold My Rollerskates?",
+        "The Box Assassin",
+        "Sundown",
+        "Throat Notes",
+        "If Anything Happens I Love You",
+        "Puparia",
+        "Colza",
+        "Coffin",
+        "Twins in Paradise",
+        "Smiling Friends",
+        "Souvenir, Souvenir"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Box Assassin", "Model Citizen"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "The Box Assassin",
+        "Sol Levante",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "A Dog That Smokes Weed",
+        "Twins in Paradise",
+        "Smiling Friends",
+        "OPAL",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Box Assassin", "Puparia"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Box Assassin",
+        "Forky Asks a Question: What Is Cheese?",
+        "Lamp Life"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Smiling Friends",
+        "The Box Assassin",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "The Boss Baby: Get That Baby!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Smiling Friends", "The Box Assassin"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Model Citizen",
+        "Lamp Life",
+        "Yes-People",
+        "Myth: A Frozen Tale",
+        "Genius Loci",
+        "Out",
+        "The Box Assassin",
+        "From Our Family to Yours",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Canvas",
+        "Windup",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "BoxBallet"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Smiling Friends", "Model Citizen", "The Box Assassin"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Out", "The Box Assassin", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Box Assassin", "Twins in Paradise"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Box Assassin",
+        "First Born",
+        "Model Citizen",
+        "Throat Notes",
+        "Smiling Friends",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Box Assassin",
+        "Model Citizen",
+        "Smiling Friends",
+        "OPAL",
+        "Friendly Shadow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Box Assassin", "Smiling Friends", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "The Box Assassin"]
+    },
+    {
+      "count": 2,
+      "ranking": ["From Our Family to Yours", "Out"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "From Our Family to Yours",
+        "Out",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["From Our Family to Yours"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Throat Notes",
+        "OPAL",
+        "If Anything Happens I Love You",
+        "Puparia",
+        "Twins in Paradise",
+        "From Our Family to Yours",
+        "The Turning Point",
+        "A Dog That Smokes Weed"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "From Our Family to Yours",
+        "Forky Asks a Question: What Is Cheese?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "Lamp Life"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "From Our Family to Yours",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Sol Levante",
+        "Burrow",
+        "Lamp Life",
+        "Carmen Sandiego: To Steal or Not to Steal"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["From Our Family to Yours", "Twins in Paradise", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "Out",
+        "Burrow",
+        "Opera",
+        "Yes-People",
+        "If Anything Happens I Love You",
+        "BoxBallet",
+        "From Our Family to Yours",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Once Upon a Snowman",
+        "Kapaemahu",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "From Our Family to Yours",
+        "Burrow",
+        "Once Upon a Snowman",
+        "If Anything Happens I Love You",
+        "Cops and Robbers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "From Our Family to Yours"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "Burrow",
+        "Forky Asks a Question: What Is Cheese?",
+        "From Our Family to Yours",
+        "Forky Asks a Question: What Is Reading?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Once Upon a Snowman",
+        "From Our Family to Yours",
+        "Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "From Our Family to Yours",
+        "Once Upon a Snowman",
+        "Myth: A Frozen Tale",
+        "Burrow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Out", "From Our Family to Yours"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "From Our Family to Yours",
+        "Puparia",
+        "A Dog That Smokes Weed",
+        "Burrow",
+        "Twins in Paradise",
+        "Out",
+        "Canvas",
+        "If Anything Happens I Love You",
+        "Carmen Sandiego: To Steal or Not to Steal"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "From Our Family to Yours",
+        "Forky Asks a Question: What Is Cheese?",
+        "Sol Levante",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Forky Asks a Question: What Is Reading?",
+        "Out",
+        "Burrow",
+        "Lamp Life",
+        "Once Upon a Snowman",
+        "100.000 Acres of Pine",
+        "Canvas",
+        "Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Burrow",
+        "Out",
+        "If Anything Happens I Love You",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 9,
+      "ranking": ["Maggie Simpson in \"Playdate with Destiny\""]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Once Upon a Snowman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Out",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Pitch Black Panacea",
+        "Once Upon a Snowman",
+        "Canvas"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Smiling Friends",
+        "Puparia",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Lamp Life",
+        "Cops and Robbers",
+        "If Anything Happens I Love You",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Out",
+        "Burrow",
+        "Lamp Life",
+        "Canvas",
+        "Once Upon a Snowman",
+        "Myth: A Frozen Tale",
+        "Forky Asks a Question: What Is Cheese?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Forky Asks a Question: What Is Reading?",
+        "From Our Family to Yours"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Burrow",
+        "Genius Loci",
+        "Lamp Life",
+        "Maggie Simpson in \"Playdate with Destiny\""
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Maggie Simpson in \"Playdate with Destiny\"", "Burrow"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "If Anything Happens I Love You",
+        "Smiling Friends"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Maggie Simpson in \"Playdate with Destiny\""]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Burrow",
+        "Lamp Life",
+        "Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Minions: Holiday Special",
+        "Maggie Simpson in \"Playdate with Destiny\""
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Lamp Life",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Out",
+        "Once Upon a Snowman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Forky Asks a Question: What Is Reading?", "Burrow"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Forky Asks a Question: What Is Reading?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Lamp Life"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Out",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "Lamp Life",
+        "Cops and Robbers",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sol Levante", "The Boss Baby: Get That Baby!"]
+    },
+    {
+      "count": 10,
+      "ranking": ["Sol Levante"]
+    },
+    {
+      "count": 2,
+      "ranking": ["If Anything Happens I Love You", "Sol Levante"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sol Levante", "Canvas", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Sol Levante", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "Sol Levante", "Canvas"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Sol Levante", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Sol Levante"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Twins in Paradise",
+        "Puparia",
+        "Sol Levante",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Smiling Friends", "Sol Levante"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sol Levante", "Burrow", "Out"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Sol Levante",
+        "Twins in Paradise",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Cops and Robbers",
+        "If Anything Happens I Love You",
+        "Sol Levante",
+        "Puparia",
+        "Smiling Friends",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Smiling Friends", "Sol Levante", "Twins in Paradise", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Dog That Smokes Weed", "Kapaemahu"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Dog That Smokes Weed", "Smiling Friends"]
+    },
+    {
+      "count": 3,
+      "ranking": ["A Dog That Smokes Weed"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Twins in Paradise", "A Dog That Smokes Weed"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Dog That Smokes Weed",
+        "Maggie Simpson in \"Playdate with Destiny\""
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Dog That Smokes Weed", "Puparia"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Puparia",
+        "A Dog That Smokes Weed",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Burrow",
+        "To: Gerard",
+        "Lamp Life",
+        "Out",
+        "If Anything Happens I Love You",
+        "DC Showcase: The Phantom Stranger",
+        "DC Showcase: Adam Strange",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "A Dog That Smokes Weed"]
+    },
+    {
+      "count": 2,
+      "ranking": ["A Dog That Smokes Weed", "Twins in Paradise"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "A Dog That Smokes Weed", "Twins in Paradise"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Dog That Smokes Weed",
+        "Model Citizen",
+        "Twins in Paradise",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Smiling Friends",
+        "A Dog That Smokes Weed",
+        "Twins in Paradise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Snowman",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Minions: Holiday Special",
+        "Puparia",
+        "A Dog That Smokes Weed",
+        "Burrow",
+        "Lamp Life",
+        "Twins in Paradise",
+        "Smiling Friends",
+        "The Boss Baby: Get That Baby!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yes-People",
+        "A Dog That Smokes Weed",
+        "Burrow",
+        "Opera",
+        "Smiling Friends",
+        "If Anything Happens I Love You",
+        "BoxBallet",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Dog That Smokes Weed",
+        "Twins in Paradise",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Dog That Smokes Weed", "Out"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Twins in Paradise",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Songs to Sing in the Dark",
+        "Lamp Life",
+        "If Anything Happens I Love You",
+        "Once Upon a Snowman",
+        "A Dog That Smokes Weed",
+        "Burrow",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Myth: A Frozen Tale",
+        "Out",
+        "From Our Family to Yours"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Throat Notes",
+        "A Dog That Smokes Weed",
+        "The Return of the Waves"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ghost Dogs",
+        "Puparia",
+        "A Dog That Smokes Weed",
+        "Coffin",
+        "Sundown",
+        "You Sold My Rollerskates?",
+        "Smiling Friends",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Dog That Smokes Weed",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Dog That Smokes Weed", "My Fat Arse and I"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Dog That Smokes Weed",
+        "Burrow",
+        "My Friend Who Shines in the Night",
+        "Out",
+        "If Anything Happens I Love You",
+        "Smiling Friends",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 9,
+      "ranking": ["Model Citizen"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Twins in Paradise",
+        "Model Citizen",
+        "First Born",
+        "Let's Eat",
+        "Napo",
+        "Windup",
+        "A Folded Wish"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Turning Point",
+        "Model Citizen",
+        "The Return of the Waves",
+        "Canvas",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Model Citizen",
+        "Puparia",
+        "Friendly Shadow",
+        "OPAL",
+        "Twins in Paradise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["OPAL", "Model Citizen"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "First Born",
+        "Model Citizen",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Model Citizen", "Sundown", "First Born", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "Friendly Shadow",
+        "First Born",
+        "Model Citizen"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Model Citizen", "Out", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Smiling Friends",
+        "Model Citizen",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Model Citizen", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Model Citizen"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Model Citizen", "Friendly Shadow"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Model Citizen", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 12,
+      "ranking": ["Sundown"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Colza",
+        "The Return of the Waves",
+        "My Friend Who Shines in the Night",
+        "Sundown",
+        "You Sold My Rollerskates?",
+        "The Beast",
+        "Mum's Sweater",
+        "Coffin"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Sundown", "Twins in Paradise"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Sundown", "Model Citizen"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Throat Notes", "Sundown"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "If Anything Happens I Love You",
+        "My Friend Who Shines in the Night",
+        "Puparia",
+        "Sundown",
+        "Colza",
+        "You Sold My Rollerskates?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Umbrella",
+        "Let's Eat",
+        "If Anything Happens I Love You",
+        "Burrow",
+        "Colza",
+        "First Born",
+        "The Return of the Waves",
+        "Sundown",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Sundown", "Burrow", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sundown", "Throat Notes", "Wade"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "Sundown",
+        "Colza",
+        "You Sold My Rollerskates?",
+        "My Friend Who Shines in the Night"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sundown", "The Return of the Waves"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Puparia", "Sundown", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Colza",
+        "Sundown",
+        "Mum's Sweater",
+        "Puparia",
+        "Burrow",
+        "Pitch Black Panacea",
+        "Twins in Paradise",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "Easter Eggs",
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Puparia", "The Return of the Waves"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "The Turning Point",
+        "Canvas",
+        "The Return of the Waves"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "Colza",
+        "Sundown",
+        "Mum's Sweater"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "Model Citizen",
+        "Puparia",
+        "Sundown"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Return of the Waves"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "The Return of the Waves",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "The Return of the Waves",
+        "Twins in Paradise",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "Model Citizen",
+        "My Friend Who Shines in the Night",
+        "Twins in Paradise",
+        "OPAL",
+        "Friendly Shadow"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Return of the Waves", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "To: Gerard",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "The Return of the Waves",
+        "My Friend Who Shines in the Night"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Return of the Waves", "Burrow"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sundown",
+        "The Return of the Waves",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Colza",
+        "Coffin",
+        "The Return of the Waves",
+        "Sundown",
+        "You Sold My Rollerskates?",
+        "The Beast",
+        "My Friend Who Shines in the Night"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Colza"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Cops and Robbers",
+        "If Anything Happens I Love You",
+        "Colza",
+        "Let's Eat",
+        "Umbrella",
+        "Sundown",
+        "First Born",
+        "Canvas"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Snowman",
+        "Canvas",
+        "Puparia",
+        "Colza",
+        "Coffin",
+        "First Born",
+        "The Return of the Waves",
+        "Cops and Robbers",
+        "My Friend Who Shines in the Night",
+        "Out",
+        "My Fat Arse and I",
+        "Wade",
+        "If Anything Happens I Love You",
+        "Easter Eggs"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Colza", "Puparia", "Sundown"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Colza", "Sundown", "The Beast"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Colza",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sundown", "Colza", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Colza",
+        "You Sold My Rollerskates?",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Colza",
+        "Coffin",
+        "The Return of the Waves",
+        "Sundown",
+        "You Sold My Rollerskates?",
+        "Mum's Sweater",
+        "My Friend Who Shines in the Night",
+        "Wade",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Colza"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "If Anything Happens I Love You",
+        "Yes-People",
+        "OPAL",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Sundown",
+        "Colza",
+        "Let's Eat",
+        "Burrow",
+        "Out",
+        "Windup",
+        "Wade"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mum's Sweater",
+        "Coffin",
+        "You Sold My Rollerskates?",
+        "The Return of the Waves",
+        "If Anything Happens I Love You",
+        "Colza",
+        "Sundown",
+        "The Beast",
+        "My Friend Who Shines in the Night"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Colza",
+        "Coffin",
+        "Model Citizen",
+        "First Born",
+        "The Return of the Waves",
+        "Sundown",
+        "You Sold My Rollerskates?",
+        "Mum's Sweater",
+        "The Beast",
+        "Twins in Paradise",
+        "Wade",
+        "Napo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "The Return of the Waves",
+        "Colza",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coffin"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Coffin", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Coffin",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Coffin",
+        "Sundown",
+        "You Sold My Rollerskates?",
+        "Throat Notes",
+        "Twins in Paradise",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "If Anything Happens I Love You",
+        "Canvas",
+        "Coffin",
+        "Colza",
+        "The Return of the Waves",
+        "Sundown",
+        "Umbrella",
+        "My Friend Who Shines in the Night",
+        "Wade",
+        "Napo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Twins in Paradise",
+        "Puparia",
+        "Coffin",
+        "Sundown",
+        "You Sold My Rollerskates?",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Coffin"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Coffin",
+        "Model Citizen",
+        "Colza",
+        "Sundown",
+        "You Sold My Rollerskates?",
+        "Twins in Paradise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Coffin",
+        "Sundown",
+        "You Sold My Rollerskates?",
+        "My Friend Who Shines in the Night",
+        "Twins in Paradise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Smiling Friends",
+        "Coffin",
+        "The Return of the Waves",
+        "Sundown",
+        "Model Citizen"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coffin", "You Sold My Rollerskates?", "Mum's Sweater"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Coffin",
+        "You Sold My Rollerskates?",
+        "The Return of the Waves",
+        "Colza",
+        "Mum's Sweater",
+        "Twins in Paradise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coffin", "My Friend Who Shines in the Night"]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "Coffin"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Coffin",
+        "The Turning Point",
+        "Puparia",
+        "Colza",
+        "The Return of the Waves",
+        "Opera",
+        "Canvas",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Twins in Paradise",
+        "My Friend Who Shines in the Night",
+        "Coffin",
+        "Sundown",
+        "Puparia"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Easter Eggs",
+        "Model Citizen",
+        "OPAL",
+        "Coffin",
+        "Sundown",
+        "The Beast",
+        "Wade",
+        "Smiling Friends",
+        "If Anything Happens I Love You",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Coffin",
+        "You Sold My Rollerskates?",
+        "My Friend Who Shines in the Night",
+        "Colza",
+        "Sundown",
+        "The Beast",
+        "Mum's Sweater",
+        "The Return of the Waves"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Songs to Sing in the Dark"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Songs to Sing in the Dark",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Myth: A Frozen Tale", "Songs to Sing in the Dark"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "To: Gerard",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Out",
+        "Myth: A Frozen Tale",
+        "The Boss Baby: Get That Baby!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sol Levante",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "Loop",
+        "Out",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Songs to Sing in the Dark",
+        "Lamp Life",
+        "Out",
+        "The Boss Baby: Get That Baby!",
+        "Carmen Sandiego: To Steal or Not to Steal"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Songs to Sing in the Dark", "Once Upon a Snowman"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Songs to Sing in the Dark", "Burrow", "Lamp Life"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "Out",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Carmen Sandiego: To Steal or Not to Steal",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "Out"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Songs to Sing in the Dark", "Burrow", "Out"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Forky Asks a Question: What Is Reading?",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Out",
+        "Myth: A Frozen Tale"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Out",
+        "Myth: A Frozen Tale"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Out",
+        "Forky Asks a Question: What Is Cheese?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Forky Asks a Question: What Is Reading?",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "Lamp Life",
+        "Once Upon a Snowman",
+        "Myth: A Frozen Tale",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Cops and Robbers",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "Canvas",
+        "Out",
+        "If Anything Happens I Love You",
+        "Pitch Black Panacea",
+        "Lamp Life",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "First Born",
+        "From Our Family to Yours",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Canvas",
+        "Out",
+        "Forky Asks a Question: What Is Reading?",
+        "Forky Asks a Question: What Is Cheese?",
+        "Songs to Sing in the Dark"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Songs to Sing in the Dark",
+        "Canvas",
+        "Burrow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Turning Point",
+        "Forky Asks a Question: What Is Cheese?",
+        "Puparia",
+        "Forky Asks a Question: What Is Reading?",
+        "A Dog That Smokes Weed",
+        "Sol Levante",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Model Citizen",
+        "Songs to Sing in the Dark",
+        "Sundown",
+        "Burrow",
+        "Lamp Life",
+        "Throat Notes",
+        "Yes-People",
+        "Twins in Paradise",
+        "Canvas",
+        "Out",
+        "Smiling Friends",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Out",
+        "Songs to Sing in the Dark",
+        "Cops and Robbers",
+        "Canvas",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Out",
+        "Songs to Sing in the Dark",
+        "Twins in Paradise",
+        "Once Upon a Snowman",
+        "Cops and Robbers",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "From Our Family to Yours",
+        "The Box Assassin",
+        "Burrow",
+        "Wade",
+        "If Anything Happens I Love You",
+        "Smiling Friends"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Lamp Life",
+        "First Born",
+        "Burrow",
+        "Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "First Born",
+        "Model Citizen",
+        "Colza",
+        "The Return of the Waves",
+        "Cops and Robbers",
+        "Canvas",
+        "My Fat Arse and I",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["First Born", "Let's Eat"]
+    },
+    {
+      "count": 6,
+      "ranking": ["First Born"]
+    },
+    {
+      "count": 1,
+      "ranking": ["First Born", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "First Born", "Let's Eat"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Model Citizen", "First Born"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "If Anything Happens I Love You",
+        "Forky Asks a Question: What Is Reading?",
+        "First Born",
+        "Umbrella"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "First Born"]
+    },
+    {
+      "count": 1,
+      "ranking": ["First Born", "Let's Eat", "Windup"]
+    },
+    {
+      "count": 4,
+      "ranking": ["First Born", "Model Citizen"]
+    },
+    {
+      "count": 1,
+      "ranking": ["First Born", "Windup", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Umbrella",
+        "The Turning Point",
+        "Napo",
+        "Model Citizen",
+        "First Born"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Let's Eat", "Puparia", "First Born", "Model Citizen"]
+    },
+    {
+      "count": 11,
+      "ranking": ["Burrow"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Burrow", "Out"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Out", "Burrow"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Puparia", "Burrow"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Canvas", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "BoxBallet", "Burrow"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Burrow", "My Fat Arse and I", "BoxBallet"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Umbrella", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Umbrella", "Burrow"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Cops and Robbers",
+        "Canvas",
+        "Let's Eat",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Folded Wish", "Napo", "Coffin", "Canvas", "Let's Eat"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Let's Eat", "Umbrella"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Let's Eat", "Canvas", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 8,
+      "ranking": ["Let's Eat"]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "Let's Eat", "Canvas"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Burrow", "Let's Eat", "Umbrella", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "Let's Eat"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Let's Eat", "Umbrella", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Napo", "Let's Eat", "Umbrella", "Windup"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Carmen Sandiego: To Steal or Not to Steal",
+        "First Born",
+        "Model Citizen",
+        "Let's Eat",
+        "Once Upon a Snowman",
+        "A Folded Wish",
+        "Myth: A Frozen Tale"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Let's Eat", "Windup"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Napo", "Umbrella", "Let's Eat"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Let's Eat",
+        "Canvas",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["You Sold My Rollerskates?"]
+    },
+    {
+      "count": 1,
+      "ranking": ["OPAL", "You Sold My Rollerskates?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "You Sold My Rollerskates?",
+        "My Friend Who Shines in the Night",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sundown",
+        "You Sold My Rollerskates?",
+        "My Friend Who Shines in the Night"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "The Return of the Waves",
+        "Sundown",
+        "You Sold My Rollerskates?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "You Sold My Rollerskates?",
+        "Twins in Paradise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "You Sold My Rollerskates?"]
+    },
+    {
+      "count": 1,
+      "ranking": ["You Sold My Rollerskates?", "Genius Loci"]
+    },
+    {
+      "count": 1,
+      "ranking": ["You Sold My Rollerskates?", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "You Sold My Rollerskates?",
+        "Out",
+        "Sundown",
+        "My Fat Arse and I",
+        "Colza"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Canvas",
+        "If Anything Happens I Love You",
+        "You Sold My Rollerskates?"
+      ]
+    },
+    {
+      "count": 11,
+      "ranking": ["Lamp Life"]
+    },
+    {
+      "count": 2,
+      "ranking": ["If Anything Happens I Love You", "Lamp Life"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Lamp Life", "Out"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "You Sold My Rollerskates?",
+        "Sundown",
+        "My Friend Who Shines in the Night",
+        "Twins in Paradise",
+        "Model Citizen",
+        "The Box Assassin",
+        "Coffin",
+        "The Return of the Waves",
+        "Lamp Life",
+        "The Beast",
+        "Mum's Sweater",
+        "If Anything Happens I Love You",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamp Life", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Snowman", "Lamp Life", "Myth: A Frozen Tale"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Maggie Simpson in \"Playdate with Destiny\"", "Lamp Life"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamp Life", "Maggie Simpson in \"Playdate with Destiny\""]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Snowman", "Burrow", "Lamp Life", "Out"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Snowman", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Lamp Life",
+        "Once Upon a Snowman"
+      ]
+    },
+    {
+      "count": 12,
+      "ranking": ["Once Upon a Snowman"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Myth: A Frozen Tale", "Once Upon a Snowman"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Snowman",
+        "If Anything Happens I Love You",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["OPAL", "Once Upon a Snowman"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Sol Levante",
+        "Forky Asks a Question: What Is Reading?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Lamp Life"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Snowman", "Lamp Life"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Cops and Robbers",
+        "If Anything Happens I Love You",
+        "Canvas",
+        "Forky Asks a Question: What Is Cheese?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["To: Gerard", "Lamp Life", "Once Upon a Snowman"]
+    },
+    {
+      "count": 6,
+      "ranking": ["To: Gerard"]
+    },
+    {
+      "count": 1,
+      "ranking": ["To: Gerard", "Out", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Snowman", "To: Gerard"]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "To: Gerard"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "To: Gerard",
+        "100.000 Acres of Pine",
+        "Opera",
+        "Yes-People",
+        "My Fat Arse and I",
+        "If Anything Happens I Love You",
+        "BoxBallet",
+        "Souvenir, Souvenir",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "To: Gerard",
+        "Lamp Life",
+        "Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kapaemahu",
+        "Genius Loci",
+        "If Anything Happens I Love You",
+        "Burrow",
+        "To: Gerard",
+        "Yes-People"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "DC Showcase: Adam Strange",
+        "DC Showcase: The Phantom Stranger",
+        "To: Gerard"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "To: Gerard", "Out", "Lamp Life"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "To: Gerard"]
+    },
+    {
+      "count": 1,
+      "ranking": ["To: Gerard", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "OPAL",
+        "To: Gerard",
+        "100.000 Acres of Pine",
+        "Kapaemahu",
+        "Twins in Paradise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Lamp Life", "To: Gerard", "Out"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "If Anything Happens I Love You", "To: Gerard"]
+    },
+    {
+      "count": 1,
+      "ranking": ["To: Gerard", "Out"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "OPAL",
+        "Smiling Friends",
+        "Puparia",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Out",
+        "If Anything Happens I Love You",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Canvas",
+        "Myth: A Frozen Tale",
+        "Once Upon a Snowman",
+        "To: Gerard",
+        "Lamp Life",
+        "Forky Asks a Question: What Is Cheese?",
+        "The Turning Point",
+        "Forky Asks a Question: What Is Reading?",
+        "Sol Levante"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sundown",
+        "The Return of the Waves",
+        "Colza",
+        "You Sold My Rollerskates?",
+        "Mum's Sweater",
+        "My Friend Who Shines in the Night"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Dog That Smokes Weed",
+        "If Anything Happens I Love You",
+        "Mum's Sweater",
+        "The Turning Point",
+        "Model Citizen",
+        "Puparia",
+        "Twins in Paradise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Mum's Sweater"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Mum's Sweater"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Dog That Smokes Weed",
+        "Model Citizen",
+        "Mum's Sweater",
+        "Kapaemahu",
+        "Twins in Paradise",
+        "Windup",
+        "Wade"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Mum's Sweater", "My Friend Who Shines in the Night"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mum's Sweater",
+        "The Return of the Waves",
+        "My Friend Who Shines in the Night"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mum's Sweater", "Model Citizen", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "Puparia", "Mum's Sweater"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "Mum's Sweater",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Napo",
+        "Mum's Sweater",
+        "100.000 Acres of Pine",
+        "First Born",
+        "If Anything Happens I Love You",
+        "Model Citizen",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mum's Sweater", "OPAL", "100.000 Acres of Pine"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Mum's Sweater",
+        "Cops and Robbers",
+        "Wade",
+        "Napo",
+        "First Born",
+        "Model Citizen",
+        "Let's Eat",
+        "Lamp Life",
+        "Windup",
+        "DC Showcase: The Phantom Stranger",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Once Upon a Snowman",
+        "Yes-People",
+        "DC Showcase: Adam Strange",
+        "Genius Loci",
+        "Minions: Holiday Special",
+        "If Anything Happens I Love You",
+        "Puparia",
+        "Sundown",
+        "The Return of the Waves",
+        "Burrow",
+        "Opera",
+        "My Friend Who Shines in the Night",
+        "Out",
+        "Smiling Friends",
+        "OPAL",
+        "BoxBallet"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mum's Sweater", "Pitch Black Panacea"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Return of the Waves", "Sundown", "Mum's Sweater"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sundown",
+        "Let's Eat",
+        "Mum's Sweater",
+        "Twins in Paradise",
+        "If Anything Happens I Love You",
+        "Napo"
+      ]
+    },
+    {
+      "count": 10,
+      "ranking": ["The Beast"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Beast",
+        "If Anything Happens I Love You",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Canvas",
+        "Souvenir, Souvenir",
+        "The Return of the Waves",
+        "Out",
+        "Myth: A Frozen Tale",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Snowman",
+        "The Beast",
+        "Empty Places",
+        "Genius Loci",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Beast", "Maggie Simpson in \"Playdate with Destiny\""]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Beast", "If Anything Happens I Love You", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Beast", "Sundown"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sundown",
+        "Puparia",
+        "The Return of the Waves",
+        "Coffin",
+        "First Born",
+        "The Beast",
+        "Napo",
+        "Umbrella",
+        "Sol Levante",
+        "Colza",
+        "Model Citizen",
+        "You Sold My Rollerskates?",
+        "My Friend Who Shines in the Night",
+        "Twins in Paradise",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Sundown",
+        "The Return of the Waves",
+        "The Beast",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Songs to Sing in the Dark",
+        "Colza",
+        "The Return of the Waves",
+        "The Beast"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Beast", "Carmen Sandiego: To Steal or Not to Steal"]
+    },
+    {
+      "count": 1,
+      "ranking": ["OPAL", "Colza", "The Beast"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Beast", "Loop"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Sundown",
+        "The Beast",
+        "My Friend Who Shines in the Night",
+        "Twins in Paradise",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Opera",
+        "Souvenir, Souvenir",
+        "BoxBallet",
+        "DC Showcase: Adam Strange"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Yes-People", "Opera", "Kapaemahu", "Genius Loci"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Smiling Friends", "Opera", "Yes-People", "Genius Loci"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Opera", "Yes-People", "Smiling Friends", "Genius Loci"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Yes-People",
+        "Opera",
+        "If Anything Happens I Love You",
+        "Souvenir, Souvenir",
+        "Easter Eggs",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Opera",
+        "Puparia",
+        "Twins in Paradise",
+        "Burrow",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Twins in Paradise",
+        "Opera",
+        "Throat Notes",
+        "If Anything Happens I Love You",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Opera", "BoxBallet", "Canvas"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Puparia",
+        "Sundown",
+        "Burrow",
+        "Lamp Life",
+        "My Friend Who Shines in the Night",
+        "Kapaemahu",
+        "Out",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "Here We Are: Notes for Living on Planet Earth",
+        "The Turning Point",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "You Sold My Rollerskates?",
+        "Umbrella",
+        "Cops and Robbers",
+        "Canvas",
+        "Twins in Paradise",
+        "Wade",
+        "Smiling Friends",
+        "BoxBallet",
+        "Genius Loci",
+        "Opera"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Opera",
+        "If Anything Happens I Love You",
+        "BoxBallet",
+        "Yes-People"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Opera",
+        "If Anything Happens I Love You",
+        "Genius Loci",
+        "Burrow",
+        "BoxBallet",
+        "Yes-People"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Cops and Robbers",
+        "Opera",
+        "Genius Loci",
+        "If Anything Happens I Love You",
+        "BoxBallet",
+        "Yes-People"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Genius Loci",
+        "Opera",
+        "If Anything Happens I Love You",
+        "Yes-People"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "If Anything Happens I Love You",
+        "Genius Loci",
+        "Opera",
+        "Yes-People"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Opera",
+        "Yes-People",
+        "Kapaemahu",
+        "BoxBallet",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Burrow",
+        "Opera",
+        "Yes-People",
+        "If Anything Happens I Love You",
+        "BoxBallet",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Opera",
+        "Yes-People",
+        "If Anything Happens I Love You",
+        "BoxBallet",
+        "Genius Loci",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Opera",
+        "Yes-People",
+        "If Anything Happens I Love You",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Cops and Robbers",
+        "Opera",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "Genius Loci",
+        "Yes-People",
+        "Pitch Black Panacea"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Lamp Life",
+        "Opera",
+        "Yes-People",
+        "Out",
+        "If Anything Happens I Love You",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Opera", "Twins in Paradise", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Opera",
+        "If Anything Happens I Love You",
+        "Burrow",
+        "Yes-People",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Cops and Robbers"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Cops and Robbers", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "OPAL",
+        "Puparia",
+        "Twins in Paradise",
+        "If Anything Happens I Love You",
+        "Canvas",
+        "Napo",
+        "Cops and Robbers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Canvas", "Burrow", "Cops and Robbers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Cops and Robbers", "Canvas"]
+    },
+    {
+      "count": 3,
+      "ranking": [
+        "Cops and Robbers",
+        "Canvas",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Cops and Robbers",
+        "My Friend Who Shines in the Night",
+        "Canvas"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Cops and Robbers", "Lupin", "Canvas"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Mum's Sweater",
+        "Cops and Robbers",
+        "Pitch Black Panacea",
+        "100.000 Acres of Pine",
+        "Canvas",
+        "Ghost Dogs",
+        "If Anything Happens I Love You",
+        "Smiling Friends",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Napo",
+        "If Anything Happens I Love You",
+        "Let's Eat",
+        "Cops and Robbers",
+        "Canvas",
+        "Windup",
+        "Umbrella"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Cops and Robbers",
+        "Canvas"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Umbrella",
+        "Canvas",
+        "Yes-People"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "Out", "Umbrella"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Turning Point",
+        "Model Citizen",
+        "Umbrella",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Folded Wish", "Umbrella", "Windup"]
+    },
+    {
+      "count": 10,
+      "ranking": ["Umbrella"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Burrow",
+        "Out",
+        "From Our Family to Yours",
+        "Umbrella",
+        "Canvas",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Out",
+        "Umbrella",
+        "Once Upon a Snowman",
+        "If Anything Happens I Love You",
+        "100.000 Acres of Pine",
+        "Windup",
+        "Myth: A Frozen Tale"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Umbrella",
+        "Canvas",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Once Upon a Snowman",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Loop", "Umbrella", "Windup"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Snowman", "Umbrella"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Out", "Umbrella"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "Umbrella"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pitch Black Panacea", "A Dog That Smokes Weed", "Puparia"]
+    },
+    {
+      "count": 13,
+      "ranking": ["Pitch Black Panacea"]
+    },
+    {
+      "count": 1,
+      "ranking": ["My Fat Arse and I", "Pitch Black Panacea"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Pitch Black Panacea", "My Fat Arse and I"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Yes-People",
+        "Pitch Black Panacea",
+        "Canvas",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Let's Eat",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Pitch Black Panacea",
+        "Umbrella",
+        "Yes-People",
+        "Canvas",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Lamp Life",
+        "Pitch Black Panacea",
+        "Canvas",
+        "If Anything Happens I Love You",
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Pitch Black Panacea", "Easter Eggs"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Puparia",
+        "A Dog That Smokes Weed",
+        "Pitch Black Panacea",
+        "Twins in Paradise",
+        "If Anything Happens I Love You",
+        "Smiling Friends",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Twins in Paradise", "Pitch Black Panacea"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "OPAL",
+        "Burrow",
+        "Pitch Black Panacea",
+        "Smiling Friends",
+        "If Anything Happens I Love You",
+        "Maggie Simpson in \"Playdate with Destiny\""
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "A Dog That Smokes Weed",
+        "Sol Levante",
+        "Pitch Black Panacea",
+        "Twins in Paradise",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Throat Notes",
+        "OPAL",
+        "Puparia",
+        "Cops and Robbers",
+        "Kapaemahu",
+        "Canvas",
+        "Out",
+        "Friendly Shadow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Throat Notes", "The Boss Baby: Get That Baby!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Throat Notes", "Twins in Paradise"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sundown", "Throat Notes"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Throat Notes", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Turning Point", "Throat Notes"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "A Dog That Smokes Weed",
+        "Throat Notes",
+        "Twins in Paradise",
+        "Smiling Friends",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Throat Notes", "Smiling Friends", "OPAL"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Puparia", "Throat Notes"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Throat Notes"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Twins in Paradise",
+        "Kapaemahu",
+        "My Friend Who Shines in the Night",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Puparia",
+        "A Dog That Smokes Weed",
+        "The Turning Point",
+        "The Return of the Waves",
+        "If Anything Happens I Love You",
+        "You Sold My Rollerskates?",
+        "Throat Notes",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sundown",
+        "Throat Notes",
+        "My Friend Who Shines in the Night",
+        "OPAL",
+        "Puparia",
+        "The Beast",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Loop",
+        "Burrow",
+        "Throat Notes",
+        "OPAL",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Throat Notes", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Coffin",
+        "Sundown",
+        "Throat Notes",
+        "Twins in Paradise",
+        "Ghost Dogs",
+        "Smiling Friends"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Dog That Smokes Weed", "Throat Notes", "Twins in Paradise"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Throat Notes",
+        "Twins in Paradise",
+        "Smiling Friends",
+        "OPAL",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Throat Notes", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Burrow",
+        "Throat Notes",
+        "OPAL",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Twins in Paradise"
+      ]
+    },
+    {
+      "count": 17,
+      "ranking": ["Loop"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Loop"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Loop", "Canvas", "Cops and Robbers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Once Upon a Snowman",
+        "Loop"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Loop", "Out"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Dorohedoro: Bonus Curse", "Loop"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yes-People",
+        "Burrow",
+        "Loop",
+        "Opera",
+        "If Anything Happens I Love You",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Loop",
+        "Burrow",
+        "Out",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Windup",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Model Citizen",
+        "Let's Eat",
+        "Burrow",
+        "Loop",
+        "Cops and Robbers",
+        "Umbrella",
+        "Out",
+        "Canvas",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 8,
+      "ranking": ["100.000 Acres of Pine"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Puparia", "100.000 Acres of Pine"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "100.000 Acres of Pine",
+        "Cops and Robbers",
+        "Canvas",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Puparia",
+        "Forky Asks a Question: What Is Reading?",
+        "A Dog That Smokes Weed",
+        "Burrow",
+        "Lamp Life",
+        "100.000 Acres of Pine",
+        "Cops and Robbers",
+        "Pitch Black Panacea",
+        "Canvas",
+        "Out",
+        "Twins in Paradise",
+        "My Fat Arse and I",
+        "Ghost Dogs",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "Easter Eggs"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Reading?",
+        "100.000 Acres of Pine"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["100.000 Acres of Pine", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Pitch Black Panacea",
+        "The Turning Point",
+        "100.000 Acres of Pine"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Lamp Life",
+        "Forky Asks a Question: What Is Cheese?",
+        "100.000 Acres of Pine",
+        "Forky Asks a Question: What Is Reading?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "100.000 Acres of Pine",
+        "Twins in Paradise",
+        "If Anything Happens I Love You",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "You Sold My Rollerskates?",
+        "Mum's Sweater",
+        "100.000 Acres of Pine"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Colza",
+        "The Return of the Waves",
+        "Sundown",
+        "100.000 Acres of Pine",
+        "My Friend Who Shines in the Night",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Friend Who Shines in the Night",
+        "Ghost Dogs",
+        "If Anything Happens I Love You",
+        "100.000 Acres of Pine",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Puparia",
+        "Sol Levante",
+        "Forky Asks a Question: What Is Reading?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "First Born",
+        "Model Citizen",
+        "Burrow",
+        "Lamp Life",
+        "100.000 Acres of Pine",
+        "Twins in Paradise",
+        "Canvas",
+        "Out",
+        "Ghost Dogs",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "Easter Eggs",
+        "Genius Loci",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Loop", "100.000 Acres of Pine"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "100.000 Acres of Pine",
+        "Puparia",
+        "Model Citizen",
+        "Yes-People",
+        "Napo",
+        "Friendly Shadow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "OPAL", "Empty Places"]
+    },
+    {
+      "count": 7,
+      "ranking": ["Empty Places"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Empty Places",
+        "A Folded Wish"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Empty Places", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Model Citizen",
+        "Burrow",
+        "Empty Places",
+        "If Anything Happens I Love You",
+        "DC Showcase: Adam Strange"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Empty Places", "100.000 Acres of Pine", "Kapaemahu"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Pitch Black Panacea",
+        "Empty Places",
+        "My Fat Arse and I",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Sundown", "Coffin", "Empty Places", "Easter Eggs"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Cops and Robbers",
+        "Empty Places",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Empty Places",
+        "If Anything Happens I Love You",
+        "Easter Eggs",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Empty Places",
+        "Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Empty Places", "Genius Loci"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Empty Places",
+        "Yes-People",
+        "Ghost Dogs",
+        "Smiling Friends",
+        "Souvenir, Souvenir",
+        "Easter Eggs",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Model Citizen",
+        "Empty Places",
+        "Yes-People",
+        "Ghost Dogs",
+        "Souvenir, Souvenir",
+        "Easter Eggs"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Turning Point",
+        "Sundown",
+        "Burrow",
+        "Opera",
+        "If Anything Happens I Love You",
+        "The Return of the Waves",
+        "To: Gerard",
+        "Empty Places",
+        "Kapaemahu",
+        "Genius Loci",
+        "Yes-People",
+        "Let's Eat",
+        "Canvas"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["BoxBallet", "Empty Places"]
+    },
+    {
+      "count": 1,
+      "ranking": ["OPAL", "Empty Places"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Genius Loci",
+        "Coffin",
+        "Pitch Black Panacea",
+        "Empty Places",
+        "Easter Eggs"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Folded Wish",
+        "Twins in Paradise",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Let's Eat",
+        "Once Upon a Snowman",
+        "A Folded Wish",
+        "Canvas",
+        "If Anything Happens I Love You",
+        "Napo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Umbrella", "Puparia", "A Folded Wish", "Windup", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Folded Wish",
+        "Cops and Robbers",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Umbrella", "A Folded Wish", "Windup"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "OPAL",
+        "A Folded Wish",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Canvas",
+        "Windup",
+        "Yes-People"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Model Citizen",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Cops and Robbers",
+        "A Folded Wish",
+        "Umbrella",
+        "Out",
+        "Yes-People",
+        "Canvas",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Folded Wish", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Folded Wish", "Windup"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Out", "A Folded Wish"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Folded Wish", "Canvas", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Folded Wish", "Let's Eat"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Folded Wish", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Napo", "Let's Eat", "Canvas", "A Folded Wish", "Burrow"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "From Our Family to Yours",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Sundown",
+        "The Return of the Waves",
+        "Coffin",
+        "Colza",
+        "You Sold My Rollerskates?",
+        "Burrow",
+        "To: Gerard",
+        "Mum's Sweater",
+        "Once Upon a Snowman",
+        "A Folded Wish",
+        "Empty Places",
+        "Umbrella",
+        "My Friend Who Shines in the Night",
+        "Out",
+        "Canvas",
+        "Windup",
+        "Myth: A Frozen Tale",
+        "If Anything Happens I Love You",
+        "Napo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Folded Wish", "Umbrella"]
+    },
+    {
+      "count": 1,
+      "ranking": ["First Born", "Let's Eat", "A Folded Wish"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamp Life", "A Folded Wish", "Model Citizen"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Umbrella", "A Folded Wish"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sundown",
+        "Model Citizen",
+        "First Born",
+        "Let's Eat",
+        "Once Upon a Snowman",
+        "A Folded Wish",
+        "Out",
+        "Canvas",
+        "If Anything Happens I Love You",
+        "Napo",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Folded Wish"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Let's Eat",
+        "Lamp Life",
+        "A Folded Wish",
+        "Windup",
+        "Napo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Model Citizen",
+        "First Born",
+        "Let's Eat",
+        "A Folded Wish",
+        "If Anything Happens I Love You",
+        "Napo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Lamp Life",
+        "Out",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 9,
+      "ranking": ["Out"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Turning Point",
+        "Model Citizen",
+        "Out",
+        "Twins in Paradise",
+        "My Friend Who Shines in the Night"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Out", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "Out",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "If Anything Happens I Love You", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Mum's Sweater",
+        "Umbrella",
+        "Out",
+        "Canvas",
+        "Twins in Paradise",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Canvas"]
+    },
+    {
+      "count": 3,
+      "ranking": ["If Anything Happens I Love You", "Canvas"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Out", "If Anything Happens I Love You", "Canvas"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Canvas", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Canvas", "If Anything Happens I Love You", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Canvas",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Let's Eat",
+        "The Turning Point",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "First Born",
+        "Canvas",
+        "If Anything Happens I Love You",
+        "Model Citizen",
+        "Umbrella"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Burrow", "Canvas"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Canvas", "Puparia", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Canvas", "Burrow"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mum's Sweater",
+        "Canvas",
+        "My Friend Who Shines in the Night",
+        "The Turning Point",
+        "Out",
+        "Friendly Shadow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamp Life", "Canvas"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Canvas", "Out"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Cops and Robbers",
+        "If Anything Happens I Love You",
+        "Canvas"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Canvas",
+        "If Anything Happens I Love You",
+        "Minions: Holiday Special"
+      ]
+    },
+    {
+      "count": 15,
+      "ranking": ["Twins in Paradise"]
+    },
+    {
+      "count": 1,
+      "ranking": ["OPAL", "Twins in Paradise", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Twins in Paradise", "Puparia", "Out"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Twins in Paradise", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Twins in Paradise", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Twins in Paradise",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Twins in Paradise", "Puparia"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Twins in Paradise", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Twins in Paradise",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Smiling Friends",
+        "Puparia",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Twins in Paradise",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "The Boss Baby: Get That Baby!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "The Turning Point",
+        "If Anything Happens I Love You",
+        "Yes-People",
+        "Twins in Paradise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Yes-People", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Genius Loci", "Yes-People"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Twins in Paradise",
+        "If Anything Happens I Love You",
+        "Colza",
+        "Burrow",
+        "OPAL",
+        "Smiling Friends",
+        "The Box Assassin",
+        "Yes-People",
+        "The Turning Point"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Yes-People"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Yes-People", "Burrow"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Yes-People"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Loop", "Yes-People"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Burrow", "Yes-People", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Canvas",
+        "Sundown",
+        "Burrow",
+        "Yes-People",
+        "If Anything Happens I Love You",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Yes-People",
+        "My Fat Arse and I",
+        "If Anything Happens I Love You",
+        "BoxBallet"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Return of the Waves",
+        "Sundown",
+        "First Born",
+        "If Anything Happens I Love You",
+        "Burrow",
+        "Let's Eat",
+        "Once Upon a Snowman",
+        "Umbrella",
+        "From Our Family to Yours",
+        "Canvas",
+        "Model Citizen",
+        "Yes-People",
+        "Minions: Holiday Special"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Lamp Life",
+        "Yes-People"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Kapaemahu"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kapaemahu", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kapaemahu", "Twins in Paradise"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kapaemahu",
+        "Canvas",
+        "My Friend Who Shines in the Night",
+        "Souvenir, Souvenir",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Genius Loci", "Kapaemahu"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Kapaemahu"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kapaemahu", "OPAL", "Puparia"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kapaemahu", "Canvas", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Kapaemahu", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "The Return of the Waves",
+        "Sundown",
+        "Kapaemahu",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kapaemahu",
+        "Sundown",
+        "Opera",
+        "Twins in Paradise",
+        "Yes-People",
+        "My Fat Arse and I",
+        "Easter Eggs",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Kapaemahu", "Twins in Paradise"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Napo",
+        "Umbrella",
+        "Kapaemahu",
+        "Let's Eat",
+        "100.000 Acres of Pine",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kapaemahu", "Out"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Friend Who Shines in the Night",
+        "Coffin",
+        "The Return of the Waves",
+        "Burrow",
+        "Sundown",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["OPAL", "My Friend Who Shines in the Night"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Pitch Black Panacea",
+        "My Friend Who Shines in the Night",
+        "Twins in Paradise",
+        "My Fat Arse and I",
+        "If Anything Happens I Love You",
+        "Easter Eggs"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["My Friend Who Shines in the Night"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Opera",
+        "My Friend Who Shines in the Night",
+        "If Anything Happens I Love You",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Friend Who Shines in the Night",
+        "Model Citizen",
+        "Friendly Shadow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Friend Who Shines in the Night",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sundown",
+        "Colza",
+        "Model Citizen",
+        "The Return of the Waves",
+        "Coffin",
+        "My Friend Who Shines in the Night",
+        "Friendly Shadow"
+      ]
+    },
+    {
+      "count": 16,
+      "ranking": ["My Fat Arse and I"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "My Fat Arse and I"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Fat Arse and I",
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["My Fat Arse and I", "Easter Eggs"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Canvas", "My Fat Arse and I"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Burrow",
+        "Opera",
+        "My Fat Arse and I",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "My Fat Arse and I",
+        "Easter Eggs",
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Windup", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Windup", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Model Citizen",
+        "Windup",
+        "Lupin",
+        "Carmen Sandiego: To Steal or Not to Steal"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Let's Eat",
+        "Burrow",
+        "Umbrella",
+        "Windup",
+        "DC Showcase: The Phantom Stranger",
+        "DC Showcase: Adam Strange"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Umbrella", "Yes-People", "Windup"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Windup"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Umbrella", "Windup"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Umbrella", "Windup", "Napo", "Let's Eat"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Let's Eat",
+        "Umbrella",
+        "Model Citizen",
+        "Cops and Robbers",
+        "Windup"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Let's Eat", "Napo", "Windup"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Umbrella",
+        "Windup",
+        "Forky Asks a Question: What Is Cheese?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Lamp Life",
+        "Out",
+        "Once Upon a Snowman",
+        "The Box Assassin",
+        "First Born",
+        "Model Citizen",
+        "Burrow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Canvas", "If Anything Happens I Love You", "Napo", "Windup"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Umbrella", "Canvas", "Napo", "Windup"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Canvas",
+        "Myth: A Frozen Tale"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Out", "Myth: A Frozen Tale"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Once Upon a Snowman",
+        "Myth: A Frozen Tale",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "Myth: A Frozen Tale"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "Myth: A Frozen Tale",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Myth: A Frozen Tale", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "Myth: A Frozen Tale",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Out",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Myth: A Frozen Tale",
+        "DC Showcase: Adam Strange",
+        "Minions: Holiday Special"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Snowman",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "Myth: A Frozen Tale",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Lamp Life"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Myth: A Frozen Tale",
+        "If Anything Happens I Love You",
+        "Once Upon a Snowman"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Myth: A Frozen Tale"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Myth: A Frozen Tale",
+        "Minions: Holiday Special"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Let's Eat",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Umbrella",
+        "A Folded Wish",
+        "Myth: A Frozen Tale",
+        "If Anything Happens I Love You",
+        "Napo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Snowman",
+        "Myth: A Frozen Tale",
+        "Minions: Holiday Special"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Snowman", "Myth: A Frozen Tale"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Out",
+        "Myth: A Frozen Tale"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ghost Dogs",
+        "Puparia",
+        "Coffin",
+        "Canvas",
+        "Smiling Friends"
+      ]
+    },
+    {
+      "count": 10,
+      "ranking": ["Ghost Dogs"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Twins in Paradise",
+        "Opera",
+        "OPAL",
+        "Puparia",
+        "Coffin",
+        "Sundown",
+        "Burrow",
+        "Ghost Dogs",
+        "If Anything Happens I Love You",
+        "Pitch Black Panacea",
+        "A Dog That Smokes Weed",
+        "Mum's Sweater",
+        "DC Showcase: The Phantom Stranger",
+        "Model Citizen",
+        "The Beast",
+        "Throat Notes",
+        "Genius Loci",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamp Life", "Ghost Dogs"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Dog That Smokes Weed",
+        "Ghost Dogs",
+        "Smiling Friends",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "100.000 Acres of Pine",
+        "Ghost Dogs",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Easter Eggs", "Ghost Dogs"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mum's Sweater",
+        "Ghost Dogs",
+        "Smiling Friends",
+        "DC Showcase: The Phantom Stranger"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ghost Dogs", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Canvas", "Ghost Dogs", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Smiling Friends",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "Ghost Dogs"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Ghost Dogs",
+        "Dorohedoro: Bonus Curse",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "100.000 Acres of Pine", "Ghost Dogs"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sundown",
+        "Pitch Black Panacea",
+        "Empty Places",
+        "Canvas",
+        "My Fat Arse and I",
+        "Wade",
+        "Ghost Dogs",
+        "Easter Eggs",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 23,
+      "ranking": ["Lupin"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lupin", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Lupin"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sundown", "Umbrella", "Wade", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Out",
+        "Wade",
+        "If Anything Happens I Love You",
+        "Easter Eggs"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Wade"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Wade", "Puparia"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Smiling Friends", "Wade", "Dorohedoro: Bonus Curse"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Twins in Paradise", "Burrow", "Wade", "Smiling Friends"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Wade", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sundown", "Wade", "Puparia", "Cops and Robbers", "Canvas"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Wade"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Let's Eat", "Wade", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Twins in Paradise",
+        "Wade",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wade", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Canvas",
+        "Wade",
+        "Souvenir, Souvenir"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Wade"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wade", "Lamp Life"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Let's Eat", "Umbrella", "Wade"]
+    },
+    {
+      "count": 1,
+      "ranking": ["OPAL", "Smiling Friends", "Wade"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wade", "Smiling Friends"]
+    },
+    {
+      "count": 21,
+      "ranking": ["If Anything Happens I Love You"]
+    },
+    {
+      "count": 2,
+      "ranking": ["If Anything Happens I Love You", "Puparia"]
+    },
+    {
+      "count": 18,
+      "ranking": ["Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Smiling Friends",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Smiling Friends", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Smiling Friends"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Smiling Friends", "OPAL"]
+    },
+    {
+      "count": 10,
+      "ranking": ["OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Carmen Sandiego: To Steal or Not to Steal",
+        "Model Citizen",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Dog That Smokes Weed", "OPAL", "Twins in Paradise"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Puparia", "Twins in Paradise", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Burrow",
+        "Lamp Life",
+        "Out",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Snowman", "Smiling Friends", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Smiling Friends",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": ["OPAL", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Pitch Black Panacea",
+        "OPAL",
+        "Puparia",
+        "A Dog That Smokes Weed",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 10,
+      "ranking": ["BoxBallet"]
+    },
+    {
+      "count": 1,
+      "ranking": ["BoxBallet", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "BoxBallet"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Burrow",
+        "Opera",
+        "BoxBallet",
+        "Yes-People"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["BoxBallet", "Out"]
+    },
+    {
+      "count": 10,
+      "ranking": ["Easter Eggs"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Easter Eggs"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Smiling Friends", "Easter Eggs"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "OPAL",
+        "Cops and Robbers",
+        "Easter Eggs",
+        "Out",
+        "Burrow",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Easter Eggs",
+        "Puparia",
+        "Twins in Paradise",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "Easter Eggs"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Opera",
+        "Easter Eggs",
+        "Puparia",
+        "Genius Loci",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sundown",
+        "Colza",
+        "Throat Notes",
+        "Smiling Friends",
+        "Easter Eggs",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Easter Eggs", "My Friend Who Shines in the Night"]
+    },
+    {
+      "count": 8,
+      "ranking": [
+        "DC Showcase: The Phantom Stranger",
+        "DC Showcase: Adam Strange"
+      ]
+    },
+    {
+      "count": 8,
+      "ranking": ["DC Showcase: The Phantom Stranger"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Lamp Life",
+        "DC Showcase: The Phantom Stranger",
+        "DC Showcase: Adam Strange"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamp Life", "DC Showcase: The Phantom Stranger"]
+    },
+    {
+      "count": 1,
+      "ranking": ["DC Showcase: The Phantom Stranger", "Out", "OPAL"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "DC Showcase: The Phantom Stranger"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "DC Showcase: The Phantom Stranger",
+        "Out",
+        "DC Showcase: Adam Strange",
+        "Lamp Life",
+        "Umbrella",
+        "Once Upon a Snowman",
+        "If Anything Happens I Love You",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "DC Showcase: Adam Strange",
+        "DC Showcase: The Phantom Stranger"
+      ]
+    },
+    {
+      "count": 18,
+      "ranking": ["Souvenir, Souvenir"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy",
+        "Windup",
+        "The Turning Point",
+        "Puparia",
+        "Model Citizen",
+        "Umbrella",
+        "My Fat Arse and I",
+        "Ghost Dogs",
+        "Souvenir, Souvenir",
+        "Easter Eggs",
+        "Napo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Colza",
+        "My Fat Arse and I",
+        "If Anything Happens I Love You",
+        "Souvenir, Souvenir",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["My Friend Who Shines in the Night", "Souvenir, Souvenir"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Canvas",
+        "If Anything Happens I Love You",
+        "Souvenir, Souvenir"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "You Sold My Rollerskates?",
+        "Twins in Paradise",
+        "The Return of the Waves",
+        "Colza",
+        "Souvenir, Souvenir",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Genius Loci"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Genius Loci"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Coffin",
+        "Colza",
+        "The Return of the Waves",
+        "Sundown",
+        "You Sold My Rollerskates?",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Smiling Friends",
+        "Burrow",
+        "If Anything Happens I Love You",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "Genius Loci"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Burrow",
+        "Yes-People",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Burrow",
+        "Once Upon a Snowman",
+        "If Anything Happens I Love You",
+        "Genius Loci"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Genius Loci", "The Boss Baby: Get That Baby!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wade", "Genius Loci", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 8,
+      "ranking": ["DC Showcase: Adam Strange"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Smiling Friends", "DC Showcase: Adam Strange"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "From Our Family to Yours",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Forky Asks a Question: What Is Reading?",
+        "Lamp Life",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "Out",
+        "Myth: A Frozen Tale",
+        "DC Showcase: Adam Strange",
+        "Once Upon a Snowman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "DC Showcase: Adam Strange"]
+    },
+    {
+      "count": 10,
+      "ranking": ["Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Napo", "Burrow", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Lamp Life",
+        "Napo",
+        "Yes-People",
+        "Burrow",
+        "Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Model Citizen", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Napo", "If Anything Happens I Love You"]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "Burrow", "Opera", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "Napo", "Canvas"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pitch Black Panacea", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Napo"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Napo",
+        "If Anything Happens I Love You",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Umbrella",
+        "If Anything Happens I Love You",
+        "Burrow",
+        "Yes-People",
+        "Genius Loci",
+        "Napo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Napo"]
+    },
+    {
+      "count": 13,
+      "ranking": [
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Easter Eggs",
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Smiling Friends",
+        "OPAL",
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "OPAL",
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "My Fat Arse and I",
+        "If Anything Happens I Love You",
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Pitch Black Panacea",
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "If Anything Happens I Love You",
+        "Colza",
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "OPAL",
+        "Mum's Sweater",
+        "Smiling Friends",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Puparia",
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Coffin",
+        "Colza",
+        "OPAL",
+        "Wittgenstein Plays Chess with Marcel Duchamp, or How Not to Do Philosophy"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Friendly Shadow", "Model Citizen"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Model Citizen", "Friendly Shadow", "Puparia"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Friendly Shadow",
+        "Model Citizen",
+        "Out",
+        "If Anything Happens I Love You",
+        "Burrow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "OPAL",
+        "Twins in Paradise",
+        "Friendly Shadow",
+        "Model Citizen"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Model Citizen",
+        "Friendly Shadow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Canvas",
+        "If Anything Happens I Love You",
+        "Friendly Shadow",
+        "Model Citizen"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "To: Gerard",
+        "Friendly Shadow",
+        "Umbrella",
+        "Napo",
+        "Model Citizen",
+        "Myth: A Frozen Tale",
+        "From Our Family to Yours",
+        "Puparia",
+        "Let's Eat",
+        "Windup",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Burrow",
+        "Once Upon a Snowman",
+        "Lamp Life",
+        "Canvas",
+        "Out",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Model Citizen", "Lamp Life", "Out", "Friendly Shadow"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Model Citizen",
+        "Twins in Paradise",
+        "Canvas",
+        "If Anything Happens I Love You",
+        "Friendly Shadow",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "Carmen Sandiego: To Steal or Not to Steal"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Model Citizen", "OPAL", "Friendly Shadow"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Model Citizen",
+        "If Anything Happens I Love You",
+        "Friendly Shadow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Twins in Paradise",
+        "Friendly Shadow",
+        "Model Citizen",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Model Citizen",
+        "Friendly Shadow",
+        "From Our Family to Yours",
+        "Lamp Life",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Once Upon a Snowman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Model Citizen", "Once Upon a Snowman", "Friendly Shadow"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Model Citizen",
+        "Smiling Friends",
+        "Friendly Shadow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Model Citizen",
+        "Out",
+        "Canvas",
+        "If Anything Happens I Love You",
+        "Friendly Shadow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamp Life", "Minions: Holiday Special"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Minions: Holiday Special",
+        "Carmen Sandiego: To Steal or Not to Steal"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Box Assassin",
+        "Lamp Life",
+        "Out",
+        "Burrow",
+        "Canvas",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Minions: Holiday Special"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["If Anything Happens I Love You", "Minions: Holiday Special"]
+    },
+    {
+      "count": 8,
+      "ranking": ["Minions: Holiday Special"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Once Upon a Snowman",
+        "The Boss Baby: Get That Baby!",
+        "Minions: Holiday Special"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Lamp Life",
+        "Out",
+        "Myth: A Frozen Tale",
+        "Forky Asks a Question: What Is Cheese?",
+        "Once Upon a Snowman",
+        "Forky Asks a Question: What Is Reading?",
+        "Minions: Holiday Special"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Minions: Holiday Special", "100.000 Acres of Pine"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Upon a Snowman", "OPAL", "Minions: Holiday Special"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Canvas", "Minions: Holiday Special"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Once Upon a Snowman",
+        "Myth: A Frozen Tale",
+        "Minions: Holiday Special"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Out", "Canvas", "Minions: Holiday Special"]
+    },
+    {
+      "count": 13,
+      "ranking": [
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Puparia",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "Dorohedoro: Bonus Curse"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamp Life",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Smiling Friends",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "Canvas"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "Out"
+      ]
+    },
+    {
+      "count": 18,
+      "ranking": ["The Boss Baby: Get That Baby!"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "The Boss Baby: Get That Baby!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Boss Baby: Get That Baby!",
+        "Carmen Sandiego: To Steal or Not to Steal"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Boss Baby: Get That Baby!", "Canvas"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Lamp Life",
+        "The Boss Baby: Get That Baby!",
+        "Forky Asks a Question: What Is Reading?",
+        "Forky Asks a Question: What Is Cheese?",
+        "Burrow",
+        "Out",
+        "Smiling Friends",
+        "If Anything Happens I Love You",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 12,
+      "ranking": ["Dorohedoro: Bonus Curse"]
+    },
+    {
+      "count": 2,
+      "ranking": ["If Anything Happens I Love You", "Dorohedoro: Bonus Curse"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Dorohedoro: Bonus Curse", "OPAL", "Smiling Friends"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Dorohedoro: Bonus Curse",
+        "Puparia",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Burrow",
+        "100.000 Acres of Pine",
+        "Twins in Paradise",
+        "Canvas",
+        "Smiling Friends",
+        "If Anything Happens I Love You",
+        "OPAL",
+        "The Boss Baby: Get That Baby!",
+        "Here We Are: Notes for Living on Planet Earth"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Dorohedoro: Bonus Curse", "Sol Levante"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puparia", "Smiling Friends", "Dorohedoro: Bonus Curse"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Twins in Paradise", "Dorohedoro: Bonus Curse"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Throat Notes",
+        "Smiling Friends",
+        "OPAL",
+        "Dorohedoro: Bonus Curse"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pitch Black Panacea", "Dorohedoro: Bonus Curse"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Smiling Friends", "Dorohedoro: Bonus Curse"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Sundown",
+        "Twins in Paradise",
+        "My Fat Arse and I",
+        "Dorohedoro: Bonus Curse"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "A Dog That Smokes Weed",
+        "Model Citizen",
+        "Throat Notes",
+        "Twins in Paradise",
+        "Smiling Friends",
+        "OPAL",
+        "Dorohedoro: Bonus Curse"
+      ]
+    },
+    {
+      "count": 17,
+      "ranking": ["Carmen Sandiego: To Steal or Not to Steal"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Dorohedoro: Bonus Curse",
+        "Carmen Sandiego: To Steal or Not to Steal"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "Carmen Sandiego: To Steal or Not to Steal"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Carmen Sandiego: To Steal or Not to Steal",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sundown",
+        "My Friend Who Shines in the Night",
+        "If Anything Happens I Love You",
+        "Burrow",
+        "To: Gerard",
+        "Umbrella",
+        "Out",
+        "Napo",
+        "A Folded Wish",
+        "Canvas",
+        "Windup",
+        "Carmen Sandiego: To Steal or Not to Steal",
+        "Here We Are: Notes for Living on Planet Earth",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Lamp Life",
+        "Forky Asks a Question: What Is Cheese?",
+        "Once Upon a Snowman",
+        "Yes-People",
+        "The Boss Baby: Get That Baby!",
+        "Forky Asks a Question: What Is Reading?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Canvas",
+        "If Anything Happens I Love You",
+        "Carmen Sandiego: To Steal or Not to Steal"
+      ]
+    },
+    {
+      "count": 11,
+      "ranking": [
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Twins in Paradise",
+        "If Anything Happens I Love You",
+        "Smiling Friends",
+        "Puparia",
+        "Burrow",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Smiling Friends",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "100.000 Acres of Pine",
+        "Sol Levante",
+        "My Fat Arse and I",
+        "Smiling Friends",
+        "Easter Eggs",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Umbrella",
+        "If Anything Happens I Love You",
+        "Out",
+        "Smiling Friends",
+        "OPAL",
+        "Carmen Sandiego: To Steal or Not to Steal",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Twins in Paradise",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Sol Levante",
+        "Sundown",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "The Beast",
+        "To: Gerard",
+        "Lamp Life",
+        "Opera",
+        "Yes-People",
+        "Out",
+        "Kapaemahu",
+        "If Anything Happens I Love You",
+        "BoxBallet",
+        "Souvenir, Souvenir",
+        "Genius Loci",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Twins in Paradise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+        "Burrow",
+        "Songs to Sing in the Dark",
+        "Lamp Life",
+        "Out",
+        "DC Showcase: Adam Strange",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "DC Showcase: The Phantom Stranger",
+        "Here We Are: Notes for Living on Planet Earth",
+        "OPAL"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Loop",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puparia",
+        "Twins in Paradise",
+        "Smiling Friends",
+        "World of Tomorrow Episode Three: The Absent Destinations of David Prime"
+      ]
+    },
+    {
+      "count": 14,
+      "ranking": ["Here We Are: Notes for Living on Planet Earth"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Out",
+        "Canvas",
+        "If Anything Happens I Love You",
+        "The Boss Baby: Get That Baby!",
+        "Carmen Sandiego: To Steal or Not to Steal",
+        "Here We Are: Notes for Living on Planet Earth"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamp Life", "Here We Are: Notes for Living on Planet Earth"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Here We Are: Notes for Living on Planet Earth",
+        "Out",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 1",
+        "My Hero Academia: Make It! Do-or-Die Survival Training, Part 2",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Lamp Life"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "If Anything Happens I Love You",
+        "My Fat Arse and I",
+        "Here We Are: Notes for Living on Planet Earth"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "If Anything Happens I Love You",
+        "Here We Are: Notes for Living on Planet Earth",
+        "Canvas"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Here We Are: Notes for Living on Planet Earth",
+        "If Anything Happens I Love You"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Here We Are: Notes for Living on Planet Earth",
+        "Smiling Friends"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Here We Are: Notes for Living on Planet Earth",
+        "Forky Asks a Question: What Is Cheese?",
+        "Forky Asks a Question: What Is Reading?",
+        "DC Showcase: The Phantom Stranger",
+        "DC Showcase: Adam Strange",
+        "Burrow",
+        "Lamp Life"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Burrow", "Here We Are: Notes for Living on Planet Earth"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Burrow",
+        "Canvas",
+        "Here We Are: Notes for Living on Planet Earth"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Twins in Paradise",
+        "Throat Notes",
+        "OPAL",
+        "Puparia",
+        "Songs to Sing in the Dark",
+        "Burrow",
+        "Out",
+        "Smiling Friends",
+        "Friendly Shadow",
+        "Forky Asks a Question: What Is Cheese?",
+        "A Dog That Smokes Weed",
+        "Maggie Simpson in \"Playdate with Destiny\"",
+        "Lamp Life",
+        "Umbrella",
+        "My Fat Arse and I",
+        "Easter Eggs",
+        "Napo",
+        "The Turning Point",
+        "Model Citizen",
+        "Once Upon a Snowman",
+        "Canvas",
+        "Myth: A Frozen Tale",
+        "Here We Are: Notes for Living on Planet Earth",
+        "Forky Asks a Question: What Is Reading?"
+      ]
+    }
+  ]
+}
