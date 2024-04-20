@@ -1,57 +1,117 @@
 [
   {
     "year": 2013,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "The Great Beauty",
+      "The Broken Circle Breakdown",
+      "The Hunt",
+      "The Missing Picture",
+      "Omar"
+    ],
+    "winner": "The Great Beauty"
   },
   {
     "year": 2014,
-    "nominees": [],
-    "winner": ""
+    "nominees": ["Ida", "Leviathan", "Tangerines", "Timbuktu", "Wild Tales"],
+    "winner": "Ida"
   },
   {
     "year": 2015,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Son of Saul",
+      "Embrace of the Serpent",
+      "Mustang",
+      "Theeb",
+      "A War"
+    ],
+    "winner": "Son of Saul"
   },
   {
     "year": 2016,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "The Salesman",
+      "Land of Mine",
+      "A Man Called Ove",
+      "Tanna",
+      "Toni Erdmann"
+    ],
+    "winner": "The Salesman"
   },
   {
     "year": 2017,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "A Fantastic Woman",
+      "The Insult",
+      "Loveless",
+      "On Body and Soul",
+      "The Square"
+    ],
+    "winner": "A Fantastic Woman"
   },
   {
     "year": 2018,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Roma",
+      "Capernaum",
+      "Cold War",
+      "Never Look Away",
+      "Shoplifters"
+    ],
+    "winner": "Roma"
   },
   {
     "year": 2019,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Parasite",
+      "Corpus Christi",
+      "Honeyland",
+      "Les Misérables",
+      "Pain and Glory"
+    ],
+    "winner": "Parasite"
   },
   {
     "year": 2020,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Another Round",
+      "Better Days",
+      "Collective",
+      "The Man Who Sold His Skin",
+      "Quo Vadis, Aida?"
+    ],
+    "winner": "Another Round"
   },
   {
     "year": 2021,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Drive My Car",
+      "Flee",
+      "The Hand of God",
+      "Lunana: A Yak in the Classroom",
+      "The Worst Person in the World"
+    ],
+    "winner": "Drive My Car"
   },
   {
     "year": 2022,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "All Quiet on the Western Front",
+      "Argentina, 1985",
+      "Close",
+      "EO",
+      "The Quiet Girl"
+    ],
+    "winner": "All Quiet on the Western Front"
   },
   {
     "year": 2023,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "The Zone of Interest",
+      "Io Capitano",
+      "Perfect Days",
+      "Society of the Snow",
+      "The Teachers' Lounge"
+    ],
+    "winner": "The Zone of Interest"
   }
 ]

@@ -12,7 +12,7 @@
       "Philomena",
       "The Wolf of Wall Street"
     ],
-    "winner": ""
+    "winner": "12 Years a Slave"
   },
   {
     "year": 2014,
@@ -26,7 +26,7 @@
       "The Theory of Everything",
       "Whiplash"
     ],
-    "winner": ""
+    "winner": "Birdman or (The Unexpected Virtue of Ignorance)"
   },
   {
     "year": 2015,
@@ -40,7 +40,7 @@
       "The Revenant",
       "Room"
     ],
-    "winner": ""
+    "winner": "Spotlight"
   },
   {
     "year": 2016,
@@ -52,9 +52,10 @@
       "Hell or High Water",
       "Hidden Figures",
       "La La Land",
-      "Lion"
+      "Lion",
+      "Manchester by the Sea"
     ],
-    "winner": ""
+    "winner": "Moonlight"
   },
   {
     "year": 2017,
@@ -69,7 +70,7 @@
       "The Post",
       "Three Billboards Outside Ebbing, Missouri"
     ],
-    "winner": ""
+    "winner": "The Shape of Water"
   },
   {
     "year": 2018,
@@ -83,7 +84,7 @@
       "A Star Is Born",
       "Vice"
     ],
-    "winner": ""
+    "winner": "Green Book"
   },
   {
     "year": 2019,
@@ -98,7 +99,7 @@
       "Once Upon a Time in Hollywood",
       "Parasite"
     ],
-    "winner": ""
+    "winner": "Parasite"
   },
   {
     "year": 2020,
@@ -112,7 +113,7 @@
       "Sound of Metal",
       "The Trial of the Chicago 7"
     ],
-    "winner": ""
+    "winner": "Nomadland"
   },
   {
     "year": 2021,
@@ -128,7 +129,7 @@
       "The Power of the Dog",
       "West Side Story"
     ],
-    "winner": ""
+    "winner": "CODA"
   },
   {
     "year": 2022,
@@ -144,7 +145,7 @@
       "Triangle of Sadness",
       "Women Talking"
     ],
-    "winner": ""
+    "winner": "Everything Everywhere All at Once"
   },
   {
     "year": 2023,
@@ -160,6 +161,6 @@
       "Poor Things",
       "The Zone of Interest"
     ],
-    "winner": ""
+    "winner": "Oppenheimer"
   }
 ]

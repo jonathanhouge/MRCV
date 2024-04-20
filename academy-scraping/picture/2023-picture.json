@@ -5,15 +5,9 @@
     "Average_rating": 3.88,
     "Owner_rating": 0,
     "Runtime": 114,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Adventure"
-    ],
+    "Genres": ["Comedy", "Adventure"],
     "Watches": 3468330,
     "List_appearances": 437894,
     "Likes": 1503396,
@@ -36,15 +30,9 @@
     "Average_rating": 4.24,
     "Owner_rating": 0,
     "Runtime": 181,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "History"
-    ],
+    "Genres": ["Drama", "History"],
     "Watches": 2467792,
     "List_appearances": 460170,
     "Likes": 989529,
@@ -67,16 +55,9 @@
     "Average_rating": 3.44,
     "Owner_rating": 0,
     "Runtime": 131,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama",
-      "Thriller"
-    ],
+    "Genres": ["Comedy", "Drama", "Thriller"],
     "Watches": 1932573,
     "List_appearances": 209604,
     "Likes": 563711,
@@ -99,17 +80,9 @@
     "Average_rating": 4.07,
     "Owner_rating": 0,
     "Runtime": 142,
-    "Countries": [
-      "Ireland",
-      "UK",
-      "USA"
-    ],
+    "Countries": ["Ireland", "UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Romance",
-      "Science Fiction",
-      "Comedy"
-    ],
+    "Genres": ["Romance", "Science Fiction", "Comedy"],
     "Watches": 1572681,
     "List_appearances": 313007,
     "Likes": 626243,
@@ -132,15 +105,9 @@
     "Average_rating": 4.19,
     "Owner_rating": 0,
     "Runtime": 106,
-    "Countries": [
-      "South Korea",
-      "USA"
-    ],
+    "Countries": ["South Korea", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Romance"
-    ],
+    "Genres": ["Drama", "Romance"],
     "Watches": 997533,
     "List_appearances": 277139,
     "Likes": 425182,
@@ -163,15 +130,9 @@
     "Average_rating": 3.97,
     "Owner_rating": 0,
     "Runtime": 150,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
+    "Genres": ["Action", "Adventure", "Science Fiction"],
     "Watches": 1442355,
     "List_appearances": 294591,
     "Likes": 545146,
@@ -194,15 +155,9 @@
     "Average_rating": 4.16,
     "Owner_rating": 0,
     "Runtime": 152,
-    "Countries": [
-      "France"
-    ],
+    "Countries": ["France"],
     "Original_language": "French",
-    "Genres": [
-      "Mystery",
-      "Crime",
-      "Thriller"
-    ],
+    "Genres": ["Mystery", "Crime", "Thriller"],
     "Watches": 909529,
     "List_appearances": 218209,
     "Likes": 338522,
@@ -225,13 +180,9 @@
     "Average_rating": 3.83,
     "Owner_rating": 0,
     "Runtime": 91,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy"
-    ],
+    "Genres": ["Comedy"],
     "Watches": 953909,
     "List_appearances": 184421,
     "Likes": 395166,
@@ -254,15 +205,9 @@
     "Average_rating": 4.11,
     "Owner_rating": 0,
     "Runtime": 206,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "History",
-      "Crime",
-      "Drama"
-    ],
+    "Genres": ["History", "Crime", "Drama"],
     "Watches": 933343,
     "List_appearances": 269758,
     "Likes": 315862,
@@ -285,14 +230,9 @@
     "Average_rating": 4.22,
     "Owner_rating": 0,
     "Runtime": 133,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 800428,
     "List_appearances": 238532,
     "Likes": 350939,
@@ -315,16 +255,9 @@
     "Average_rating": 3.29,
     "Owner_rating": 0,
     "Runtime": 117,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Fantasy",
-      "Family"
-    ],
+    "Genres": ["Comedy", "Fantasy", "Family"],
     "Watches": 942461,
     "List_appearances": 126836,
     "Likes": 252641,
@@ -347,14 +280,9 @@
     "Average_rating": 3.53,
     "Owner_rating": 0,
     "Runtime": 105,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 836778,
     "List_appearances": 198894,
     "Likes": 248107,
@@ -377,15 +305,9 @@
     "Average_rating": 3.6,
     "Owner_rating": 0,
     "Runtime": 157,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Science Fiction",
-      "Drama",
-      "Action"
-    ],
+    "Genres": ["Science Fiction", "Drama", "Action"],
     "Watches": 949771,
     "List_appearances": 121720,
     "Likes": 313363,
@@ -408,16 +330,9 @@
     "Average_rating": 3.58,
     "Owner_rating": 0,
     "Runtime": 110,
-    "Countries": [
-      "Italy",
-      "USA"
-    ],
+    "Countries": ["Italy", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Romance",
-      "Music",
-      "Drama"
-    ],
+    "Genres": ["Romance", "Music", "Drama"],
     "Watches": 669818,
     "List_appearances": 137593,
     "Likes": 219497,
@@ -440,15 +355,9 @@
     "Average_rating": 4.13,
     "Owner_rating": 0,
     "Runtime": 144,
-    "Countries": [
-      "Spain",
-      "USA"
-    ],
+    "Countries": ["Spain", "USA"],
     "Original_language": "Spanish",
-    "Genres": [
-      "History",
-      "Drama"
-    ],
+    "Genres": ["History", "Drama"],
     "Watches": 760516,
     "List_appearances": 105979,
     "Likes": 287082,
@@ -471,14 +380,9 @@
     "Average_rating": 3.06,
     "Owner_rating": 0,
     "Runtime": 104,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "Genres": ["Comedy", "Romance"],
     "Watches": 895556,
     "List_appearances": 112231,
     "Likes": 199159,
@@ -501,17 +405,9 @@
     "Average_rating": 3.9,
     "Owner_rating": 0,
     "Runtime": 105,
-    "Countries": [
-      "Poland",
-      "UK",
-      "USA"
-    ],
+    "Countries": ["Poland", "UK", "USA"],
     "Original_language": "German",
-    "Genres": [
-      "Drama",
-      "History",
-      "War"
-    ],
+    "Genres": ["Drama", "History", "War"],
     "Watches": 595850,
     "List_appearances": 170097,
     "Likes": 150950,
@@ -534,14 +430,9 @@
     "Average_rating": 3.0,
     "Owner_rating": 0,
     "Runtime": 103,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Romance",
-      "Comedy"
-    ],
+    "Genres": ["Romance", "Comedy"],
     "Watches": 724785,
     "List_appearances": 84962,
     "Likes": 192724,
@@ -564,14 +455,9 @@
     "Average_rating": 2.57,
     "Owner_rating": 0,
     "Runtime": 110,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Horror",
-      "Mystery"
-    ],
+    "Genres": ["Horror", "Mystery"],
     "Watches": 738202,
     "List_appearances": 104744,
     "Likes": 177936,
@@ -594,15 +480,9 @@
     "Average_rating": 4.12,
     "Owner_rating": 0,
     "Runtime": 132,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "History",
-      "Drama"
-    ],
+    "Genres": ["History", "Drama"],
     "Watches": 494892,
     "List_appearances": 127734,
     "Likes": 202577,
@@ -625,16 +505,9 @@
     "Average_rating": 3.93,
     "Owner_rating": 0,
     "Runtime": 170,
-    "Countries": [
-      "Germany",
-      "USA"
-    ],
+    "Countries": ["Germany", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Thriller",
-      "Crime"
-    ],
+    "Genres": ["Action", "Thriller", "Crime"],
     "Watches": 731281,
     "List_appearances": 162724,
     "Likes": 256458,
@@ -657,14 +530,9 @@
     "Average_rating": 3.41,
     "Owner_rating": 0,
     "Runtime": 118,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Crime"
-    ],
+    "Genres": ["Thriller", "Crime"],
     "Watches": 635272,
     "List_appearances": 144747,
     "Likes": 153828,
@@ -687,14 +555,9 @@
     "Average_rating": 3.73,
     "Owner_rating": 0,
     "Runtime": 117,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Comedy"
-    ],
+    "Genres": ["Drama", "Comedy"],
     "Watches": 525554,
     "List_appearances": 129494,
     "Likes": 134612,
@@ -717,16 +580,9 @@
     "Average_rating": 3.95,
     "Owner_rating": 0,
     "Runtime": 106,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Romance",
-      "Drama",
-      "Fantasy"
-    ],
+    "Genres": ["Romance", "Drama", "Fantasy"],
     "Watches": 409086,
     "List_appearances": 96683,
     "Likes": 146865,
@@ -749,15 +605,9 @@
     "Average_rating": 2.27,
     "Owner_rating": 0,
     "Runtime": 125,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Adventure",
-      "Science Fiction",
-      "Action"
-    ],
+    "Genres": ["Adventure", "Science Fiction", "Action"],
     "Watches": 710041,
     "List_appearances": 171988,
     "Likes": 87033,
@@ -780,16 +630,9 @@
     "Average_rating": 3.45,
     "Owner_rating": 0,
     "Runtime": 179,
-    "Countries": [
-      "Finland",
-      "USA"
-    ],
+    "Countries": ["Finland", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Fantasy",
-      "Adventure"
-    ],
+    "Genres": ["Comedy", "Fantasy", "Adventure"],
     "Watches": 423855,
     "List_appearances": 129923,
     "Likes": 116231,
@@ -812,15 +655,9 @@
     "Average_rating": 3.39,
     "Owner_rating": 0,
     "Runtime": 123,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Crime",
-      "Horror",
-      "Thriller"
-    ],
+    "Genres": ["Crime", "Horror", "Thriller"],
     "Watches": 606665,
     "List_appearances": 161667,
     "Likes": 185515,
@@ -843,15 +680,9 @@
     "Average_rating": 2.86,
     "Owner_rating": 0,
     "Runtime": 142,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Drama",
-      "Mystery"
-    ],
+    "Genres": ["Thriller", "Drama", "Mystery"],
     "Watches": 591330,
     "List_appearances": 62053,
     "Likes": 95904,
@@ -874,14 +705,9 @@
     "Average_rating": 3.75,
     "Owner_rating": 0,
     "Runtime": 164,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Thriller"
-    ],
+    "Genres": ["Action", "Thriller"],
     "Watches": 559134,
     "List_appearances": 154068,
     "Likes": 167573,
@@ -904,16 +730,9 @@
     "Average_rating": 3.52,
     "Owner_rating": 0,
     "Runtime": 134,
-    "Countries": [
-      "Canada",
-      "USA"
-    ],
+    "Countries": ["Canada", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Fantasy",
-      "Adventure"
-    ],
+    "Genres": ["Comedy", "Fantasy", "Adventure"],
     "Watches": 565422,
     "List_appearances": 107495,
     "Likes": 175781,
@@ -936,16 +755,9 @@
     "Average_rating": 3.18,
     "Owner_rating": 0,
     "Runtime": 96,
-    "Countries": [
-      "Ireland",
-      "New Zealand",
-      "USA"
-    ],
+    "Countries": ["Ireland", "New Zealand", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Horror",
-      "Thriller"
-    ],
+    "Genres": ["Horror", "Thriller"],
     "Watches": 550683,
     "List_appearances": 121968,
     "Likes": 142897,
@@ -968,14 +780,9 @@
     "Average_rating": 3.72,
     "Owner_rating": 0,
     "Runtime": 117,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 411111,
     "List_appearances": 118496,
     "Likes": 123757,
@@ -998,15 +805,9 @@
     "Average_rating": 2.72,
     "Owner_rating": 0,
     "Runtime": 95,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Crime",
-      "Comedy",
-      "Thriller"
-    ],
+    "Genres": ["Crime", "Comedy", "Thriller"],
     "Watches": 475203,
     "List_appearances": 92871,
     "Likes": 98944,
@@ -1029,15 +830,9 @@
     "Average_rating": 2.97,
     "Owner_rating": 0,
     "Runtime": 158,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "History",
-      "War"
-    ],
+    "Genres": ["Drama", "History", "War"],
     "Watches": 404785,
     "List_appearances": 87373,
     "Likes": 63719,
@@ -1060,16 +855,9 @@
     "Average_rating": 3.17,
     "Owner_rating": 0,
     "Runtime": 135,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Family",
-      "Fantasy",
-      "Romance",
-      "Adventure"
-    ],
+    "Genres": ["Family", "Fantasy", "Romance", "Adventure"],
     "Watches": 510965,
     "List_appearances": 79233,
     "Likes": 121917,
@@ -1092,15 +880,9 @@
     "Average_rating": 4.17,
     "Owner_rating": 0,
     "Runtime": 125,
-    "Countries": [
-      "Japan"
-    ],
+    "Countries": ["Japan"],
     "Original_language": "Japanese",
-    "Genres": [
-      "Horror",
-      "Science Fiction",
-      "Action"
-    ],
+    "Genres": ["Horror", "Science Fiction", "Action"],
     "Watches": 320300,
     "List_appearances": 114306,
     "Likes": 151935,
@@ -1123,14 +905,9 @@
     "Average_rating": 2.94,
     "Owner_rating": 0,
     "Runtime": 155,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Adventure"
-    ],
+    "Genres": ["Action", "Adventure"],
     "Watches": 473854,
     "List_appearances": 108360,
     "Likes": 86764,
@@ -1153,13 +930,9 @@
     "Average_rating": 3.56,
     "Owner_rating": 0,
     "Runtime": 111,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 459030,
     "List_appearances": 95907,
     "Likes": 119302,
@@ -1182,15 +955,9 @@
     "Average_rating": 2.6,
     "Owner_rating": 0,
     "Runtime": 144,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Science Fiction",
-      "Action",
-      "Adventure"
-    ],
+    "Genres": ["Science Fiction", "Action", "Adventure"],
     "Watches": 467464,
     "List_appearances": 117415,
     "Likes": 79745,
@@ -1213,15 +980,9 @@
     "Average_rating": 3.15,
     "Owner_rating": 0,
     "Runtime": 129,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Music",
-      "Romance"
-    ],
+    "Genres": ["Drama", "Music", "Romance"],
     "Watches": 325191,
     "List_appearances": 111175,
     "Likes": 56454,
@@ -1244,17 +1005,9 @@
     "Average_rating": 3.16,
     "Owner_rating": 0,
     "Runtime": 118,
-    "Countries": [
-      "Canada",
-      "France",
-      "Hungary",
-      "USA"
-    ],
+    "Countries": ["Canada", "France", "Hungary", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Science Fiction",
-      "Horror"
-    ],
+    "Genres": ["Science Fiction", "Horror"],
     "Watches": 323982,
     "List_appearances": 88857,
     "Likes": 71624,
@@ -1277,14 +1030,9 @@
     "Average_rating": 4.25,
     "Owner_rating": 0,
     "Runtime": 124,
-    "Countries": [
-      "Germany",
-      "Japan"
-    ],
+    "Countries": ["Germany", "Japan"],
     "Original_language": "Japanese",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 255002,
     "List_appearances": 72907,
     "Likes": 118423,
@@ -1307,14 +1055,9 @@
     "Average_rating": 3.15,
     "Owner_rating": 0,
     "Runtime": 121,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "Genres": ["Comedy", "Romance"],
     "Watches": 399847,
     "List_appearances": 51934,
     "Likes": 118206,
@@ -1337,14 +1080,9 @@
     "Average_rating": 3.49,
     "Owner_rating": 0,
     "Runtime": 102,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Fantasy"
-    ],
+    "Genres": ["Comedy", "Fantasy"],
     "Watches": 299435,
     "List_appearances": 75890,
     "Likes": 78612,
@@ -1367,16 +1105,9 @@
     "Average_rating": 3.28,
     "Owner_rating": 0,
     "Runtime": 134,
-    "Countries": [
-      "Canada",
-      "USA"
-    ],
+    "Countries": ["Canada", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Science Fiction",
-      "Adventure"
-    ],
+    "Genres": ["Action", "Science Fiction", "Adventure"],
     "Watches": 362839,
     "List_appearances": 84442,
     "Likes": 89782,
@@ -1399,16 +1130,9 @@
     "Average_rating": 2.89,
     "Owner_rating": 0,
     "Runtime": 100,
-    "Countries": [
-      "Japan",
-      "USA"
-    ],
+    "Countries": ["Japan", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Mystery",
-      "Horror",
-      "Thriller"
-    ],
+    "Genres": ["Mystery", "Horror", "Thriller"],
     "Watches": 384649,
     "List_appearances": 97091,
     "Likes": 69433,
@@ -1431,15 +1155,9 @@
     "Average_rating": 2.67,
     "Owner_rating": 0,
     "Runtime": 105,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Science Fiction",
-      "Action",
-      "Adventure"
-    ],
+    "Genres": ["Science Fiction", "Action", "Adventure"],
     "Watches": 320315,
     "List_appearances": 99364,
     "Likes": 64234,
@@ -1462,14 +1180,9 @@
     "Average_rating": 3.24,
     "Owner_rating": 0,
     "Runtime": 118,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Horror"
-    ],
+    "Genres": ["Thriller", "Horror"],
     "Watches": 292860,
     "List_appearances": 76888,
     "Likes": 80471,
@@ -1492,13 +1205,9 @@
     "Average_rating": 3.76,
     "Owner_rating": 0,
     "Runtime": 93,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy"
-    ],
+    "Genres": ["Comedy"],
     "Watches": 235774,
     "List_appearances": 65028,
     "Likes": 85998,
@@ -1521,14 +1230,9 @@
     "Average_rating": 3.47,
     "Owner_rating": 0,
     "Runtime": 116,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Action"
-    ],
+    "Genres": ["Drama", "Action"],
     "Watches": 312729,
     "List_appearances": 81133,
     "Likes": 85292,
@@ -1551,16 +1255,9 @@
     "Average_rating": 3.01,
     "Owner_rating": 0,
     "Runtime": 104,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
+    "Genres": ["Crime", "Mystery", "Thriller"],
     "Watches": 308780,
     "List_appearances": 55892,
     "Likes": 54104,
@@ -1583,14 +1280,9 @@
     "Average_rating": 3.81,
     "Owner_rating": 0,
     "Runtime": 107,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Comedy"
-    ],
+    "Genres": ["Drama", "Comedy"],
     "Watches": 209843,
     "List_appearances": 67676,
     "Likes": 73825,
@@ -1613,13 +1305,9 @@
     "Average_rating": 4.3,
     "Owner_rating": 0,
     "Runtime": 125,
-    "Countries": [
-      "Japan"
-    ],
+    "Countries": ["Japan"],
     "Original_language": "Japanese",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 174730,
     "List_appearances": 52867,
     "Likes": 84367,
@@ -1642,15 +1330,9 @@
     "Average_rating": 2.87,
     "Owner_rating": 0,
     "Runtime": 93,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Fantasy",
-      "Horror"
-    ],
+    "Genres": ["Comedy", "Fantasy", "Horror"],
     "Watches": 266173,
     "List_appearances": 66757,
     "Likes": 56598,
@@ -1673,15 +1355,9 @@
     "Average_rating": 3.12,
     "Owner_rating": 0,
     "Runtime": 105,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Science Fiction",
-      "Horror"
-    ],
+    "Genres": ["Comedy", "Science Fiction", "Horror"],
     "Watches": 267063,
     "List_appearances": 55569,
     "Likes": 67717,
@@ -1704,15 +1380,9 @@
     "Average_rating": 2.95,
     "Owner_rating": 0,
     "Runtime": 128,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Science Fiction",
-      "Adventure"
-    ],
+    "Genres": ["Action", "Science Fiction", "Adventure"],
     "Watches": 265011,
     "List_appearances": 73917,
     "Likes": 68141,
@@ -1735,13 +1405,9 @@
     "Average_rating": 4.32,
     "Owner_rating": 0,
     "Runtime": 169,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Music"
-    ],
+    "Genres": ["Music"],
     "Watches": 256286,
     "List_appearances": 34384,
     "Likes": 128716,
@@ -1764,15 +1430,9 @@
     "Average_rating": 3.05,
     "Owner_rating": 0,
     "Runtime": 106,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Mystery",
-      "Horror",
-      "Thriller"
-    ],
+    "Genres": ["Mystery", "Horror", "Thriller"],
     "Watches": 211491,
     "List_appearances": 51498,
     "Likes": 54123,
@@ -1795,15 +1455,9 @@
     "Average_rating": 3.23,
     "Owner_rating": 0,
     "Runtime": 131,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "History",
-      "Drama"
-    ],
+    "Genres": ["History", "Drama"],
     "Watches": 176186,
     "List_appearances": 55168,
     "Likes": 37798,
@@ -1826,15 +1480,9 @@
     "Average_rating": 3.04,
     "Owner_rating": 0,
     "Runtime": 93,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Science Fiction",
-      "Thriller",
-      "Horror"
-    ],
+    "Genres": ["Science Fiction", "Thriller", "Horror"],
     "Watches": 203678,
     "List_appearances": 51198,
     "Likes": 45261,
@@ -1857,15 +1505,9 @@
     "Average_rating": 2.48,
     "Owner_rating": 0,
     "Runtime": 142,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Crime",
-      "Action",
-      "Thriller"
-    ],
+    "Genres": ["Crime", "Action", "Thriller"],
     "Watches": 245189,
     "List_appearances": 62054,
     "Likes": 39852,
@@ -1888,15 +1530,9 @@
     "Average_rating": 3.48,
     "Owner_rating": 0,
     "Runtime": 111,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Mystery",
-      "Drama"
-    ],
+    "Genres": ["Thriller", "Mystery", "Drama"],
     "Watches": 225087,
     "List_appearances": 47042,
     "Likes": 57401,
@@ -1919,15 +1555,9 @@
     "Average_rating": 3.34,
     "Owner_rating": 0,
     "Runtime": 135,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Adventure",
-      "Action",
-      "Drama"
-    ],
+    "Genres": ["Adventure", "Action", "Drama"],
     "Watches": 221777,
     "List_appearances": 43437,
     "Likes": 61576,
@@ -1950,15 +1580,9 @@
     "Average_rating": 3.58,
     "Owner_rating": 0,
     "Runtime": 99,
-    "Countries": [
-      "Argentina",
-      "USA"
-    ],
+    "Countries": ["Argentina", "USA"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Horror",
-      "Thriller"
-    ],
+    "Genres": ["Horror", "Thriller"],
     "Watches": 168841,
     "List_appearances": 46386,
     "Likes": 54487,
@@ -1981,15 +1605,9 @@
     "Average_rating": 2.43,
     "Owner_rating": 0,
     "Runtime": 130,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Fantasy",
-      "Action",
-      "Comedy"
-    ],
+    "Genres": ["Fantasy", "Action", "Comedy"],
     "Watches": 240525,
     "List_appearances": 77154,
     "Likes": 32932,
@@ -2012,14 +1630,9 @@
     "Average_rating": 2.31,
     "Owner_rating": 0,
     "Runtime": 110,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Mystery",
-      "Horror"
-    ],
+    "Genres": ["Mystery", "Horror"],
     "Watches": 233620,
     "List_appearances": 43485,
     "Likes": 30188,
@@ -2042,15 +1655,9 @@
     "Average_rating": 3.65,
     "Owner_rating": 0,
     "Runtime": 122,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Science Fiction",
-      "Mystery"
-    ],
+    "Genres": ["Comedy", "Science Fiction", "Mystery"],
     "Watches": 177394,
     "List_appearances": 42171,
     "Likes": 60702,
@@ -2073,16 +1680,9 @@
     "Average_rating": 3.77,
     "Owner_rating": 0,
     "Runtime": 119,
-    "Countries": [
-      "Canada",
-      "Finland"
-    ],
+    "Countries": ["Canada", "Finland"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama",
-      "History"
-    ],
+    "Genres": ["Comedy", "Drama", "History"],
     "Watches": 159304,
     "List_appearances": 49364,
     "Likes": 50958,
@@ -2105,16 +1705,9 @@
     "Average_rating": 3.8,
     "Owner_rating": 0,
     "Runtime": 81,
-    "Countries": [
-      "Finland",
-      "Germany"
-    ],
+    "Countries": ["Finland", "Germany"],
     "Original_language": "Finnish",
-    "Genres": [
-      "Romance",
-      "Drama",
-      "Comedy"
-    ],
+    "Genres": ["Romance", "Drama", "Comedy"],
     "Watches": 151450,
     "List_appearances": 44803,
     "Likes": 52580,
@@ -2137,15 +1730,9 @@
     "Average_rating": 2.67,
     "Owner_rating": 0,
     "Runtime": 127,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Science Fiction",
-      "Adventure"
-    ],
+    "Genres": ["Action", "Science Fiction", "Adventure"],
     "Watches": 204259,
     "List_appearances": 52746,
     "Likes": 40420,
@@ -2168,15 +1755,9 @@
     "Average_rating": 3.88,
     "Owner_rating": 0,
     "Runtime": 82,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "Genres": ["Comedy", "Romance"],
     "Watches": 131672,
     "List_appearances": 51575,
     "Likes": 50135,
@@ -2199,15 +1780,9 @@
     "Average_rating": 3.27,
     "Owner_rating": 0,
     "Runtime": 104,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Comedy",
-      "History"
-    ],
+    "Genres": ["Drama", "Comedy", "History"],
     "Watches": 164712,
     "List_appearances": 39906,
     "Likes": 37177,
@@ -2230,15 +1805,9 @@
     "Average_rating": 3.56,
     "Owner_rating": 0,
     "Runtime": 93,
-    "Countries": [
-      "Australia",
-      "United Arab Emirates",
-      "USA"
-    ],
+    "Countries": ["Australia", "United Arab Emirates", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Horror"
-    ],
+    "Genres": ["Horror"],
     "Watches": 91735,
     "List_appearances": 29423,
     "Likes": 32351,
@@ -2261,15 +1830,9 @@
     "Average_rating": 2.21,
     "Owner_rating": 0,
     "Runtime": 124,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Fantasy",
-      "Action",
-      "Adventure"
-    ],
+    "Genres": ["Fantasy", "Action", "Adventure"],
     "Watches": 176029,
     "List_appearances": 52453,
     "Likes": 21781,
@@ -2292,16 +1855,9 @@
     "Average_rating": 2.01,
     "Owner_rating": 0,
     "Runtime": 116,
-    "Countries": [
-      "China",
-      "USA"
-    ],
+    "Countries": ["China", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Horror",
-      "Science Fiction"
-    ],
+    "Genres": ["Action", "Horror", "Science Fiction"],
     "Watches": 189885,
     "List_appearances": 38686,
     "Likes": 23110,
@@ -2324,14 +1880,9 @@
     "Average_rating": 3.61,
     "Owner_rating": 0,
     "Runtime": 91,
-    "Countries": [
-      "Greece",
-      "UK"
-    ],
+    "Countries": ["Greece", "UK"],
     "Original_language": "English",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 125930,
     "List_appearances": 33224,
     "Likes": 31829,
@@ -2354,15 +1905,9 @@
     "Average_rating": 2.39,
     "Owner_rating": 0,
     "Runtime": 107,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Horror",
-      "Thriller",
-      "Mystery"
-    ],
+    "Genres": ["Horror", "Thriller", "Mystery"],
     "Watches": 184655,
     "List_appearances": 37253,
     "Likes": 24313,
@@ -2385,15 +1930,9 @@
     "Average_rating": 3.45,
     "Owner_rating": 0,
     "Runtime": 118,
-    "Countries": [
-      "UK"
-    ],
+    "Countries": ["UK"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "History",
-      "Drama"
-    ],
+    "Genres": ["Thriller", "History", "Drama"],
     "Watches": 143970,
     "List_appearances": 32478,
     "Likes": 37895,
@@ -2416,16 +1955,9 @@
     "Average_rating": 2.14,
     "Owner_rating": 0,
     "Runtime": 92,
-    "Countries": [
-      "Canada",
-      "USA"
-    ],
+    "Countries": ["Canada", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Science Fiction",
-      "Thriller"
-    ],
+    "Genres": ["Action", "Science Fiction", "Thriller"],
     "Watches": 164791,
     "List_appearances": 39741,
     "Likes": 16765,
@@ -2448,14 +1980,9 @@
     "Average_rating": 3.27,
     "Owner_rating": 0,
     "Runtime": 95,
-    "Countries": [
-      "USA",
-      "UK"
-    ],
+    "Countries": ["USA", "UK"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy"
-    ],
+    "Genres": ["Comedy"],
     "Watches": 141728,
     "List_appearances": 35410,
     "Likes": 37668,
@@ -2478,15 +2005,9 @@
     "Average_rating": 2.44,
     "Owner_rating": 0,
     "Runtime": 91,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Crime",
-      "Mystery"
-    ],
+    "Genres": ["Comedy", "Crime", "Mystery"],
     "Watches": 211157,
     "List_appearances": 27199,
     "Likes": 26372,
@@ -2509,15 +2030,9 @@
     "Average_rating": 2.66,
     "Owner_rating": 0,
     "Runtime": 99,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Mystery",
-      "Horror",
-      "Thriller"
-    ],
+    "Genres": ["Mystery", "Horror", "Thriller"],
     "Watches": 144297,
     "List_appearances": 36880,
     "Likes": 22657,
@@ -2540,14 +2055,9 @@
     "Average_rating": 3.5,
     "Owner_rating": 0,
     "Runtime": 92,
-    "Countries": [
-      "France"
-    ],
+    "Countries": ["France"],
     "Original_language": "French",
-    "Genres": [
-      "Drama",
-      "Romance"
-    ],
+    "Genres": ["Drama", "Romance"],
     "Watches": 107348,
     "List_appearances": 32211,
     "Likes": 24791,
@@ -2570,15 +2080,9 @@
     "Average_rating": 2.02,
     "Owner_rating": 0,
     "Runtime": 134,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Science Fiction",
-      "Drama",
-      "Action"
-    ],
+    "Genres": ["Science Fiction", "Drama", "Action"],
     "Watches": 136445,
     "List_appearances": 28784,
     "Likes": 13813,
@@ -2601,16 +2105,9 @@
     "Average_rating": 3.52,
     "Owner_rating": 0,
     "Runtime": 123,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "War",
-      "Action"
-    ],
+    "Genres": ["Thriller", "War", "Action"],
     "Watches": 148117,
     "List_appearances": 31971,
     "Likes": 36060,
@@ -2633,17 +2130,9 @@
     "Average_rating": 3.19,
     "Owner_rating": 0,
     "Runtime": 98,
-    "Countries": [
-      "Australia",
-      "UK",
-      "USA"
-    ],
+    "Countries": ["Australia", "UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Thriller",
-      "Crime"
-    ],
+    "Genres": ["Drama", "Thriller", "Crime"],
     "Watches": 81232,
     "List_appearances": 27894,
     "Likes": 18056,
@@ -2666,13 +2155,9 @@
     "Average_rating": 2.7,
     "Owner_rating": 0,
     "Runtime": 103,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy"
-    ],
+    "Genres": ["Comedy"],
     "Watches": 151161,
     "List_appearances": 21537,
     "Likes": 24996,
@@ -2695,13 +2180,9 @@
     "Average_rating": 2.0,
     "Owner_rating": 0,
     "Runtime": 111,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Horror"
-    ],
+    "Genres": ["Horror"],
     "Watches": 133018,
     "List_appearances": 34851,
     "Likes": 12444,
@@ -2724,14 +2205,9 @@
     "Average_rating": 2.55,
     "Owner_rating": 0,
     "Runtime": 103,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Horror"
-    ],
+    "Genres": ["Thriller", "Horror"],
     "Watches": 150189,
     "List_appearances": 30189,
     "Likes": 22843,
@@ -2754,15 +2230,9 @@
     "Average_rating": 3.22,
     "Owner_rating": 0,
     "Runtime": 122,
-    "Countries": [
-      "Austria",
-      "USA"
-    ],
+    "Countries": ["Austria", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Action"
-    ],
+    "Genres": ["Thriller", "Action"],
     "Watches": 157834,
     "List_appearances": 28409,
     "Likes": 34970,
@@ -2785,16 +2255,9 @@
     "Average_rating": 2.64,
     "Owner_rating": 0,
     "Runtime": 123,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Horror",
-      "Comedy",
-      "Fantasy",
-      "Family"
-    ],
+    "Genres": ["Horror", "Comedy", "Fantasy", "Family"],
     "Watches": 131508,
     "List_appearances": 35686,
     "Likes": 22505,
@@ -2817,15 +2280,9 @@
     "Average_rating": 3.27,
     "Owner_rating": 0,
     "Runtime": 83,
-    "Countries": [
-      "USA",
-      "UK"
-    ],
+    "Countries": ["USA", "UK"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Thriller"
-    ],
+    "Genres": ["Drama", "Thriller"],
     "Watches": 107762,
     "List_appearances": 25035,
     "Likes": 19830,
@@ -2848,14 +2305,9 @@
     "Average_rating": 2.21,
     "Owner_rating": 0,
     "Runtime": 117,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "Genres": ["Comedy", "Romance"],
     "Watches": 158020,
     "List_appearances": 22648,
     "Likes": 15286,
@@ -2880,12 +2332,7 @@
     "Runtime": 60,
     "Countries": null,
     "Original_language": "English",
-    "Genres": [
-      "TV Movie",
-      "Science Fiction",
-      "Thriller",
-      "Mystery"
-    ],
+    "Genres": ["TV Movie", "Science Fiction", "Thriller", "Mystery"],
     "Watches": 165574,
     "List_appearances": 15772,
     "Likes": 32659,
@@ -2908,15 +2355,9 @@
     "Average_rating": 3.26,
     "Owner_rating": 0,
     "Runtime": 121,
-    "Countries": [
-      "Switzerland",
-      "USA"
-    ],
+    "Countries": ["Switzerland", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "History"
-    ],
+    "Genres": ["Drama", "History"],
     "Watches": 114453,
     "List_appearances": 32827,
     "Likes": 21908,
@@ -2941,12 +2382,7 @@
     "Runtime": 80,
     "Countries": null,
     "Original_language": "English",
-    "Genres": [
-      "Horror",
-      "Science Fiction",
-      "Thriller",
-      "TV Movie"
-    ],
+    "Genres": ["Horror", "Science Fiction", "Thriller", "TV Movie"],
     "Watches": 152057,
     "List_appearances": 15784,
     "Likes": 31551,
@@ -2969,14 +2405,9 @@
     "Average_rating": 3.1,
     "Owner_rating": 0,
     "Runtime": 91,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Romance"
-    ],
+    "Genres": ["Drama", "Romance"],
     "Watches": 126791,
     "List_appearances": 19158,
     "Likes": 28329,
@@ -2999,13 +2430,9 @@
     "Average_rating": 3.54,
     "Owner_rating": 0,
     "Runtime": 141,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 81596,
     "List_appearances": 36012,
     "Likes": 24003,
@@ -3028,15 +2455,9 @@
     "Average_rating": 2.6,
     "Owner_rating": 0,
     "Runtime": 111,
-    "Countries": [
-      "Australia",
-      "USA"
-    ],
+    "Countries": ["Australia", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Science Fiction",
-      "Drama"
-    ],
+    "Genres": ["Science Fiction", "Drama"],
     "Watches": 75290,
     "List_appearances": 16516,
     "Likes": 9577,
@@ -3059,17 +2480,9 @@
     "Average_rating": 2.63,
     "Owner_rating": 0,
     "Runtime": 119,
-    "Countries": [
-      "Germany",
-      "India",
-      "UK",
-      "USA"
-    ],
+    "Countries": ["Germany", "India", "UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Horror"
-    ],
+    "Genres": ["Thriller", "Horror"],
     "Watches": 94031,
     "List_appearances": 28329,
     "Likes": 15573,
@@ -3092,16 +2505,9 @@
     "Average_rating": 3.04,
     "Owner_rating": 0,
     "Runtime": 104,
-    "Countries": [
-      "New Zealand",
-      "UK",
-      "USA"
-    ],
+    "Countries": ["New Zealand", "UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 85866,
     "List_appearances": 27450,
     "Likes": 19015,
@@ -3124,16 +2530,9 @@
     "Average_rating": 3.04,
     "Owner_rating": 0,
     "Runtime": 109,
-    "Countries": [
-      "Italy",
-      "USA"
-    ],
+    "Countries": ["Italy", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Crime",
-      "Action",
-      "Thriller"
-    ],
+    "Genres": ["Crime", "Action", "Thriller"],
     "Watches": 116648,
     "List_appearances": 23707,
     "Likes": 24273,
@@ -3156,15 +2555,9 @@
     "Average_rating": 3.13,
     "Owner_rating": 0,
     "Runtime": 112,
-    "Countries": [
-      "Chile"
-    ],
+    "Countries": ["Chile"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Horror",
-      "Fantasy",
-      "Comedy"
-    ],
+    "Genres": ["Horror", "Fantasy", "Comedy"],
     "Watches": 73801,
     "List_appearances": 28868,
     "Likes": 14096,
@@ -3187,15 +2580,9 @@
     "Average_rating": 3.16,
     "Owner_rating": 0,
     "Runtime": 113,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Romance",
-      "Drama"
-    ],
+    "Genres": ["Thriller", "Romance", "Drama"],
     "Watches": 94378,
     "List_appearances": 20499,
     "Likes": 16184,
@@ -3218,15 +2605,9 @@
     "Average_rating": 3.94,
     "Owner_rating": 0,
     "Runtime": 135,
-    "Countries": [
-      "Belgium",
-      "France"
-    ],
+    "Countries": ["Belgium", "France"],
     "Original_language": "French",
-    "Genres": [
-      "Romance",
-      "Drama"
-    ],
+    "Genres": ["Romance", "Drama"],
     "Watches": 48343,
     "List_appearances": 22821,
     "Likes": 17675,
@@ -3249,14 +2630,9 @@
     "Average_rating": 3.27,
     "Owner_rating": 0,
     "Runtime": 131,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Action"
-    ],
+    "Genres": ["Drama", "Action"],
     "Watches": 93049,
     "List_appearances": 17872,
     "Likes": 20328,
@@ -3274,19 +2650,14 @@
     "Total_ratings": 78635
   },
   {
-    "Film_title": "The Teachers’ Lounge",
+    "Film_title": "The Teachers' Lounge",
     "url": "https://letterboxd.com/film/the-teachers-lounge-2023/",
     "Average_rating": 3.77,
     "Owner_rating": 0,
     "Runtime": 98,
-    "Countries": [
-      "Germany"
-    ],
+    "Countries": ["Germany"],
     "Original_language": "German",
-    "Genres": [
-      "Drama",
-      "Thriller"
-    ],
+    "Genres": ["Drama", "Thriller"],
     "Watches": 69916,
     "List_appearances": 25996,
     "Likes": 18380,
@@ -3309,13 +2680,9 @@
     "Average_rating": 2.79,
     "Owner_rating": 0,
     "Runtime": 88,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Horror"
-    ],
+    "Genres": ["Horror"],
     "Watches": 85609,
     "List_appearances": 23005,
     "Likes": 15502,
@@ -3338,16 +2705,9 @@
     "Average_rating": 3.41,
     "Owner_rating": 0,
     "Runtime": 128,
-    "Countries": [
-      "Canada",
-      "UK",
-      "USA"
-    ],
+    "Countries": ["Canada", "UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Comedy"
-    ],
+    "Genres": ["Drama", "Comedy"],
     "Watches": 68268,
     "List_appearances": 17498,
     "Likes": 16594,
@@ -3370,13 +2730,9 @@
     "Average_rating": 1.1,
     "Owner_rating": 0,
     "Runtime": 84,
-    "Countries": [
-      "UK"
-    ],
+    "Countries": ["UK"],
     "Original_language": "English",
-    "Genres": [
-      "Horror"
-    ],
+    "Genres": ["Horror"],
     "Watches": 81511,
     "List_appearances": 23665,
     "Likes": 5766,
@@ -3399,18 +2755,9 @@
     "Average_rating": 2.72,
     "Owner_rating": 0,
     "Runtime": 114,
-    "Countries": [
-      "Turkey",
-      "UK",
-      "USA"
-    ],
+    "Countries": ["Turkey", "UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Thriller"
-    ],
+    "Genres": ["Action", "Adventure", "Comedy", "Thriller"],
     "Watches": 96489,
     "List_appearances": 22827,
     "Likes": 13209,
@@ -3433,19 +2780,9 @@
     "Average_rating": 4.0,
     "Owner_rating": 0,
     "Runtime": 133,
-    "Countries": [
-      "France",
-      "Italy",
-      "Switzerland"
-    ],
+    "Countries": ["France", "Italy", "Switzerland"],
     "Original_language": "Italian",
-    "Genres": [
-      "Comedy",
-      "Romance",
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
+    "Genres": ["Comedy", "Romance", "Adventure", "Drama", "Fantasy"],
     "Watches": 44775,
     "List_appearances": 18179,
     "Likes": 18210,
@@ -3468,15 +2805,9 @@
     "Average_rating": 2.11,
     "Owner_rating": 0,
     "Runtime": 117,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Romance",
-      "Action",
-      "Comedy"
-    ],
+    "Genres": ["Romance", "Action", "Comedy"],
     "Watches": 92547,
     "List_appearances": 18977,
     "Likes": 10220,
@@ -3499,14 +2830,9 @@
     "Average_rating": 2.2,
     "Owner_rating": 0,
     "Runtime": 109,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "Genres": ["Comedy", "Romance"],
     "Watches": 109709,
     "List_appearances": 16061,
     "Likes": 9544,
@@ -3529,15 +2855,9 @@
     "Average_rating": 3.37,
     "Owner_rating": 0,
     "Runtime": 93,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Romance",
-      "Drama",
-      "Comedy"
-    ],
+    "Genres": ["Romance", "Drama", "Comedy"],
     "Watches": 66620,
     "List_appearances": 24853,
     "Likes": 16477,
@@ -3560,15 +2880,9 @@
     "Average_rating": 3.57,
     "Owner_rating": 0,
     "Runtime": 103,
-    "Countries": [
-      "UK"
-    ],
+    "Countries": ["UK"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Action", "Comedy", "Drama"],
     "Watches": 63231,
     "List_appearances": 22969,
     "Likes": 21510,
@@ -3591,15 +2905,9 @@
     "Average_rating": 2.38,
     "Owner_rating": 0,
     "Runtime": 106,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Family",
-      "Fantasy",
-      "Comedy"
-    ],
+    "Genres": ["Family", "Fantasy", "Comedy"],
     "Watches": 96363,
     "List_appearances": 13405,
     "Likes": 12711,
@@ -3624,12 +2932,7 @@
     "Runtime": 74,
     "Countries": null,
     "Original_language": "English",
-    "Genres": [
-      "Science Fiction",
-      "TV Movie",
-      "Horror",
-      "Thriller"
-    ],
+    "Genres": ["Science Fiction", "TV Movie", "Horror", "Thriller"],
     "Watches": 110199,
     "List_appearances": 12748,
     "Likes": 21307,
@@ -3652,13 +2955,9 @@
     "Average_rating": 3.93,
     "Owner_rating": 0,
     "Runtime": 104,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy"
-    ],
+    "Genres": ["Comedy"],
     "Watches": 36632,
     "List_appearances": 13632,
     "Likes": 16532,
@@ -3681,14 +2980,9 @@
     "Average_rating": 2.93,
     "Owner_rating": 0,
     "Runtime": 91,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Comedy"
-    ],
+    "Genres": ["Thriller", "Comedy"],
     "Watches": 69409,
     "List_appearances": 13038,
     "Likes": 14225,
@@ -3711,13 +3005,9 @@
     "Average_rating": 3.28,
     "Owner_rating": 0,
     "Runtime": 100,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy"
-    ],
+    "Genres": ["Comedy"],
     "Watches": 77944,
     "List_appearances": 14288,
     "Likes": 19242,
@@ -3740,18 +3030,9 @@
     "Average_rating": 2.88,
     "Owner_rating": 0,
     "Runtime": 105,
-    "Countries": [
-      "Belgium",
-      "Germany",
-      "Greece",
-      "Switzerland",
-      "UK"
-    ],
+    "Countries": ["Belgium", "Germany", "Greece", "Switzerland", "UK"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Drama"
-    ],
+    "Genres": ["Thriller", "Drama"],
     "Watches": 58661,
     "List_appearances": 17571,
     "Likes": 9356,
@@ -3774,15 +3055,9 @@
     "Average_rating": 2.86,
     "Owner_rating": 0,
     "Runtime": 107,
-    "Countries": [
-      "USA",
-      "Puerto Rico",
-      "UK"
-    ],
+    "Countries": ["USA", "Puerto Rico", "UK"],
     "Original_language": "English",
-    "Genres": [
-      "Action"
-    ],
+    "Genres": ["Action"],
     "Watches": 83594,
     "List_appearances": 21129,
     "Likes": 14844,
@@ -3805,13 +3080,9 @@
     "Average_rating": 3.82,
     "Owner_rating": 0,
     "Runtime": 80,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy"
-    ],
+    "Genres": ["Comedy"],
     "Watches": 94368,
     "List_appearances": 9936,
     "Likes": 30588,
@@ -3834,14 +3105,9 @@
     "Average_rating": 2.56,
     "Owner_rating": 0,
     "Runtime": 93,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Adventure",
-      "Comedy"
-    ],
+    "Genres": ["Adventure", "Comedy"],
     "Watches": 72114,
     "List_appearances": 19235,
     "Likes": 12845,
@@ -3864,15 +3130,9 @@
     "Average_rating": 3.82,
     "Owner_rating": 0,
     "Runtime": 84,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 47241,
     "List_appearances": 18438,
     "Likes": 16766,
@@ -3895,14 +3155,9 @@
     "Average_rating": 2.29,
     "Owner_rating": 0,
     "Runtime": 117,
-    "Countries": [
-      "Spain"
-    ],
+    "Countries": ["Spain"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Romance",
-      "Drama"
-    ],
+    "Genres": ["Romance", "Drama"],
     "Watches": 86000,
     "List_appearances": 8654,
     "Likes": 12250,
@@ -3925,14 +3180,9 @@
     "Average_rating": 3.52,
     "Owner_rating": 0,
     "Runtime": 104,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 29157,
     "List_appearances": 10786,
     "Likes": 9802,
@@ -3955,13 +3205,9 @@
     "Average_rating": 3.03,
     "Owner_rating": 0,
     "Runtime": 136,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Crime"
-    ],
+    "Genres": ["Crime"],
     "Watches": 81162,
     "List_appearances": 10816,
     "Likes": 13021,
@@ -3984,14 +3230,9 @@
     "Average_rating": 3.07,
     "Owner_rating": 0,
     "Runtime": 108,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "History",
-      "Drama"
-    ],
+    "Genres": ["History", "Drama"],
     "Watches": 53377,
     "List_appearances": 25447,
     "Likes": 9048,
@@ -4014,14 +3255,9 @@
     "Average_rating": 3.25,
     "Owner_rating": 0,
     "Runtime": 124,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "History"
-    ],
+    "Genres": ["Drama", "History"],
     "Watches": 52661,
     "List_appearances": 10991,
     "Likes": 12810,
@@ -4044,14 +3280,9 @@
     "Average_rating": 3.78,
     "Owner_rating": 0,
     "Runtime": 116,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Crime"
-    ],
+    "Genres": ["Drama", "Crime"],
     "Watches": 32480,
     "List_appearances": 18933,
     "Likes": 10991,
@@ -4074,16 +3305,9 @@
     "Average_rating": 3.82,
     "Owner_rating": 0,
     "Runtime": 121,
-    "Countries": [
-      "Belgium",
-      "France",
-      "Italy"
-    ],
+    "Countries": ["Belgium", "France", "Italy"],
     "Original_language": "English",
-    "Genres": [
-      "Adventure",
-      "Drama"
-    ],
+    "Genres": ["Adventure", "Drama"],
     "Watches": 44619,
     "List_appearances": 18963,
     "Likes": 12577,
@@ -4106,15 +3330,9 @@
     "Average_rating": 2.43,
     "Owner_rating": 0,
     "Runtime": 91,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Comedy",
-      "Romance"
-    ],
+    "Genres": ["Drama", "Comedy", "Romance"],
     "Watches": 65411,
     "List_appearances": 8210,
     "Likes": 9951,
@@ -4137,15 +3355,9 @@
     "Average_rating": 3.71,
     "Owner_rating": 0,
     "Runtime": 103,
-    "Countries": [
-      "Germany"
-    ],
+    "Countries": ["Germany"],
     "Original_language": "German",
-    "Genres": [
-      "Comedy",
-      "Romance",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Romance", "Drama"],
     "Watches": 44677,
     "List_appearances": 17393,
     "Likes": 13489,
@@ -4168,14 +3380,9 @@
     "Average_rating": 3.18,
     "Owner_rating": 0,
     "Runtime": 119,
-    "Countries": [
-      "Canada",
-      "USA"
-    ],
+    "Countries": ["Canada", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller"
-    ],
+    "Genres": ["Thriller"],
     "Watches": 60986,
     "List_appearances": 12335,
     "Likes": 13356,
@@ -4198,17 +3405,9 @@
     "Average_rating": 3.65,
     "Owner_rating": 0,
     "Runtime": 109,
-    "Countries": [
-      "Australia",
-      "UK",
-      "USA"
-    ],
+    "Countries": ["Australia", "UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "History",
-      "War"
-    ],
+    "Genres": ["Drama", "History", "War"],
     "Watches": 47364,
     "List_appearances": 11337,
     "Likes": 13362,
@@ -4231,15 +3430,9 @@
     "Average_rating": 2.51,
     "Owner_rating": 0,
     "Runtime": 112,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
+    "Genres": ["Comedy", "Drama", "Romance"],
     "Watches": 55034,
     "List_appearances": 15591,
     "Likes": 7879,
@@ -4262,14 +3455,9 @@
     "Average_rating": 3.76,
     "Owner_rating": 0,
     "Runtime": 67,
-    "Countries": [
-      "France"
-    ],
+    "Countries": ["France"],
     "Original_language": "French",
-    "Genres": [
-      "Drama",
-      "Comedy"
-    ],
+    "Genres": ["Drama", "Comedy"],
     "Watches": 55790,
     "List_appearances": 10309,
     "Likes": 18935,
@@ -4292,15 +3480,9 @@
     "Average_rating": 3.65,
     "Owner_rating": 0,
     "Runtime": 112,
-    "Countries": [
-      "Mexico",
-      "USA"
-    ],
+    "Countries": ["Mexico", "USA"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Comedy",
-      "Mystery"
-    ],
+    "Genres": ["Comedy", "Mystery"],
     "Watches": 37869,
     "List_appearances": 10386,
     "Likes": 11417,
@@ -4323,14 +3505,9 @@
     "Average_rating": 3.46,
     "Owner_rating": 0,
     "Runtime": 100,
-    "Countries": [
-      "UK"
-    ],
+    "Countries": ["UK"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 43397,
     "List_appearances": 11170,
     "Likes": 11368,
@@ -4353,15 +3530,9 @@
     "Average_rating": 3.05,
     "Owner_rating": 0,
     "Runtime": 112,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Crime",
-      "Mystery"
-    ],
+    "Genres": ["Thriller", "Crime", "Mystery"],
     "Watches": 57536,
     "List_appearances": 12653,
     "Likes": 7837,
@@ -4384,14 +3555,9 @@
     "Average_rating": 2.9,
     "Owner_rating": 0,
     "Runtime": 99,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 52348,
     "List_appearances": 19151,
     "Likes": 10829,
@@ -4414,14 +3580,9 @@
     "Average_rating": 3.14,
     "Owner_rating": 0,
     "Runtime": 91,
-    "Countries": [
-      "Australia"
-    ],
+    "Countries": ["Australia"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Thriller"
-    ],
+    "Genres": ["Drama", "Thriller"],
     "Watches": 38559,
     "List_appearances": 14187,
     "Likes": 7311,
@@ -4444,16 +3605,9 @@
     "Average_rating": 2.97,
     "Owner_rating": 0,
     "Runtime": 113,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Science Fiction",
-      "Romance",
-      "Drama"
-    ],
+    "Genres": ["Science Fiction", "Romance", "Drama"],
     "Watches": 35814,
     "List_appearances": 10527,
     "Likes": 5665,
@@ -4476,17 +3630,9 @@
     "Average_rating": 2.2,
     "Owner_rating": 0,
     "Runtime": 93,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Science Fiction",
-      "Thriller",
-      "Mystery"
-    ],
+    "Genres": ["Action", "Science Fiction", "Thriller", "Mystery"],
     "Watches": 51295,
     "List_appearances": 13691,
     "Likes": 5401,
@@ -4509,14 +3655,9 @@
     "Average_rating": 2.79,
     "Owner_rating": 0,
     "Runtime": 122,
-    "Countries": [
-      "USA",
-      "UK"
-    ],
+    "Countries": ["USA", "UK"],
     "Original_language": "English",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 57221,
     "List_appearances": 10531,
     "Likes": 6591,
@@ -4539,14 +3680,9 @@
     "Average_rating": 2.94,
     "Owner_rating": 0,
     "Runtime": 109,
-    "Countries": [
-      "Spain"
-    ],
+    "Countries": ["Spain"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Drama",
-      "Thriller"
-    ],
+    "Genres": ["Drama", "Thriller"],
     "Watches": 59052,
     "List_appearances": 6186,
     "Likes": 8663,
@@ -4569,16 +3705,9 @@
     "Average_rating": 2.3,
     "Owner_rating": 0,
     "Runtime": 106,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Fantasy",
-      "Adventure",
-      "Action",
-      "Family"
-    ],
+    "Genres": ["Fantasy", "Adventure", "Action", "Family"],
     "Watches": 46499,
     "List_appearances": 16176,
     "Likes": 4741,
@@ -4596,19 +3725,14 @@
     "Total_ratings": 38182
   },
   {
-    "Film_title": "There’s Still Tomorrow",
+    "Film_title": "There's Still Tomorrow",
     "url": "https://letterboxd.com/film/theres-still-tomorrow/",
     "Average_rating": 4.13,
     "Owner_rating": 0,
     "Runtime": 118,
-    "Countries": [
-      "Italy"
-    ],
+    "Countries": ["Italy"],
     "Original_language": "Italian",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 49427,
     "List_appearances": 7085,
     "Likes": 20033,
@@ -4631,15 +3755,9 @@
     "Average_rating": 3.14,
     "Owner_rating": 0,
     "Runtime": 115,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Drama",
-      "Crime"
-    ],
+    "Genres": ["Thriller", "Drama", "Crime"],
     "Watches": 42630,
     "List_appearances": 13375,
     "Likes": 7608,
@@ -4662,13 +3780,9 @@
     "Average_rating": 3.79,
     "Owner_rating": 0,
     "Runtime": 106,
-    "Countries": [
-      "Japan"
-    ],
+    "Countries": ["Japan"],
     "Original_language": "Japanese",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 21757,
     "List_appearances": 12144,
     "Likes": 6518,
@@ -4691,15 +3805,9 @@
     "Average_rating": 3.38,
     "Owner_rating": 0,
     "Runtime": 93,
-    "Countries": [
-      "South Korea"
-    ],
+    "Countries": ["South Korea"],
     "Original_language": "Korean",
-    "Genres": [
-      "Thriller",
-      "Adventure",
-      "Action"
-    ],
+    "Genres": ["Thriller", "Adventure", "Action"],
     "Watches": 45761,
     "List_appearances": 8035,
     "Likes": 12802,
@@ -4722,15 +3830,9 @@
     "Average_rating": 3.86,
     "Owner_rating": 0,
     "Runtime": 115,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Crime",
-      "Thriller"
-    ],
+    "Genres": ["Comedy", "Crime", "Thriller"],
     "Watches": 6101,
     "List_appearances": 11672,
     "Likes": 2299,
@@ -4753,17 +3855,9 @@
     "Average_rating": 3.9,
     "Owner_rating": 0,
     "Runtime": 127,
-    "Countries": [
-      "Denmark",
-      "Germany",
-      "Norway",
-      "Sweden"
-    ],
+    "Countries": ["Denmark", "Germany", "Norway", "Sweden"],
     "Original_language": "Danish",
-    "Genres": [
-      "History",
-      "Drama"
-    ],
+    "Genres": ["History", "Drama"],
     "Watches": 29351,
     "List_appearances": 10647,
     "Likes": 9442,
@@ -4786,16 +3880,9 @@
     "Average_rating": 3.99,
     "Owner_rating": 0,
     "Runtime": 197,
-    "Countries": [
-      "France",
-      "Germany",
-      "Sweden",
-      "Turkey"
-    ],
+    "Countries": ["France", "Germany", "Sweden", "Turkey"],
     "Original_language": "Turkish",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 36481,
     "List_appearances": 10865,
     "Likes": 9690,
@@ -4818,15 +3905,9 @@
     "Average_rating": 3.82,
     "Owner_rating": 0,
     "Runtime": 92,
-    "Countries": [
-      "Canada"
-    ],
+    "Countries": ["Canada"],
     "Original_language": "French",
-    "Genres": [
-      "Comedy",
-      "Fantasy",
-      "Horror"
-    ],
+    "Genres": ["Comedy", "Fantasy", "Horror"],
     "Watches": 21841,
     "List_appearances": 9714,
     "Likes": 9430,
@@ -4849,16 +3930,9 @@
     "Average_rating": 3.54,
     "Owner_rating": 0,
     "Runtime": 146,
-    "Countries": [
-      "Canada",
-      "France"
-    ],
+    "Countries": ["Canada", "France"],
     "Original_language": "French",
-    "Genres": [
-      "Drama",
-      "Romance",
-      "Science Fiction"
-    ],
+    "Genres": ["Drama", "Romance", "Science Fiction"],
     "Watches": 16614,
     "List_appearances": 9427,
     "Likes": 4601,
@@ -4881,13 +3955,9 @@
     "Average_rating": 2.96,
     "Owner_rating": 0,
     "Runtime": 86,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy"
-    ],
+    "Genres": ["Comedy"],
     "Watches": 33542,
     "List_appearances": 12736,
     "Likes": 8259,
@@ -4910,15 +3980,9 @@
     "Average_rating": 2.18,
     "Owner_rating": 0,
     "Runtime": 95,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Romance",
-      "Action",
-      "Comedy"
-    ],
+    "Genres": ["Romance", "Action", "Comedy"],
     "Watches": 59180,
     "List_appearances": 9223,
     "Likes": 6027,
@@ -4941,19 +4005,9 @@
     "Average_rating": 3.4,
     "Owner_rating": 0,
     "Runtime": 121,
-    "Countries": [
-      "Belgium",
-      "France",
-      "Germany",
-      "Spain"
-    ],
+    "Countries": ["Belgium", "France", "Germany", "Spain"],
     "Original_language": "French",
-    "Genres": [
-      "Adventure",
-      "Action",
-      "Drama",
-      "History"
-    ],
+    "Genres": ["Adventure", "Action", "Drama", "History"],
     "Watches": 53814,
     "List_appearances": 9732,
     "Likes": 11858,
@@ -4976,14 +4030,9 @@
     "Average_rating": 2.91,
     "Owner_rating": 0,
     "Runtime": 98,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Comedy"
-    ],
+    "Genres": ["Drama", "Comedy"],
     "Watches": 41566,
     "List_appearances": 13946,
     "Likes": 9585,
@@ -5006,16 +4055,9 @@
     "Average_rating": 2.89,
     "Owner_rating": 0,
     "Runtime": 129,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Crime",
-      "Thriller",
-      "Mystery"
-    ],
+    "Genres": ["Crime", "Thriller", "Mystery"],
     "Watches": 57266,
     "List_appearances": 8085,
     "Likes": 7937,
@@ -5038,14 +4080,9 @@
     "Average_rating": 1.67,
     "Owner_rating": 0,
     "Runtime": 77,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "Genres": ["Comedy", "Romance"],
     "Watches": 49266,
     "List_appearances": 6235,
     "Likes": 3300,
@@ -5068,15 +4105,9 @@
     "Average_rating": 2.98,
     "Owner_rating": 0,
     "Runtime": 101,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 41163,
     "List_appearances": 7413,
     "Likes": 7445,
@@ -5099,17 +4130,9 @@
     "Average_rating": 3.6,
     "Owner_rating": 0,
     "Runtime": 127,
-    "Countries": [
-      "Belgium",
-      "France"
-    ],
+    "Countries": ["Belgium", "France"],
     "Original_language": "French",
-    "Genres": [
-      "Science Fiction",
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
+    "Genres": ["Science Fiction", "Adventure", "Drama", "Fantasy"],
     "Watches": 39027,
     "List_appearances": 9631,
     "Likes": 12003,
@@ -5132,13 +4155,9 @@
     "Average_rating": 3.16,
     "Owner_rating": 0,
     "Runtime": 145,
-    "Countries": [
-      "Thailand"
-    ],
+    "Countries": ["Thailand"],
     "Original_language": "Thai",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 48692,
     "List_appearances": 5713,
     "Likes": 7762,
@@ -5161,14 +4180,9 @@
     "Average_rating": 2.19,
     "Owner_rating": 0,
     "Runtime": 122,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Action"
-    ],
+    "Genres": ["Thriller", "Action"],
     "Watches": 52695,
     "List_appearances": 8819,
     "Likes": 4990,
@@ -5191,15 +4205,9 @@
     "Average_rating": 2.38,
     "Owner_rating": 0,
     "Runtime": 104,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "No spoken language",
-    "Genres": [
-      "Adventure",
-      "Action",
-      "Thriller"
-    ],
+    "Genres": ["Adventure", "Action", "Thriller"],
     "Watches": 35701,
     "List_appearances": 12079,
     "Likes": 4822,
@@ -5222,14 +4230,9 @@
     "Average_rating": 3.11,
     "Owner_rating": 0,
     "Runtime": 124,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 43778,
     "List_appearances": 12341,
     "Likes": 9471,
@@ -5252,15 +4255,9 @@
     "Average_rating": 1.83,
     "Owner_rating": 0,
     "Runtime": 96,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Romance",
-      "Comedy"
-    ],
+    "Genres": ["Drama", "Romance", "Comedy"],
     "Watches": 45448,
     "List_appearances": 6679,
     "Likes": 4896,
@@ -5283,17 +4280,9 @@
     "Average_rating": 2.42,
     "Owner_rating": 0,
     "Runtime": 127,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Family",
-      "Fantasy",
-      "Adventure",
-      "Horror",
-      "Comedy"
-    ],
+    "Genres": ["Family", "Fantasy", "Adventure", "Horror", "Comedy"],
     "Watches": 46152,
     "List_appearances": 10362,
     "Likes": 5778,
@@ -5316,15 +4305,9 @@
     "Average_rating": 3.57,
     "Owner_rating": 0,
     "Runtime": 121,
-    "Countries": [
-      "Japan"
-    ],
+    "Countries": ["Japan"],
     "Original_language": "Japanese",
-    "Genres": [
-      "Drama",
-      "Action",
-      "Science Fiction"
-    ],
+    "Genres": ["Drama", "Action", "Science Fiction"],
     "Watches": 27225,
     "List_appearances": 10444,
     "Likes": 11201,
@@ -5347,15 +4330,9 @@
     "Average_rating": 3.17,
     "Owner_rating": 0,
     "Runtime": 98,
-    "Countries": [
-      "Canada",
-      "USA"
-    ],
+    "Countries": ["Canada", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "Genres": ["Comedy", "Romance"],
     "Watches": 38745,
     "List_appearances": 8631,
     "Likes": 10201,
@@ -5378,15 +4355,9 @@
     "Average_rating": 3.57,
     "Owner_rating": 0,
     "Runtime": 91,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Comedy",
-      "Romance"
-    ],
+    "Genres": ["Drama", "Comedy", "Romance"],
     "Watches": 14676,
     "List_appearances": 8228,
     "Likes": 4987,
@@ -5409,14 +4380,9 @@
     "Average_rating": 2.32,
     "Owner_rating": 0,
     "Runtime": 100,
-    "Countries": [
-      "Australia"
-    ],
+    "Countries": ["Australia"],
     "Original_language": "English",
-    "Genres": [
-      "Horror",
-      "Thriller"
-    ],
+    "Genres": ["Horror", "Thriller"],
     "Watches": 38752,
     "List_appearances": 8778,
     "Likes": 2945,
@@ -5439,16 +4405,9 @@
     "Average_rating": 2.26,
     "Owner_rating": 0,
     "Runtime": 124,
-    "Countries": [
-      "Spain",
-      "USA"
-    ],
+    "Countries": ["Spain", "USA"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Thriller",
-      "Horror",
-      "Science Fiction"
-    ],
+    "Genres": ["Thriller", "Horror", "Science Fiction"],
     "Watches": 47793,
     "List_appearances": 7580,
     "Likes": 3958,
@@ -5471,14 +4430,9 @@
     "Average_rating": 3.74,
     "Owner_rating": 0,
     "Runtime": 99,
-    "Countries": [
-      "UK"
-    ],
+    "Countries": ["UK"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Thriller"
-    ],
+    "Genres": ["Drama", "Thriller"],
     "Watches": 20674,
     "List_appearances": 7200,
     "Likes": 6257,
@@ -5501,14 +4455,9 @@
     "Average_rating": 3.07,
     "Owner_rating": 0,
     "Runtime": 92,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Adventure",
-      "Comedy"
-    ],
+    "Genres": ["Adventure", "Comedy"],
     "Watches": 34955,
     "List_appearances": 7480,
     "Likes": 9156,
@@ -5531,13 +4480,9 @@
     "Average_rating": 3.12,
     "Owner_rating": 0,
     "Runtime": 117,
-    "Countries": [
-      "South Korea"
-    ],
+    "Countries": ["South Korea"],
     "Original_language": "Korean",
-    "Genres": [
-      "Thriller"
-    ],
+    "Genres": ["Thriller"],
     "Watches": 43858,
     "List_appearances": 5759,
     "Likes": 6624,
@@ -5560,15 +4505,9 @@
     "Average_rating": 2.47,
     "Owner_rating": 0,
     "Runtime": 99,
-    "Countries": [
-      "Canada",
-      "USA"
-    ],
+    "Countries": ["Canada", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Horror",
-      "Mystery"
-    ],
+    "Genres": ["Horror", "Mystery"],
     "Watches": 31051,
     "List_appearances": 10502,
     "Likes": 4176,
@@ -5591,17 +4530,9 @@
     "Average_rating": 1.76,
     "Owner_rating": 0,
     "Runtime": 103,
-    "Countries": [
-      "Bulgaria",
-      "France",
-      "USA"
-    ],
+    "Countries": ["Bulgaria", "France", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Adventure",
-      "Action"
-    ],
+    "Genres": ["Thriller", "Adventure", "Action"],
     "Watches": 37171,
     "List_appearances": 11418,
     "Likes": 3323,
@@ -5624,15 +4555,9 @@
     "Average_rating": 3.3,
     "Owner_rating": 0,
     "Runtime": 169,
-    "Countries": [
-      "India"
-    ],
+    "Countries": ["India"],
     "Original_language": "Hindi",
-    "Genres": [
-      "Thriller",
-      "Action",
-      "Adventure"
-    ],
+    "Genres": ["Thriller", "Action", "Adventure"],
     "Watches": 37011,
     "List_appearances": 6984,
     "Likes": 9279,
@@ -5655,16 +4580,9 @@
     "Average_rating": 3.43,
     "Owner_rating": 0,
     "Runtime": 137,
-    "Countries": [
-      "South Korea"
-    ],
+    "Countries": ["South Korea"],
     "Original_language": "Korean",
-    "Genres": [
-      "Thriller",
-      "Crime",
-      "Drama",
-      "Action"
-    ],
+    "Genres": ["Thriller", "Crime", "Drama", "Action"],
     "Watches": 35353,
     "List_appearances": 7091,
     "Likes": 8476,
@@ -5687,14 +4605,9 @@
     "Average_rating": 2.65,
     "Owner_rating": 0,
     "Runtime": 101,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 38888,
     "List_appearances": 7917,
     "Likes": 6536,
@@ -5717,13 +4630,9 @@
     "Average_rating": 3.52,
     "Owner_rating": 0,
     "Runtime": 141,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 18872,
     "List_appearances": 9588,
     "Likes": 5571,
@@ -5746,16 +4655,9 @@
     "Average_rating": 3.43,
     "Owner_rating": 0,
     "Runtime": 97,
-    "Countries": [
-      "Ireland",
-      "USA"
-    ],
+    "Countries": ["Ireland", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Music",
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Music", "Comedy", "Drama"],
     "Watches": 27432,
     "List_appearances": 10490,
     "Likes": 7502,
@@ -5778,13 +4680,9 @@
     "Average_rating": 3.12,
     "Owner_rating": 0,
     "Runtime": 93,
-    "Countries": [
-      "UK"
-    ],
+    "Countries": ["UK"],
     "Original_language": "English",
-    "Genres": [
-      "Horror"
-    ],
+    "Genres": ["Horror"],
     "Watches": 19156,
     "List_appearances": 6798,
     "Likes": 4559,
@@ -5807,16 +4705,9 @@
     "Average_rating": 2.79,
     "Owner_rating": 0,
     "Runtime": 110,
-    "Countries": [
-      "Mexico",
-      "USA"
-    ],
+    "Countries": ["Mexico", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Horror",
-      "Fantasy",
-      "Science Fiction"
-    ],
+    "Genres": ["Horror", "Fantasy", "Science Fiction"],
     "Watches": 31527,
     "List_appearances": 11957,
     "Likes": 6828,
@@ -5839,16 +4730,9 @@
     "Average_rating": 3.81,
     "Owner_rating": 0,
     "Runtime": 95,
-    "Countries": [
-      "Denmark",
-      "France",
-      "Mexico"
-    ],
+    "Countries": ["Denmark", "France", "Mexico"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 22426,
     "List_appearances": 9835,
     "Likes": 9359,
@@ -5871,13 +4755,9 @@
     "Average_rating": 4.1,
     "Owner_rating": 0,
     "Runtime": 147,
-    "Countries": [
-      "India"
-    ],
+    "Countries": ["India"],
     "Original_language": "Hindi",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 33320,
     "List_appearances": 4821,
     "Likes": 15300,
@@ -5900,14 +4780,9 @@
     "Average_rating": 2.37,
     "Owner_rating": 0,
     "Runtime": 115,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Action"
-    ],
+    "Genres": ["Thriller", "Action"],
     "Watches": 41576,
     "List_appearances": 7435,
     "Likes": 4349,
@@ -5930,16 +4805,9 @@
     "Average_rating": 3.26,
     "Owner_rating": 0,
     "Runtime": 92,
-    "Countries": [
-      "Canada",
-      "USA"
-    ],
+    "Countries": ["Canada", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
+    "Genres": ["Comedy", "Drama", "Romance"],
     "Watches": 23868,
     "List_appearances": 8369,
     "Likes": 5368,
@@ -5962,13 +4830,9 @@
     "Average_rating": 2.3,
     "Owner_rating": 0,
     "Runtime": 99,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy"
-    ],
+    "Genres": ["Comedy"],
     "Watches": 23173,
     "List_appearances": 7727,
     "Likes": 3177,
@@ -5991,15 +4855,9 @@
     "Average_rating": 2.71,
     "Owner_rating": 0,
     "Runtime": 106,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Romance",
-      "Comedy"
-    ],
+    "Genres": ["Drama", "Romance", "Comedy"],
     "Watches": 30996,
     "List_appearances": 7574,
     "Likes": 3979,
@@ -6022,14 +4880,9 @@
     "Average_rating": 2.6,
     "Owner_rating": 0,
     "Runtime": 119,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Action"
-    ],
+    "Genres": ["Comedy", "Action"],
     "Watches": 38542,
     "List_appearances": 5097,
     "Likes": 5415,
@@ -6052,14 +4905,9 @@
     "Average_rating": 2.49,
     "Owner_rating": 0,
     "Runtime": 87,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Horror",
-      "Comedy"
-    ],
+    "Genres": ["Horror", "Comedy"],
     "Watches": 26937,
     "List_appearances": 11511,
     "Likes": 5135,
@@ -6082,14 +4930,9 @@
     "Average_rating": 3.39,
     "Owner_rating": 0,
     "Runtime": 126,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Drama"],
     "Watches": 29502,
     "List_appearances": 7422,
     "Likes": 6628,
@@ -6112,13 +4955,9 @@
     "Average_rating": 4.02,
     "Owner_rating": 0,
     "Runtime": 115,
-    "Countries": [
-      "France"
-    ],
+    "Countries": ["France"],
     "Original_language": "French",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 30696,
     "List_appearances": 6920,
     "Likes": 11033,
@@ -6141,14 +4980,9 @@
     "Average_rating": 3.87,
     "Owner_rating": 0,
     "Runtime": 124,
-    "Countries": [
-      "South Korea"
-    ],
+    "Countries": ["South Korea"],
     "Original_language": "Korean",
-    "Genres": [
-      "Romance",
-      "Drama"
-    ],
+    "Genres": ["Romance", "Drama"],
     "Watches": 18811,
     "List_appearances": 5019,
     "Likes": 8159,
@@ -6171,13 +5005,9 @@
     "Average_rating": 2.41,
     "Owner_rating": 0,
     "Runtime": 102,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy"
-    ],
+    "Genres": ["Comedy"],
     "Watches": 37716,
     "List_appearances": 5789,
     "Likes": 4631,
@@ -6200,15 +5030,9 @@
     "Average_rating": 2.7,
     "Owner_rating": 0,
     "Runtime": 118,
-    "Countries": [
-      "France",
-      "USA"
-    ],
+    "Countries": ["France", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Comedy"
-    ],
+    "Genres": ["Thriller", "Comedy"],
     "Watches": 22691,
     "List_appearances": 6918,
     "Likes": 2711,
@@ -6231,15 +5055,9 @@
     "Average_rating": 3.11,
     "Owner_rating": 0,
     "Runtime": 129,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Comedy",
-      "Adventure"
-    ],
+    "Genres": ["Drama", "Comedy", "Adventure"],
     "Watches": 19000,
     "List_appearances": 8020,
     "Likes": 4885,
@@ -6262,15 +5080,9 @@
     "Average_rating": 2.32,
     "Owner_rating": 0,
     "Runtime": 117,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Family",
-      "Comedy",
-      "Fantasy"
-    ],
+    "Genres": ["Family", "Comedy", "Fantasy"],
     "Watches": 34059,
     "List_appearances": 7580,
     "Likes": 3927,
@@ -6293,15 +5105,9 @@
     "Average_rating": 3.5,
     "Owner_rating": 0,
     "Runtime": 113,
-    "Countries": [
-      "Belgium",
-      "France",
-      "UK"
-    ],
+    "Countries": ["Belgium", "France", "UK"],
     "Original_language": "English",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 26005,
     "List_appearances": 7482,
     "Likes": 5957,
@@ -6324,15 +5130,9 @@
     "Average_rating": 2.0,
     "Owner_rating": 0,
     "Runtime": 140,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "TV Movie",
-      "Fantasy"
-    ],
+    "Genres": ["Action", "TV Movie", "Fantasy"],
     "Watches": 30483,
     "List_appearances": 4943,
     "Likes": 4330,
@@ -6355,14 +5155,9 @@
     "Average_rating": 3.71,
     "Owner_rating": 0,
     "Runtime": 116,
-    "Countries": [
-      "UK",
-      "USA"
-    ],
+    "Countries": ["UK", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 15014,
     "List_appearances": 7661,
     "Likes": 5190,
@@ -6385,16 +5180,9 @@
     "Average_rating": 3.28,
     "Owner_rating": 0,
     "Runtime": 98,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Horror",
-      "Thriller",
-      "Drama",
-      "Crime"
-    ],
+    "Genres": ["Horror", "Thriller", "Drama", "Crime"],
     "Watches": 21383,
     "List_appearances": 6626,
     "Likes": 5957,
@@ -6417,14 +5205,9 @@
     "Average_rating": 1.47,
     "Owner_rating": 0,
     "Runtime": 93,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Romance",
-      "Drama"
-    ],
+    "Genres": ["Romance", "Drama"],
     "Watches": 34154,
     "List_appearances": 5020,
     "Likes": 2374,
@@ -6447,15 +5230,9 @@
     "Average_rating": 3.82,
     "Owner_rating": 0,
     "Runtime": 118,
-    "Countries": [
-      "Canada"
-    ],
+    "Countries": ["Canada"],
     "Original_language": "French",
-    "Genres": [
-      "Crime",
-      "Drama",
-      "Thriller"
-    ],
+    "Genres": ["Crime", "Drama", "Thriller"],
     "Watches": 17919,
     "List_appearances": 6982,
     "Likes": 6031,
@@ -6478,14 +5255,9 @@
     "Average_rating": 2.78,
     "Owner_rating": 0,
     "Runtime": 99,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller",
-      "Horror"
-    ],
+    "Genres": ["Thriller", "Horror"],
     "Watches": 18947,
     "List_appearances": 7470,
     "Likes": 4070,
@@ -6508,15 +5280,9 @@
     "Average_rating": 2.42,
     "Owner_rating": 0,
     "Runtime": 201,
-    "Countries": [
-      "India"
-    ],
+    "Countries": ["India"],
     "Original_language": "Hindi",
-    "Genres": [
-      "Drama",
-      "Action",
-      "Crime"
-    ],
+    "Genres": ["Drama", "Action", "Crime"],
     "Watches": 31524,
     "List_appearances": 3541,
     "Likes": 6190,
@@ -6539,15 +5305,9 @@
     "Average_rating": 3.98,
     "Owner_rating": 0,
     "Runtime": 162,
-    "Countries": [
-      "Argentina",
-      "Spain"
-    ],
+    "Countries": ["Argentina", "Spain"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Drama",
-      "Mystery"
-    ],
+    "Genres": ["Drama", "Mystery"],
     "Watches": 15569,
     "List_appearances": 8428,
     "Likes": 5342,
@@ -6570,18 +5330,9 @@
     "Average_rating": 3.53,
     "Owner_rating": 0,
     "Runtime": 190,
-    "Countries": [
-      "Argentina",
-      "Brazil",
-      "Chile",
-      "Luxembourg"
-    ],
+    "Countries": ["Argentina", "Brazil", "Chile", "Luxembourg"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Comedy",
-      "Crime",
-      "Drama"
-    ],
+    "Genres": ["Comedy", "Crime", "Drama"],
     "Watches": 18180,
     "List_appearances": 7786,
     "Likes": 4986,
@@ -6604,15 +5355,9 @@
     "Average_rating": 2.33,
     "Owner_rating": 0,
     "Runtime": 119,
-    "Countries": [
-      "Spain"
-    ],
+    "Countries": ["Spain"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Mystery",
-      "Thriller",
-      "Horror"
-    ],
+    "Genres": ["Mystery", "Thriller", "Horror"],
     "Watches": 32698,
     "List_appearances": 4236,
     "Likes": 3070,
@@ -6635,15 +5380,9 @@
     "Average_rating": 3.17,
     "Owner_rating": 0,
     "Runtime": 115,
-    "Countries": [
-      "France"
-    ],
+    "Countries": ["France"],
     "Original_language": "English",
-    "Genres": [
-      "Crime",
-      "Action",
-      "Drama"
-    ],
+    "Genres": ["Crime", "Action", "Drama"],
     "Watches": 24393,
     "List_appearances": 4996,
     "Likes": 6051,
@@ -6666,17 +5405,9 @@
     "Average_rating": 2.91,
     "Owner_rating": 0,
     "Runtime": 146,
-    "Countries": [
-      "India",
-      "USA"
-    ],
+    "Countries": ["India", "USA"],
     "Original_language": "Hindi",
-    "Genres": [
-      "Adventure",
-      "Drama",
-      "Action",
-      "Thriller"
-    ],
+    "Genres": ["Adventure", "Drama", "Action", "Thriller"],
     "Watches": 30102,
     "List_appearances": 6236,
     "Likes": 5611,
@@ -6699,17 +5430,9 @@
     "Average_rating": 2.66,
     "Owner_rating": 0,
     "Runtime": 101,
-    "Countries": [
-      "UK",
-      "USA",
-      "Italy"
-    ],
+    "Countries": ["UK", "USA", "Italy"],
     "Original_language": "English",
-    "Genres": [
-      "Action",
-      "Crime",
-      "Comedy"
-    ],
+    "Genres": ["Action", "Crime", "Comedy"],
     "Watches": 24224,
     "List_appearances": 7333,
     "Likes": 4644,
@@ -6732,15 +5455,9 @@
     "Average_rating": 2.67,
     "Owner_rating": 0,
     "Runtime": 96,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Horror",
-      "Fantasy",
-      "Thriller"
-    ],
+    "Genres": ["Horror", "Fantasy", "Thriller"],
     "Watches": 22221,
     "List_appearances": 7532,
     "Likes": 3803,
@@ -6763,14 +5480,9 @@
     "Average_rating": 3.1,
     "Owner_rating": 0,
     "Runtime": 91,
-    "Countries": [
-      "Spain"
-    ],
+    "Countries": ["Spain"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Drama",
-      "Horror"
-    ],
+    "Genres": ["Drama", "Horror"],
     "Watches": 27342,
     "List_appearances": 5709,
     "Likes": 5605,
@@ -6793,14 +5505,9 @@
     "Average_rating": 3.62,
     "Owner_rating": 0,
     "Runtime": 92,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Comedy"
-    ],
+    "Genres": ["Drama", "Comedy"],
     "Watches": 15514,
     "List_appearances": 6274,
     "Likes": 5173,
@@ -6823,13 +5530,9 @@
     "Average_rating": 3.81,
     "Owner_rating": 0,
     "Runtime": 129,
-    "Countries": [
-      "Spain"
-    ],
+    "Countries": ["Spain"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 21118,
     "List_appearances": 7006,
     "Likes": 7402,
@@ -6863,10 +5566,7 @@
       "UK"
     ],
     "Original_language": "Spanish",
-    "Genres": [
-      "Western",
-      "Drama"
-    ],
+    "Genres": ["Western", "Drama"],
     "Watches": 17785,
     "List_appearances": 6112,
     "Likes": 4863,
@@ -6889,14 +5589,9 @@
     "Average_rating": 3.37,
     "Owner_rating": 0,
     "Runtime": 107,
-    "Countries": [
-      "Mexico",
-      "USA"
-    ],
+    "Countries": ["Mexico", "USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama"
-    ],
+    "Genres": ["Drama"],
     "Watches": 18551,
     "List_appearances": 6573,
     "Likes": 4878,
@@ -6919,15 +5614,9 @@
     "Average_rating": 1.65,
     "Owner_rating": 0,
     "Runtime": 110,
-    "Countries": [
-      "Spain"
-    ],
+    "Countries": ["Spain"],
     "Original_language": "Spanish",
-    "Genres": [
-      "Drama",
-      "Romance",
-      "Comedy"
-    ],
+    "Genres": ["Drama", "Romance", "Comedy"],
     "Watches": 35946,
     "List_appearances": 3509,
     "Likes": 2461,
@@ -6950,14 +5639,9 @@
     "Average_rating": 3.14,
     "Owner_rating": 0,
     "Runtime": 98,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Mystery",
-      "Horror"
-    ],
+    "Genres": ["Mystery", "Horror"],
     "Watches": 23517,
     "List_appearances": 7491,
     "Likes": 5707,
@@ -6980,14 +5664,9 @@
     "Average_rating": 2.49,
     "Owner_rating": 0,
     "Runtime": 96,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Science Fiction",
-      "Thriller"
-    ],
+    "Genres": ["Science Fiction", "Thriller"],
     "Watches": 21205,
     "List_appearances": 7140,
     "Likes": 2641,
@@ -7010,15 +5689,9 @@
     "Average_rating": 3.83,
     "Owner_rating": 0,
     "Runtime": 61,
-    "Countries": [
-      "UK"
-    ],
+    "Countries": ["UK"],
     "Original_language": "English",
-    "Genres": [
-      "Adventure",
-      "Science Fiction",
-      "Drama"
-    ],
+    "Genres": ["Adventure", "Science Fiction", "Drama"],
     "Watches": 27909,
     "List_appearances": 3447,
     "Likes": 10477,
@@ -7041,17 +5714,9 @@
     "Average_rating": 3.89,
     "Owner_rating": 0,
     "Runtime": 164,
-    "Countries": [
-      "France",
-      "Hungary",
-      "Luxembourg",
-      "Romania"
-    ],
+    "Countries": ["France", "Hungary", "Luxembourg", "Romania"],
     "Original_language": "Romanian",
-    "Genres": [
-      "Drama",
-      "Comedy"
-    ],
+    "Genres": ["Drama", "Comedy"],
     "Watches": 9814,
     "List_appearances": 6357,
     "Likes": 3692,
@@ -7074,14 +5739,9 @@
     "Average_rating": 3.32,
     "Owner_rating": 0,
     "Runtime": 99,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Drama",
-      "Horror"
-    ],
+    "Genres": ["Drama", "Horror"],
     "Watches": 16145,
     "List_appearances": 7889,
     "Likes": 3918,
@@ -7104,15 +5764,9 @@
     "Average_rating": 2.53,
     "Owner_rating": 0,
     "Runtime": 112,
-    "Countries": [
-      "USA"
-    ],
+    "Countries": ["USA"],
     "Original_language": "English",
-    "Genres": [
-      "Comedy",
-      "Action",
-      "Crime"
-    ],
+    "Genres": ["Comedy", "Action", "Crime"],
     "Watches": 25355,
     "List_appearances": 7068,
     "Likes": 4495,
@@ -7135,13 +5789,9 @@
     "Average_rating": 2.3,
     "Owner_rating": 0,
     "Runtime": 100,
-    "Countries": [
-      "UK"
-    ],
+    "Countries": ["UK"],
     "Original_language": "English",
-    "Genres": [
-      "Thriller"
-    ],
+    "Genres": ["Thriller"],
     "Watches": 28195,
     "List_appearances": 4566,
     "Likes": 2468,
@@ -7164,15 +5814,9 @@
     "Average_rating": 2.73,
     "Owner_rating": 0,
     "Runtime": 100,
-    "Countries": [
-      "Sweden"
-    ],
+    "Countries": ["Sweden"],
     "Original_language": "Swedish",
-    "Genres": [
-      "Thriller",
-      "Horror",
-      "Comedy"
-    ],
+    "Genres": ["Thriller", "Horror", "Comedy"],
     "Watches": 26017,
     "List_appearances": 5405,
     "Likes": 3622,
@@ -7195,14 +5839,9 @@
     "Average_rating": 3.5,
     "Owner_rating": 0,
     "Runtime": 77,
-    "Countries": [
-      "France"
-    ],
+    "Countries": ["France"],
     "Original_language": "French",
-    "Genres": [
-      "Comedy",
-      "Fantasy"
-    ],
+    "Genres": ["Comedy", "Fantasy"],
     "Watches": 21662,
     "List_appearances": 5394,
     "Likes": 5261,
@@ -7225,15 +5864,9 @@
     "Average_rating": 3.42,
     "Owner_rating": 0,
     "Runtime": 95,
-    "Countries": [
-      "South Korea"
-    ],
+    "Countries": ["South Korea"],
     "Original_language": "Korean",
-    "Genres": [
-      "Drama",
-      "Horror",
-      "Mystery"
-    ],
+    "Genres": ["Drama", "Horror", "Mystery"],
     "Watches": 12910,
     "List_appearances": 5545,
     "Likes": 2823,

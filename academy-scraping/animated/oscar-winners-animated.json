@@ -1,57 +1,123 @@
 [
   {
     "year": 2013,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Frozen",
+      "The Croods",
+      "Despicable Me 2",
+      "Ernest & Celestine",
+      "The Wind Rises"
+    ],
+    "winner": "Frozen"
   },
   {
     "year": 2014,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Big Hero 6",
+      "The Boxtrolls",
+      "How to Train Your Dragon 2",
+      "Song of the Sea",
+      "The Tale of the Princess Kaguya"
+    ],
+    "winner": "Big Hero 6"
   },
   {
     "year": 2015,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Inside Out",
+      "Anomalisa",
+      "Boy and the World",
+      "Shaun the Sheep Movie",
+      "When Marnie Was There"
+    ],
+    "winner": "Inside Out"
   },
   {
     "year": 2016,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Zootopia",
+      "Kubo and the Two Strings",
+      "Moana",
+      "My Life as a Courgette",
+      "The Red Turtle"
+    ],
+    "winner": "Zootopia"
   },
   {
     "year": 2017,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Coco",
+      "The Boss Baby",
+      "The Breadwinner",
+      "Ferdinand",
+      "Loving Vincent"
+    ],
+    "winner": "Coco"
   },
   {
     "year": 2018,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Spider-Man: Into the Spider-Verse",
+      "Incredibles 2",
+      "Isle of Dogs",
+      "Mirai",
+      "Ralph Breaks the Internet"
+    ],
+    "winner": "Spider-Man: Into the Spider-Verse"
   },
   {
     "year": 2019,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Toy Story 4",
+      "How to Train Your Dragon: The Hidden World",
+      "I Lost My Body",
+      "Klaus",
+      "Missing Link"
+    ],
+    "winner": "Toy Story 4"
   },
   {
     "year": 2020,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Soul",
+      "Onward",
+      "Over the Moon",
+      "A Shaun the Sheep Movie: Farmageddon",
+      "Wolfwalkers"
+    ],
+    "winner": "Soul"
   },
   {
     "year": 2021,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Encanto",
+      "Flee",
+      "Luca",
+      "The Mitchells vs. the Machines",
+      "Raya and the Last Dragon"
+    ],
+    "winner": "Encanto"
   },
   {
     "year": 2022,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Guillermo del Toro's Pinocchio",
+      "Marcel the Shell with Shoes On",
+      "Puss in Boots: The Last Wish",
+      "The Sea Beast",
+      "Turning Red"
+    ],
+    "winner": "Guillermo del Toro's Pinocchio"
   },
   {
     "year": 2023,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "The Boy and the Heron",
+      "Elemental",
+      "Nimona",
+      "Robot Dreams",
+      "Spider-Man: Across the Spider-Verse"
+    ],
+    "winner": "The Boy and the Heron"
   }
 ]

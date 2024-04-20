@@ -1,57 +1,123 @@
 [
   {
     "year": 2013,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "20 Feet from Stardom",
+      "The Act of Killing",
+      "Cutie and the Boxer",
+      "Dirty Wars",
+      "The Square"
+    ],
+    "winner": "20 Feet from Stardom"
   },
   {
     "year": 2014,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Citizenfour",
+      "Finding Vivian Maier",
+      "Last Days in Vietnam",
+      "The Salt of the Earth",
+      "Virunga"
+    ],
+    "winner": "Citizenfour"
   },
   {
     "year": 2015,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Amy",
+      "Cartel Land",
+      "The Look of Silence",
+      "What Happened, Miss Simone?",
+      "Winter on Fire: Ukraine's Fight for Freedom"
+    ],
+    "winner": "What Happened, Miss Simone?"
   },
   {
     "year": 2016,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "O.J.: Made in America",
+      "Fire at Sea",
+      "I Am Not Your Negro",
+      "Life, Animated",
+      "13th"
+    ],
+    "winner": "O.J.: Made in America"
   },
   {
     "year": 2017,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Icarus",
+      "Abacus: Small Enough to Jail",
+      "Faces Places",
+      "Last Men in Aleppo",
+      "Strong Island"
+    ],
+    "winner": "Icarus"
   },
   {
     "year": 2018,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Free Solo",
+      "Hale County This Morning, This Evening",
+      "Minding the Gap",
+      "Of Fathers and Songs",
+      "RBG"
+    ],
+    "winner": "Free Solo"
   },
   {
     "year": 2019,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "American Factory",
+      "The Cave",
+      "The Edge of Democracy",
+      "For Sama",
+      "Honeyland"
+    ],
+    "winner": "American Factory"
   },
   {
     "year": 2020,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "My Octopus Teacher",
+      "Collective",
+      "Crip Camp",
+      "The Mole Agent",
+      "Time"
+    ],
+    "winner": "My Octopus Teacher"
   },
   {
     "year": 2021,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Summer of Soul",
+      "Ascension",
+      "Attica",
+      "Flee",
+      "Writing with Fire"
+    ],
+    "winner": "Summer of Soul"
   },
   {
     "year": 2022,
-    "nominees": [],
+    "nominees": [
+      "Navalny",
+      "All That Breathes",
+      "All the Beauty and the Bloodshed",
+      "Fire of Love",
+      "A House Made of Splinters"
+    ],
     "winner": ""
   },
   {
     "year": 2023,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "20 Days in Mariupol",
+      "Bobi Wine: The People's President",
+      "The Eternal Memory",
+      "Four Daughters",
+      "To Kill a Tiger"
+    ],
+    "winner": "20 Days in Mariupol"
   }
 ]

@@ -148,7 +148,7 @@ def scrape_film(film_html, looking_for=[]):
             film_soup.find("meta", attrs={"name": "twitter:data2"}).attrs["content"][:4]
         )
     except:
-        film_dict["Average_rating"] = None
+        film_dict["Average_rating"] = 0
 
     # Try to find the list owner's rating of a film if possible and converting to float
     try:
@@ -167,7 +167,6 @@ def scrape_film(film_html, looking_for=[]):
 
     # if we're making ballots, grab the movie
     if len(looking_for) != 0 and film_dict["Film_title"] in looking_for:
-        del film_dict["Average_rating"]
         return film_dict
 
     # Get movie runtime by searching for first sequence of digits in the p element with the runtime, if not found insert nan

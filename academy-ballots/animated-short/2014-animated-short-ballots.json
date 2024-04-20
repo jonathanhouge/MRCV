@@ -1,29 +1,37 @@
 {
   "ballots": [
     {
+      "count": 13,
+      "ranking": ["Batman: Strange Days"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Batman: Strange Days", "Feast"]
+    },
+    {
       "count": 1,
       "ranking": [
-        "Batman: Strange Days",
-        "Marcel the Shell with Shoes On, Three"
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "Don't Hug Me I'm Scared 3",
+        "Batman: Strange Days"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Batman: Strange Days",
-        "The Radiator Springs 500½",
-        "Feast",
-        "Lava",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
+        "Batman: Strange Days"
       ]
     },
     {
       "count": 2,
-      "ranking": ["Batman: Strange Days", "Silent"]
-    },
-    {
-      "count": 12,
-      "ranking": ["Batman: Strange Days"]
+      "ranking": [
+        "Batman: Strange Days",
+        "Toy Story That Time Forgot",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
+      ]
     },
     {
       "count": 2,
@@ -32,48 +40,53 @@
     {
       "count": 1,
       "ranking": [
+        "Marcel the Shell with Shoes On, Three",
         "Batman: Strange Days",
+        "Toy Story That Time Forgot"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
+        "Nuggets",
+        "Batman: Strange Days",
+        "Lava",
+        "Toy Story That Time Forgot",
+        "Scooby-Doo! Ghastly Goals",
+        "The Radiator Springs 500½"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Marcel the Shell with Shoes On, Three",
+        "Batman: Strange Days"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
         "Feast",
+        "Batman: Strange Days",
+        "Lava",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
+        "The Radiator Springs 500½"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Batman: Strange Days", "Silent"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Feast",
+        "Batman: Strange Days",
         "Lava",
         "Toy Story That Time Forgot",
         "Dragons: Dawn of the Dragon Racers"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Batman: Strange Days",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Batman: Strange Days",
-        "Don't Hug Me I'm Scared 2",
-        "Lava",
-        "Don't Hug Me I'm Scared 3"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Batman: Strange Days", "Johnny Express"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Batman: Strange Days", "Feast", "Lava"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Batman: Strange Days", "Timber"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Batman: Strange Days",
-        "Don't Hug Me I'm Scared 2",
-        "Marcel the Shell with Shoes On, Three",
-        "Don't Hug Me I'm Scared 3"
       ]
     },
     {
@@ -81,14 +94,29 @@
       "ranking": ["Silent"]
     },
     {
+      "count": 3,
+      "ranking": ["Lava", "Silent"]
+    },
+    {
       "count": 1,
       "ranking": [
-        "Silent",
-        "Don't Hug Me I'm Scared 2",
-        "Duet",
+        "Batman: Strange Days",
+        "Toy Story That Time Forgot",
         "Feast",
-        "The Radiator Springs 500½",
+        "Almost Home",
+        "Silent",
         "Lava"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "Duet",
+        "Lava",
+        "Silent",
+        "The Radiator Springs 500½"
       ]
     },
     {
@@ -96,35 +124,33 @@
       "ranking": ["Silent", "Lava"]
     },
     {
-      "count": 2,
-      "ranking": ["Lava", "Silent"]
-    },
-    {
       "count": 1,
-      "ranking": ["Silent", "Lava", "Dragons: Dawn of the Dragon Racers"]
+      "ranking": ["Lava", "Dragons: Dawn of the Dragon Racers", "Silent"]
     },
     {
       "count": 1,
       "ranking": [
-        "Silent",
         "Don't Hug Me I'm Scared 2",
         "Feast",
         "Don't Hug Me I'm Scared 3",
         "Lava",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
-        "Toy Story That Time Forgot"
+        "Toy Story That Time Forgot",
+        "Silent",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Silent",
-        "00:08",
-        "The Radiator Springs 500½",
+        "Don't Hug Me I'm Scared 2",
         "Feast",
+        "Don't Hug Me I'm Scared 3",
+        "00:08",
         "Lava",
         "Toy Story That Time Forgot",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
+        "Silent",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
+        "The Radiator Springs 500½"
       ]
     },
     {
@@ -145,35 +171,20 @@
       "ranking": ["Lava", "There's a Man in the Woods", "Silent"]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Feast",
-        "Jinxy Jenkins, Lucky Lou",
-        "Silent",
-        "The Present",
-        "Nuggets",
-        "Lava"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Silent", "Supervenus"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Supervenus", "The Present", "Feast", "Lava"]
-    },
-    {
-      "count": 15,
+      "count": 16,
       "ranking": ["Supervenus"]
     },
     {
       "count": 1,
-      "ranking": ["Supervenus", "Nuggets", "D Is for Deloused"]
+      "ranking": ["Feast", "Lava", "The Present", "Supervenus"]
     },
     {
       "count": 1,
-      "ranking": ["Supervenus", "Feast"]
+      "ranking": ["Nuggets", "D Is for Deloused", "Supervenus"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Feast", "Supervenus"]
     },
     {
       "count": 1,
@@ -186,11 +197,11 @@
     {
       "count": 1,
       "ranking": [
-        "The Present",
         "Feast",
         "We Can't Live Without Cosmos",
-        "Lava",
+        "The Present",
         "Bear Story",
+        "Lava",
         "Dragons: Dawn of the Dragon Racers",
         "Supervenus"
       ]
@@ -208,14 +219,23 @@
       "ranking": ["Supervenus", "The Walk Home"]
     },
     {
-      "count": 1,
-      "ranking": ["Feast", "Lava", "Supervenus"]
+      "count": 15,
+      "ranking": ["Paulette's Chair"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Feast",
+        "Paulette's Chair",
+        "Lava",
+        "Toy Story That Time Forgot"
+      ]
     },
     {
       "count": 1,
       "ranking": [
-        "Paulette's Chair",
         "Feast",
+        "Paulette's Chair",
         "Wanderers",
         "There's a Man in the Woods",
         "Lava"
@@ -230,40 +250,36 @@
       "ranking": [
         "ME!ME!ME!",
         "Harmonie",
-        "Paulette's Chair",
         "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
         "00:08",
-        "Don't Hug Me I'm Scared 3"
+        "Paulette's Chair"
       ]
-    },
-    {
-      "count": 14,
-      "ranking": ["Paulette's Chair"]
     },
     {
       "count": 1,
       "ranking": [
-        "Jinxy Jenkins, Lucky Lou",
         "Golden Time",
+        "Jinxy Jenkins, Lucky Lou",
         "Wanderers",
         "Lava",
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "The Dam Keeper",
+        "Don't Hug Me I'm Scared 3",
+        "Robot Chicken DC Comics Special II: Schurken im Paradies",
         "Paulette's Chair",
         "The Present",
-        "Don't Hug Me I'm Scared 2",
-        "The Radiator Springs 500½",
-        "Feast",
-        "Don't Hug Me I'm Scared 3",
-        "The Dam Keeper",
-        "Robot Chicken DC Comics Special II: Schurken im Paradies",
-        "Toy Story That Time Forgot"
+        "Toy Story That Time Forgot",
+        "The Radiator Springs 500½"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Paulette's Chair",
-        "00:08",
         "ME!ME!ME!",
+        "00:08",
+        "Paulette's Chair",
         "Bath House",
         "Harmonie"
       ]
@@ -271,28 +287,19 @@
     {
       "count": 1,
       "ranking": [
-        "Paulette's Chair",
-        "Feast",
-        "Lava",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Paulette's Chair",
         "Don't Hug Me I'm Scared 2",
         "Marcel the Shell with Shoes On, Three",
         "Don't Hug Me I'm Scared 3",
-        "Lava"
+        "Lava",
+        "Paulette's Chair"
       ]
     },
     {
       "count": 1,
       "ranking": [
         "ME!ME!ME!",
-        "Lava",
         "Golden Time",
+        "Lava",
         "Harmonie",
         "Paulette's Chair",
         "Bear Story"
@@ -300,155 +307,102 @@
     },
     {
       "count": 1,
-      "ranking": ["00:08", "Paulette's Chair", "Lava", "Nuggets", "ME!ME!ME!"]
+      "ranking": ["00:08", "Lava", "Paulette's Chair", "Nuggets", "ME!ME!ME!"]
     },
     {
-      "count": 1,
-      "ranking": ["Paulette's Chair", "Don't Hug Me I'm Scared 2"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Paulette's Chair", "Lava"]
-    },
-    {
-      "count": 6,
-      "ranking": ["Don't Hug Me I'm Scared 2"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Don't Hug Me I'm Scared 2", "Lava"]
-    },
-    {
-      "count": 16,
+      "count": 14,
       "ranking": ["Don't Hug Me I'm Scared 2", "Don't Hug Me I'm Scared 3"]
     },
     {
       "count": 1,
       "ranking": [
-        "Silent",
-        "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
         "Don't Hug Me I'm Scared 2",
         "Don't Hug Me I'm Scared 3",
         "Toy Story That Time Forgot",
-        "The Radiator Springs 500½",
         "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
       ]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Wire Cutters",
-        "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3"
-      ]
-    },
-    {
-      "count": 4,
-      "ranking": [
-        "Marcel the Shell with Shoes On, Three",
-        "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3",
-        "Lava"
-      ]
+      "count": 7,
+      "ranking": ["Don't Hug Me I'm Scared 2"]
     },
     {
       "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "Feast",
-        "Don't Hug Me I'm Scared 3"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Toy Story That Time Forgot",
-        "The Radiator Springs 500½",
-        "Don't Hug Me I'm Scared 2",
-        "Marcel the Shell with Shoes On, Three",
-        "Lava"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Batman: Strange Days",
-        "Don't Hug Me I'm Scared 2",
-        "Feast",
-        "Don't Hug Me I'm Scared 3",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 14,
-      "ranking": ["There's a Man in the Woods"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Lava",
-        "There's a Man in the Woods",
-        "Don't Hug Me I'm Scared 2",
-        "Feast",
-        "Don't Hug Me I'm Scared 3"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "The Present",
-        "There's a Man in the Woods",
-        "Duet",
-        "Lava",
-        "We Can't Live Without Cosmos",
-        "The Dam Keeper",
-        "Jinxy Jenkins, Lucky Lou",
-        "Feast",
-        "The Radiator Springs 500½"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "There's a Man in the Woods",
-        "The Radiator Springs 500½",
-        "Lava",
-        "Toy Story That Time Forgot"
-      ]
+      "ranking": ["Don't Hug Me I'm Scared 2", "Nuggets", "Lava"]
     },
     {
       "count": 2,
       "ranking": [
-        "There's a Man in the Woods",
         "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3"
+        "Don't Hug Me I'm Scared 3",
+        "Lava"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "There's a Man in the Woods",
-        "Lava",
         "Don't Hug Me I'm Scared 3",
+        "Toy Story That Time Forgot",
+        "Don't Hug Me I'm Scared 2",
+        "Lava"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Don't Hug Me I'm Scared 2", "Feast"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
+        "Lava",
         "Toy Story That Time Forgot"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "There's a Man in the Woods",
-        "Feast",
         "Don't Hug Me I'm Scared 3",
-        "Lava",
+        "Bear Story",
         "Don't Hug Me I'm Scared 2"
       ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Don't Hug Me I'm Scared 3", "Don't Hug Me I'm Scared 2"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "There's a Man in the Woods",
+        "Lava",
+        "Toy Story That Time Forgot"
+      ]
+    },
+    {
+      "count": 11,
+      "ranking": ["There's a Man in the Woods"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mynarski Death Plummet", "There's a Man in the Woods"]
+    },
+    {
+      "count": 1,
+      "ranking": ["There's a Man in the Woods", "Mynarski Death Plummet"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "There's a Man in the Woods",
+        "Don't Hug Me I'm Scared 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["There's a Man in the Woods", "Feast"]
     },
     {
       "count": 1,
@@ -458,22 +412,32 @@
       "count": 1,
       "ranking": [
         "There's a Man in the Woods",
+        "Toy Story That Time Forgot",
+        "Feast"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Feast", "There's a Man in the Woods", "Bear Story"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Feast", "There's a Man in the Woods"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "Don't Hug Me I'm Scared 3",
         "Lava",
-        "Toy Story That Time Forgot"
+        "There's a Man in the Woods"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Paulette's Chair",
-        "00:08",
-        "There's a Man in the Woods",
-        "ME!ME!ME!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
+        "Don't Hug Me I'm Scared 2",
         "There's a Man in the Woods",
         "Don't Hug Me I'm Scared 3",
         "Lava"
@@ -482,117 +446,124 @@
     {
       "count": 1,
       "ranking": [
-        "Marcel the Shell with Shoes On, Three",
-        "There's a Man in the Woods"
+        "Bath House",
+        "There's a Man in the Woods",
+        "Batman: Strange Days",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
       ]
     },
     {
-      "count": 9,
+      "count": 1,
+      "ranking": ["There's a Man in the Woods", "The Present"]
+    },
+    {
+      "count": 14,
       "ranking": ["Marcel the Shell with Shoes On, Three"]
     },
     {
-      "count": 1,
-      "ranking": ["Marcel the Shell with Shoes On, Three", "Feast", "Lava"]
-    },
-    {
-      "count": 1,
+      "count": 2,
       "ranking": [
-        "Marcel the Shell with Shoes On, Three",
         "Don't Hug Me I'm Scared 2",
-        "Feast",
-        "Lava",
-        "Don't Hug Me I'm Scared 3",
-        "The Bigger Picture",
-        "Me and My Moulton",
-        "The Dam Keeper",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
+        "There's a Man in the Woods",
         "Marcel the Shell with Shoes On, Three",
-        "Lava",
-        "Toy Story That Time Forgot"
+        "Don't Hug Me I'm Scared 3"
       ]
     },
     {
-      "count": 1,
+      "count": 2,
       "ranking": ["Marcel the Shell with Shoes On, Three", "Lava"]
     },
     {
       "count": 1,
-      "ranking": ["Marcel the Shell with Shoes On, Three", "Nuggets"]
+      "ranking": [
+        "Feast",
+        "Marcel the Shell with Shoes On, Three",
+        "Lava",
+        "Toy Story That Time Forgot",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
+        "The Radiator Springs 500½"
+      ]
     },
     {
       "count": 1,
       "ranking": [
         "Marcel the Shell with Shoes On, Three",
-        "The Radiator Springs 500½",
         "Toy Story That Time Forgot"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Paulette's Chair",
         "Marcel the Shell with Shoes On, Three",
-        "Don't Hug Me I'm Scared 2",
-        "ME!ME!ME!",
-        "Don't Hug Me I'm Scared 3",
-        "Naruto Shippuden: Sunny Side Battle"
+        "Bear Story",
+        "Batman: Strange Days",
+        "Lava"
       ]
     },
     {
       "count": 1,
       "ranking": [
         "Marcel the Shell with Shoes On, Three",
-        "There's a Man in the Woods",
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
+        "Lava"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Marcel the Shell with Shoes On, Three",
+        "Don't Hug Me I'm Scared 3",
+        "Lava"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Marcel the Shell with Shoes On, Three",
+        "Duet",
         "Don't Hug Me I'm Scared 2",
         "Don't Hug Me I'm Scared 3"
       ]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Marcel the Shell with Shoes On, Three",
-        "There's a Man in the Woods",
-        "Don't Hug Me I'm Scared 2",
-        "Feast",
-        "Don't Hug Me I'm Scared 3",
-        "Lava"
-      ]
+      "count": 3,
+      "ranking": ["The Present", "Jinxy Jenkins, Lucky Lou"]
     },
     {
       "count": 1,
-      "ranking": [
-        "Marcel the Shell with Shoes On, Three",
-        "Feast",
-        "The Radiator Springs 500½",
-        "Lava",
-        "Toy Story That Time Forgot"
-      ]
+      "ranking": ["Feast", "The Present", "Lava"]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Toy Story That Time Forgot",
-        "Marcel the Shell with Shoes On, Three",
-        "Feast",
-        "Lava"
-      ]
+      "count": 2,
+      "ranking": ["Feast", "The Present"]
     },
     {
-      "count": 9,
+      "count": 12,
       "ranking": ["The Present"]
     },
     {
       "count": 1,
       "ranking": [
-        "Duet",
-        "The Present",
+        "Feast",
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
         "Lava",
+        "The Present"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Nuggets", "The Present", "Jinxy Jenkins, Lucky Lou"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Duet",
         "Bear Story",
+        "Lava",
+        "The Present",
         "Toy Story That Time Forgot"
       ]
     },
@@ -605,82 +576,22 @@
       "ranking": ["Timber", "Feast", "The Present"]
     },
     {
-      "count": 5,
-      "ranking": ["The Present", "Lava"]
+      "count": 2,
+      "ranking": ["Lava", "The Present"]
     },
     {
-      "count": 1,
-      "ranking": [
-        "The Present",
-        "The Radiator Springs 500½",
-        "Feast",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Johnny Express",
-        "Feast",
-        "Batman: Strange Days",
-        "The Present",
-        "Don't Hug Me I'm Scared 2",
-        "There's a Man in the Woods",
-        "Nuggets",
-        "Don't Hug Me I'm Scared 3",
-        "Bear Story",
-        "Lava"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Feast", "Lava", "The Present"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Batman: Strange Days",
-        "The Present",
-        "Nuggets",
-        "Robot Chicken DC Comics Special II: Schurken im Paradies",
-        "Feast",
-        "Lava",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
-        "Toy Story That Time Forgot",
-        "The Radiator Springs 500½",
-        "Scooby-Doo! Ghastly Goals"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Almost Home", "Lava", "The Present", "Johnny Express"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Jinxy Jenkins, Lucky Lou",
-        "The Present",
-        "There's a Man in the Woods"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "The Present",
-        "Feast",
-        "Don't Hug Me I'm Scared 3"
-      ]
-    },
-    {
-      "count": 13,
+      "count": 15,
       "ranking": ["Wanderers"]
     },
     {
       "count": 1,
+      "ranking": ["Feast", "Lava", "Wanderers", "Nuggets"]
+    },
+    {
+      "count": 1,
       "ranking": [
-        "Batman: Strange Days",
         "Johnny Express",
+        "Batman: Strange Days",
         "Wanderers",
         "Lava",
         "Wire Cutters"
@@ -689,38 +600,38 @@
     {
       "count": 1,
       "ranking": [
-        "Wanderers",
-        "Marcel the Shell with Shoes On, Three",
-        "There's a Man in the Woods",
-        "Jinxy Jenkins, Lucky Lou",
-        "Johnny Express",
-        "Yearbook",
         "Feast",
+        "There's a Man in the Woods",
+        "Yearbook",
+        "We Can't Live Without Cosmos",
+        "Marcel the Shell with Shoes On, Three",
         "Mynarski Death Plummet",
         "Bear Story",
-        "We Can't Live Without Cosmos",
-        "Robot Chicken DC Comics Special II: Schurken im Paradies"
+        "Johnny Express",
+        "Wanderers",
+        "Robot Chicken DC Comics Special II: Schurken im Paradies",
+        "Jinxy Jenkins, Lucky Lou"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Supervenus", "Feast", "Wanderers", "Johnny Express"]
+      "ranking": ["Supervenus", "Feast", "Johnny Express", "Wanderers"]
     },
     {
       "count": 1,
       "ranking": [
-        "Wanderers",
         "Don't Hug Me I'm Scared 2",
-        "D Is for Deloused",
         "Feast",
         "Don't Hug Me I'm Scared 3",
+        "Wanderers",
+        "D Is for Deloused",
         "Lava",
         "Toy Story That Time Forgot",
+        "The Dam Keeper",
         "There's a Man in the Woods",
+        "Yearbook",
         "Marcel the Shell with Shoes On, Three",
         "The Present",
-        "Yearbook",
-        "The Dam Keeper",
         "Scooby-Doo! Ghastly Goals",
         "The Walk Home",
         "The Radiator Springs 500½"
@@ -728,7 +639,7 @@
     },
     {
       "count": 1,
-      "ranking": ["Wanderers", "Marcel the Shell with Shoes On, Three", "Lava"]
+      "ranking": ["Marcel the Shell with Shoes On, Three", "Wanderers", "Lava"]
     },
     {
       "count": 1,
@@ -745,53 +656,88 @@
     {
       "count": 1,
       "ranking": [
-        "Wanderers",
-        "Marcel the Shell with Shoes On, Three",
-        "The Radiator Springs 500½",
         "Feast",
-        "Timber",
-        "Lava",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["We Can't Live Without Cosmos", "Wanderers", "Yearbook"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Lava", "Wanderers"]
-    },
-    {
-      "count": 1,
-      "ranking": ["The Present", "Wanderers"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Lava",
-        "Don't Hug Me I'm Scared 3",
+        "Marcel the Shell with Shoes On, Three",
         "Wanderers",
-        "Don't Hug Me I'm Scared 2"
+        "Lava",
+        "Timber",
+        "Toy Story That Time Forgot",
+        "The Radiator Springs 500½"
       ]
     },
     {
       "count": 1,
       "ranking": [
+        "We Can't Live Without Cosmos",
+        "Wanderers",
+        "Yearbook",
+        "The OceanMaker"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Toy Story That Time Forgot", "Lava", "Duet"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "There's a Man in the Woods",
+        "Don't Hug Me I'm Scared 3",
         "Duet",
+        "The Present"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Feast", "Duet", "Lava"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "There's a Man in the Woods",
+        "Marcel the Shell with Shoes On, Three",
+        "Don't Hug Me I'm Scared 2",
+        "Nuggets",
+        "Don't Hug Me I'm Scared 3",
+        "Duet",
+        "Almost Home",
+        "Silent",
+        "The Radiator Springs 500½"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Present",
+        "The Dam Keeper",
+        "There's a Man in the Woods",
+        "We Can't Live Without Cosmos",
+        "Duet",
+        "Lava",
+        "Feast",
         "Jinxy Jenkins, Lucky Lou",
+        "The Radiator Springs 500½"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Feast",
+        "Duet",
+        "Lava",
         "The Present",
         "Timber",
-        "Feast",
-        "Lava"
+        "Jinxy Jenkins, Lucky Lou"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Duet",
-        "Marcel the Shell with Shoes On, Three",
         "Feast",
+        "Marcel the Shell with Shoes On, Three",
+        "Duet",
         "Lava"
       ]
     },
@@ -801,60 +747,56 @@
     },
     {
       "count": 1,
-      "ranking": ["Duet", "Feast", "Lava"]
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
+        "Duet"
+      ]
     },
     {
       "count": 1,
-      "ranking": ["Feast", "Lava", "Duet"]
-    },
-    {
-      "count": 7,
-      "ranking": ["Duet"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Duet", "Lava", "Bear Story", "We Can't Live Without Cosmos"]
+      "ranking": ["We Can't Live Without Cosmos", "Bear Story", "Duet", "Lava"]
     },
     {
       "count": 1,
       "ranking": [
-        "Supervenus",
-        "Silent",
-        "Batman: Strange Days",
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
         "There's a Man in the Woods",
-        "Duet",
-        "Almost Home",
-        "Jinxy Jenkins, Lucky Lou",
-        "Don't Hug Me I'm Scared 2",
-        "Wanderers",
-        "The Present",
+        "Don't Hug Me I'm Scared 3",
         "Johnny Express",
-        "00:08",
-        "D Is for Deloused",
+        "Wanderers",
         "Nuggets",
-        "Feast",
-        "Timber",
         "ME!ME!ME!",
-        "Don't Hug Me I'm Scared 3"
+        "Duet",
+        "D Is for Deloused",
+        "00:08",
+        "Batman: Strange Days",
+        "The Present",
+        "Supervenus",
+        "Timber",
+        "Jinxy Jenkins, Lucky Lou",
+        "Almost Home",
+        "Silent"
       ]
     },
     {
       "count": 1,
       "ranking": [
         "Batman: Strange Days",
-        "Duet",
         "Don't Hug Me I'm Scared 2",
-        "00:08",
         "Feast",
-        "Don't Hug Me I'm Scared 3"
+        "Don't Hug Me I'm Scared 3",
+        "Duet",
+        "00:08"
       ]
     },
     {
       "count": 1,
       "ranking": [
         "Feast",
-        "We Can't Live Without Cosmos",
         "The Dam Keeper",
+        "We Can't Live Without Cosmos",
         "Bear Story",
         "Toy Story That Time Forgot",
         "Me and My Moulton",
@@ -866,25 +808,25 @@
     {
       "count": 1,
       "ranking": [
-        "Duet",
-        "Marcel the Shell with Shoes On, Three",
-        "There's a Man in the Woods",
         "Don't Hug Me I'm Scared 2",
-        "The Walk Home",
-        "Nuggets",
-        "Timber",
         "Feast",
+        "There's a Man in the Woods",
+        "Marcel the Shell with Shoes On, Three",
         "Don't Hug Me I'm Scared 3",
+        "Nuggets",
         "ME!ME!ME!",
+        "Duet",
         "Lava",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
+        "Timber",
         "Toy Story That Time Forgot",
-        "Dragons: Dawn of the Dragon Racers"
+        "Dragons: Dawn of the Dragon Racers",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
+        "The Walk Home"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Duet", "Feast"]
+      "ranking": ["Feast", "Duet"]
     },
     {
       "count": 1,
@@ -897,10 +839,14 @@
       ]
     },
     {
+      "count": 5,
+      "ranking": ["Duet"]
+    },
+    {
       "count": 1,
       "ranking": [
-        "Duet",
         "Feast",
+        "Duet",
         "The Bigger Picture",
         "Golden Time",
         "The Radiator Springs 500½",
@@ -909,23 +855,21 @@
     },
     {
       "count": 1,
-      "ranking": ["Duet", "The Dam Keeper"]
+      "ranking": ["The Dam Keeper", "Duet"]
     },
     {
-      "count": 1,
-      "ranking": ["Duet", "Toy Story That Time Forgot"]
+      "count": 9,
+      "ranking": ["Jinxy Jenkins, Lucky Lou"]
     },
     {
       "count": 1,
       "ranking": [
-        "Duet",
         "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3"
+        "Don't Hug Me I'm Scared 3",
+        "Lava",
+        "The Present",
+        "Jinxy Jenkins, Lucky Lou"
       ]
-    },
-    {
-      "count": 7,
-      "ranking": ["Jinxy Jenkins, Lucky Lou"]
     },
     {
       "count": 1,
@@ -937,17 +881,13 @@
     },
     {
       "count": 1,
-      "ranking": ["The Present", "Jinxy Jenkins, Lucky Lou"]
-    },
-    {
-      "count": 1,
       "ranking": [
-        "Jinxy Jenkins, Lucky Lou",
         "Don't Hug Me I'm Scared 2",
-        "The Present",
-        "Marcel the Shell with Shoes On, Three",
         "Feast",
+        "Marcel the Shell with Shoes On, Three",
         "Lava",
+        "The Present",
+        "Jinxy Jenkins, Lucky Lou",
         "Don't Hug Me I'm Scared 3",
         "Toy Story That Time Forgot"
       ]
@@ -964,207 +904,202 @@
     {
       "count": 1,
       "ranking": [
+        "There's a Man in the Woods",
         "Paulette's Chair",
-        "Jinxy Jenkins, Lucky Lou",
-        "There's a Man in the Woods"
-      ]
-    },
-    {
-      "count": 2,
-      "ranking": ["Jinxy Jenkins, Lucky Lou", "Lava"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Jinxy Jenkins, Lucky Lou",
-        "Toy Story That Time Forgot",
-        "Feast",
-        "Almost Home",
-        "Lava",
-        "Dragons: Dawn of the Dragon Racers"
+        "Jinxy Jenkins, Lucky Lou"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Jinxy Jenkins, Lucky Lou",
+        "There's a Man in the Woods",
         "The Present",
-        "Feast",
-        "Timber",
-        "Lava"
+        "Jinxy Jenkins, Lucky Lou"
       ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "Feast",
-        "Lava",
-        "Jinxy Jenkins, Lucky Lou",
-        "Don't Hug Me I'm Scared 3",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Jinxy Jenkins, Lucky Lou",
-        "Feast",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Jinxy Jenkins, Lucky Lou", "The Present", "Lava"]
     },
     {
       "count": 1,
       "ranking": ["Lava", "Jinxy Jenkins, Lucky Lou"]
     },
     {
-      "count": 2,
-      "ranking": ["Jinxy Jenkins, Lucky Lou", "Feast", "Lava"]
+      "count": 1,
+      "ranking": [
+        "Jinxy Jenkins, Lucky Lou",
+        "Toy Story That Time Forgot",
+        "Feast",
+        "Almost Home",
+        "Lava",
+        "Dragons: Dawn of the Dragon Racers"
+      ]
     },
     {
       "count": 1,
-      "ranking": ["Jinxy Jenkins, Lucky Lou", "The Present"]
+      "ranking": [
+        "Feast",
+        "Lava",
+        "The Present",
+        "Timber",
+        "Jinxy Jenkins, Lucky Lou"
+      ]
     },
     {
       "count": 1,
-      "ranking": ["Jinxy Jenkins, Lucky Lou", "Paulette's Chair", "Lava"]
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "Lava",
+        "Don't Hug Me I'm Scared 3",
+        "Jinxy Jenkins, Lucky Lou",
+        "Toy Story That Time Forgot"
+      ]
     },
     {
-      "count": 8,
+      "count": 1,
+      "ranking": [
+        "Feast",
+        "Jinxy Jenkins, Lucky Lou",
+        "Toy Story That Time Forgot"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lava", "The Present", "Jinxy Jenkins, Lucky Lou"]
+    },
+    {
+      "count": 11,
       "ranking": ["Almost Home"]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Almost Home",
-        "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Almost Home",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
-        "Almost Home",
-        "The Radiator Springs 500½",
-        "Feast",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Toy Story That Time Forgot",
-        "Feast",
-        "The Radiator Springs 500½",
-        "Lava",
-        "Almost Home",
-        "Dragons: Dawn of the Dragon Racers"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Lava", "Almost Home"]
-    },
-    {
-      "count": 1,
-      "ranking": ["There's a Man in the Woods", "Almost Home", "Lava"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Lava",
-        "Toy Story That Time Forgot",
-        "Dragons: Dawn of the Dragon Racers",
-        "Almost Home",
-        "The Radiator Springs 500½",
-        "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Almost Home",
-        "Feast",
-        "Lava",
-        "Toy Story That Time Forgot",
-        "Dragons: Dawn of the Dragon Racers"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Almost Home",
-        "Batman: Strange Days",
-        "Feast",
-        "Lava",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 3,
+      "count": 2,
       "ranking": ["Almost Home", "Toy Story That Time Forgot"]
     },
     {
       "count": 1,
+      "ranking": ["Toy Story That Time Forgot", "Almost Home"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Dragons: Dawn of the Dragon Racers", "Almost Home"]
+    },
+    {
+      "count": 1,
       "ranking": [
         "Lava",
-        "Feast",
-        "The Radiator Springs 500½",
+        "Timber",
         "Toy Story That Time Forgot",
-        "Almost Home",
-        "Don't Hug Me I'm Scared 2",
-        "Nuggets",
-        "Don't Hug Me I'm Scared 3",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Almost Home", "Feast", "Dragons: Dawn of the Dragon Racers"]
-    },
-    {
-      "count": 1,
-      "ranking": [
         "Almost Home",
         "The Radiator Springs 500½",
-        "Feast",
-        "Lava",
-        "Toy Story That Time Forgot",
-        "Dragons: Dawn of the Dragon Racers"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Almost Home",
-        "Toy Story That Time Forgot",
-        "Lava",
-        "Silent",
-        "Yearbook",
         "Feast"
       ]
     },
     {
       "count": 1,
       "ranking": [
+        "Lava",
+        "Toy Story That Time Forgot",
+        "Almost Home",
+        "The Radiator Springs 500½"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Feast",
+        "Toy Story That Time Forgot",
+        "Dragons: Dawn of the Dragon Racers",
+        "Almost Home"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Feast",
+        "Batman: Strange Days",
+        "Robot Chicken DC Comics Special II: Schurken im Paradies",
+        "Almost Home"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Toy Story That Time Forgot",
+        "Lava",
+        "The Radiator Springs 500½",
+        "Almost Home"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Feast",
+        "Marcel the Shell with Shoes On, Three",
+        "Lava",
+        "Toy Story That Time Forgot",
+        "Dragons: Dawn of the Dragon Racers",
+        "Almost Home",
+        "The Radiator Springs 500½"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
         "Don't Hug Me I'm Scared 2",
-        "The Present",
+        "Don't Hug Me I'm Scared 3",
+        "Almost Home"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Almost Home",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
+        "Feast",
+        "Toy Story That Time Forgot",
+        "Almost Home",
+        "The Radiator Springs 500½"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Toy Story That Time Forgot",
+        "Feast",
+        "The Radiator Springs 500½",
+        "Lava",
+        "Dragons: Dawn of the Dragon Racers",
+        "Almost Home"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["We Can't Live Without Cosmos", "Yearbook"]
+    },
+    {
+      "count": 12,
+      "ranking": ["Yearbook"]
+    },
+    {
+      "count": 1,
+      "ranking": [
         "Yearbook",
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
         "Lava"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Yearbook",
+        "Lava",
+        "The Present"
       ]
     },
     {
@@ -1177,24 +1112,20 @@
       ]
     },
     {
-      "count": 11,
-      "ranking": ["Yearbook"]
-    },
-    {
       "count": 1,
       "ranking": ["Almost Home", "Yearbook"]
     },
     {
       "count": 1,
       "ranking": [
-        "Marcel the Shell with Shoes On, Three",
         "There's a Man in the Woods",
-        "Yearbook"
+        "Yearbook",
+        "Marcel the Shell with Shoes On, Three"
       ]
     },
     {
-      "count": 1,
-      "ranking": ["Yearbook", "Feast", "Lava"]
+      "count": 2,
+      "ranking": ["Feast", "Yearbook", "Lava"]
     },
     {
       "count": 1,
@@ -1210,113 +1141,99 @@
     },
     {
       "count": 1,
-      "ranking": ["The Present", "Yearbook"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Feast", "Yearbook", "Lava"]
+      "ranking": ["Yearbook", "The Present"]
     },
     {
       "count": 1,
       "ranking": [
-        "Yearbook",
-        "Nuggets",
-        "The Radiator Springs 500½",
-        "Feast",
+        "Toy Story That Time Forgot",
+        "Almost Home",
         "Lava",
-        "Naruto Shippuden: Sunny Side Battle",
-        "Toy Story That Time Forgot"
+        "Silent",
+        "Feast",
+        "Yearbook"
       ]
     },
     {
+      "count": 17,
+      "ranking": ["Nuggets"]
+    },
+    {
       "count": 1,
-      "ranking": ["Supervenus", "Yearbook"]
+      "ranking": ["There's a Man in the Woods", "Nuggets"]
     },
     {
       "count": 1,
       "ranking": [
-        "Yearbook",
+        "Nuggets",
         "Don't Hug Me I'm Scared 2",
         "Don't Hug Me I'm Scared 3"
       ]
     },
     {
-      "count": 15,
-      "ranking": ["Nuggets"]
+      "count": 1,
+      "ranking": ["Feast", "Nuggets"]
     },
     {
-      "count": 3,
+      "count": 1,
       "ranking": ["Nuggets", "Lava"]
     },
     {
       "count": 1,
       "ranking": [
-        "Batman: Strange Days",
-        "The Present",
-        "Golden Time",
-        "Nuggets",
-        "Feast"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Silent", "Nuggets"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Marcel the Shell with Shoes On, Three",
         "Don't Hug Me I'm Scared 2",
-        "Nuggets",
-        "Feast",
         "Don't Hug Me I'm Scared 3",
+        "Nuggets",
         "Lava",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Feast",
-        "Don't Hug Me I'm Scared 2",
-        "Nuggets",
-        "Batman: Strange Days",
         "Toy Story That Time Forgot",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
+        "Scooby-Doo! Ghastly Goals"
       ]
     },
     {
       "count": 1,
+      "ranking": ["Lava", "Mynarski Death Plummet", "ME!ME!ME!", "00:08"]
+    },
+    {
+      "count": 1,
       "ranking": [
-        "Nuggets",
-        "Marcel the Shell with Shoes On, Three",
         "Don't Hug Me I'm Scared 2",
+        "Yearbook",
         "Don't Hug Me I'm Scared 3",
+        "Mynarski Death Plummet",
+        "ME!ME!ME!",
+        "00:08",
+        "Lava"
+      ]
+    },
+    {
+      "count": 15,
+      "ranking": ["00:08"]
+    },
+    {
+      "count": 1,
+      "ranking": ["00:08", "Harmonie"]
+    },
+    {
+      "count": 1,
+      "ranking": ["00:08", "Marcel the Shell with Shoes On, Three"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "Don't Hug Me I'm Scared 3",
+        "00:08",
         "Lava"
       ]
     },
     {
       "count": 1,
-      "ranking": [
-        "D Is for Deloused",
-        "Lava",
-        "Don't Hug Me I'm Scared 3",
-        "Don't Hug Me I'm Scared 2",
-        "Nuggets",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 2,
-      "ranking": ["Nuggets", "Timber"]
-    },
-    {
-      "count": 16,
-      "ranking": ["00:08"]
+      "ranking": ["Feast", "00:08"]
     },
     {
       "count": 1,
-      "ranking": ["00:08", "ME!ME!ME!"]
+      "ranking": ["ME!ME!ME!", "00:08"]
     },
     {
       "count": 1,
@@ -1325,12 +1242,12 @@
     {
       "count": 1,
       "ranking": [
-        "Paulette's Chair",
         "Don't Hug Me I'm Scared 2",
-        "00:08",
-        "Timber",
         "Don't Hug Me I'm Scared 3",
-        "Harmonie"
+        "00:08",
+        "Paulette's Chair",
+        "Harmonie",
+        "Timber"
       ]
     },
     {
@@ -1346,43 +1263,18 @@
     {
       "count": 1,
       "ranking": [
+        "The Walk Home",
         "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3",
-        "Supervenus",
-        "There's a Man in the Woods",
-        "Mynarski Death Plummet",
-        "Marcel the Shell with Shoes On, Three",
-        "00:08",
-        "D Is for Deloused",
         "Feast",
-        "ME!ME!ME!",
-        "The Dam Keeper"
+        "The Dam Keeper",
+        "Don't Hug Me I'm Scared 3",
+        "Johnny Express",
+        "Golden Time"
       ]
     },
     {
       "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "There's a Man in the Woods",
-        "00:08",
-        "Yearbook"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["D Is for Deloused", "00:08"]
-    },
-    {
-      "count": 1,
-      "ranking": ["00:08", "Lava"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Wanderers", "00:08"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Johnny Express", "Lava"]
+      "ranking": ["Johnny Express", "Batman: Strange Days", "Wire Cutters"]
     },
     {
       "count": 6,
@@ -1390,45 +1282,55 @@
     },
     {
       "count": 1,
+      "ranking": ["Johnny Express", "Lava"]
+    },
+    {
+      "count": 1,
       "ranking": ["Johnny Express", "The Radiator Springs 500½", "Lava"]
     },
     {
       "count": 1,
-      "ranking": ["The Present", "Feast", "Johnny Express", "Wire Cutters"]
+      "ranking": ["Feast", "The Present", "Johnny Express", "Wire Cutters"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lava", "Almost Home", "The Present", "Johnny Express"]
     },
     {
       "count": 1,
       "ranking": [
         "Johnny Express",
         "Feast",
-        "The Radiator Springs 500½",
-        "Lava"
+        "Lava",
+        "The Radiator Springs 500½"
       ]
     },
     {
       "count": 1,
       "ranking": [
         "Don't Hug Me I'm Scared 2",
-        "Johnny Express",
         "Don't Hug Me I'm Scared 3",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "Johnny Express",
-        "Don't Hug Me I'm Scared 3"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "The Present",
         "Johnny Express",
         "Lava",
         "Toy Story That Time Forgot"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
+        "Johnny Express"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Johnny Express",
+        "Lava",
+        "The Present",
+        "Toy Story That Time Forgot",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
       ]
     },
     {
@@ -1441,33 +1343,33 @@
     },
     {
       "count": 1,
-      "ranking": ["The Present", "Nuggets", "Johnny Express", "Feast", "Lava"]
+      "ranking": ["Feast", "Johnny Express", "Nuggets", "Lava", "The Present"]
     },
     {
       "count": 1,
       "ranking": [
-        "There's a Man in the Woods",
         "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "The Dam Keeper",
+        "There's a Man in the Woods",
+        "Yearbook",
+        "Don't Hug Me I'm Scared 3",
+        "Bear Story",
         "Johnny Express",
         "Nuggets",
-        "Yearbook",
-        "Feast",
         "Lava",
-        "Don't Hug Me I'm Scared 3",
-        "The Bigger Picture",
-        "Bear Story",
-        "The Dam Keeper"
+        "The Bigger Picture"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Johnny Express", "Lava", "The Dam Keeper"]
+      "ranking": ["The Dam Keeper", "Johnny Express", "Lava"]
     },
     {
       "count": 1,
       "ranking": [
-        "There's a Man in the Woods",
         "Don't Hug Me I'm Scared 2",
+        "There's a Man in the Woods",
         "Johnny Express",
         "Feast",
         "Lava"
@@ -1482,16 +1384,27 @@
       "ranking": ["Johnny Express", "Lava", "Don't Hug Me I'm Scared 2"]
     },
     {
-      "count": 1,
-      "ranking": ["Johnny Express", "Lava", "Silent"]
-    },
-    {
-      "count": 12,
+      "count": 14,
       "ranking": ["D Is for Deloused"]
     },
     {
       "count": 1,
-      "ranking": ["D Is for Deloused", "Feast"]
+      "ranking": [
+        "Feast",
+        "D Is for Deloused",
+        "Lava",
+        "Toy Story That Time Forgot",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Feast",
+        "There's a Man in the Woods",
+        "D Is for Deloused",
+        "Lava"
+      ]
     },
     {
       "count": 1,
@@ -1501,8 +1414,8 @@
       "count": 1,
       "ranking": [
         "Don't Hug Me I'm Scared 2",
-        "D Is for Deloused",
-        "Don't Hug Me I'm Scared 3"
+        "Don't Hug Me I'm Scared 3",
+        "D Is for Deloused"
       ]
     },
     {
@@ -1526,8 +1439,8 @@
         "Batman: Strange Days",
         "Toy Story That Time Forgot",
         "Lava",
-        "D Is for Deloused",
-        "Yearbook"
+        "Yearbook",
+        "D Is for Deloused"
       ]
     },
     {
@@ -1536,7 +1449,7 @@
     },
     {
       "count": 1,
-      "ranking": ["D Is for Deloused", "The Walk Home", "Wire Cutters", "Feast"]
+      "ranking": ["D Is for Deloused", "Wire Cutters", "The Walk Home", "Feast"]
     },
     {
       "count": 1,
@@ -1552,9 +1465,9 @@
     {
       "count": 1,
       "ranking": [
+        "Feast",
         "Marcel the Shell with Shoes On, Three",
         "D Is for Deloused",
-        "Feast",
         "Lava",
         "Duet",
         "The Present",
@@ -1565,37 +1478,34 @@
     },
     {
       "count": 1,
+      "ranking": ["Don't Hug Me I'm Scared 2", "The Walk Home"]
+    },
+    {
+      "count": 1,
       "ranking": [
-        "D Is for Deloused",
+        "Don't Hug Me I'm Scared 2",
         "Feast",
-        "The Present",
+        "Don't Hug Me I'm Scared 3",
+        "Lava",
+        "Timber",
         "Toy Story That Time Forgot",
-        "Paulette's Chair",
-        "Silent",
-        "Lava"
+        "The Radiator Springs 500½",
+        "The Walk Home"
       ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Don't Hug Me I'm Scared 2", "D Is for Deloused"]
-    },
-    {
-      "count": 1,
-      "ranking": ["There's a Man in the Woods", "D Is for Deloused"]
     },
     {
       "count": 1,
       "ranking": [
         "Nuggets",
         "The Walk Home",
-        "Marcel the Shell with Shoes On, Three",
         "Don't Hug Me I'm Scared 2",
+        "Marcel the Shell with Shoes On, Three",
         "Don't Hug Me I'm Scared 3",
         "Lava"
       ]
     },
     {
-      "count": 10,
+      "count": 8,
       "ranking": ["The Walk Home"]
     },
     {
@@ -1603,15 +1513,19 @@
       "ranking": ["Paulette's Chair", "The Walk Home"]
     },
     {
+      "count": 2,
+      "ranking": ["The Walk Home", "Lava"]
+    },
+    {
       "count": 1,
       "ranking": [
         "The Radiator Springs 500½",
         "The Walk Home",
-        "Wanderers",
-        "There's a Man in the Woods",
         "Feast",
-        "Timber",
+        "There's a Man in the Woods",
+        "Wanderers",
         "Lava",
+        "Timber",
         "Toy Story That Time Forgot",
         "Dragons: Dawn of the Dragon Racers"
       ]
@@ -1632,7 +1546,7 @@
     },
     {
       "count": 1,
-      "ranking": ["The Walk Home", "Lava"]
+      "ranking": ["Timber", "The Walk Home"]
     },
     {
       "count": 1,
@@ -1640,14 +1554,14 @@
     },
     {
       "count": 1,
-      "ranking": ["The Walk Home", "Feast"]
+      "ranking": ["Feast", "The Walk Home"]
     },
     {
       "count": 1,
       "ranking": [
         "Supervenus",
-        "The Walk Home",
         "Nuggets",
+        "The Walk Home",
         "Batman: Strange Days",
         "Toy Story That Time Forgot",
         "Feast",
@@ -1660,9 +1574,9 @@
         "Don't Hug Me I'm Scared 3",
         "Don't Hug Me I'm Scared 2",
         "Lava",
-        "The Radiator Springs 500½",
         "Feast",
         "Toy Story That Time Forgot",
+        "The Radiator Springs 500½",
         "The Walk Home"
       ]
     },
@@ -1671,43 +1585,25 @@
       "ranking": ["The Present", "The Walk Home"]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Nuggets",
-        "Duet",
-        "Marcel the Shell with Shoes On, Three",
-        "There's a Man in the Woods",
-        "Don't Hug Me I'm Scared 2",
-        "The Walk Home",
-        "Timber",
-        "Feast",
-        "ME!ME!ME!",
-        "Don't Hug Me I'm Scared 3",
-        "Lava",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
-        "Toy Story That Time Forgot",
-        "Dragons: Dawn of the Dragon Racers"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Feast", "Bear Story", "The Walk Home"]
-    },
-    {
-      "count": 5,
+      "count": 7,
       "ranking": ["Feast", "Lava"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Lava", "Feast", "The Radiator Springs 500½"]
-    },
-    {
-      "count": 1,
-      "ranking": ["The Present", "Feast", "Lava"]
     },
     {
       "count": 12,
       "ranking": ["Feast"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "Bear Story",
+        "Wanderers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Feast", "Toy Story That Time Forgot"]
     },
     {
       "count": 2,
@@ -1717,87 +1613,41 @@
       "count": 1,
       "ranking": [
         "Feast",
-        "The Radiator Springs 500½",
-        "Dragons: Dawn of the Dragon Racers"
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3"
       ]
     },
     {
-      "count": 1,
-      "ranking": [
-        "There's a Man in the Woods",
-        "Feast",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 9,
+      "count": 13,
       "ranking": ["The Radiator Springs 500½"]
     },
     {
       "count": 2,
-      "ranking": ["The Radiator Springs 500½", "Lava"]
-    },
-    {
-      "count": 1,
       "ranking": [
-        "Feast",
-        "Paulette's Chair",
-        "Lava",
-        "Toy Story That Time Forgot",
+        "Dragons: Dawn of the Dragon Racers",
         "The Radiator Springs 500½"
       ]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 3",
-        "Don't Hug Me I'm Scared 2",
-        "The Radiator Springs 500½",
-        "Timber",
-        "Timber",
-        "Golden Time",
-        "Feast",
-        "Almost Home"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Scooby-Doo! Ghastly Goals",
-        "The Radiator Springs 500½",
-        "Lava",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
       "count": 2,
+      "ranking": ["Toy Story That Time Forgot", "The Radiator Springs 500½"]
+    },
+    {
+      "count": 3,
       "ranking": ["Lava", "The Radiator Springs 500½"]
     },
     {
-      "count": 2,
+      "count": 1,
       "ranking": ["The Radiator Springs 500½", "Toy Story That Time Forgot"]
     },
     {
       "count": 1,
       "ranking": [
+        "Feast",
         "Lava",
-        "There's a Man in the Woods",
-        "Don't Hug Me I'm Scared 2",
-        "The Radiator Springs 500½",
-        "Don't Hug Me I'm Scared 3",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "There's a Man in the Woods",
-        "Marcel the Shell with Shoes On, Three",
-        "Don't Hug Me I'm Scared 2",
-        "Nuggets",
-        "Don't Hug Me I'm Scared 3",
-        "Almost Home",
-        "Silent",
+        "Timber",
+        "Toy Story That Time Forgot",
+        "Dragons: Dawn of the Dragon Racers",
         "The Radiator Springs 500½"
       ]
     },
@@ -1812,18 +1662,59 @@
     {
       "count": 1,
       "ranking": [
-        "The Radiator Springs 500½",
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
         "Lava",
-        "Toy Story That Time Forgot"
+        "Toy Story That Time Forgot",
+        "Dragons: Dawn of the Dragon Racers",
+        "The Radiator Springs 500½",
+        "Scooby-Doo! Ghastly Goals"
       ]
     },
     {
-      "count": 10,
+      "count": 1,
+      "ranking": [
+        "Feast",
+        "Lava",
+        "Toy Story That Time Forgot",
+        "The Radiator Springs 500½"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Radiator Springs 500½", "Lava"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Toy Story That Time Forgot",
+        "Don't Hug Me I'm Scared 3",
+        "Lava",
+        "Timber"
+      ]
+    },
+    {
+      "count": 12,
       "ranking": ["Timber"]
     },
     {
       "count": 2,
+      "ranking": ["Lava", "Timber"]
+    },
+    {
+      "count": 1,
       "ranking": ["Timber", "Lava"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "There's a Man in the Woods",
+        "Lava",
+        "Timber"
+      ]
     },
     {
       "count": 1,
@@ -1832,10 +1723,10 @@
     {
       "count": 1,
       "ranking": [
-        "Timber",
         "Feast",
-        "The OceanMaker",
+        "Timber",
         "Wire Cutters",
+        "The OceanMaker",
         "Scooby-Doo! Ghastly Goals"
       ]
     },
@@ -1849,51 +1740,7 @@
     },
     {
       "count": 1,
-      "ranking": ["There's a Man in the Woods", "Timber", "Feast", "Lava"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "There's a Man in the Woods",
-        "Timber",
-        "Feast",
-        "Don't Hug Me I'm Scared 3",
-        "Lava",
-        "Scooby-Doo! Ghastly Goals",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 3",
-        "Don't Hug Me I'm Scared 2",
-        "Timber"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Timber", "Feast"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Lava", "Timber", "The Radiator Springs 500½"]
-    },
-    {
-      "count": 1,
-      "ranking": ["There's a Man in the Woods", "Nuggets", "Timber"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Timber",
-        "There's a Man in the Woods",
-        "Don't Hug Me I'm Scared 2",
-        "Lava",
-        "Don't Hug Me I'm Scared 3",
-        "Toy Story That Time Forgot"
-      ]
+      "ranking": ["Feast", "There's a Man in the Woods", "Lava", "Timber"]
     },
     {
       "count": 15,
@@ -1904,31 +1751,87 @@
       "ranking": ["Lava", "Toy Story That Time Forgot"]
     },
     {
-      "count": 2,
+      "count": 1,
       "ranking": ["Toy Story That Time Forgot", "Lava"]
     },
     {
       "count": 1,
       "ranking": [
-        "Lava",
         "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3"
+        "Feast",
+        "There's a Man in the Woods",
+        "Don't Hug Me I'm Scared 3",
+        "Lava"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Supervenus",
-        "Nuggets",
         "Don't Hug Me I'm Scared 3",
         "Don't Hug Me I'm Scared 2",
-        "Johnny Express",
-        "Feast",
-        "Golden Time",
-        "Silent",
-        "Wire Cutters",
-        "Bath House"
+        "Feast"
       ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "Don't Hug Me I'm Scared 3",
+        "Naruto Shippuden: Sunny Side Battle"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
+        "Toy Story That Time Forgot"
+      ]
+    },
+    {
+      "count": 13,
+      "ranking": ["ME!ME!ME!"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Marcel the Shell with Shoes On, Three",
+        "Don't Hug Me I'm Scared 3",
+        "ME!ME!ME!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "There's a Man in the Woods",
+        "Marcel the Shell with Shoes On, Three",
+        "Don't Hug Me I'm Scared 3",
+        "ME!ME!ME!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Feast", "ME!ME!ME!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["ME!ME!ME!", "Lava"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "ME!ME!ME!",
+        "Lava",
+        "Don't Hug Me I'm Scared 3",
+        "Don't Hug Me I'm Scared 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Don't Hug Me I'm Scared 2", "Feast", "ME!ME!ME!", "Lava"]
     },
     {
       "count": 1,
@@ -1936,10 +1839,6 @@
         "ME!ME!ME!",
         "Robot Chicken DC Comics Special II: Schurken im Paradies"
       ]
-    },
-    {
-      "count": 9,
-      "ranking": ["ME!ME!ME!"]
     },
     {
       "count": 1,
@@ -1952,23 +1851,23 @@
       ]
     },
     {
-      "count": 2,
+      "count": 1,
       "ranking": [
         "Don't Hug Me I'm Scared 2",
-        "ME!ME!ME!",
-        "Don't Hug Me I'm Scared 3"
+        "Don't Hug Me I'm Scared 3",
+        "ME!ME!ME!"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Paulette's Chair",
         "Don't Hug Me I'm Scared 2",
-        "00:08",
-        "ME!ME!ME!",
-        "Lava",
+        "The Dam Keeper",
         "Don't Hug Me I'm Scared 3",
-        "The Dam Keeper"
+        "ME!ME!ME!",
+        "00:08",
+        "Lava",
+        "Paulette's Chair"
       ]
     },
     {
@@ -1980,86 +1879,60 @@
       ]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3",
-        "ME!ME!ME!"
-      ]
+      "count": 7,
+      "ranking": ["The Bigger Picture"]
     },
     {
       "count": 1,
       "ranking": [
-        "There's a Man in the Woods",
-        "Timber",
-        "Don't Hug Me I'm Scared 2",
-        "ME!ME!ME!",
-        "Don't Hug Me I'm Scared 3"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Feast", "ME!ME!ME!"]
-    },
-    {
-      "count": 1,
-      "ranking": ["D Is for Deloused", "ME!ME!ME!"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "Nuggets",
-        "ME!ME!ME!",
-        "Don't Hug Me I'm Scared 3"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "There's a Man in the Woods",
-        "ME!ME!ME!",
+        "The Dam Keeper",
+        "Feast",
+        "We Can't Live Without Cosmos",
+        "Bear Story",
         "Lava",
-        "Toy Story That Time Forgot"
+        "Toy Story That Time Forgot",
+        "The Bigger Picture",
+        "Me and My Moulton"
       ]
     },
     {
       "count": 1,
       "ranking": [
         "Don't Hug Me I'm Scared 2",
-        "ME!ME!ME!",
-        "Don't Hug Me I'm Scared 3",
-        "Robot Chicken DC Comics Special II: Schurken im Paradies"
+        "Feast",
+        "Golden Time",
+        "Lava",
+        "The Bigger Picture"
       ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Bear Story", "The Bigger Picture"]
     },
     {
       "count": 3,
       "ranking": [
         "Feast",
+        "The Dam Keeper",
         "The Bigger Picture",
-        "Me and My Moulton",
-        "The Dam Keeper"
+        "Me and My Moulton"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Lava", "The Bigger Picture", "Bear Story"]
+      "ranking": ["Bear Story", "Lava", "The Bigger Picture"]
     },
     {
       "count": 1,
       "ranking": [
         "Don't Hug Me I'm Scared 2",
         "Marcel the Shell with Shoes On, Three",
-        "00:08",
         "Don't Hug Me I'm Scared 3",
+        "00:08",
         "The Bigger Picture",
-        "Bath House",
-        "Robot Chicken DC Comics Special II: Schurken im Paradies"
+        "Robot Chicken DC Comics Special II: Schurken im Paradies",
+        "Bath House"
       ]
-    },
-    {
-      "count": 8,
-      "ranking": ["The Bigger Picture"]
     },
     {
       "count": 1,
@@ -2071,31 +1944,27 @@
     },
     {
       "count": 1,
-      "ranking": ["The Bigger Picture", "Bear Story"]
-    },
-    {
-      "count": 1,
       "ranking": [
         "Feast",
-        "The Bigger Picture",
+        "The Dam Keeper",
         "Bear Story",
-        "Me and My Moulton",
-        "The Dam Keeper"
+        "The Bigger Picture",
+        "Me and My Moulton"
       ]
     },
     {
       "count": 1,
       "ranking": [
         "Feast",
+        "The Dam Keeper",
         "Lava",
         "The Bigger Picture",
-        "Me and My Moulton",
-        "The Dam Keeper"
+        "Me and My Moulton"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Bear Story", "The Dam Keeper", "The Bigger Picture"]
+      "ranking": ["The Dam Keeper", "Bear Story", "The Bigger Picture"]
     },
     {
       "count": 1,
@@ -2106,21 +1975,21 @@
         "There's a Man in the Woods",
         "Robot Chicken DC Comics Special II: Schurken im Paradies",
         "Toy Story That Time Forgot",
-        "The Radiator Springs 500½",
         "The Bigger Picture",
         "The OceanMaker",
-        "Almost Home",
+        "The Radiator Springs 500½",
         "Naruto Shippuden: Sunny Side Battle",
+        "Almost Home",
         "Don't Hug Me I'm Scared 2",
-        "The Present",
-        "Don't Hug Me I'm Scared 3"
+        "Don't Hug Me I'm Scared 3",
+        "The Present"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Nuggets",
         "We Can't Live Without Cosmos",
+        "Nuggets",
         "The Bigger Picture",
         "Feast"
       ]
@@ -2131,31 +2000,48 @@
         "Feast",
         "We Can't Live Without Cosmos",
         "Lava",
-        "The Bigger Picture",
+        "The Dam Keeper",
         "Bear Story",
-        "Me and My Moulton",
-        "The Dam Keeper"
+        "The Bigger Picture",
+        "Me and My Moulton"
       ]
     },
     {
       "count": 1,
       "ranking": [
         "Feast",
+        "The Dam Keeper",
+        "We Can't Live Without Cosmos",
+        "Bear Story",
         "Lava",
         "The Bigger Picture",
-        "Bear Story",
-        "Me and My Moulton",
-        "We Can't Live Without Cosmos",
-        "The Dam Keeper"
+        "Me and My Moulton"
+      ]
+    },
+    {
+      "count": 15,
+      "ranking": ["Mynarski Death Plummet"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
+        "Mynarski Death Plummet",
+        "Lava"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3",
-        "The Bigger Picture"
+        "Yearbook",
+        "Mynarski Death Plummet",
+        "We Can't Live Without Cosmos"
       ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mynarski Death Plummet", "Lava"]
     },
     {
       "count": 1,
@@ -2169,23 +2055,35 @@
       ]
     },
     {
-      "count": 14,
-      "ranking": ["Mynarski Death Plummet"]
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "Yearbook",
+        "Don't Hug Me I'm Scared 3",
+        "Mynarski Death Plummet",
+        "D Is for Deloused",
+        "Lava"
+      ]
     },
     {
       "count": 1,
       "ranking": [
         "Don't Hug Me I'm Scared 2",
-        "Yearbook",
-        "D Is for Deloused",
-        "Feast",
         "Don't Hug Me I'm Scared 3",
-        "Lava",
-        "Mynarski Death Plummet"
+        "Supervenus",
+        "There's a Man in the Woods",
+        "Mynarski Death Plummet",
+        "Feast",
+        "The Dam Keeper",
+        "Marcel the Shell with Shoes On, Three",
+        "ME!ME!ME!",
+        "D Is for Deloused",
+        "00:08"
       ]
     },
     {
-      "count": 2,
+      "count": 1,
       "ranking": [
         "Don't Hug Me I'm Scared 2",
         "Don't Hug Me I'm Scared 3",
@@ -2199,65 +2097,19 @@
     {
       "count": 1,
       "ranking": [
-        "Supervenus",
-        "There's a Man in the Woods",
         "Don't Hug Me I'm Scared 2",
-        "Nuggets",
         "Feast",
+        "There's a Man in the Woods",
         "Don't Hug Me I'm Scared 3",
-        "Lava",
         "Mynarski Death Plummet",
+        "Nuggets",
+        "Lava",
+        "Supervenus",
         "Toy Story That Time Forgot"
       ]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Supervenus",
-        "Don't Hug Me I'm Scared 2",
-        "The Walk Home",
-        "Don't Hug Me I'm Scared 3",
-        "Mynarski Death Plummet",
-        "Robot Chicken DC Comics Special II: Schurken im Paradies"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Marcel the Shell with Shoes On, Three",
-        "Yearbook",
-        "Mynarski Death Plummet",
-        "Bath House"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 3",
-        "The OceanMaker",
-        "Bath House",
-        "There's a Man in the Woods",
-        "Golden Time",
-        "The Radiator Springs 500½",
-        "Toy Story That Time Forgot",
-        "Don't Hug Me I'm Scared 2",
-        "Yearbook",
-        "Feast",
-        "Lava",
-        "Mynarski Death Plummet"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3",
-        "Feast",
-        "Mynarski Death Plummet"
-      ]
-    },
-    {
-      "count": 8,
+      "count": 12,
       "ranking": ["Wire Cutters"]
     },
     {
@@ -2316,28 +2168,13 @@
     },
     {
       "count": 1,
-      "ranking": ["Marcel the Shell with Shoes On, Three", "Wire Cutters"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Wire Cutters", "Lava"]
-    },
-    {
-      "count": 1,
       "ranking": [
-        "The Present",
-        "Wire Cutters",
-        "Toy Story That Time Forgot",
         "Golden Time",
-        "Lava"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
+        "The OceanMaker",
+        "Lava",
         "Don't Hug Me I'm Scared 2",
         "Don't Hug Me I'm Scared 3",
-        "Wire Cutters"
+        "Wanderers"
       ]
     },
     {
@@ -2361,14 +2198,14 @@
       "count": 1,
       "ranking": [
         "Feast",
-        "The OceanMaker",
         "Bath House",
-        "Silent",
-        "The Bigger Picture",
-        "Bear Story",
-        "Me and My Moulton",
+        "The OceanMaker",
+        "The Dam Keeper",
         "We Can't Live Without Cosmos",
-        "The Dam Keeper"
+        "Bear Story",
+        "The Bigger Picture",
+        "Me and My Moulton",
+        "Silent"
       ]
     },
     {
@@ -2381,29 +2218,14 @@
         "The OceanMaker",
         "Don't Hug Me I'm Scared 2",
         "Marcel the Shell with Shoes On, Three",
-        "Lava",
         "Don't Hug Me I'm Scared 3",
-        "Mynarski Death Plummet"
+        "Mynarski Death Plummet",
+        "Lava"
       ]
     },
     {
       "count": 1,
-      "ranking": ["The OceanMaker", "Golden Time", "Harmonie"]
-    },
-    {
-      "count": 1,
-      "ranking": ["The OceanMaker", "Marcel the Shell with Shoes On, Three"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Feast",
-        "Bear Story",
-        "Don't Hug Me I'm Scared 2",
-        "Lava",
-        "Don't Hug Me I'm Scared 3",
-        "The Dam Keeper"
-      ]
+      "ranking": ["Golden Time", "Harmonie", "The OceanMaker"]
     },
     {
       "count": 15,
@@ -2411,15 +2233,55 @@
     },
     {
       "count": 1,
-      "ranking": ["Feast", "Bear Story", "Toy Story That Time Forgot"]
+      "ranking": [
+        "Feast",
+        "Don't Hug Me I'm Scared 3",
+        "Don't Hug Me I'm Scared 2",
+        "The Dam Keeper",
+        "The OceanMaker",
+        "There's a Man in the Woods",
+        "Yearbook",
+        "The Walk Home",
+        "Marcel the Shell with Shoes On, Three",
+        "Bear Story"
+      ]
     },
     {
       "count": 1,
-      "ranking": ["Bear Story", "Toy Story That Time Forgot", "Lava"]
+      "ranking": ["Feast", "Bear Story"]
     },
     {
       "count": 1,
-      "ranking": ["Lava", "Bear Story"]
+      "ranking": ["The Dam Keeper", "Feast", "Bear Story"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "The Dam Keeper",
+        "Don't Hug Me I'm Scared 3",
+        "Bear Story",
+        "Lava"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Feast", "Bear Story", "Lava"]
+    },
+    {
+      "count": 1,
+      "ranking": ["We Can't Live Without Cosmos", "Bear Story", "Feast", "Lava"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Feast",
+        "Bear Story",
+        "Lava",
+        "Toy Story That Time Forgot",
+        "The Radiator Springs 500½"
+      ]
     },
     {
       "count": 1,
@@ -2428,43 +2290,27 @@
     {
       "count": 1,
       "ranking": [
-        "There's a Man in the Woods",
-        "Feast",
-        "Lava",
-        "Bear Story",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Supervenus",
-        "Nuggets",
-        "Timber",
-        "Bear Story",
-        "The Dam Keeper",
         "Don't Hug Me I'm Scared 2",
-        "Marcel the Shell with Shoes On, Three",
-        "Don't Hug Me I'm Scared 3"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Bear Story", "Toy Story That Time Forgot"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Bear Story",
-        "Marcel the Shell with Shoes On, Three",
-        "Toy Story That Time Forgot",
-        "Feast",
-        "Lava"
+        "Don't Hug Me I'm Scared 3",
+        "Bear Story"
       ]
     },
     {
       "count": 20,
       "ranking": ["Naruto Shippuden: Sunny Side Battle"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
+        "Naruto Shippuden: Sunny Side Battle",
+        "Lava"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["00:08", "Naruto Shippuden: Sunny Side Battle"]
     },
     {
       "count": 1,
@@ -2483,30 +2329,12 @@
     {
       "count": 1,
       "ranking": [
-        "Feast",
+        "Marcel the Shell with Shoes On, Three",
+        "Batman: Strange Days",
         "Lava",
-        "Naruto Shippuden: Sunny Side Battle",
+        "Robot Chicken DC Comics Special II: Schurken im Paradies",
+        "Me and My Moulton",
         "Toy Story That Time Forgot",
-        "The Radiator Springs 500½",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "The Radiator Springs 500½",
-        "Feast",
-        "Lava",
-        "Naruto Shippuden: Sunny Side Battle",
-        "Bear Story",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Lava",
-        "Naruto Shippuden: Sunny Side Battle",
         "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
       ]
     },
@@ -2516,23 +2344,23 @@
     },
     {
       "count": 1,
-      "ranking": ["Supervenus", "Duet", "Feast", "Lava", "Me and My Moulton"]
+      "ranking": ["Feast", "Duet", "Lava", "Supervenus", "Me and My Moulton"]
     },
     {
       "count": 1,
       "ranking": [
+        "We Can't Live Without Cosmos",
         "Lava",
-        "Me and My Moulton",
         "Bath House",
-        "We Can't Live Without Cosmos"
+        "Me and My Moulton"
       ]
     },
     {
       "count": 1,
       "ranking": [
         "Lava",
-        "Marcel the Shell with Shoes On, Three",
         "Feast",
+        "Marcel the Shell with Shoes On, Three",
         "Me and My Moulton"
       ]
     },
@@ -2552,14 +2380,14 @@
     },
     {
       "count": 1,
-      "ranking": ["Lava", "Bear Story", "Me and My Moulton"]
+      "ranking": ["Bear Story", "Lava", "Me and My Moulton"]
     },
     {
       "count": 1,
       "ranking": [
         "Bear Story",
-        "Me and My Moulton",
         "We Can't Live Without Cosmos",
+        "Me and My Moulton",
         "Toy Story That Time Forgot"
       ]
     },
@@ -2578,43 +2406,30 @@
       "ranking": [
         "Me and My Moulton",
         "Feast",
-        "The Bigger Picture",
-        "Bear Story",
-        "We Can't Live Without Cosmos",
-        "The Dam Keeper"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Me and My Moulton",
-        "Bear Story",
-        "We Can't Live Without Cosmos",
         "The Dam Keeper",
-        "Feast",
+        "We Can't Live Without Cosmos",
+        "Bear Story",
         "The Bigger Picture"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Feast",
-        "The Bigger Picture",
         "Me and My Moulton",
         "The Dam Keeper",
-        "Lava",
+        "We Can't Live Without Cosmos",
         "Bear Story",
-        "We Can't Live Without Cosmos"
+        "Feast",
+        "The Bigger Picture"
       ]
     },
     {
       "count": 1,
-      "ranking": [
-        "Jinxy Jenkins, Lucky Lou",
-        "The Present",
-        "Yearbook",
-        "Me and My Moulton"
-      ]
+      "ranking": ["Feast", "Lava", "Bath House"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Lava", "Bath House"]
     },
     {
       "count": 1,
@@ -2625,16 +2440,12 @@
       ]
     },
     {
-      "count": 18,
+      "count": 17,
       "ranking": ["Bath House"]
     },
     {
       "count": 1,
       "ranking": ["Yearbook", "Feast", "Bath House"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Lava", "Bath House"]
     },
     {
       "count": 1,
@@ -2646,19 +2457,42 @@
     },
     {
       "count": 1,
-      "ranking": ["Feast", "Lava", "Bath House", "The Dam Keeper"]
+      "ranking": ["Feast", "The Dam Keeper", "Lava", "Bath House"]
     },
     {
-      "count": 1,
-      "ranking": ["Bath House", "We Can't Live Without Cosmos"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Batman: Strange Days", "We Can't Live Without Cosmos"]
-    },
-    {
-      "count": 15,
+      "count": 12,
       "ranking": ["We Can't Live Without Cosmos"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "We Can't Live Without Cosmos",
+        "Toy Story That Time Forgot",
+        "Don't Hug Me I'm Scared 3",
+        "Nuggets",
+        "Robot Chicken DC Comics Special II: Schurken im Paradies",
+        "Timber",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
+        "The Walk Home"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lava", "We Can't Live Without Cosmos"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Feast", "We Can't Live Without Cosmos"]
+    },
+    {
+      "count": 1,
+      "ranking": ["We Can't Live Without Cosmos", "Bath House"]
+    },
+    {
+      "count": 1,
+      "ranking": ["We Can't Live Without Cosmos", "Batman: Strange Days"]
     },
     {
       "count": 1,
@@ -2666,90 +2500,117 @@
     },
     {
       "count": 1,
-      "ranking": ["Feast", "Lava", "We Can't Live Without Cosmos"]
+      "ranking": ["Feast", "We Can't Live Without Cosmos", "Lava"]
     },
     {
       "count": 1,
       "ranking": [
-        "The Dam Keeper",
         "Feast",
+        "The Dam Keeper",
         "We Can't Live Without Cosmos",
         "Toy Story That Time Forgot"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Feast", "Lava", "Bear Story", "We Can't Live Without Cosmos"]
+      "ranking": [
+        "The Dam Keeper",
+        "Don't Hug Me I'm Scared 2",
+        "Feast",
+        "Don't Hug Me I'm Scared 3",
+        "Lava"
+      ]
     },
     {
-      "count": 12,
+      "count": 13,
       "ranking": ["The Dam Keeper"]
     },
     {
       "count": 1,
-      "ranking": ["Feast", "Lava", "The Dam Keeper"]
+      "ranking": ["Don't Hug Me I'm Scared 2", "The Dam Keeper"]
     },
     {
-      "count": 2,
+      "count": 1,
+      "ranking": ["The Dam Keeper", "Paulette's Chair"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Dam Keeper", "ME!ME!ME!", "Paulette's Chair"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Feast", "The Dam Keeper", "Lava"]
+    },
+    {
+      "count": 1,
       "ranking": ["Feast", "The Dam Keeper"]
     },
     {
       "count": 1,
       "ranking": [
-        "Batman: Strange Days",
         "Marcel the Shell with Shoes On, Three",
+        "Batman: Strange Days",
         "Silent",
         "The Dam Keeper"
       ]
     },
     {
-      "count": 1,
-      "ranking": ["Don't Hug Me I'm Scared 2", "Lava", "The Dam Keeper"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Feast", "The Dam Keeper", "Toy Story That Time Forgot"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "There's a Man in the Woods",
-        "Don't Hug Me I'm Scared 2",
-        "Feast",
-        "The Dam Keeper"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Lava",
-        "The Dam Keeper",
-        "Feast",
-        "Bear Story",
-        "Almost Home",
-        "Toy Story That Time Forgot"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "The Present",
-        "Feast",
-        "Lava",
-        "The Dam Keeper",
-        "Golden Time"
-      ]
-    },
-    {
-      "count": 13,
+      "count": 17,
       "ranking": ["Toy Story That Time Forgot"]
     },
     {
       "count": 1,
-      "ranking": ["Feast", "Toy Story That Time Forgot"]
+      "ranking": [
+        "Lava",
+        "Toy Story That Time Forgot",
+        "Scooby-Doo! Ghastly Goals"
+      ]
     },
     {
-      "count": 2,
+      "count": 1,
+      "ranking": ["Don't Hug Me I'm Scared 2", "Toy Story That Time Forgot"]
+    },
+    {
+      "count": 3,
+      "ranking": [
+        "Toy Story That Time Forgot",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Toy Story That Time Forgot",
+        "Lava",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lava",
+        "Toy Story That Time Forgot",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
+      ]
+    },
+    {
+      "count": 11,
+      "ranking": ["LEGO DC Comics Super Heroes: Batman Be-Leaguered"]
+    },
+    {
+      "count": 1,
+      "ranking": ["LEGO DC Comics Super Heroes: Batman Be-Leaguered", "Lava"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Feast",
+        "Lava",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
+      ]
+    },
+    {
+      "count": 1,
       "ranking": [
         "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
         "Toy Story That Time Forgot"
@@ -2757,67 +2618,65 @@
     },
     {
       "count": 1,
-      "ranking": ["Scooby-Doo! Ghastly Goals", "Toy Story That Time Forgot"]
+      "ranking": [
+        "Feast",
+        "Toy Story That Time Forgot",
+        "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
+      ]
     },
     {
-      "count": 17,
-      "ranking": ["LEGO DC Comics Super Heroes: Batman Be-Leaguered"]
+      "count": 1,
+      "ranking": [
+        "Feast",
+        "Lava",
+        "Toy Story That Time Forgot",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
+      ]
     },
     {
       "count": 1,
       "ranking": [
         "Marcel the Shell with Shoes On, Three",
         "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
-        "Batman: Strange Days",
-        "There's a Man in the Woods",
         "Feast",
+        "There's a Man in the Woods",
+        "Batman: Strange Days",
         "Lava"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Lava",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
-        "Toy Story That Time Forgot"
       ]
     },
     {
       "count": 2,
-      "ranking": ["Lava", "LEGO DC Comics Super Heroes: Batman Be-Leaguered"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Almost Home",
-        "Bear Story",
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
-        "Toy Story That Time Forgot",
-        "Feast",
-        "Lava"
-      ]
+      "ranking": ["Golden Time", "Toy Story That Time Forgot"]
     },
     {
       "count": 1,
       "ranking": [
         "Don't Hug Me I'm Scared 2",
-        "Lava",
         "Don't Hug Me I'm Scared 3",
         "Golden Time",
+        "Lava",
         "Toy Story That Time Forgot"
       ]
     },
     {
-      "count": 13,
+      "count": 11,
       "ranking": ["Golden Time"]
     },
     {
       "count": 1,
-      "ranking": ["Toy Story That Time Forgot", "Golden Time"]
+      "ranking": [
+        "The Present",
+        "Golden Time",
+        "Wire Cutters",
+        "Toy Story That Time Forgot",
+        "Lava"
+      ]
     },
     {
       "count": 1,
-      "ranking": ["Feast", "Lava", "Bear Story", "Golden Time"]
+      "ranking": ["Feast", "Bear Story", "Golden Time", "Lava"]
     },
     {
       "count": 1,
@@ -2830,18 +2689,18 @@
     {
       "count": 1,
       "ranking": [
-        "Silent",
-        "Jinxy Jenkins, Lucky Lou",
-        "The Present",
         "Feast",
-        "Lava",
         "Mynarski Death Plummet",
-        "Golden Time"
+        "Golden Time",
+        "Lava",
+        "The Present",
+        "Jinxy Jenkins, Lucky Lou",
+        "Silent"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Feast", "Lava", "Golden Time"]
+      "ranking": ["Feast", "Golden Time", "Lava"]
     },
     {
       "count": 1,
@@ -2853,30 +2712,30 @@
         "The Present",
         "The Walk Home",
         "Toy Story That Time Forgot",
-        "Silent",
         "Bear Story",
+        "Silent",
         "Supervenus",
         "Wire Cutters",
         "Batman: Strange Days",
         "Harmonie",
-        "Paulette's Chair",
+        "Feast",
         "There's a Man in the Woods",
         "Marcel the Shell with Shoes On, Three",
-        "Almost Home",
-        "Feast",
-        "The Radiator Springs 500½",
-        "Lava",
         "Naruto Shippuden: Sunny Side Battle",
         "Golden Time",
-        "Dragons: Dawn of the Dragon Racers"
+        "Lava",
+        "Paulette's Chair",
+        "Dragons: Dawn of the Dragon Racers",
+        "Almost Home",
+        "The Radiator Springs 500½"
       ]
     },
     {
       "count": 1,
       "ranking": [
         "Silent",
-        "There's a Man in the Woods",
         "Don't Hug Me I'm Scared 2",
+        "There's a Man in the Woods",
         "Don't Hug Me I'm Scared 3",
         "Golden Time"
       ]
@@ -2896,9 +2755,44 @@
     {
       "count": 1,
       "ranking": [
+        "Don't Hug Me I'm Scared 3",
+        "Lava",
+        "Don't Hug Me I'm Scared 2",
         "Batman: Strange Days",
-        "Scooby-Doo! Ghastly Goals",
-        "Toy Story That Time Forgot"
+        "Toy Story That Time Forgot",
+        "Scooby-Doo! Ghastly Goals"
+      ]
+    },
+    {
+      "count": 13,
+      "ranking": ["Scooby-Doo! Ghastly Goals"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lava", "Scooby-Doo! Ghastly Goals"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Toy Story That Time Forgot",
+        "Dragons: Dawn of the Dragon Racers",
+        "Scooby-Doo! Ghastly Goals"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Toy Story That Time Forgot", "Scooby-Doo! Ghastly Goals"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Feast", "Lava", "Scooby-Doo! Ghastly Goals"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Batman: Strange Days",
+        "Toy Story That Time Forgot",
+        "Scooby-Doo! Ghastly Goals"
       ]
     },
     {
@@ -2908,10 +2802,6 @@
         "Feast",
         "Scooby-Doo! Ghastly Goals"
       ]
-    },
-    {
-      "count": 19,
-      "ranking": ["Scooby-Doo! Ghastly Goals"]
     },
     {
       "count": 1,
@@ -2928,38 +2818,36 @@
         "Batman: Strange Days",
         "Lava",
         "Robot Chicken DC Comics Special II: Schurken im Paradies",
-        "The Radiator Springs 500½",
         "Toy Story That Time Forgot",
-        "Scooby-Doo! Ghastly Goals",
         "Dragons: Dawn of the Dragon Racers",
+        "The Radiator Springs 500½",
+        "Scooby-Doo! Ghastly Goals",
         "Almost Home",
         "LEGO DC Comics Super Heroes: Batman Be-Leaguered"
       ]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Lava",
-        "Don't Hug Me I'm Scared 3",
-        "Scooby-Doo! Ghastly Goals",
-        "Toy Story That Time Forgot",
-        "Dragons: Dawn of the Dragon Racers"
-      ]
-    },
-    {
-      "count": 13,
+      "count": 14,
       "ranking": ["Robot Chicken DC Comics Special II: Schurken im Paradies"]
     },
     {
       "count": 1,
       "ranking": [
-        "Robot Chicken DC Comics Special II: Schurken im Paradies",
-        "The Present",
         "Don't Hug Me I'm Scared 2",
+        "Don't Hug Me I'm Scared 3",
+        "Robot Chicken DC Comics Special II: Schurken im Paradies"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't Hug Me I'm Scared 2",
+        "The Present",
         "Toy Story That Time Forgot",
         "Lava",
         "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
-        "Don't Hug Me I'm Scared 3"
+        "Don't Hug Me I'm Scared 3",
+        "Robot Chicken DC Comics Special II: Schurken im Paradies"
       ]
     },
     {
@@ -2985,8 +2873,8 @@
       "count": 1,
       "ranking": [
         "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
-        "Marcel the Shell with Shoes On, Three",
         "Don't Hug Me I'm Scared 2",
+        "Marcel the Shell with Shoes On, Three",
         "Don't Hug Me I'm Scared 3",
         "Robot Chicken DC Comics Special II: Schurken im Paradies"
       ]
@@ -3002,9 +2890,25 @@
     {
       "count": 1,
       "ranking": [
-        "The Radiator Springs 500½",
+        "Nuggets",
+        "Batman: Strange Days",
         "Robot Chicken DC Comics Special II: Schurken im Paradies",
-        "Toy Story That Time Forgot"
+        "The Present",
+        "Feast",
+        "Lava",
+        "Toy Story That Time Forgot",
+        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
+        "The Radiator Springs 500½",
+        "Scooby-Doo! Ghastly Goals"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Robot Chicken DC Comics Special II: Schurken im Paradies",
+        "Toy Story That Time Forgot",
+        "Dragons: Dawn of the Dragon Racers",
+        "The Radiator Springs 500½"
       ]
     },
     {
@@ -3012,49 +2916,35 @@
       "ranking": [
         "Robot Chicken DC Comics Special II: Schurken im Paradies",
         "Don't Hug Me I'm Scared 2",
-        "There's a Man in the Woods",
-        "Almost Home",
-        "The Radiator Springs 500½",
         "Feast",
+        "The Dam Keeper",
+        "There's a Man in the Woods",
         "Don't Hug Me I'm Scared 3",
         "Lava",
-        "The Dam Keeper",
-        "Toy Story That Time Forgot"
+        "Toy Story That Time Forgot",
+        "Almost Home",
+        "The Radiator Springs 500½"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Batman: Strange Days",
         "Feast",
+        "Batman: Strange Days",
         "Robot Chicken DC Comics Special II: Schurken im Paradies"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "There's a Man in the Woods",
         "Don't Hug Me I'm Scared 2",
+        "There's a Man in the Woods",
         "Don't Hug Me I'm Scared 3",
         "Robot Chicken DC Comics Special II: Schurken im Paradies"
       ]
     },
     {
-      "count": 1,
-      "ranking": [
-        "LEGO DC Comics Super Heroes: Batman Be-Leaguered",
-        "Robot Chicken DC Comics Special II: Schurken im Paradies"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Toy Story That Time Forgot",
-        "Robot Chicken DC Comics Special II: Schurken im Paradies"
-      ]
-    },
-    {
-      "count": 14,
+      "count": 18,
       "ranking": ["Dragons: Dawn of the Dragon Racers"]
     },
     {
@@ -3062,33 +2952,16 @@
       "ranking": ["Feast", "Lava", "Dragons: Dawn of the Dragon Racers"]
     },
     {
-      "count": 4,
-      "ranking": [
-        "Toy Story That Time Forgot",
-        "Dragons: Dawn of the Dragon Racers"
-      ]
-    },
-    {
-      "count": 2,
-      "ranking": ["Dragons: Dawn of the Dragon Racers", "Lava"]
+      "count": 1,
+      "ranking": ["Lava", "Dragons: Dawn of the Dragon Racers"]
     },
     {
       "count": 1,
       "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "Feast",
-        "Don't Hug Me I'm Scared 3",
         "Lava",
-        "Dragons: Dawn of the Dragon Racers"
+        "Dragons: Dawn of the Dragon Racers",
+        "Toy Story That Time Forgot"
       ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Toy Story That Time Forgot", "Harmonie", "Lava"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Paulette's Chair", "Golden Time", "Harmonie"]
     },
     {
       "count": 15,
@@ -3096,7 +2969,15 @@
     },
     {
       "count": 1,
-      "ranking": ["Toy Story That Time Forgot", "Harmonie"]
+      "ranking": ["Harmonie", "Toy Story That Time Forgot", "Lava"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Paulette's Chair", "Golden Time", "Harmonie"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Harmonie", "Toy Story That Time Forgot"]
     },
     {
       "count": 1,
@@ -3121,12 +3002,12 @@
       "count": 1,
       "ranking": [
         "We Can't Live Without Cosmos",
-        "Johnny Express",
         "Feast",
-        "Toy Story That Time Forgot",
+        "Johnny Express",
         "Harmonie",
-        "The Present",
-        "Lava"
+        "Toy Story That Time Forgot",
+        "Lava",
+        "The Present"
       ]
     },
     {
@@ -3136,32 +3017,20 @@
     {
       "count": 1,
       "ranking": [
-        "Wanderers",
-        "Johnny Express",
         "Feast",
-        "Bear Story",
         "We Can't Live Without Cosmos",
-        "Timber",
+        "Bear Story",
+        "Johnny Express",
+        "Wanderers",
+        "The Dam Keeper",
         "Lava",
         "The Bigger Picture",
-        "The Dam Keeper",
-        "Toy Story That Time Forgot",
+        "Timber",
         "Harmonie",
+        "Toy Story That Time Forgot",
         "Dragons: Dawn of the Dragon Racers",
         "Paulette's Chair",
         "The Present"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Don't Hug Me I'm Scared 2",
-        "Don't Hug Me I'm Scared 3",
-        "ME!ME!ME!",
-        "Silent",
-        "There's a Man in the Woods",
-        "D Is for Deloused",
-        "Harmonie"
       ]
     }
   ]

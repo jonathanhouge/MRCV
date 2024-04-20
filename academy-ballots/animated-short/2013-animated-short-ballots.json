@@ -1,60 +1,60 @@
 {
   "ballots": [
     {
-      "count": 1,
-      "ranking": [
-        "Scooby-Doo! Mecha Mutt Menace",
-        "Scooby-Doo! and the Spooky Scarecrow",
-        "Hiccups",
-        "Party Central",
-        "The Blue Umbrella",
-        "Toy Story of Terror!"
-      ]
+      "count": 2,
+      "ranking": ["The Blue Umbrella", "Hiccups"]
     },
     {
       "count": 1,
-      "ranking": ["Hiccups", "Party Central", "The Blue Umbrella"]
+      "ranking": ["Hiccups", "The Blue Umbrella", "Toy Story of Terror!"]
     },
     {
-      "count": 5,
+      "count": 8,
       "ranking": ["Hiccups"]
     },
     {
       "count": 1,
       "ranking": [
-        "Steven Universe",
-        "Hiccups",
-        "Party Central",
-        "Puppy",
-        "Minions: Training Wheels",
-        "The Blue Umbrella"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Toy Story of Terror!",
-        "Get a Horse!",
         "The Blue Umbrella",
-        "Party Central",
+        "Toy Story of Terror!",
+        "Madly Madagascar",
         "Hiccups"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "The Elephant's Garden",
-        "The Blue Umbrella",
-        "Toy Story of Terror!",
-        "Party Central",
-        "Hiccups",
-        "Still Life (Betamale)"
+        "Tome of the Unknown: Harvest Melody",
+        "Little Witch Academia",
+        "Unicorn Blood",
+        "The Future Diary: Redial",
+        "Panic in the Mailroom",
+        "Hiccups"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Strings",
+        "Toy Story of Terror!",
+        "Captain Sparky vs. The Flying Saucers",
+        "Hiccups"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Party Central", "Hiccups", "The Blue Umbrella"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Party Central", "Hiccups"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Blue Umbrella", "Party Central", "Hiccups"]
+    },
+    {
+      "count": 1,
+      "ranking": [
         "Hiccups",
         "Get a Horse!",
         "The Blue Umbrella",
@@ -63,126 +63,84 @@
       ]
     },
     {
+      "count": 2,
+      "ranking": ["Toy Story of Terror!", "Hiccups"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Blue Umbrella", "Toy Story of Terror!", "Hiccups"]
+    },
+    {
       "count": 1,
       "ranking": [
+        "Get a Horse!",
         "Party Central",
-        "Hiccups",
+        "Captain Sparky vs. The Flying Saucers",
         "The Blue Umbrella",
+        "Hiccups",
         "Toy Story of Terror!"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Hiccups", "The Blue Umbrella"]
+      "ranking": [
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Toy Story of Terror!",
+        "Hiccups"
+      ]
     },
     {
       "count": 1,
       "ranking": [
-        "Puppy",
-        "Party Central",
+        "The Blue Umbrella",
         "Toy Story of Terror!",
-        "Captain Sparky vs. The Flying Saucers",
+        "Puppy",
+        "Pixie Hollow Bake Off",
+        "Minions: Training Wheels",
         "Panic in the Mailroom",
-        "Minions: Training Wheels",
         "Hiccups"
       ]
     },
     {
       "count": 1,
-      "ranking": [
-        "Get a Horse!",
-        "The Blue Umbrella",
-        "Steven Universe",
-        "Toy Story of Terror!",
-        "Party Central",
-        "Hiccups",
-        "Minions: Training Wheels",
-        "Puppy",
-        "Panic in the Mailroom"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Get a Horse!",
-        "Party Central",
-        "The Blue Umbrella",
-        "Toy Story of Terror!",
-        "Hiccups"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Toy Story of Terror!",
-        "Hiccups",
-        "Get a Horse!",
-        "Party Central",
-        "Tome of the Unknown: Harvest Melody"
-      ]
-    },
-    {
-      "count": 2,
-      "ranking": ["Get a Horse!", "Hiccups"]
-    },
-    {
-      "count": 2,
       "ranking": ["Hiccups", "Toy Story of Terror!"]
     },
     {
       "count": 1,
-      "ranking": [
-        "Party Central",
-        "Toy Story of Terror!",
-        "Hiccups",
-        "The Blue Umbrella"
-      ]
+      "ranking": ["Omelette", "The Elephant's Garden"]
     },
     {
       "count": 1,
-      "ranking": [
-        "Hiccups",
-        "Pixie Hollow Bake Off",
-        "Party Central",
-        "The Blue Umbrella",
-        "Toy Story of Terror!"
-      ]
+      "ranking": ["Steven Universe", "Omelette"]
+    },
+    {
+      "count": 12,
+      "ranking": ["Omelette"]
     },
     {
       "count": 1,
-      "ranking": [
-        "Hiccups",
-        "Minions: Training Wheels",
-        "Panic in the Mailroom",
-        "Puppy",
-        "Get a Horse!",
-        "The Blue Umbrella",
-        "Strings",
-        "Toy Story of Terror!"
-      ]
+      "ranking": ["Omelette", "Someone's Gaze"]
     },
     {
       "count": 1,
-      "ranking": ["Toy Story of Terror!", "Party Central", "Hiccups"]
+      "ranking": ["Toy Story of Terror!", "Omelette"]
     },
     {
       "count": 1,
       "ranking": [
         "The Blue Umbrella",
-        "Party Central",
-        "Toy Story of Terror!",
-        "Pixie Hollow Bake Off",
-        "Madly Madagascar",
-        "Hiccups"
+        "Tome of the Unknown: Harvest Melody",
+        "Omelette",
+        "Coda",
+        "The Elephant's Garden",
+        "Kick-Heart",
+        "Brain Divided"
       ]
     },
     {
       "count": 1,
       "ranking": ["The Gift", "Omelette"]
-    },
-    {
-      "count": 11,
-      "ranking": ["Omelette"]
     },
     {
       "count": 2,
@@ -197,7 +155,7 @@
       "ranking": ["Omelette", "Get a Horse!"]
     },
     {
-      "count": 2,
+      "count": 1,
       "ranking": ["Omelette", "Party Central"]
     },
     {
@@ -205,168 +163,172 @@
       "ranking": ["Someone's Gaze", "Omelette"]
     },
     {
-      "count": 2,
+      "count": 1,
       "ranking": ["Omelette", "The Blue Umbrella"]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Hiccups",
-        "This Actually Happens a Lot",
-        "Omelette",
-        "Minions: Training Wheels",
-        "Anytime Is Ice Cream Time",
-        "Panic in the Mailroom",
-        "Puppy",
-        "Party Central",
-        "Get a Horse!",
-        "The Blue Umbrella",
-        "Steven Universe",
-        "Coda",
-        "Tome of the Unknown: Harvest Melody",
-        "The Smurfs: The Legend of Smurfy Hollow",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Omelette",
-        "Tome of the Unknown: Harvest Melody",
-        "Kick-Heart"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Omelette", "Strings"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Omelette", "Welcome to Hell"]
-    },
-    {
-      "count": 11,
+      "count": 8,
       "ranking": ["Captain Sparky vs. The Flying Saucers"]
     },
     {
       "count": 1,
       "ranking": [
         "Captain Sparky vs. The Flying Saucers",
-        "Pixie Hollow Bake Off",
-        "Party Central",
-        "The Blue Umbrella",
-        "Get a Horse!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Captain Sparky vs. The Flying Saucers",
-        "Hiccups",
-        "Pixie Hollow Bake Off",
-        "Get a Horse!",
-        "Party Central",
-        "The Blue Umbrella"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Captain Sparky vs. The Flying Saucers",
         "Toy Story of Terror!"
       ]
     },
     {
       "count": 1,
       "ranking": [
+        "The Elephant's Garden",
+        "Get a Horse!",
+        "Party Central",
+        "Captain Sparky vs. The Flying Saucers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Party Central", "Captain Sparky vs. The Flying Saucers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Strings",
+        "This Actually Happens a Lot",
+        "Toy Story of Terror!",
+        "Puppy",
         "Captain Sparky vs. The Flying Saucers",
         "Minions: Training Wheels",
-        "Puppy",
         "Panic in the Mailroom",
-        "Get a Horse!",
-        "Madly Madagascar"
+        "Scooby-Doo! Mecha Mutt Menace",
+        "Hiccups"
       ]
     },
     {
       "count": 1,
       "ranking": [
+        "Kick-Heart",
         "Captain Sparky vs. The Flying Saucers",
+        "Someone's Gaze"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mr Hublot", "Captain Sparky vs. The Flying Saucers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Toy Story of Terror!",
         "Party Central",
-        "The Blue Umbrella",
-        "Toy Story of Terror!"
+        "Puppy",
+        "Captain Sparky vs. The Flying Saucers",
+        "Minions: Training Wheels",
+        "Hiccups",
+        "Anytime Is Ice Cream Time"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Toy Story of Terror!",
+        "Captain Sparky vs. The Flying Saucers"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Captain Sparky vs. The Flying Saucers",
+        "Madly Madagascar",
+        "Scooby-Doo! Mecha Mutt Menace",
+        "Hiccups",
+        "The Smurfs: The Legend of Smurfy Hollow",
+        "Still Life (Betamale)",
+        "Steven Universe",
+        "Tome of the Unknown: Harvest Melody",
         "Get a Horse!",
         "The Blue Umbrella",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
+        "Kick-Heart",
+        "Welcome to Hell",
+        "Toy Story of Terror!",
         "Captain Sparky vs. The Flying Saucers",
+        "Brain Divided",
         "Scooby-Doo! and the Spooky Scarecrow"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Toy Story of Terror!",
         "Captain Sparky vs. The Flying Saucers",
-        "Hiccups",
+        "Pixie Hollow Bake Off",
         "Party Central",
+        "The Blue Umbrella",
+        "Get a Horse!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Party Central",
+        "Captain Sparky vs. The Flying Saucers",
+        "Pixie Hollow Bake Off",
+        "Hiccups"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Get a Horse!",
+        "Puppy",
+        "Captain Sparky vs. The Flying Saucers",
+        "Minions: Training Wheels",
+        "Panic in the Mailroom",
         "Madly Madagascar"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Madly Madagascar", "Captain Sparky vs. The Flying Saucers"]
-    },
-    {
-      "count": 1,
       "ranking": [
-        "Captain Sparky vs. The Flying Saucers",
-        "Someone's Gaze",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Captain Sparky vs. The Flying Saucers",
-        "Anytime Is Ice Cream Time"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Captain Sparky vs. The Flying Saucers", "The Blue Umbrella"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Captain Sparky vs. The Flying Saucers",
-        "Get a Horse!",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Steven Universe",
-        "Coda",
+        "The Blue Umbrella",
         "Toy Story of Terror!",
-        "Mr Hublot",
-        "Captain Sparky vs. The Flying Saucers",
         "Party Central",
-        "R'ha",
-        "Hiccups",
-        "Anytime Is Ice Cream Time",
-        "Get a Horse!"
+        "Captain Sparky vs. The Flying Saucers"
       ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Toy Story of Terror!",
+        "Captain Sparky vs. The Flying Saucers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Blue Umbrella",
+        "Mr Hublot",
+        "Let Your Light Shine",
+        "Still Life (Betamale)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Malaria", "Let Your Light Shine"]
+    },
+    {
+      "count": 15,
+      "ranking": ["Let Your Light Shine"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Let Your Light Shine", "Toy Story of Terror!"]
     },
     {
       "count": 1,
@@ -374,11 +336,7 @@
     },
     {
       "count": 1,
-      "ranking": ["Let Your Light Shine", "Tome of the Unknown: Harvest Melody"]
-    },
-    {
-      "count": 15,
-      "ranking": ["Let Your Light Shine"]
+      "ranking": ["Tome of the Unknown: Harvest Melody", "Let Your Light Shine"]
     },
     {
       "count": 2,
@@ -386,7 +344,7 @@
     },
     {
       "count": 1,
-      "ranking": ["Let Your Light Shine", "The Blue Umbrella"]
+      "ranking": ["The Blue Umbrella", "Let Your Light Shine"]
     },
     {
       "count": 1,
@@ -394,10 +352,10 @@
         "Tome of the Unknown: Harvest Melody",
         "Toy Story of Terror!",
         "The Blue Umbrella",
-        "Let Your Light Shine",
         "Omelette",
-        "Pinball",
-        "Kick-Heart"
+        "Kick-Heart",
+        "Let Your Light Shine",
+        "Pinball"
       ]
     },
     {
@@ -406,40 +364,30 @@
     },
     {
       "count": 1,
+      "ranking": ["The Elephant's Garden", "This Actually Happens a Lot"]
+    },
+    {
+      "count": 10,
+      "ranking": ["This Actually Happens a Lot"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kick-Heart", "This Actually Happens a Lot"]
+    },
+    {
+      "count": 1,
       "ranking": [
-        "This Actually Happens a Lot",
-        "Hiccups",
-        "Let Your Light Shine",
-        "Omelette",
-        "Minions: Training Wheels",
-        "Anytime Is Ice Cream Time",
-        "Panic in the Mailroom",
-        "Puppy",
-        "Still Life (Betamale)",
-        "Brain Divided",
-        "Get a Horse!",
         "Party Central",
+        "This Actually Happens a Lot",
+        "Captain Sparky vs. The Flying Saucers",
+        "Get a Horse!",
         "The Blue Umbrella",
-        "Pinball",
-        "The Gift",
-        "Coda"
+        "Strings"
       ]
     },
     {
       "count": 1,
-      "ranking": [
-        "Let Your Light Shine",
-        "Still Life (Betamale)",
-        "The Elephant's Garden"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Let Your Light Shine",
-        "Still Life (Betamale)",
-        "Unicorn Blood"
-      ]
+      "ranking": ["Coda", "This Actually Happens a Lot"]
     },
     {
       "count": 1,
@@ -449,15 +397,32 @@
       ]
     },
     {
-      "count": 10,
-      "ranking": ["This Actually Happens a Lot"]
+      "count": 1,
+      "ranking": [
+        "Omelette",
+        "Coda",
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "This Actually Happens a Lot",
+        "Let Your Light Shine",
+        "The Gift",
+        "Party Central",
+        "Puppy",
+        "Still Life (Betamale)",
+        "Pinball",
+        "Brain Divided",
+        "Minions: Training Wheels",
+        "Panic in the Mailroom",
+        "Hiccups",
+        "Anytime Is Ice Cream Time"
+      ]
     },
     {
       "count": 1,
       "ranking": [
         "The Blue Umbrella",
-        "This Actually Happens a Lot",
         "Kick-Heart",
+        "This Actually Happens a Lot",
         "Party Central",
         "The Elephant's Garden",
         "Brain Divided"
@@ -466,22 +431,22 @@
     {
       "count": 1,
       "ranking": [
-        "This Actually Happens a Lot",
-        "Hiccups",
-        "Minions: Training Wheels",
-        "Puppy",
-        "Brain Divided",
-        "Party Central",
         "The Blue Umbrella",
         "Strings",
-        "Toy Story of Terror!"
+        "This Actually Happens a Lot",
+        "Toy Story of Terror!",
+        "Party Central",
+        "Puppy",
+        "Brain Divided",
+        "Minions: Training Wheels",
+        "Hiccups"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "This Actually Happens a Lot",
         "The Blue Umbrella",
+        "This Actually Happens a Lot",
         "Toy Story of Terror!"
       ]
     },
@@ -489,214 +454,216 @@
       "count": 1,
       "ranking": [
         "Toy Story of Terror!",
-        "This Actually Happens a Lot",
-        "Omelette",
-        "Let Your Light Shine",
-        "Hiccups",
-        "Captain Sparky vs. The Flying Saucers",
-        "Anytime Is Ice Cream Time",
-        "The Elephant's Garden",
-        "Malaria",
-        "R'ha",
-        "Party Central",
-        "Get a Horse!",
-        "Someone's Gaze",
-        "Pinball",
-        "The Blue Umbrella",
         "Tome of the Unknown: Harvest Melody",
-        "Mr Hublot",
+        "Omelette",
+        "Malaria",
+        "The Elephant's Garden",
+        "Get a Horse!",
+        "The Blue Umbrella",
         "Kick-Heart",
+        "Mr Hublot",
+        "This Actually Happens a Lot",
+        "Someone's Gaze",
+        "Let Your Light Shine",
+        "Party Central",
+        "R'ha",
+        "Captain Sparky vs. The Flying Saucers",
+        "Pinball",
+        "Scooby-Doo! and the Spooky Scarecrow",
         "Scooby-Doo! Mecha Mutt Menace",
-        "Scooby-Doo! and the Spooky Scarecrow"
+        "Hiccups",
+        "Anytime Is Ice Cream Time"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "This Actually Happens a Lot",
         "Steven Universe",
-        "Welcome to Hell"
+        "Welcome to Hell",
+        "This Actually Happens a Lot"
       ]
     },
     {
       "count": 1,
-      "ranking": ["This Actually Happens a Lot", "Get a Horse!"]
+      "ranking": ["Get a Horse!", "This Actually Happens a Lot"]
     },
     {
-      "count": 2,
+      "count": 1,
       "ranking": ["This Actually Happens a Lot", "Coda"]
     },
     {
       "count": 1,
       "ranking": [
         "Toy Story of Terror!",
-        "This Actually Happens a Lot",
-        "Get a Horse!",
-        "Pinball",
-        "Someone's Gaze",
         "Steven Universe",
         "Tome of the Unknown: Harvest Melody",
-        "Kick-Heart",
         "Ever After High-Legacy Day: A Tale of Two Tales",
+        "Get a Horse!",
+        "Little Witch Academia",
         "Death Billiards",
-        "Little Witch Academia"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["This Actually Happens a Lot", "Hiccups"]
-    },
-    {
-      "count": 1,
-      "ranking": [
+        "Kick-Heart",
         "This Actually Happens a Lot",
-        "Welcome to Hell",
-        "Party Central",
-        "Steven Universe",
-        "The Blue Umbrella",
-        "Coda",
-        "Tome of the Unknown: Harvest Melody"
+        "Someone's Gaze",
+        "Pinball"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Puppy", "Minions: Training Wheels", "Panic in the Mailroom"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Toy Story of Terror!",
+        "Puppy",
+        "Minions: Training Wheels",
+        "Panic in the Mailroom"
       ]
     },
     {
       "count": 1,
-      "ranking": ["The Blue Umbrella", "This Actually Happens a Lot"]
-    },
-    {
-      "count": 3,
-      "ranking": ["Minions: Training Wheels"]
-    },
-    {
-      "count": 5,
       "ranking": ["Minions: Training Wheels", "Panic in the Mailroom", "Puppy"]
     },
     {
       "count": 1,
       "ranking": [
-        "Minions: Training Wheels",
-        "Panic in the Mailroom",
-        "Puppy",
-        "Strings"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Minions: Training Wheels",
-        "Puppy",
-        "Panic in the Mailroom",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 5,
-      "ranking": ["Minions: Training Wheels", "Puppy"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Party Central",
-        "Toy Story of Terror!",
-        "The Blue Umbrella",
-        "Hiccups",
-        "Minions: Training Wheels",
-        "Puppy",
-        "Panic in the Mailroom",
-        "Madly Madagascar"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
         "Get a Horse!",
-        "Hiccups",
-        "Minions: Training Wheels",
+        "The Blue Umbrella",
+        "Mr Hublot",
         "Puppy",
+        "Minions: Training Wheels",
+        "Panic in the Mailroom"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Minions: Training Wheels"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Toy Story of Terror!",
+        "Captain Sparky vs. The Flying Saucers",
+        "Minions: Training Wheels"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Puppy", "Minions: Training Wheels"]
+    },
+    {
+      "count": 1,
+      "ranking": [
         "Toy Story of Terror!",
         "Party Central",
+        "Panic in the Mailroom",
+        "Puppy",
+        "Minions: Training Wheels"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tome of the Unknown: Harvest Melody",
+        "Toy Story of Terror!",
+        "Party Central",
+        "Madly Madagascar",
+        "Puppy",
+        "Scooby-Doo! and the Spooky Scarecrow",
+        "Minions: Training Wheels",
         "Panic in the Mailroom"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Minions: Training Wheels",
-        "Puppy",
+        "Toy Story of Terror!",
         "Party Central",
+        "Puppy",
+        "Minions: Training Wheels",
+        "Panic in the Mailroom"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Blue Umbrella",
+        "Party Central",
+        "Puppy",
+        "Minions: Training Wheels",
+        "Panic in the Mailroom"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
         "The Blue Umbrella",
         "Toy Story of Terror!",
-        "Ever After High-Legacy Day: A Tale of Two Tales"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Minions: Training Wheels", "Puppy", "The Blue Umbrella"]
-    },
-    {
-      "count": 1,
-      "ranking": [
         "Party Central",
-        "Madly Madagascar",
+        "Puppy",
+        "Scooby-Doo! and the Spooky Scarecrow",
         "Minions: Training Wheels",
         "Panic in the Mailroom",
-        "Toy Story of Terror!",
-        "Anytime Is Ice Cream Time",
-        "Get a Horse!",
-        "The Blue Umbrella"
+        "Scooby-Doo! Mecha Mutt Menace",
+        "Madly Madagascar"
       ]
     },
     {
       "count": 1,
       "ranking": [
+        "Strings",
+        "Puppy",
         "Minions: Training Wheels",
-        "Puppy",
-        "Anytime Is Ice Cream Time",
-        "Party Central",
-        "Get a Horse!",
-        "Toy Story of Terror!"
+        "Panic in the Mailroom"
       ]
     },
     {
       "count": 1,
+      "ranking": ["Minions: Training Wheels", "Puppy", "Panic in the Mailroom"]
+    },
+    {
+      "count": 1,
       "ranking": [
-        "Get a Horse!",
         "Toy Story of Terror!",
-        "Captain Sparky vs. The Flying Saucers",
-        "Puppy",
         "Party Central",
         "The Blue Umbrella",
         "Hiccups",
-        "Minions: Training Wheels",
-        "Malaria"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Hiccups",
+        "Puppy",
         "Minions: Training Wheels",
         "Panic in the Mailroom",
-        "Puppy",
-        "Party Central",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Unicorn Blood",
-        "Puppy",
-        "The Elephant's Garden",
-        "The Blue Umbrella",
-        "Captain Sparky vs. The Flying Saucers",
-        "Minions: Training Wheels",
-        "Panic in the Mailroom",
-        "Strings"
+        "Madly Madagascar"
       ]
     },
     {
       "count": 13,
       "ranking": ["Anytime Is Ice Cream Time"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Toy Story of Terror!",
+        "Captain Sparky vs. The Flying Saucers",
+        "Anytime Is Ice Cream Time",
+        "Tome of the Unknown: Harvest Melody",
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Party Central"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Puppy",
+        "Minions: Training Wheels",
+        "Anytime Is Ice Cream Time",
+        "Get a Horse!",
+        "Toy Story of Terror!",
+        "Party Central"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Strings", "Anytime Is Ice Cream Time"]
     },
     {
       "count": 1,
@@ -708,10 +675,45 @@
         "Get a Horse!",
         "Toy Story of Terror!",
         "Tome of the Unknown: Harvest Melody",
-        "Hiccups",
         "Party Central",
+        "Hiccups",
         "Anytime Is Ice Cream Time",
         "The Blue Umbrella"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Steven Universe",
+        "Tome of the Unknown: Harvest Melody",
+        "Omelette",
+        "Coda",
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "This Actually Happens a Lot",
+        "Toy Story of Terror!",
+        "Party Central",
+        "Puppy",
+        "Minions: Training Wheels",
+        "Panic in the Mailroom",
+        "The Smurfs: The Legend of Smurfy Hollow",
+        "Hiccups",
+        "Anytime Is Ice Cream Time"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Steven Universe",
+        "Coda",
+        "Toy Story of Terror!",
+        "Mr Hublot",
+        "Party Central",
+        "R'ha",
+        "Captain Sparky vs. The Flying Saucers",
+        "Hiccups",
+        "Anytime Is Ice Cream Time",
+        "Get a Horse!"
       ]
     },
     {
@@ -721,15 +723,15 @@
     {
       "count": 1,
       "ranking": [
-        "Captain Sparky vs. The Flying Saucers",
+        "The Elephant's Garden",
+        "Get a Horse!",
         "This Actually Happens a Lot",
         "Let Your Light Shine",
-        "Anytime Is Ice Cream Time",
-        "The Elephant's Garden",
+        "Party Central",
+        "Captain Sparky vs. The Flying Saucers",
         "Still Life (Betamale)",
-        "Get a Horse!",
         "Pixie Hollow Bake Off",
-        "Party Central"
+        "Anytime Is Ice Cream Time"
       ]
     },
     {
@@ -744,111 +746,86 @@
       "ranking": ["Omelette", "Anytime Is Ice Cream Time"]
     },
     {
+      "count": 19,
+      "ranking": ["Still Life (Betamale)"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Tome of the Unknown: Harvest Melody",
+        "Still Life (Betamale)"
+      ]
+    },
+    {
       "count": 1,
-      "ranking": ["Anytime Is Ice Cream Time", "The Blue Umbrella", "Mr Hublot"]
+      "ranking": ["Coda", "Someone's Gaze", "Still Life (Betamale)"]
     },
     {
       "count": 1,
       "ranking": [
-        "Captain Sparky vs. The Flying Saucers",
-        "Hiccups",
-        "Anytime Is Ice Cream Time",
-        "Madly Madagascar"
+        "Unicorn Blood",
+        "Let Your Light Shine",
+        "Still Life (Betamale)"
       ]
-    },
-    {
-      "count": 19,
-      "ranking": ["Still Life (Betamale)"]
     },
     {
       "count": 1,
       "ranking": ["Still Life (Betamale)", "Malaria"]
     },
     {
-      "count": 1,
-      "ranking": ["Still Life (Betamale)", "Unicorn Blood"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Still Life (Betamale)",
-        "The Elephant's Garden",
-        "Someone's Gaze",
-        "The Blue Umbrella",
-        "Pinball",
-        "Coda",
-        "Kick-Heart",
-        "Ghost Burger",
-        "Death Billiards",
-        "Little Witch Academia"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Still Life (Betamale)", "The Blue Umbrella"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Still Life (Betamale)",
-        "Tome of the Unknown: Harvest Melody"
-      ]
-    },
-    {
-      "count": 4,
+      "count": 3,
       "ranking": ["Puppy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Toy Story of Terror!",
+        "Party Central",
+        "Puppy",
+        "Hiccups"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Blue Umbrella",
+        "Get a Horse!",
+        "Party Central",
+        "Captain Sparky vs. The Flying Saucers",
+        "Scooby-Doo! and the Spooky Scarecrow",
+        "Scooby-Doo! Mecha Mutt Menace",
+        "Puppy",
+        "Panic in the Mailroom",
+        "Hiccups"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Puppy", "Toy Story of Terror!"]
     },
     {
       "count": 1,
       "ranking": ["Toy Story of Terror!", "Puppy"]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Minions: Training Wheels",
-        "Panic in the Mailroom",
-        "Puppy",
-        "Get a Horse!",
-        "Party Central",
-        "Toy Story of Terror!",
-        "Madly Madagascar"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Minions: Training Wheels",
-        "Panic in the Mailroom",
-        "Puppy",
-        "Mr Hublot",
-        "Madly Madagascar"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Hiccups",
-        "Panic in the Mailroom",
-        "Puppy",
-        "Party Central",
-        "The Blue Umbrella",
-        "Toy Story of Terror!",
-        "Scooby-Doo! Mecha Mutt Menace",
-        "Scooby-Doo! and the Spooky Scarecrow"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Panic in the Mailroom",
-        "Puppy",
-        "Party Central",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 14,
+      "count": 13,
       "ranking": ["The Elephant's Garden"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tome of the Unknown: Harvest Melody",
+        "The Elephant's Garden",
+        "Toy Story of Terror!",
+        "Party Central",
+        "Hiccups"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Elephant's Garden", "The Blue Umbrella"]
     },
     {
       "count": 1,
@@ -857,8 +834,8 @@
     {
       "count": 1,
       "ranking": [
-        "The Elephant's Garden",
         "Tome of the Unknown: Harvest Melody",
+        "The Elephant's Garden",
         "Kick-Heart"
       ]
     },
@@ -867,7 +844,7 @@
       "ranking": ["The Elephant's Garden", "Kick-Heart"]
     },
     {
-      "count": 2,
+      "count": 1,
       "ranking": [
         "The Elephant's Garden",
         "The Blue Umbrella",
@@ -898,11 +875,33 @@
     },
     {
       "count": 1,
-      "ranking": ["The Elephant's Garden", "The Blue Umbrella"]
+      "ranking": [
+        "Get a Horse!",
+        "Toy Story of Terror!",
+        "The Blue Umbrella",
+        "Party Central",
+        "Puppy",
+        "Captain Sparky vs. The Flying Saucers",
+        "Panic in the Mailroom",
+        "Hiccups",
+        "Malaria",
+        "Minions: Training Wheels"
+      ]
     },
     {
       "count": 1,
-      "ranking": ["The Elephant's Garden", "Steven Universe"]
+      "ranking": ["Toy Story of Terror!", "Panic in the Mailroom"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Party Central",
+        "Toy Story of Terror!",
+        "The Blue Umbrella",
+        "Pixie Hollow Bake Off",
+        "Panic in the Mailroom",
+        "Madly Madagascar"
+      ]
     },
     {
       "count": 5,
@@ -910,82 +909,27 @@
     },
     {
       "count": 1,
-      "ranking": [
-        "Still Life (Betamale)",
-        "Panic in the Mailroom",
-        "Party Central",
-        "Get a Horse!",
-        "Madly Madagascar",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Panic in the Mailroom", "Puppy", "Madly Madagascar"]
+      "ranking": ["Little Witch Academia", "Panic in the Mailroom"]
     },
     {
       "count": 1,
       "ranking": [
-        "Toy Story of Terror!",
-        "Party Central",
-        "Get a Horse!",
         "The Blue Umbrella",
+        "Puppy",
+        "Minions: Training Wheels",
         "Panic in the Mailroom"
       ]
     },
     {
       "count": 1,
       "ranking": [
+        "Still Life (Betamale)",
         "Get a Horse!",
+        "Toy Story of Terror!",
         "Party Central",
-        "The Blue Umbrella",
-        "Strings",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 12,
-      "ranking": ["Get a Horse!"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Get a Horse!", "The Blue Umbrella", "Party Central"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Get a Horse!", "Toy Story of Terror!"]
-    },
-    {
-      "count": 2,
-      "ranking": ["Get a Horse!", "The Blue Umbrella", "Toy Story of Terror!"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Get a Horse!",
-        "The Blue Umbrella",
-        "Tome of the Unknown: Harvest Melody",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Puppy",
-        "The Blue Umbrella",
-        "Minions: Training Wheels",
         "Panic in the Mailroom",
-        "Steven Universe",
-        "Get a Horse!"
+        "Madly Madagascar"
       ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Get a Horse!", "Mr Hublot"]
-    },
-    {
-      "count": 1,
-      "ranking": ["The Blue Umbrella", "Toy Story of Terror!", "Get a Horse!"]
     },
     {
       "count": 1,
@@ -993,127 +937,258 @@
         "Get a Horse!",
         "The Blue Umbrella",
         "Toy Story of Terror!",
-        "Ever After High-Legacy Day: A Tale of Two Tales"
+        "Party Central"
       ]
     },
     {
-      "count": 10,
-      "ranking": ["Party Central"]
-    },
-    {
-      "count": 2,
-      "ranking": ["Party Central", "The Blue Umbrella"]
+      "count": 11,
+      "ranking": ["Get a Horse!"]
     },
     {
       "count": 1,
+      "ranking": [
+        "Get a Horse!",
+        "Toy Story of Terror!",
+        "Scooby-Doo! and the Spooky Scarecrow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tome of the Unknown: Harvest Melody",
+        "Get a Horse!",
+        "The Blue Umbrella"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Toy Story of Terror!", "Get a Horse!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Blue Umbrella", "Get a Horse!", "Toy Story of Terror!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Steven Universe", "Get a Horse!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mr Hublot", "Get a Horse!"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Get a Horse!", "The Blue Umbrella"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Get a Horse!", "Hiccups"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Blue Umbrella",
+        "Get a Horse!",
+        "Mr Hublot",
+        "Toy Story of Terror!",
+        "Party Central",
+        "Panic in the Mailroom",
+        "Madly Madagascar"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Blue Umbrella", "Get a Horse!"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Get a Horse!", "Mr Hublot"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Blue Umbrella", "Party Central", "Pixie Hollow Bake Off"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Party Central"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Party Central", "Toy Story of Terror!"]
+    },
+    {
+      "count": 8,
       "ranking": ["Toy Story of Terror!", "Party Central"]
     },
     {
       "count": 1,
-      "ranking": ["Party Central", "Tome of the Unknown: Harvest Melody"]
+      "ranking": [
+        "Tome of the Unknown: Harvest Melody",
+        "Someone's Gaze",
+        "Party Central"
+      ]
     },
     {
       "count": 1,
-      "ranking": ["Party Central", "Someone's Gaze"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Party Central", "The Blue Umbrella", "Toy Story of Terror!"]
+      "ranking": ["Kick-Heart", "Party Central"]
     },
     {
       "count": 2,
-      "ranking": ["Party Central", "Toy Story of Terror!"]
+      "ranking": ["The Blue Umbrella", "Party Central"]
     },
     {
       "count": 1,
-      "ranking": ["Party Central", "Get a Horse!"]
+      "ranking": [
+        "Party Central",
+        "Captain Sparky vs. The Flying Saucers",
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Toy Story of Terror!"
+      ]
     },
     {
       "count": 1,
-      "ranking": ["Party Central", "Get a Horse!", "Toy Story of Terror!"]
+      "ranking": [
+        "Tome of the Unknown: Harvest Melody",
+        "Get a Horse!",
+        "Kick-Heart",
+        "Mr Hublot",
+        "Party Central",
+        "Pinball"
+      ]
     },
     {
       "count": 1,
-      "ranking": ["Party Central", "Madly Madagascar"]
+      "ranking": ["Party Central", "Pixie Hollow Bake Off", "Madly Madagascar"]
     },
     {
-      "count": 21,
+      "count": 1,
+      "ranking": ["Party Central", "The Blue Umbrella"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Get a Horse!", "Toy Story of Terror!", "Party Central"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Omelette", "Little Witch Academia", "Party Central"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Toy Story of Terror!", "Pixie Hollow Bake Off"]
+    },
+    {
+      "count": 14,
       "ranking": ["Pixie Hollow Bake Off"]
     },
     {
       "count": 1,
       "ranking": [
-        "Hiccups",
-        "Pixie Hollow Bake Off",
-        "Party Central",
-        "Toy Story of Terror!"
+        "Ever After High-Legacy Day: A Tale of Two Tales",
+        "Toy Story of Terror!",
+        "Pixie Hollow Bake Off"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Hiccups",
-        "Pixie Hollow Bake Off",
-        "Party Central",
-        "The Blue Umbrella",
-        "Madly Madagascar",
-        "Toy Story of Terror!"
+        "Strings",
+        "The Smurfs: The Legend of Smurfy Hollow",
+        "Toy Story of Terror!",
+        "Ever After High-Legacy Day: A Tale of Two Tales",
+        "Puppy",
+        "Pixie Hollow Bake Off"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Pixie Hollow Bake Off", "Toy Story of Terror!"]
+      "ranking": ["The Blue Umbrella", "Pixie Hollow Bake Off"]
     },
     {
       "count": 1,
-      "ranking": ["Pixie Hollow Bake Off", "Death Billiards"]
+      "ranking": [
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Toy Story of Terror!",
+        "Party Central",
+        "Puppy",
+        "Pixie Hollow Bake Off",
+        "Minions: Training Wheels",
+        "Hiccups"
+      ]
     },
     {
-      "count": 12,
+      "count": 1,
+      "ranking": ["Pixie Hollow Bake Off", "The Blue Umbrella", "Party Central"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Death Billiards", "Pixie Hollow Bake Off"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ever After High-Legacy Day: A Tale of Two Tales",
+        "Little Witch Academia",
+        "Toy Story of Terror!",
+        "Pixie Hollow Bake Off",
+        "Madly Madagascar"
+      ]
+    },
+    {
+      "count": 16,
       "ranking": ["Malaria"]
     },
     {
-      "count": 2,
+      "count": 3,
       "ranking": ["Malaria", "Toy Story of Terror!"]
     },
     {
       "count": 1,
+      "ranking": ["Malaria", "The Blue Umbrella", "Unicorn Blood"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Malaria", "Coda", "The Blue Umbrella", "Strings"]
+    },
+    {
+      "count": 1,
       "ranking": [
+        "Tome of the Unknown: Harvest Melody",
         "Malaria",
         "Get a Horse!",
-        "Tome of the Unknown: Harvest Melody",
         "Toy Story of Terror!",
-        "Captain Sparky vs. The Flying Saucers",
-        "Hiccups",
-        "Puppy",
-        "Party Central",
         "The Blue Umbrella",
+        "Party Central",
+        "Puppy",
+        "Captain Sparky vs. The Flying Saucers",
         "Scooby-Doo! and the Spooky Scarecrow",
+        "Hiccups",
         "Scooby-Doo! Mecha Mutt Menace"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Puppy",
         "Malaria",
-        "Brain Divided",
         "Get a Horse!",
         "The Blue Umbrella",
-        "The Gift",
         "Mr Hublot",
-        "Toy Story of Terror!"
+        "Toy Story of Terror!",
+        "The Gift",
+        "Puppy",
+        "Brain Divided"
       ]
     },
     {
       "count": 1,
       "ranking": [
         "Malaria",
+        "Tome of the Unknown: Harvest Melody",
         "Get a Horse!",
-        "Brain Divided",
         "The Blue Umbrella",
         "Someone's Gaze",
-        "Tome of the Unknown: Harvest Melody",
+        "Brain Divided",
         "The Future Diary: Redial"
       ]
     },
@@ -1121,8 +1196,8 @@
       "count": 1,
       "ranking": [
         "Omelette",
-        "Pinball",
         "Toy Story of Terror!",
+        "Pinball",
         "Party Central",
         "Malaria",
         "Get a Horse!",
@@ -1132,100 +1207,46 @@
     },
     {
       "count": 1,
-      "ranking": ["Anytime Is Ice Cream Time", "Malaria"]
+      "ranking": ["Steven Universe", "Get a Horse!", "Brain Divided"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Strings", "Brain Divided", "Pixie Hollow Bake Off"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brain Divided", "Strings"]
     },
     {
       "count": 1,
       "ranking": [
-        "Anytime Is Ice Cream Time",
-        "Malaria",
-        "Party Central",
-        "The Blue Umbrella",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Malaria", "Someone's Gaze"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Malaria",
-        "Unicorn Blood",
+        "Strings",
         "Brain Divided",
-        "R'ha",
+        "Tome of the Unknown: Harvest Melody",
+        "The Blue Umbrella",
+        "Kick-Heart",
+        "Toy Story of Terror!",
         "Party Central"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Malaria", "Coda"]
-    },
-    {
-      "count": 1,
       "ranking": [
-        "This Actually Happens a Lot",
-        "Hiccups",
-        "Panic in the Mailroom",
-        "Brain Divided",
-        "Malaria",
-        "Pixie Hollow Bake Off",
         "Get a Horse!",
-        "Party Central",
         "The Blue Umbrella",
-        "Strings",
-        "Mr Hublot",
-        "Kick-Heart",
         "Toy Story of Terror!",
-        "Madly Madagascar",
-        "Little Witch Academia"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "The Blue Umbrella",
-        "Mr Hublot",
-        "Steven Universe",
-        "Kick-Heart",
-        "Toy Story of Terror!",
-        "R'ha",
         "Party Central",
-        "Omelette",
-        "Death Billiards",
-        "Minions: Training Wheels",
-        "Hiccups",
-        "Panic in the Mailroom",
-        "Malaria",
-        "Get a Horse!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Madly Madagascar",
-        "Hiccups",
-        "Scooby-Doo! Mecha Mutt Menace",
-        "The Smurfs: The Legend of Smurfy Hollow",
-        "Still Life (Betamale)",
         "Brain Divided",
-        "Get a Horse!",
-        "Steven Universe",
-        "The Blue Umbrella",
-        "Tome of the Unknown: Harvest Melody",
-        "Welcome to Hell",
-        "Kick-Heart",
-        "Toy Story of Terror!",
-        "Scooby-Doo! and the Spooky Scarecrow"
+        "Scooby-Doo! and the Spooky Scarecrow",
+        "Scooby-Doo! Mecha Mutt Menace"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Brain Divided", "The Blue Umbrella", "Strings", "Mr Hublot"]
+      "ranking": ["The Blue Umbrella", "Strings", "Mr Hublot", "Brain Divided"]
     },
     {
-      "count": 9,
+      "count": 8,
       "ranking": ["Brain Divided"]
     },
     {
@@ -1233,12 +1254,12 @@
       "ranking": [
         "The Elephant's Garden",
         "The Blue Umbrella",
-        "Brain Divided",
-        "Get a Horse!",
-        "Party Central",
         "Tome of the Unknown: Harvest Melody",
-        "Madly Madagascar",
-        "Toy Story of Terror!"
+        "Get a Horse!",
+        "Toy Story of Terror!",
+        "Party Central",
+        "Brain Divided",
+        "Madly Madagascar"
       ]
     },
     {
@@ -1247,7 +1268,17 @@
     },
     {
       "count": 1,
-      "ranking": ["Hiccups", "Brain Divided", "The Blue Umbrella"]
+      "ranking": ["Brain Divided", "Hiccups", "The Blue Umbrella"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Malaria",
+        "Unicorn Blood",
+        "Party Central",
+        "R'ha",
+        "Brain Divided"
+      ]
     },
     {
       "count": 1,
@@ -1255,47 +1286,26 @@
     },
     {
       "count": 2,
-      "ranking": ["Brain Divided", "The Blue Umbrella"]
+      "ranking": ["The Blue Umbrella", "Brain Divided"]
     },
     {
       "count": 1,
       "ranking": [
-        "This Actually Happens a Lot",
-        "Hiccups",
-        "Anytime Is Ice Cream Time",
-        "Brain Divided",
-        "Party Central",
         "Tome of the Unknown: Harvest Melody",
+        "Little Witch Academia",
         "Welcome to Hell",
+        "This Actually Happens a Lot",
         "Toy Story of Terror!",
-        "Scooby-Doo! and the Spooky Scarecrow",
-        "Little Witch Academia"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Mr Hublot",
-        "Brain Divided",
-        "The Blue Umbrella",
-        "Coda",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
         "Party Central",
         "Brain Divided",
-        "Pixie Hollow Bake Off",
-        "Toy Story of Terror!",
-        "Madly Madagascar",
-        "Strings"
+        "Scooby-Doo! and the Spooky Scarecrow",
+        "Hiccups",
+        "Anytime Is Ice Cream Time"
       ]
     },
     {
-      "count": 1,
-      "ranking": ["Brain Divided", "Mr Hublot", "The Blue Umbrella"]
+      "count": 15,
+      "ranking": ["R'ha"]
     },
     {
       "count": 1,
@@ -1303,11 +1313,7 @@
     },
     {
       "count": 1,
-      "ranking": ["R'ha", "Tome of the Unknown: Harvest Melody"]
-    },
-    {
-      "count": 14,
-      "ranking": ["R'ha"]
+      "ranking": ["Tome of the Unknown: Harvest Melody", "R'ha"]
     },
     {
       "count": 1,
@@ -1316,26 +1322,26 @@
     {
       "count": 1,
       "ranking": [
-        "R'ha",
-        "Party Central",
         "Get a Horse!",
         "The Blue Umbrella",
-        "Toy Story of Terror!"
+        "Toy Story of Terror!",
+        "Party Central",
+        "R'ha"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "R'ha",
-        "Pinball",
-        "Unicorn Blood",
         "Kick-Heart",
-        "Toy Story of Terror!"
+        "Unicorn Blood",
+        "Toy Story of Terror!",
+        "R'ha",
+        "Pinball"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Hiccups", "R'ha"]
+      "ranking": ["R'ha", "Hiccups"]
     },
     {
       "count": 1,
@@ -1347,11 +1353,26 @@
     },
     {
       "count": 1,
-      "ranking": ["Coda", "This Actually Happens a Lot", "R'ha"]
+      "ranking": [
+        "The Blue Umbrella",
+        "Mr Hublot",
+        "Steven Universe",
+        "Kick-Heart",
+        "Toy Story of Terror!",
+        "Party Central",
+        "R'ha",
+        "Omelette",
+        "Death Billiards",
+        "Minions: Training Wheels",
+        "Malaria",
+        "Get a Horse!",
+        "Panic in the Mailroom",
+        "Hiccups"
+      ]
     },
     {
-      "count": 1,
-      "ranking": ["The Blue Umbrella", "Party Central"]
+      "count": 3,
+      "ranking": ["The Blue Umbrella", "Toy Story of Terror!"]
     },
     {
       "count": 13,
@@ -1359,161 +1380,104 @@
     },
     {
       "count": 1,
-      "ranking": ["Mr Hublot", "The Blue Umbrella", "Coda"]
-    },
-    {
-      "count": 3,
-      "ranking": ["The Blue Umbrella", "Toy Story of Terror!"]
+      "ranking": ["The Blue Umbrella", "Toy Story of Terror!", "Party Central"]
     },
     {
       "count": 1,
-      "ranking": ["The Blue Umbrella", "Kick-Heart"]
+      "ranking": ["Toy Story of Terror!", "The Blue Umbrella"]
     },
     {
-      "count": 1,
-      "ranking": ["Minions: Training Wheels", "The Blue Umbrella"]
-    },
-    {
-      "count": 1,
-      "ranking": ["The Blue Umbrella", "Unicorn Blood", "Mr Hublot"]
-    },
-    {
-      "count": 15,
+      "count": 19,
       "ranking": ["Someone's Gaze"]
     },
     {
       "count": 1,
+      "ranking": ["Get a Horse!", "Someone's Gaze", "Madly Madagascar"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Someone's Gaze", "Toy Story of Terror!"]
+    },
+    {
+      "count": 1,
       "ranking": [
-        "Kick-Heart",
-        "The Garden of Sinners: Recalled Out Summer - Extra Chorus",
         "Someone's Gaze",
-        "Death Billiards",
-        "Little Witch Academia"
+        "Toy Story of Terror!",
+        "Scooby-Doo! and the Spooky Scarecrow"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Someone's Gaze", "Kick-Heart"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Someone's Gaze", "The Blue Umbrella", "Toy Story of Terror!"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Hiccups", "Panic in the Mailroom", "Someone's Gaze"]
-    },
-    {
-      "count": 1,
       "ranking": [
         "Someone's Gaze",
-        "Kick-Heart",
+        "Toy Story of Terror!",
         "Little Witch Academia",
-        "The Garden of Sinners: Recalled Out Summer - Extra Chorus"
+        "The Blue Umbrella"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Minions: Training Wheels",
-        "Panic in the Mailroom",
-        "Puppy",
-        "Party Central",
-        "Someone's Gaze",
-        "Kick-Heart",
         "Death Billiards",
-        "Little Witch Academia",
-        "The Future Diary: Redial"
+        "Tome of the Unknown: Harvest Melody",
+        "Get a Horse!",
+        "Someone's Gaze"
       ]
+    },
+    {
+      "count": 21,
+      "ranking": ["Pinball"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tome of the Unknown: Harvest Melody", "Pinball"]
     },
     {
       "count": 1,
       "ranking": [
-        "Someone's Gaze",
-        "Mr Hublot",
+        "Get a Horse!",
         "The Blue Umbrella",
-        "Madly Madagascar"
+        "Toy Story of Terror!",
+        "Pinball"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Steven Universe", "Someone's Gaze"]
+      "ranking": ["Get a Horse!", "Pinball"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Malaria",
+        "The Blue Umbrella",
+        "Toy Story of Terror!",
+        "Pinball"
+      ]
+    },
+    {
+      "count": 16,
+      "ranking": ["Steven Universe"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Steven Universe",
+        "Kick-Heart",
+        "Toy Story of Terror!",
+        "Party Central"
+      ]
     },
     {
       "count": 1,
       "ranking": [
         "Steven Universe",
         "Tome of the Unknown: Harvest Melody",
-        "Strings",
-        "Someone's Gaze",
-        "Scooby-Doo! Mecha Mutt Menace",
-        "Scooby-Doo! and the Spooky Scarecrow"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Pixie Hollow Bake Off", "Someone's Gaze"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Pinball",
-        "Someone's Gaze",
-        "Toy Story of Terror!",
-        "The Future Diary: Redial"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Toy Story of Terror!",
-        "Party Central",
-        "The Blue Umbrella",
-        "Hiccups",
-        "Pinball"
-      ]
-    },
-    {
-      "count": 17,
-      "ranking": ["Pinball"]
-    },
-    {
-      "count": 1,
-      "ranking": ["The Blue Umbrella", "Pinball"]
-    },
-    {
-      "count": 2,
-      "ranking": ["Pinball", "The Blue Umbrella"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Pinball", "Coda"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Party Central",
-        "Get a Horse!",
-        "Pinball",
-        "The Blue Umbrella",
         "Toy Story of Terror!"
       ]
     },
     {
       "count": 1,
-      "ranking": ["The Gift", "Pinball", "Omelette"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Madly Madagascar", "Steven Universe"]
-    },
-    {
-      "count": 19,
-      "ranking": ["Steven Universe"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Steven Universe", "Omelette"]
+      "ranking": ["Steven Universe", "The Smurfs: The Legend of Smurfy Hollow"]
     },
     {
       "count": 1,
@@ -1521,94 +1485,81 @@
     },
     {
       "count": 1,
-      "ranking": ["Steven Universe", "The Blue Umbrella"]
+      "ranking": [
+        "Steven Universe",
+        "Malaria",
+        "The Blue Umbrella",
+        "Toy Story of Terror!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Steven Universe", "Strings"]
     },
     {
       "count": 1,
       "ranking": [
         "Steven Universe",
-        "Ever After High-Legacy Day: A Tale of Two Tales"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Brain Divided",
-        "The Gift",
-        "Strings",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 12,
-      "ranking": ["The Gift"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Get a Horse!", "The Gift", "Strings"]
-    },
-    {
-      "count": 1,
-      "ranking": ["The Gift", "Toy Story of Terror!"]
-    },
-    {
-      "count": 3,
-      "ranking": ["The Blue Umbrella", "The Gift"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Pinball", "The Gift"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Anytime Is Ice Cream Time", "Brain Divided", "The Gift"]
-    },
-    {
-      "count": 1,
-      "ranking": ["The Gift", "Coda", "The Blue Umbrella"]
-    },
-    {
-      "count": 1,
-      "ranking": ["The Gift", "Ever After High-Legacy Day: A Tale of Two Tales"]
-    },
-    {
-      "count": 1,
-      "ranking": ["The Gift", "Strings"]
-    },
-    {
-      "count": 1,
-      "ranking": ["This Actually Happens a Lot", "The Gift", "Coda", "Strings"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Tome of the Unknown: Harvest Melody",
-        "Ever After High-Legacy Day: A Tale of Two Tales"
+        "Toy Story of Terror!",
+        "Pixie Hollow Bake Off"
       ]
     },
     {
       "count": 13,
-      "ranking": ["Tome of the Unknown: Harvest Melody"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Omelette",
-        "Party Central",
-        "The Blue Umbrella",
-        "Tome of the Unknown: Harvest Melody",
-        "Coda"
-      ]
+      "ranking": ["The Gift"]
     },
     {
       "count": 1,
       "ranking": [
         "Strings",
-        "Tome of the Unknown: Harvest Melody",
-        "Party Central",
-        "Kick-Heart",
-        "Toy Story of Terror!"
+        "Toy Story of Terror!",
+        "The Gift",
+        "Brain Divided"
       ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Get a Horse!", "Strings", "The Gift"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Toy Story of Terror!", "The Gift"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Blue Umbrella", "The Gift"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Gift", "Pinball"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Gift", "Brain Divided", "Anytime Is Ice Cream Time"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coda", "The Gift", "The Blue Umbrella"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ever After High-Legacy Day: A Tale of Two Tales", "The Gift"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Strings", "The Gift"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coda", "Strings", "This Actually Happens a Lot", "The Gift"]
+    },
+    {
+      "count": 17,
+      "ranking": ["Tome of the Unknown: Harvest Melody"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coda", "Tome of the Unknown: Harvest Melody"]
     },
     {
       "count": 1,
@@ -1616,60 +1567,99 @@
         "Tome of the Unknown: Harvest Melody",
         "Little Witch Academia"
       ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Tome of the Unknown: Harvest Melody", "Toy Story of Terror!"]
     },
     {
       "count": 1,
       "ranking": [
         "Tome of the Unknown: Harvest Melody",
         "Toy Story of Terror!",
-        "Little Witch Academia"
+        "Minions: Training Wheels",
+        "Panic in the Mailroom"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Toy Story of Terror!", "Tome of the Unknown: Harvest Melody"]
+      "ranking": ["Tome of the Unknown: Harvest Melody", "Coda"]
     },
     {
       "count": 1,
       "ranking": [
-        "Scooby-Doo! and the Spooky Scarecrow",
-        "Little Witch Academia",
         "Tome of the Unknown: Harvest Melody",
+        "Steven Universe",
+        "Little Witch Academia",
+        "The Blue Umbrella",
+        "Scooby-Doo! and the Spooky Scarecrow",
         "Scooby-Doo! Mecha Mutt Menace"
       ]
     },
     {
-      "count": 2,
-      "ranking": [
-        "Party Central",
-        "The Blue Umbrella",
-        "Tome of the Unknown: Harvest Melody"
-      ]
-    },
-    {
-      "count": 20,
+      "count": 15,
       "ranking": ["Coda"]
     },
     {
-      "count": 3,
-      "ranking": ["Coda", "Toy Story of Terror!"]
+      "count": 1,
+      "ranking": ["Coda", "The Blue Umbrella", "Toy Story of Terror!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coda", "Ghost Burger"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Omelette", "Coda"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Coda", "Kick-Heart"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Coda", "Mr Hublot"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coda", "Pinball"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Coda", "The Blue Umbrella"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Blue Umbrella", "Kick-Heart", "Unicorn Blood"]
+    },
+    {
+      "count": 14,
+      "ranking": ["Unicorn Blood"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Blue Umbrella", "Unicorn Blood"]
     },
     {
       "count": 1,
       "ranking": [
+        "Unicorn Blood",
         "The Elephant's Garden",
-        "Get a Horse!",
-        "Tome of the Unknown: Harvest Melody",
-        "Coda"
+        "Ghost Burger",
+        "The Blue Umbrella"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Coda", "Little Witch Academia"]
+      "ranking": ["Unicorn Blood", "Pinball"]
     },
     {
-      "count": 19,
-      "ranking": ["Unicorn Blood"]
+      "count": 1,
+      "ranking": ["Coda", "Unicorn Blood"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Blue Umbrella", "Mr Hublot", "Unicorn Blood"]
     },
     {
       "count": 1,
@@ -1678,47 +1668,69 @@
     {
       "count": 1,
       "ranking": [
+        "Little Witch Academia",
         "The Blue Umbrella",
         "Toy Story of Terror!",
-        "Little Witch Academia",
         "Party Central",
-        "Pixie Hollow Bake Off",
+        "Unicorn Blood",
         "The Gift",
-        "Unicorn Blood"
+        "Pixie Hollow Bake Off"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Unicorn Blood", "Kick-Heart"]
+      "ranking": ["Kick-Heart", "Unicorn Blood"]
+    },
+    {
+      "count": 15,
+      "ranking": ["Strings"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Strings", "Toy Story of Terror!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Blue Umbrella", "Strings"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Strings", "Madly Madagascar"]
+    },
+    {
+      "count": 9,
+      "ranking": ["Welcome to Hell"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Welcome to Hell", "Little Witch Academia"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Welcome to Hell", "The Blue Umbrella"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Welcome to Hell", "Panic in the Mailroom", "Brain Divided"]
     },
     {
       "count": 1,
       "ranking": [
         "Tome of the Unknown: Harvest Melody",
-        "Unicorn Blood",
-        "Kick-Heart",
-        "Little Witch Academia"
+        "The Blue Umbrella",
+        "Welcome to Hell"
       ]
     },
     {
       "count": 1,
-      "ranking": ["The Blue Umbrella", "Unicorn Blood"]
-    },
-    {
-      "count": 4,
-      "ranking": ["Strings", "Toy Story of Terror!"]
-    },
-    {
-      "count": 17,
-      "ranking": ["Strings"]
+      "ranking": ["Omelette", "Welcome to Hell"]
     },
     {
       "count": 1,
       "ranking": [
+        "Ever After High-Legacy Day: A Tale of Two Tales",
         "Strings",
-        "Little Witch Academia",
-        "Unicorn Blood",
-        "Kick-Heart"
+        "Welcome to Hell"
       ]
     },
     {
@@ -1727,27 +1739,19 @@
     },
     {
       "count": 1,
-      "ranking": ["Strings", "Ever After High-Legacy Day: A Tale of Two Tales"]
-    },
-    {
-      "count": 10,
-      "ranking": ["Welcome to Hell"]
-    },
-    {
-      "count": 1,
       "ranking": [
-        "This Actually Happens a Lot",
+        "Tome of the Unknown: Harvest Melody",
         "Get a Horse!",
         "The Blue Umbrella",
-        "Tome of the Unknown: Harvest Melody",
         "Welcome to Hell",
+        "This Actually Happens a Lot",
         "Strings",
         "Toy Story of Terror!",
+        "Party Central",
         "Puppy",
         "Panic in the Mailroom",
-        "Party Central",
-        "Hiccups",
-        "Minions: Training Wheels"
+        "Minions: Training Wheels",
+        "Hiccups"
       ]
     },
     {
@@ -1757,20 +1761,20 @@
     {
       "count": 1,
       "ranking": [
-        "Minions: Training Wheels",
+        "Welcome to Hell",
         "Party Central",
-        "Welcome to Hell"
+        "Minions: Training Wheels"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Hiccups",
-        "Pixie Hollow Bake Off",
+        "Ever After High-Legacy Day: A Tale of Two Tales",
         "Welcome to Hell",
         "Toy Story of Terror!",
         "Scooby-Doo! and the Spooky Scarecrow",
-        "Ever After High-Legacy Day: A Tale of Two Tales"
+        "Pixie Hollow Bake Off",
+        "Hiccups"
       ]
     },
     {
@@ -1790,48 +1794,16 @@
       "ranking": ["Tome of the Unknown: Harvest Melody", "Welcome to Hell"]
     },
     {
-      "count": 1,
-      "ranking": ["Steven Universe", "Welcome to Hell", "Little Witch Academia"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Welcome to Hell", "Toy Story of Terror!"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "This Actually Happens a Lot",
-        "Tome of the Unknown: Harvest Melody",
-        "Coda",
-        "Welcome to Hell"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Omelette",
-        "Still Life (Betamale)",
-        "Get a Horse!",
-        "Malaria",
-        "The Blue Umbrella",
-        "Coda",
-        "Welcome to Hell",
-        "Ghost Burger"
-      ]
-    },
-    {
-      "count": 17,
+      "count": 14,
       "ranking": ["Mr Hublot"]
     },
     {
       "count": 1,
-      "ranking": [
-        "Party Central",
-        "Mr Hublot",
-        "Toy Story of Terror!",
-        "Panic in the Mailroom",
-        "Madly Madagascar"
-      ]
+      "ranking": ["The Elephant's Garden", "Mr Hublot", "Still Life (Betamale)"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mr Hublot", "The Blue Umbrella"]
     },
     {
       "count": 1,
@@ -1844,113 +1816,144 @@
     },
     {
       "count": 1,
-      "ranking": ["The Elephant's Garden", "The Blue Umbrella", "Mr Hublot"]
+      "ranking": ["Mr Hublot", "Toy Story of Terror!"]
+    },
+    {
+      "count": 15,
+      "ranking": ["Kick-Heart"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Kick-Heart", "Little Witch Academia"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kick-Heart", "Pinball"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tome of the Unknown: Harvest Melody", "Coda", "Kick-Heart"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Little Witch Academia", "Kick-Heart"]
     },
     {
       "count": 1,
       "ranking": [
-        "Mr Hublot",
-        "Ever After High-Legacy Day: A Tale of Two Tales"
+        "Tome of the Unknown: Harvest Melody",
+        "Little Witch Academia",
+        "Kick-Heart"
       ]
     },
     {
-      "count": 19,
-      "ranking": ["Kick-Heart"]
+      "count": 1,
+      "ranking": ["Kick-Heart", "Little Witch Academia", "Death Billiards"]
     },
     {
       "count": 1,
-      "ranking": ["Coda", "Tome of the Unknown: Harvest Melody", "Kick-Heart"]
+      "ranking": [
+        "Steven Universe",
+        "Tome of the Unknown: Harvest Melody",
+        "Kick-Heart"
+      ]
     },
     {
       "count": 1,
-      "ranking": ["Party Central", "Kick-Heart", "Toy Story of Terror!"]
+      "ranking": [
+        "The Blue Umbrella",
+        "Kick-Heart",
+        "Someone's Gaze",
+        "Hiccups"
+      ]
     },
     {
-      "count": 1,
-      "ranking": ["Party Central", "Kick-Heart"]
-    },
-    {
-      "count": 20,
+      "count": 18,
       "ranking": ["Toy Story of Terror!"]
     },
     {
       "count": 1,
-      "ranking": ["Toy Story of Terror!", "The Blue Umbrella"]
+      "ranking": ["Get a Horse!", "Toy Story of Terror!"]
     },
     {
-      "count": 14,
+      "count": 2,
+      "ranking": [
+        "Toy Story of Terror!",
+        "Scooby-Doo! and the Spooky Scarecrow"
+      ]
+    },
+    {
+      "count": 13,
       "ranking": ["Madly Madagascar"]
-    },
-    {
-      "count": 3,
-      "ranking": ["Toy Story of Terror!", "Madly Madagascar"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Madly Madagascar", "Toy Story of Terror!"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Get a Horse!",
-        "Party Central",
-        "The Blue Umbrella",
-        "Madly Madagascar"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Hiccups",
-        "Get a Horse!",
-        "Party Central",
-        "Pixie Hollow Bake Off",
-        "The Blue Umbrella",
-        "Madly Madagascar",
-        "Toy Story of Terror!"
-      ]
     },
     {
       "count": 1,
       "ranking": [
         "Toy Story of Terror!",
         "Party Central",
-        "The Blue Umbrella",
+        "Minions: Training Wheels",
         "Madly Madagascar"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Minions: Training Wheels",
-        "Pixie Hollow Bake Off",
-        "Madly Madagascar"
+        "Madly Madagascar",
+        "Toy Story of Terror!",
+        "Party Central",
+        "The Smurfs: The Legend of Smurfy Hollow",
+        "Hiccups"
       ]
     },
     {
-      "count": 1,
+      "count": 2,
       "ranking": ["Madly Madagascar", "The Smurfs: The Legend of Smurfy Hollow"]
     },
     {
-      "count": 9,
-      "ranking": [
-        "Scooby-Doo! Mecha Mutt Menace",
-        "Scooby-Doo! and the Spooky Scarecrow"
-      ]
-    },
-    {
-      "count": 9,
-      "ranking": ["Scooby-Doo! Mecha Mutt Menace"]
-    },
-    {
       "count": 1,
       "ranking": [
-        "Scooby-Doo! Mecha Mutt Menace",
-        "Ever After High-Legacy Day: A Tale of Two Tales"
+        "Tome of the Unknown: Harvest Melody",
+        "Omelette",
+        "The Blue Umbrella",
+        "Mr Hublot",
+        "Party Central",
+        "Madly Madagascar"
       ]
     },
     {
       "count": 1,
+      "ranking": ["Toy Story of Terror!", "Madly Madagascar"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Blue Umbrella",
+        "Toy Story of Terror!",
+        "Madly Madagascar"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ever After High-Legacy Day: A Tale of Two Tales",
+        "Madly Madagascar"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Party Central", "Madly Madagascar"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Toy Story of Terror!",
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Scooby-Doo! Mecha Mutt Menace"
+      ]
+    },
+    {
+      "count": 10,
       "ranking": [
         "Scooby-Doo! and the Spooky Scarecrow",
         "Scooby-Doo! Mecha Mutt Menace"
@@ -1959,35 +1962,106 @@
     {
       "count": 1,
       "ranking": [
+        "Scooby-Doo! and the Spooky Scarecrow",
+        "Scooby-Doo! Mecha Mutt Menace",
+        "The Smurfs: The Legend of Smurfy Hollow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
         "Toy Story of Terror!",
-        "Madly Madagascar",
-        "The Smurfs: The Legend of Smurfy Hollow",
-        "Steven Universe",
-        "Someone's Gaze",
+        "Scooby-Doo! and the Spooky Scarecrow",
+        "Scooby-Doo! Mecha Mutt Menace",
+        "Madly Madagascar"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Toy Story of Terror!", "Scooby-Doo! Mecha Mutt Menace"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Toy Story of Terror!",
+        "Scooby-Doo! and the Spooky Scarecrow",
+        "Scooby-Doo! Mecha Mutt Menace"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Scooby-Doo! and the Spooky Scarecrow",
+        "Scooby-Doo! Mecha Mutt Menace",
+        "Hiccups"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pixie Hollow Bake Off", "Scooby-Doo! Mecha Mutt Menace"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Get a Horse!",
         "The Blue Umbrella",
+        "Toy Story of Terror!",
+        "Party Central",
+        "Captain Sparky vs. The Flying Saucers",
+        "Scooby-Doo! and the Spooky Scarecrow",
+        "Minions: Training Wheels",
+        "Scooby-Doo! Mecha Mutt Menace",
+        "Hiccups"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Scooby-Doo! Mecha Mutt Menace"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Scooby-Doo! and the Spooky Scarecrow",
+        "Little Witch Academia",
         "Tome of the Unknown: Harvest Melody",
-        "Scooby-Doo! Mecha Mutt Menace",
-        "Scooby-Doo! and the Spooky Scarecrow"
+        "Scooby-Doo! Mecha Mutt Menace"
+      ]
+    },
+    {
+      "count": 9,
+      "ranking": ["The Smurfs: The Legend of Smurfy Hollow"]
+    },
+    {
+      "count": 4,
+      "ranking": [
+        "Toy Story of Terror!",
+        "The Smurfs: The Legend of Smurfy Hollow"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Minions: Training Wheels",
-        "Panic in the Mailroom",
-        "Puppy",
+        "Toy Story of Terror!",
         "Party Central",
-        "Scooby-Doo! Mecha Mutt Menace",
-        "Scooby-Doo! and the Spooky Scarecrow"
+        "The Smurfs: The Legend of Smurfy Hollow"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Minions: Training Wheels",
+        "Toy Story of Terror!",
+        "Pixie Hollow Bake Off",
+        "The Smurfs: The Legend of Smurfy Hollow",
+        "Madly Madagascar"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
         "Puppy",
-        "Panic in the Mailroom",
+        "Minions: Training Wheels",
         "Party Central",
+        "Panic in the Mailroom",
         "The Smurfs: The Legend of Smurfy Hollow"
       ]
     },
@@ -2021,8 +2095,9 @@
       "count": 1,
       "ranking": [
         "Party Central",
-        "The Smurfs: The Legend of Smurfy Hollow",
-        "Toy Story of Terror!"
+        "Toy Story of Terror!",
+        "Pixie Hollow Bake Off",
+        "The Smurfs: The Legend of Smurfy Hollow"
       ]
     },
     {
@@ -2031,10 +2106,6 @@
         "The Blue Umbrella",
         "The Smurfs: The Legend of Smurfy Hollow"
       ]
-    },
-    {
-      "count": 11,
-      "ranking": ["The Smurfs: The Legend of Smurfy Hollow"]
     },
     {
       "count": 1,
@@ -2047,81 +2118,35 @@
     {
       "count": 1,
       "ranking": [
-        "The Smurfs: The Legend of Smurfy Hollow",
-        "Toy Story of Terror!"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Toy Story of Terror!",
-        "The Smurfs: The Legend of Smurfy Hollow"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
         "The Blue Umbrella",
         "Toy Story of Terror!",
-        "Hiccups",
         "Party Central",
+        "Hiccups",
         "The Smurfs: The Legend of Smurfy Hollow",
         "Madly Madagascar"
       ]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Pixie Hollow Bake Off",
-        "The Smurfs: The Legend of Smurfy Hollow",
-        "Madly Madagascar",
-        "Ever After High-Legacy Day: A Tale of Two Tales"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Toy Story of Terror!",
-        "The Blue Umbrella",
-        "The Smurfs: The Legend of Smurfy Hollow"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "The Smurfs: The Legend of Smurfy Hollow",
-        "Scooby-Doo! and the Spooky Scarecrow"
-      ]
-    },
-    {
-      "count": 9,
+      "count": 8,
       "ranking": ["Scooby-Doo! and the Spooky Scarecrow"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Someone's Gaze", "Scooby-Doo! and the Spooky Scarecrow"]
     },
     {
       "count": 1,
       "ranking": [
         "Get a Horse!",
-        "Puppy",
-        "Tome of the Unknown: Harvest Melody",
-        "Hiccups",
-        "Minions: Training Wheels",
-        "Panic in the Mailroom",
-        "Party Central",
-        "The Blue Umbrella",
-        "Toy Story of Terror!",
+        "Death Billiards",
         "Scooby-Doo! and the Spooky Scarecrow",
-        "Madly Madagascar",
-        "Pixie Hollow Bake Off",
-        "The Smurfs: The Legend of Smurfy Hollow"
+        "Toy Story of Terror!",
+        "Party Central",
+        "Hiccups",
+        "Steven Universe",
+        "The Blue Umbrella"
       ]
     },
     {
       "count": 1,
       "ranking": [
+        "R'ha",
         "Toy Story of Terror!",
         "Scooby-Doo! and the Spooky Scarecrow"
       ]
@@ -2129,39 +2154,82 @@
     {
       "count": 1,
       "ranking": [
-        "Mr Hublot",
-        "Scooby-Doo! and the Spooky Scarecrow",
-        "Captain Sparky vs. The Flying Saucers",
-        "Tome of the Unknown: Harvest Melody"
+        "Toy Story of Terror!",
+        "Party Central",
+        "Scooby-Doo! and the Spooky Scarecrow"
       ]
     },
     {
-      "count": 23,
+      "count": 1,
+      "ranking": [
+        "Little Witch Academia",
+        "Scooby-Doo! and the Spooky Scarecrow"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Toy Story of Terror!",
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Scooby-Doo! and the Spooky Scarecrow"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Ever After High-Legacy Day: A Tale of Two Tales",
+        "Pixie Hollow Bake Off"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Get a Horse!",
+        "Ever After High-Legacy Day: A Tale of Two Tales"
+      ]
+    },
+    {
+      "count": 17,
       "ranking": ["Ever After High-Legacy Day: A Tale of Two Tales"]
     },
     {
       "count": 1,
       "ranking": [
         "Ever After High-Legacy Day: A Tale of Two Tales",
-        "Little Witch Academia",
-        "Minions: Training Wheels",
-        "Puppy"
+        "Toy Story of Terror!"
       ]
     },
     {
       "count": 1,
       "ranking": [
-        "Pixie Hollow Bake Off",
+        "Little Witch Academia",
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Party Central",
+        "Toy Story of Terror!",
+        "Hiccups",
         "Ever After High-Legacy Day: A Tale of Two Tales"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Toy Story of Terror!", "Ghost Burger"]
+      "ranking": [
+        "Ever After High-Legacy Day: A Tale of Two Tales",
+        "Welcome to Hell"
+      ]
     },
     {
-      "count": 14,
+      "count": 15,
       "ranking": ["Ghost Burger"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coda", "Ghost Burger", "Toy Story of Terror!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Toy Story of Terror!", "Ghost Burger"]
     },
     {
       "count": 1,
@@ -2181,25 +2249,25 @@
       "count": 1,
       "ranking": [
         "The Blue Umbrella",
-        "This Actually Happens a Lot",
-        "The Elephant's Garden",
         "Malaria",
-        "Get a Horse!",
-        "Party Central",
-        "Someone's Gaze",
         "Coda",
+        "The Elephant's Garden",
+        "Get a Horse!",
         "Kick-Heart",
+        "This Actually Happens a Lot",
+        "Someone's Gaze",
         "Toy Story of Terror!",
+        "Party Central",
+        "Ghost Burger",
+        "Mr Hublot",
         "Captain Sparky vs. The Flying Saucers",
         "Pixie Hollow Bake Off",
-        "Mr Hublot",
-        "Ghost Burger",
-        "Hiccups",
-        "Minions: Training Wheels",
         "Puppy",
-        "Madly Madagascar",
-        "Scooby-Doo! Mecha Mutt Menace",
         "Scooby-Doo! and the Spooky Scarecrow",
+        "Minions: Training Wheels",
+        "Scooby-Doo! Mecha Mutt Menace",
+        "Madly Madagascar",
+        "Hiccups",
         "Panic in the Mailroom",
         "The Smurfs: The Legend of Smurfy Hollow",
         "Anytime Is Ice Cream Time"
@@ -2212,12 +2280,25 @@
     {
       "count": 1,
       "ranking": [
-        "This Actually Happens a Lot",
+        "Omelette",
+        "Malaria",
+        "Coda",
+        "Get a Horse!",
+        "The Blue Umbrella",
+        "Welcome to Hell",
+        "Ghost Burger",
+        "Still Life (Betamale)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
         "Steven Universe",
         "Tome of the Unknown: Harvest Melody",
-        "Welcome to Hell",
         "Kick-Heart",
-        "Ghost Burger"
+        "Welcome to Hell",
+        "Ghost Burger",
+        "This Actually Happens a Lot"
       ]
     },
     {
@@ -2227,59 +2308,80 @@
     {
       "count": 1,
       "ranking": [
-        "Hiccups",
-        "Minions: Training Wheels",
-        "Puppy",
-        "Party Central",
-        "The Blue Umbrella",
         "Tome of the Unknown: Harvest Melody",
+        "The Blue Umbrella",
         "Kick-Heart",
+        "Ghost Burger",
         "Toy Story of Terror!",
+        "Party Central",
+        "Puppy",
+        "Minions: Training Wheels",
         "Madly Madagascar",
         "The Smurfs: The Legend of Smurfy Hollow",
-        "Ghost Burger"
+        "Hiccups"
       ]
     },
     {
-      "count": 1,
-      "ranking": [
-        "The Smurfs: The Legend of Smurfy Hollow",
-        "Ghost Burger",
-        "Scooby-Doo! and the Spooky Scarecrow"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Hiccups",
-        "Minions: Training Wheels",
-        "The Elephant's Garden",
-        "Puppy",
-        "Still Life (Betamale)",
-        "Malaria",
-        "Get a Horse!",
-        "Party Central",
-        "The Blue Umbrella",
-        "Coda",
-        "Tome of the Unknown: Harvest Melody",
-        "Kick-Heart",
-        "Toy Story of Terror!",
-        "Ghost Burger",
-        "Death Billiards",
-        "Little Witch Academia"
-      ]
-    },
-    {
-      "count": 15,
+      "count": 11,
       "ranking": ["Death Billiards"]
     },
     {
-      "count": 4,
+      "count": 1,
+      "ranking": [
+        "Little Witch Academia",
+        "Mr Hublot",
+        "Get a Horse!",
+        "Death Billiards"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Little Witch Academia",
+        "Death Billiards",
+        "The Future Diary: Redial"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Death Billiards", "The Future Diary: Redial"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Death Billiards",
+        "Kick-Heart",
+        "Someone's Gaze",
+        "Still Life (Betamale)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Death Billiards", "Kick-Heart", "Toy Story of Terror!"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Death Billiards",
+        "Little Witch Academia",
+        "The Future Diary: Redial"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Death Billiards", "Someone's Gaze"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Blue Umbrella", "Death Billiards"]
+    },
+    {
+      "count": 2,
       "ranking": ["Death Billiards", "Little Witch Academia"]
     },
     {
       "count": 1,
-      "ranking": ["Death Billiards", "The Future Diary: Redial"]
+      "ranking": ["Little Witch Academia", "Death Billiards"]
     },
     {
       "count": 1,
@@ -2288,56 +2390,65 @@
         "Party Central",
         "Omelette",
         "Malaria",
-        "Get a Horse!",
-        "The Blue Umbrella",
         "Coda",
-        "Toy Story of Terror!",
-        "Death Billiards",
-        "Little Witch Academia"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["Death Billiards", "The Smurfs: The Legend of Smurfy Hollow"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Death Billiards", "Party Central"]
-    },
-    {
-      "count": 1,
-      "ranking": [
         "Get a Horse!",
+        "Little Witch Academia",
+        "The Blue Umbrella",
         "Death Billiards",
-        "Hiccups",
-        "Party Central",
-        "Toy Story of Terror!",
-        "Steven Universe",
-        "The Blue Umbrella"
+        "Toy Story of Terror!"
       ]
     },
     {
-      "count": 1,
-      "ranking": ["Someone's Gaze", "Death Billiards"]
-    },
-    {
-      "count": 17,
+      "count": 16,
       "ranking": ["Little Witch Academia"]
     },
     {
+      "count": 2,
+      "ranking": ["Little Witch Academia", "Toy Story of Terror!"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Little Witch Academia", "The Future Diary: Redial"]
+    },
+    {
       "count": 1,
       "ranking": [
-        "Ever After High-Legacy Day: A Tale of Two Tales",
-        "Little Witch Academia"
+        "Get a Horse!",
+        "Death Billiards",
+        "Little Witch Academia",
+        "The Future Diary: Redial",
+        "Pixie Hollow Bake Off"
       ]
     },
     {
       "count": 1,
-      "ranking": ["Hiccups", "Little Witch Academia"]
+      "ranking": [
+        "Tome of the Unknown: Harvest Melody",
+        "Little Witch Academia",
+        "Someone's Gaze",
+        "Still Life (Betamale)",
+        "Death Billiards",
+        "Kick-Heart",
+        "Pinball",
+        "The Future Diary: Redial"
+      ]
     },
     {
-      "count": 13,
+      "count": 12,
       "ranking": ["The Future Diary: Redial"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Blue Umbrella",
+        "Someone's Gaze",
+        "Toy Story of Terror!",
+        "The Future Diary: Redial"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kick-Heart", "The Future Diary: Redial"]
     },
     {
       "count": 1,
@@ -2352,54 +2463,22 @@
       "ranking": ["The Future Diary: Redial", "The Blue Umbrella"]
     },
     {
-      "count": 1,
-      "ranking": [
-        "Little Witch Academia",
-        "Death Billiards",
-        "The Future Diary: Redial"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["The Future Diary: Redial", "Steven Universe"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Toy Story of Terror!", "The Future Diary: Redial"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Get a Horse!", "The Future Diary: Redial"]
-    },
-    {
-      "count": 1,
-      "ranking": ["Kick-Heart", "The Future Diary: Redial"]
-    },
-    {
-      "count": 1,
-      "ranking": ["The Future Diary: Redial", "Madly Madagascar"]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "The Blue Umbrella",
-        "Mr Hublot",
-        "Death Billiards",
-        "The Future Diary: Redial"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": ["The Elephant's Garden", "The Future Diary: Redial"]
-    },
-    {
-      "count": 15,
+      "count": 16,
       "ranking": ["The Garden of Sinners: Recalled Out Summer - Extra Chorus"]
     },
     {
+      "count": 3,
+      "ranking": [
+        "Little Witch Academia",
+        "The Garden of Sinners: Recalled Out Summer - Extra Chorus"
+      ]
+    },
+    {
       "count": 1,
       "ranking": [
-        "Party Central",
+        "Little Witch Academia",
+        "Kick-Heart",
+        "Someone's Gaze",
         "The Garden of Sinners: Recalled Out Summer - Extra Chorus"
       ]
     },
@@ -2407,21 +2486,21 @@
       "count": 1,
       "ranking": [
         "The Garden of Sinners: Recalled Out Summer - Extra Chorus",
-        "Someone's Gaze",
-        "Steven Universe"
+        "Party Central"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Garden of Sinners: Recalled Out Summer - Extra Chorus",
+        "Steven Universe",
+        "Someone's Gaze"
       ]
     },
     {
       "count": 1,
       "ranking": [
         "Someone's Gaze",
-        "The Garden of Sinners: Recalled Out Summer - Extra Chorus"
-      ]
-    },
-    {
-      "count": 2,
-      "ranking": [
-        "Little Witch Academia",
         "The Garden of Sinners: Recalled Out Summer - Extra Chorus"
       ]
     },
@@ -2439,13 +2518,6 @@
         "The Garden of Sinners: Recalled Out Summer - Extra Chorus",
         "Little Witch Academia",
         "The Future Diary: Redial"
-      ]
-    },
-    {
-      "count": 1,
-      "ranking": [
-        "Tome of the Unknown: Harvest Melody",
-        "The Garden of Sinners: Recalled Out Summer - Extra Chorus"
       ]
     }
   ]

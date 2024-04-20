@@ -1,57 +1,117 @@
 [
   {
     "year": 2013,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Mr Hublot",
+      "Feral",
+      "Get a Horse!",
+      "Possessions",
+      "The Longest Daycare"
+    ],
+    "winner": "Mr Hublot"
   },
   {
     "year": 2014,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Feast",
+      "The Bigger Picture",
+      "The Dam Keeper",
+      "Me and My Moulton",
+      "A Single Life"
+    ],
+    "winner": "Feast"
   },
   {
     "year": 2015,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Bear Story",
+      "Prologue",
+      "Sanjay's Super Team",
+      "We Can't Live Without Cosmos",
+      "World of Tomorrow"
+    ],
+    "winner": "Bear Story"
   },
   {
     "year": 2016,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Piper",
+      "Blind Vaysha",
+      "Borrowed Time",
+      "Pear Cider and Cigarettes",
+      "Pearl"
+    ],
+    "winner": "Piper"
   },
   {
     "year": 2017,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Dear Basketball",
+      "Garden Party",
+      "Lou",
+      "Negative Space",
+      "Revolting Rhymes"
+    ],
+    "winner": "Dear Basketball"
   },
   {
     "year": 2018,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Bao",
+      "Animal Behaviour",
+      "Late Afternoon",
+      "One Small Step",
+      "Weekends"
+    ],
+    "winner": "Bao"
   },
   {
     "year": 2019,
-    "nominees": [],
-    "winner": ""
+    "nominees": ["Hair Love", "Daughter", "Kitbull", "Mémorable", "Sister"],
+    "winner": "Hair Love"
   },
   {
     "year": 2020,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "If Anything Happens I Love You",
+      "Burrow",
+      "Genius Loci",
+      "Opera",
+      "Yes-People"
+    ],
+    "winner": "If Anything Happens I Love You"
   },
   {
     "year": 2021,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "The Windshield Wiper",
+      "Affairs of the Art",
+      "Bestia",
+      "Boxballet",
+      "Robin Robin"
+    ],
+    "winner": "The Windshield Wiper"
   },
   {
     "year": 2022,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "The Boy, the Mole, the Fox and the Horse",
+      "The Flying Sailor",
+      "Ice Merchants",
+      "My Year of Dicks",
+      "An Ostrich Told Me the World Is Fake and I Think I Believe It"
+    ],
+    "winner": "The Boy, the Mole, the Fox and the Horse"
   },
   {
     "year": 2023,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "War Is Over! Inspired by the Music of John & Yoko",
+      "Letter to a Pig",
+      "Ninety-Five Senses",
+      "Our Uniform",
+      "Pachyderme"
+    ],
+    "winner": "War Is Over! Inspired by the Music of John & Yoko"
   }
 ]

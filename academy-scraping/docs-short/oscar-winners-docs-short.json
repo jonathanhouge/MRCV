@@ -1,57 +1,123 @@
 [
   {
     "year": 2013,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "The Lady in Number 6: Music Saved My Life",
+      "CaveDigger",
+      "Facing Fear",
+      "Karama Has No Walls",
+      "Prison Terminal: The Last Days of Private Jack Hall"
+    ],
+    "winner": "The Lady in Number 6: Music Saved My Life"
   },
   {
     "year": 2014,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Crisis Hotline: Veterans Press 1",
+      "Joanna",
+      "Our Curse",
+      "The Reaper",
+      "White Earth"
+    ],
+    "winner": "Crisis Hotline: Veterans Press 1"
   },
   {
     "year": 2015,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "A Girl in the River: The Price of Forgiveness",
+      "Body Team 12",
+      "Chau, Beyond the Lines",
+      "Claude Lanzmann: Spectres of the Shoah",
+      "Last Day of Freedom"
+    ],
+    "winner": "A Girl in the River: The Price of Forgiveness"
   },
   {
     "year": 2016,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "The White Helmets",
+      "Extremis",
+      "4.1 Miles",
+      "Joe's Violin",
+      "Watani: My Homeland"
+    ],
+    "winner": "The White Helmets"
   },
   {
     "year": 2017,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Heaven Is a Traffic Jam on the 405",
+      "Edith+Eddie",
+      "Heroin(e)",
+      "Knife Skills",
+      "Traffic Stop"
+    ],
+    "winner": "Heaven Is a Traffic Jam on the 405"
   },
   {
     "year": 2018,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Period. End of Sentence.",
+      "Black Sheep",
+      "End Game",
+      "Lifeboat",
+      "A Night in the Garden"
+    ],
+    "winner": "Period. End of Sentence."
   },
   {
     "year": 2019,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Learning to Skateboard in a Warzone (If You're a Girl)",
+      "In the Absence",
+      "Life Overtakes Me",
+      "St. Louis Superman",
+      "Walk Run Cha-Cha"
+    ],
+    "winner": "Learning to Skateboard in a Warzone (If You're a Girl)"
   },
   {
     "year": 2020,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "Colette",
+      "A Concerto Is a Conversation",
+      "Do Not Split",
+      "Hunger Ward",
+      "A Love Song for Latasha"
+    ],
+    "winner": "Colette"
   },
   {
     "year": 2021,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "The Queen of Basketball",
+      "Audible",
+      "Lead Me Home",
+      "Three Songs for Benazir",
+      "When We Were Bullies"
+    ],
+    "winner": "The Queen of Basketball"
   },
   {
     "year": 2022,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "The Elephant Whisperers",
+      "Haulout",
+      "How Do You Measure a Year?",
+      "The Martha Mitchell Effect",
+      "Stranger at the Gate"
+    ],
+    "winner": "The Elephant Whisperers"
   },
   {
     "year": 2023,
-    "nominees": [],
-    "winner": ""
+    "nominees": [
+      "The Last Repair Shop",
+      "The ABCs of Book Banning",
+      "The Barber of Little Rock",
+      "Island in Between",
+      "Nǎi Nai & Wài Pó"
+    ],
+    "winner": "The Last Repair Shop"
   }
 ]

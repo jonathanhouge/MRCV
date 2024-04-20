@@ -63,7 +63,7 @@ def do_election(
     verbose: bool,
 ):
     result = scheme(election.ballots)
-    winner: Hashable = result[0] if result[1] else "<AMBIGUOUS>"
+    winner: str = result[0] if result[1] else "<AMBIGUOUS>"
     if verbose:
         pretty = pretty_election_json(election)
         print(pretty)

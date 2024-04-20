@@ -37,15 +37,23 @@ def main():
         ballots = {"ballots": []}
         for candidate in candidates:
             print(f"Movie #{count} / {len(movies)}")
+
             watch_url = f"{candidate["url"]}members/"
             watchers = scrape_list(watch_url, [1], watched=True) # 25 watchers per film
+
+            # reduce # watchers if presented with loads of candidates
+            if (len(movies) > 100):
+                watchers = watchers[:10]
+            elif (len(movies) > 200):
+                watchers = watchers[:5]
+
             for watcher in watchers:
                 if watcher in overall_watchers:
                     continue
 
                 # get the user's scores, sort it, craft it into a ballot
                 ranking_list = scrape_list(f"https://letterboxd.com/{watcher}/films/year/{args.category_path}", user_pages, looking_for=movies)
-                ranking_list_sorted = sorted(ranking_list, key=lambda f: f['Owner_rating'], reverse=True)
+                ranking_list_sorted = sorted(ranking_list, key=lambda f: (f['Owner_rating'], f['Average_rating']), reverse=True) # asked gpt how to specify a second criteria
                 ranking = [f['Film_title'] for f in ranking_list_sorted]
                 ballot = {"count": 1, "ranking": ranking}
 
