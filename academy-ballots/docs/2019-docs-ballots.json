@@ -1,0 +1,4435 @@
+{
+  "ballots": [
+    {
+      "count": 6,
+      "ranking": ["Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Fyre", "Fyre Fraud", "Homecoming: A Film by Beyoncé"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Fyre", "Fyre Fraud"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Homecoming: A Film by Beyoncé", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tell Me Who I Am",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Fyre",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Homecoming: A Film by Beyoncé"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Homecoming: A Film by Beyoncé"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "63 Up",
+        "Homecoming: A Film by Beyoncé",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Don't F**k with Cats: Hunting an Internet Killer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "American Factory",
+        "Hail Satan?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fantastic Fungi",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Aswang",
+        "The Kingmaker",
+        "Don't F**k with Cats: Hunting an Internet Killer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Apollo 11", "American Factory"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Don't F**k with Cats: Hunting an Internet Killer"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Apollo 11"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["For Sama", "Bring the Soul: The Movie"]
+    },
+    {
+      "count": 1,
+      "ranking": ["For Sama", "Collective", "Raising Kratos"]
+    },
+    {
+      "count": 1,
+      "ranking": ["For Sama", "Varda by Agnès"]
+    },
+    {
+      "count": 2,
+      "ranking": ["For Sama"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Honeyland",
+        "Collective",
+        "American Factory",
+        "The Cave"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["For Sama", "Collective"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Honeyland",
+        "Collective",
+        "Waiting for the Carnival"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["For Sama", "The Great Hack"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Varda by Agnès",
+        "Collective",
+        "Psychomagic: A Healing Art",
+        "For Sama"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Honeyland"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Honeyland",
+        "Diego Maradona",
+        "Hail Satan?",
+        "Cold Case Hammarskjöld",
+        "Midnight Family",
+        "The Edge of Democracy",
+        "Miles Davis: Birth of the Cool",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Honeyland", "Game of Thrones: The Last Watch"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Honeyland",
+        "Knock Down the House",
+        "Trixie Mattel: Moving Parts",
+        "Selfie",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "The Show Must Go On: The Queen + Adam Lambert Story",
+        "Travis Scott: Look Mom I Can Fly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Mexican Bretzel",
+        "Just Don't Think I'll Scream",
+        "Apollo 11",
+        "Honeyland",
+        "Andrey Tarkovsky. A Cinema Prayer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Circus of Books",
+        "Fyre",
+        "Honeyland",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Edge of Democracy", "American Factory"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Knock Down the House",
+        "Cold Case Hammarskjöld",
+        "American Factory",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["American Factory", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bikram: Yogi, Guru, Predator",
+        "The Great Hack",
+        "American Factory",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Brené Brown: The Call to Courage"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Honeyland",
+        "Collective",
+        "Waiting for the Carnival",
+        "One Child Nation",
+        "American Factory"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["American Factory"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fantastic Fungi",
+        "Apollo 11",
+        "American Factory",
+        "Leaving Neverland",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Collective",
+        "Don't F**k with Cats: Hunting an Internet Killer"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Collective"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Collective", "One Child Nation"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Homecoming: A Film by Beyoncé", "Collective"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Honeyland", "For Sama", "Collective"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leaving Neverland",
+        "Fyre",
+        "The Great Hack",
+        "Knock Down the House",
+        "Homecoming: A Film by Beyoncé"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Varda by Agnès", "Leaving Neverland"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leaving Neverland", "Fyre", "The Great Hack"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Hail Satan?",
+        "Leaving Neverland",
+        "Fantastic Fungi"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "One Child Nation",
+        "The Show Must Go On: The Queen + Adam Lambert Story",
+        "Leaving Neverland",
+        "Circus of Books",
+        "Untouchable",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Leaving Neverland"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wrinkles the Clown",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Rewind",
+        "Tell Me Who I Am",
+        "Hail Satan?",
+        "Recorder: The Marion Stokes Project",
+        "Leaving Neverland",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Homecoming: A Film by Beyoncé", "The Edge of Democracy"]
+    },
+    {
+      "count": 7,
+      "ranking": ["The Edge of Democracy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Apollo 11",
+        "Collective",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Babenco: Tell Me When I Die",
+        "The Edge of Democracy",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "American Factory",
+        "Miles Davis: Birth of the Cool",
+        "Aziz Ansari: Right Now",
+        "Game of Thrones: The Last Watch",
+        "Leaving Neverland",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "The Great Hack",
+        "Fyre Fraud",
+        "Travis Scott: Look Mom I Can Fly"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Circus of Books", "The Edge of Democracy"]
+    },
+    {
+      "count": 7,
+      "ranking": ["Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fantastic Fungi",
+        "Varda by Agnès",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Miles Davis: Birth of the Cool",
+        "Honeyland",
+        "Homecoming: A Film by Beyoncé"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "The Booksellers",
+        "Homecoming: A Film by Beyoncé",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "ReMastered: The Two Killings of Sam Cooke",
+        "Circus of Books"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fantastic Fungi",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["One Child Nation", "Hail Satan?"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Varda by Agnès", "Hail Satan?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horror Noire: A History of Black Horror",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Hail Satan?",
+        "Last Breath",
+        "Memory: The Origins of Alien"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Hail Satan?"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Trixie Mattel: Moving Parts", "Hail Satan?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horror Noire: A History of Black Horror",
+        "Hail Satan?",
+        "Blood & Flesh: The Reel Life & Ghastly Death of Al Adamson"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "American Factory",
+        "Hail Satan?",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Bikram: Yogi, Guru, Predator",
+        "Inside Bill's Brain: Decoding Bill Gates"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Edge of Democracy",
+        "Hail Satan?",
+        "Memory: The Origins of Alien"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fyre",
+        "Fyre Fraud",
+        "Love, Antosha",
+        "Varda by Agnès",
+        "Raising Kratos",
+        "One Child Nation"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Varda by Agnès"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Waiting for the Carnival",
+        "Varda by Agnès",
+        "The Edge of Democracy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Varda by Agnès",
+        "Honeyland",
+        "Just Don't Think I'll Scream",
+        "The Cordillera of Dreams"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Varda by Agnès", "Nomad: In the Footsteps of Bruce Chatwin"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fyre",
+        "Knock Down the House",
+        "Circus of Books",
+        "Scream, Queen! My Nightmare on Elm Street"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Knock Down the House",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Varda by Agnès",
+        "Knock Down the House",
+        "Nomad: In the Footsteps of Bruce Chatwin"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Knock Down the House"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Cave",
+        "Capital in the Twenty-First Century",
+        "For Sama",
+        "Collective",
+        "Diego Maradona",
+        "Apollo 11",
+        "The Edge of Democracy",
+        "Beyond The Visible - Hilma af Klint",
+        "American Factory",
+        "Circus of Books",
+        "Knock Down the House",
+        "The Kingmaker",
+        "Honeyland",
+        "Hail Satan?",
+        "The Booksellers",
+        "The Amazing Johnathan Documentary"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Varda by Agnès",
+        "Honeyland",
+        "Toni Morrison: The Pieces I Am",
+        "Knock Down the House",
+        "Beyond The Visible - Hilma af Klint",
+        "The Cave",
+        "Hail Satan?",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Fantastic Fungi"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Fyre", "Fantastic Fungi"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Love, Antosha",
+        "Mystify: Michael Hutchence",
+        "Fantastic Fungi"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fantastic Fungi",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["QT8: The First Eight", "Fantastic Fungi"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Tell Me Who I Am"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tell Me Who I Am",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Game of Thrones: The Last Watch",
+        "Untouchable",
+        "Apollo 11",
+        "Horror Noire: A History of Black Horror",
+        "Tell Me Who I Am",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "The Great Hack",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leaving Neverland", "Tell Me Who I Am"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Midnight Family",
+        "Tell Me Who I Am",
+        "Game of Thrones: The Last Watch",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Conversations with a Killer: The Ted Bundy Tapes"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Fyre",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Conversations with a Killer: The Ted Bundy Tapes", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Diego Maradona"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Varda by Agnès",
+        "Diego Maradona",
+        "Making Waves: The Art of Cinematic Sound"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Selfie",
+        "Honeyland",
+        "Diego Maradona",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Selfie", "Diego Maradona"]
+    },
+    {
+      "count": 4,
+      "ranking": ["The Inventor: Out for Blood in Silicon Valley"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Don't F**k with Cats: Hunting an Internet Killer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Inventor: Out for Blood in Silicon Valley", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Show Must Go On: The Queen + Adam Lambert Story",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Homecoming: A Film by Beyoncé",
+        "Knock Down the House"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Collective",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "American Factory",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Scream, Queen! My Nightmare on Elm Street",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Fyre",
+        "Knock Down the House",
+        "The Great Hack"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "The Great Hack"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "One Child Nation",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "The Great Hack"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Great Hack"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miles Davis: Birth of the Cool", "Fyre", "The Great Hack"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Fyre", "The Great Hack", "Fyre Fraud"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Horror Noire: A History of Black Horror"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horror Noire: A History of Black Horror",
+        "Never Surrender: A Galaxy Quest Documentary",
+        "Aziz Ansari: Right Now",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "Blood & Flesh: The Reel Life & Ghastly Death of Al Adamson",
+        "Memory: The Origins of Alien"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Love, Antosha",
+        "Collective",
+        "Horror Noire: A History of Black Horror",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horror Noire: A History of Black Horror",
+        "Dolly Parton: Here I Am"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Collective",
+        "One Child Nation",
+        "The Edge of Democracy",
+        "For Sama",
+        "Honeyland",
+        "Toni Morrison: The Pieces I Am",
+        "Diego Maradona",
+        "Horror Noire: A History of Black Horror"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Collective",
+        "Leaving Neverland",
+        "Talking About Trees",
+        "Horror Noire: A History of Black Horror",
+        "One Child Nation",
+        "For Sama",
+        "The Edge of Democracy",
+        "State Funeral",
+        "American Factory"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horror Noire: A History of Black Horror",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "Wrinkles the Clown"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["One Child Nation"]
+    },
+    {
+      "count": 1,
+      "ranking": ["One Child Nation", "Tell Me Who I Am"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "One Child Nation"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Love, Antosha"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Love, Antosha",
+        "Tell Me Who I Am"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Love, Antosha", "Dolly Parton: Here I Am"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Love, Antosha",
+        "Woodstock",
+        "Game of Thrones: The Last Watch"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Apollo 11",
+        "Collective",
+        "Diego Maradona",
+        "Tell Me Who I Am",
+        "The Edge of Democracy",
+        "American Factory",
+        "Circus of Books",
+        "Fyre",
+        "Honeyland",
+        "The Cave",
+        "The Great Hack",
+        "Bikram: Yogi, Guru, Predator",
+        "Love, Antosha"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Homecoming: A Film by Beyoncé", "Love, Antosha"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Bob Emergency", "Fyre Fraud"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Crystal Calls - Making The Dark Crystal: Age of Resistance",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Honeyland",
+        "Rewind",
+        "Collective",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Western Stars",
+        "State Funeral",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "Recorder: The Marion Stokes Project",
+        "Dolly Parton: Here I Am",
+        "Tell Me Who I Am",
+        "Aziz Ansari: Right Now",
+        "Nomad: In the Footsteps of Bruce Chatwin",
+        "Memory: The Origins of Alien",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Hail Satan?",
+        "Blood & Flesh: The Reel Life & Ghastly Death of Al Adamson",
+        "Leaving Neverland",
+        "Varda by Agnès",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Horror Noire: A History of Black Horror",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Beyond The Visible - Hilma af Klint",
+        "Miles Davis: Birth of the Cool",
+        "QT8: The First Eight",
+        "Once Were Brothers: Robbie Robertson and The Band",
+        "The Booksellers",
+        "Fyre",
+        "The Amazing Johnathan Documentary",
+        "Fyre Fraud",
+        "Wrinkles the Clown"
+      ]
+    },
+    {
+      "count": 10,
+      "ranking": ["Travis Scott: Look Mom I Can Fly"]
+    },
+    {
+      "count": 7,
+      "ranking": []
+    },
+    {
+      "count": 1,
+      "ranking": ["Wandering Stars", "Travis Scott: Look Mom I Can Fly"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Horror Noire: A History of Black Horror",
+        "ReMastered: The Two Killings of Sam Cooke",
+        "For Sama",
+        "Gaza Fights for Freedom",
+        "Love, Antosha",
+        "Apollo 11",
+        "Varda by Agnès",
+        "Honeyland",
+        "Collective",
+        "Toni Morrison: The Pieces I Am",
+        "Waiting for the Carnival",
+        "Talking About Trees",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "One Child Nation",
+        "Babenco: Tell Me When I Die",
+        "Tell Me Who I Am",
+        "Making Waves: The Art of Cinematic Sound",
+        "The Edge of Democracy",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "American Factory",
+        "Miles Davis: Birth of the Cool",
+        "Nomad: In the Footsteps of Bruce Chatwin",
+        "QT8: The First Eight",
+        "Fyre",
+        "Psychomagic: A Healing Art",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["QT8: The First Eight"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "QT8: The First Eight",
+        "Memory: The Origins of Alien",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Linda Ronstadt: The Sound of My Voice",
+        "Hail Satan?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["QT8: The First Eight", "Andrey Tarkovsky. A Cinema Prayer"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Game of Thrones: The Last Watch"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Collective", "Apollo 11", "Game of Thrones: The Last Watch"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Game of Thrones: The Last Watch",
+        "QT8: The First Eight",
+        "10 Years with Hayao Miyazaki"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Game of Thrones: The Last Watch",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Leaving Neverland"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Game of Thrones: The Last Watch",
+        "Leaving Neverland"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Trixie Mattel: Moving Parts"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Love, Antosha",
+        "Trixie Mattel: Moving Parts",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "Circus of Books"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tell Me Who I Am",
+        "Trixie Mattel: Moving Parts",
+        "American Factory",
+        "Circus of Books",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Circus of Books"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Circus of Books"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Trixie Mattel: Moving Parts",
+        "Fantastic Fungi",
+        "Circus of Books"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Circus of Books", "Fyre", "Travis Scott: Look Mom I Can Fly"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Fantastic Fungi",
+        "Circus of Books",
+        "Fyre",
+        "Bikram: Yogi, Guru, Predator",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Scream, Queen! My Nightmare on Elm Street"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Apollo 11", "Scream, Queen! My Nightmare on Elm Street"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Chasing Happiness",
+        "Homecoming: A Film by Beyoncé",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "Penguins",
+        "Fyre",
+        "Travis Scott: Look Mom I Can Fly"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Miles Davis: Birth of the Cool"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Western Stars",
+        "Miles Davis: Birth of the Cool",
+        "Aziz Ansari: Right Now",
+        "Travis Scott: Look Mom I Can Fly",
+        "Diego Maradona"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Linda Ronstadt: The Sound of My Voice",
+        "Miles Davis: Birth of the Cool",
+        "Dolly Parton: Here I Am",
+        "Once Were Brothers: Robbie Robertson and The Band"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Collective",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Linda Ronstadt: The Sound of My Voice",
+        "American Factory",
+        "Miles Davis: Birth of the Cool",
+        "Hail Satan?",
+        "Pavarotti",
+        "Dolly Parton: Here I Am",
+        "Untouchable"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Toni Morrison: The Pieces I Am",
+        "Martin Margiela: In His Own Words",
+        "Miles Davis: Birth of the Cool"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leaving Neverland",
+        "Homecoming: A Film by Beyoncé",
+        "For Sama",
+        "Collective",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Rewind",
+        "Knock Down the House",
+        "The Edge of Democracy",
+        "Honeyland",
+        "Hail Satan?",
+        "American Factory",
+        "Apollo 11",
+        "Aziz Ansari: Right Now"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Aziz Ansari: Right Now"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Midnight Family",
+        "The Kingmaker",
+        "Talking About Trees",
+        "My Mexican Bretzel",
+        "Aziz Ansari: Right Now"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Aziz Ansari: Right Now",
+        "Game of Thrones: The Last Watch",
+        "Fyre",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Collective",
+        "Talking About Trees",
+        "Adolescents",
+        "Just Don't Think I'll Scream",
+        "Aziz Ansari: Right Now"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Game of Thrones: The Last Watch",
+        "Leaving Neverland"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Honeyland",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Fyre",
+        "American Factory",
+        "Hail Satan?",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Leaving Neverland",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["I Love You, Now Die: The Commonwealth v. Michelle Carter"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Game of Thrones: The Last Watch"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Fyre",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tell Me Who I Am",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Varda by Agnès",
+        "Honeyland",
+        "Collective",
+        "Waiting for the Carnival",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Babenco: Tell Me When I Die",
+        "Tell Me Who I Am",
+        "The Edge of Democracy",
+        "Miles Davis: Birth of the Cool",
+        "Mystify: Michael Hutchence",
+        "Fyre",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "The Devil Next Door",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bikram: Yogi, Guru, Predator",
+        "Tell Me Who I Am",
+        "Don't F**k with Cats: Hunting an Internet Killer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "American Factory",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "The Edge of Democracy",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Varda by Agnès",
+        "Honeyland",
+        "Collective",
+        "Waiting for the Carnival",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Babenco: Tell Me When I Die",
+        "Tell Me Who I Am",
+        "Miles Davis: Birth of the Cool",
+        "Game of Thrones: The Last Watch",
+        "Fyre",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Apollo 11",
+        "Tell Me Who I Am",
+        "Hail Satan?",
+        "You Don't Nomi",
+        "Wrinkles the Clown",
+        "My Mexican Bretzel",
+        "Fyre",
+        "Bikram: Yogi, Guru, Predator",
+        "BTS World Tour: Love Yourself in Seoul",
+        "Bring the Soul: The Movie",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Chasing Happiness"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Knock Down the House",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "One Child Nation",
+        "Tell Me Who I Am",
+        "The Devil Next Door",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Scream, Queen! My Nightmare on Elm Street",
+        "Memory: The Origins of Alien",
+        "The Show Must Go On: The Queen + Adam Lambert Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Memory: The Origins of Alien", "Love, Antosha"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Memory: The Origins of Alien"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Woodstock",
+        "Fyre",
+        "Love, Antosha",
+        "Tell Me Who I Am",
+        "Memory: The Origins of Alien"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "American Factory",
+        "Memory: The Origins of Alien"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Love, Antosha",
+        "Varda by Agnès",
+        "Honeyland",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Midnight Family",
+        "One Child Nation",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Trixie Mattel: Moving Parts",
+        "State Funeral",
+        "American Factory",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "Recorder: The Marion Stokes Project",
+        "Leaving Neverland",
+        "The Booksellers",
+        "Circus of Books",
+        "Memory: The Origins of Alien",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Memory: The Origins of Alien", "The Booksellers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Adolescents",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Making Waves: The Art of Cinematic Sound"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Making Waves: The Art of Cinematic Sound"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Love, Antosha",
+        "Making Waves: The Art of Cinematic Sound",
+        "Leaving Neverland"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Collective",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Honeyland",
+        "Marianne & Leonard: Words of Love",
+        "Wrinkles the Clown",
+        "The Edge of Democracy",
+        "Cold Case Hammarskjöld",
+        "For Sama",
+        "Apollo 11",
+        "Horror Noire: A History of Black Horror",
+        "Rewind",
+        "One Child Nation",
+        "Tell Me Who I Am",
+        "Making Waves: The Art of Cinematic Sound",
+        "American Factory",
+        "Hail Satan?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Making Waves: The Art of Cinematic Sound",
+        "The Edge of Democracy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Diego Maradona", "Making Waves: The Art of Cinematic Sound"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Gaza Fights for Freedom",
+        "For Sama",
+        "The Cordillera of Dreams",
+        "Aswang",
+        "The Edge of Democracy",
+        "Hail Satan?",
+        "Collective",
+        "Making Waves: The Art of Cinematic Sound"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Edge of Democracy", "Waiting for the Carnival"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Waiting for the Carnival",
+        "The Edge of Democracy",
+        "Conversations with a Killer: The Ted Bundy Tapes"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Waiting for the Carnival"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Waiting for the Carnival",
+        "American Factory",
+        "The Edge of Democracy"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Waiting for the Carnival", "The Edge of Democracy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Knock Down the House",
+        "Tell Me Who I Am",
+        "American Factory",
+        "The Great Hack",
+        "The Booksellers",
+        "Fyre",
+        "Don't F**k with Cats: Hunting an Internet Killer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Homecoming: A Film by Beyoncé", "The Booksellers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miles Davis: Birth of the Cool", "The Booksellers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Honeyland",
+        "The Kingmaker",
+        "American Factory",
+        "Talking About Trees",
+        "One Child Nation",
+        "The Booksellers"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Booksellers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Booksellers", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fantastic Fungi",
+        "Apollo 11",
+        "Brené Brown: The Call to Courage",
+        "The Booksellers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Woodstock",
+        "The Devil Next Door",
+        "Chasing Happiness",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Dolly Parton: Here I Am",
+        "Leaving Neverland",
+        "The Booksellers",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Bikram: Yogi, Guru, Predator",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Collective",
+        "American Factory",
+        "Hail Satan?",
+        "The Amazing Johnathan Documentary",
+        "Fyre Fraud",
+        "The Booksellers",
+        "Homecoming: A Film by Beyoncé",
+        "Toni Morrison: The Pieces I Am",
+        "Knock Down the House",
+        "Chasing Happiness",
+        "ReMastered: The Two Killings of Sam Cooke"
+      ]
+    },
+    {
+      "count": 8,
+      "ranking": ["The Kingmaker"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Kingmaker", "Hail Satan?"]
+    },
+    {
+      "count": 9,
+      "ranking": ["Chasing Happiness"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Chasing Happiness", "Fyre", "Fyre Fraud"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Just Don't Think I'll Scream"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Gaza Fights for Freedom",
+        "Varda by Agnès",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Making Waves: The Art of Cinematic Sound",
+        "The Great Hack",
+        "Tell Me Who I Am",
+        "The Devil Next Door",
+        "Game of Thrones: The Last Watch",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "63 Up",
+        "For Sama",
+        "Just Don't Think I'll Scream",
+        "The Booksellers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Just Don't Think I'll Scream", "Woodstock", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Just Don't Think I'll Scream",
+        "Honeyland",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Andrey Tarkovsky. A Cinema Prayer",
+        "Just Don't Think I'll Scream",
+        "Babenco: Tell Me When I Die"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Diego Maradona",
+        "One Child Nation",
+        "Just Don't Think I'll Scream",
+        "Honeyland",
+        "Don't F**k with Cats: Hunting an Internet Killer"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["You Don't Nomi"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Collective",
+        "Love, Antosha",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Max Richter's Sleep",
+        "Toni Morrison: The Pieces I Am",
+        "One Child Nation",
+        "The Kingmaker",
+        "Ask Dr. Ruth",
+        "The Cave",
+        "Woodstock",
+        "Miles Davis: Birth of the Cool",
+        "Hail Satan?",
+        "Mystify: Michael Hutchence",
+        "Cold Case Hammarskjöld",
+        "Aziz Ansari: Right Now",
+        "Nomad: In the Footsteps of Bruce Chatwin",
+        "QT8: The First Eight",
+        "The Show Must Go On: The Queen + Adam Lambert Story",
+        "Once Were Brothers: Robbie Robertson and The Band",
+        "You Don't Nomi",
+        "Leaving Neverland",
+        "Marianne & Leonard: Words of Love",
+        "The Booksellers",
+        "Memory: The Origins of Alien",
+        "Iron Fists and Kung Fu Kicks",
+        "Untouchable",
+        "Wrinkles the Clown"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Linda Ronstadt: The Sound of My Voice",
+        "American Factory",
+        "Game of Thrones: The Last Watch",
+        "Once Were Brothers: Robbie Robertson and The Band",
+        "You Don't Nomi"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "You Don't Nomi",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "One Child Nation",
+        "Marianne & Leonard: Words of Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Love, Antosha",
+        "Apollo 11",
+        "Horror Noire: A History of Black Horror",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "QT8: The First Eight",
+        "You Don't Nomi",
+        "Memory: The Origins of Alien"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["My Mexican Bretzel", "You Don't Nomi"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Varda by Agnès",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Recorder: The Marion Stokes Project",
+        "You Don't Nomi",
+        "Memory: The Origins of Alien",
+        "Honeyland",
+        "Collective",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Horror Noire: A History of Black Horror",
+        "The Edge of Democracy",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "American Factory",
+        "Cold Case Hammarskjöld",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Blood & Flesh: The Reel Life & Ghastly Death of Al Adamson",
+        "Leaving Neverland",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "The Amazing Johnathan Documentary",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Horror Noire: A History of Black Horror",
+        "Game of Thrones: The Last Watch",
+        "You Don't Nomi",
+        "Iron Fists and Kung Fu Kicks",
+        "Fyre",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Wrinkles the Clown"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Wrinkles the Clown"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Honeyland", "Tell Me Who I Am", "Fyre", "Wrinkles the Clown"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "The Devil Next Door",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Fyre",
+        "Fyre Fraud",
+        "Wrinkles the Clown"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Homecoming: A Film by Beyoncé", "Wrinkles the Clown"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Fyre", "Wrinkles the Clown"]
+    },
+    {
+      "count": 6,
+      "ranking": [
+        "BTS World Tour: Love Yourself in Seoul",
+        "Bring the Soul: The Movie"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Bring the Soul: The Movie"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Homecoming: A Film by Beyoncé", "Bring the Soul: The Movie"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Raising Kratos", "Midnight Family"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Midnight Family", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Midnight Family", "Travis Scott: Look Mom I Can Fly"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Midnight Family",
+        "For Sama",
+        "Tell Me Who I Am",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Bikram: Yogi, Guru, Predator",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Midnight Family"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Honeyland",
+        "One Child Nation",
+        "The Edge of Democracy",
+        "Love, Antosha",
+        "Collective",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Midnight Family",
+        "American Factory",
+        "The Cave",
+        "Varda by Agnès"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Midnight Family", "Diego Maradona", "Apollo 11"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "QT8: The First Eight",
+        "Diego Maradona",
+        "Game of Thrones: The Last Watch",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Leaving Neverland",
+        "Fyre",
+        "For Sama",
+        "Martin Margiela: In His Own Words",
+        "Andrey Tarkovsky. A Cinema Prayer",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "Bikram: Yogi, Guru, Predator",
+        "Travis Scott: Look Mom I Can Fly"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Andrey Tarkovsky. A Cinema Prayer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Andrey Tarkovsky. A Cinema Prayer",
+        "For Sama",
+        "Varda by Agnès",
+        "Honeyland",
+        "You Don't Nomi"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Collective",
+        "Andrey Tarkovsky. A Cinema Prayer",
+        "Midnight Family",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Never Surrender: A Galaxy Quest Documentary",
+        "Aziz Ansari: Right Now",
+        "Leaving Neverland"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Talking About Trees",
+        "State Funeral",
+        "Hail Satan?",
+        "Collective",
+        "Andrey Tarkovsky. A Cinema Prayer",
+        "Honeyland",
+        "Selfie",
+        "Max Richter's Sleep"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Fantastic Fungi",
+        "Max Richter's Sleep",
+        "Game of Thrones: The Last Watch",
+        "The Great Hack",
+        "Andrey Tarkovsky. A Cinema Prayer",
+        "Pavarotti",
+        "Penguins"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "American Factory",
+        "The Cave",
+        "Leaving Neverland"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Cave"]
+    },
+    {
+      "count": 1,
+      "ranking": ["For Sama", "American Factory", "The Cave"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "American Factory",
+        "For Sama",
+        "The Cave",
+        "Honeyland",
+        "Fyre",
+        "Apollo 11",
+        "Collective"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Crystal Calls - Making The Dark Crystal: Age of Resistance",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Leaving Neverland",
+        "Diego Maradona",
+        "Game of Thrones: The Last Watch",
+        "Fyre",
+        "For Sama",
+        "Apollo 11",
+        "American Factory",
+        "The Cave",
+        "Last Breath",
+        "Penguins"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Talking About Trees"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Collective",
+        "Talking About Trees",
+        "Trixie Mattel: Moving Parts",
+        "Circus of Books"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Diego Maradona",
+        "For Sama",
+        "Honeyland",
+        "Talking About Trees"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "One Child Nation",
+        "The Edge of Democracy",
+        "Collective",
+        "American Factory",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "Fyre Fraud",
+        "Making Waves: The Art of Cinematic Sound",
+        "The Show Must Go On: The Queen + Adam Lambert Story",
+        "Homecoming: A Film by Beyoncé",
+        "Apollo 11",
+        "Varda by Agnès",
+        "Honeyland",
+        "Toni Morrison: The Pieces I Am",
+        "Talking About Trees",
+        "Horror Noire: A History of Black Horror",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Ask Dr. Ruth",
+        "Linda Ronstadt: The Sound of My Voice",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Western Stars",
+        "Hail Satan?",
+        "Recorder: The Marion Stokes Project",
+        "Dolly Parton: Here I Am",
+        "You Don't Nomi",
+        "Circus of Books",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Honeyland",
+        "Talking About Trees",
+        "Wandering Stars",
+        "Tell Me Who I Am"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Talking About Trees", "Untouchable"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "63 Up",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "Leaving Neverland",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Hail Satan?",
+        "Recorder: The Marion Stokes Project",
+        "Circus of Books",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Trixie Mattel: Moving Parts"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["63 Up", "Honeyland"]
+    },
+    {
+      "count": 4,
+      "ranking": ["63 Up"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "63 Up",
+        "Apollo 11",
+        "Tell Me Who I Am",
+        "Andrey Tarkovsky. A Cinema Prayer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Iron Fists and Kung Fu Kicks",
+        "63 Up",
+        "Recorder: The Marion Stokes Project",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "The Amazing Johnathan Documentary"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["63 Up", "Marianne & Leonard: Words of Love", "Fyre"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Gaza Fights for Freedom"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Gaza Fights for Freedom"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Honeyland",
+        "American Factory",
+        "Gaza Fights for Freedom",
+        "Homecoming: A Film by Beyoncé",
+        "Brené Brown: The Call to Courage",
+        "The Edge of Democracy",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Fantastic Fungi",
+        "Knock Down the House",
+        "For Sama",
+        "Varda by Agnès"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Cave", "Gaza Fights for Freedom"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Gaza Fights for Freedom",
+        "Aziz Ansari: Right Now",
+        "Leaving Neverland",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 10,
+      "ranking": ["Outcast Rockstar"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Cold Case Hammarskjöld"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horror Noire: A History of Black Horror",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Cold Case Hammarskjöld",
+        "Fyre",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hail Satan?",
+        "Cold Case Hammarskjöld",
+        "Leaving Neverland",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Cold Case Hammarskjöld", "Hail Satan?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Honeyland",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "The Cave",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Fyre",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "The Edge of Democracy",
+        "American Factory",
+        "Cold Case Hammarskjöld",
+        "Never Surrender: A Galaxy Quest Documentary",
+        "The Great Hack",
+        "For Sama",
+        "Apollo 11",
+        "Collective",
+        "One Child Nation",
+        "Leaving Neverland"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Collective",
+        "Toni Morrison: The Pieces I Am",
+        "Just Don't Think I'll Scream",
+        "Trixie Mattel: Moving Parts",
+        "Never Surrender: A Galaxy Quest Documentary",
+        "Cold Case Hammarskjöld",
+        "Aziz Ansari: Right Now",
+        "Leaving Neverland",
+        "Marianne & Leonard: Words of Love",
+        "Fyre",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "63 Up",
+        "Love, Antosha",
+        "Apollo 11",
+        "Honeyland",
+        "Toni Morrison: The Pieces I Am",
+        "Midnight Family",
+        "One Child Nation",
+        "Ask Dr. Ruth",
+        "Linda Ronstadt: The Sound of My Voice",
+        "The Edge of Democracy",
+        "American Factory",
+        "Hail Satan?",
+        "Cold Case Hammarskjöld",
+        "Recorder: The Marion Stokes Project",
+        "Marianne & Leonard: Words of Love",
+        "Fyre",
+        "The Great Hack"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Never Surrender: A Galaxy Quest Documentary",
+        "American Factory",
+        "Game of Thrones: The Last Watch"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Leap of Faith: William Friedkin on The Exorcist"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Apollo 11",
+        "Honeyland",
+        "Rewind",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Western Stars",
+        "Circus of Books",
+        "Memory: The Origins of Alien"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fyre",
+        "Apollo 11",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Last Breath",
+        "QT8: The First Eight"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bikram: Yogi, Guru, Predator",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Hail Satan?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Game of Thrones: The Last Watch",
+        "Memory: The Origins of Alien"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Edge of Democracy",
+        "The Devil Next Door",
+        "The Great Hack"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Devil Next Door"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rewind",
+        "Leaving Neverland",
+        "Love, Antosha",
+        "Circus of Books",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "The Great Hack",
+        "Bikram: Yogi, Guru, Predator",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "The Devil Next Door"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Knock Down the House",
+        "Tell Me Who I Am",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "The Devil Next Door",
+        "Leaving Neverland",
+        "Fyre",
+        "The Great Hack",
+        "Fyre Fraud",
+        "Travis Scott: Look Mom I Can Fly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "The Devil Next Door"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "The Devil Next Door",
+        "Tell Me Who I Am",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Hail Satan?",
+        "The Devil Next Door",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Martin Margiela: In His Own Words",
+        "American Factory",
+        "The Devil Next Door",
+        "Aziz Ansari: Right Now",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "The Devil Next Door",
+        "Fantastic Fungi",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["The Amazing Johnathan Documentary"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Never Surrender: A Galaxy Quest Documentary",
+        "The Amazing Johnathan Documentary"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fyre",
+        "The Amazing Johnathan Documentary",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Honeyland",
+        "Collective",
+        "Knock Down the House",
+        "American Factory",
+        "The Amazing Johnathan Documentary"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Amazing Johnathan Documentary",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "The Edge of Democracy",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "American Factory",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Amazing Johnathan Documentary",
+        "Apollo 11",
+        "Collective"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["State Funeral"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Apollo 11", "State Funeral"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Love, Antosha",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "State Funeral",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "State Funeral",
+        "Once Were Brothers: Robbie Robertson and The Band",
+        "Apollo 11"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Collective",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "State Funeral",
+        "Inside Bill's Brain: Decoding Bill Gates",
+        "Fantastic Fungi"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "State Funeral",
+        "Honeyland"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Amazing Johnathan Documentary",
+        "Apollo 11",
+        "Knock Down the House",
+        "American Factory",
+        "The Cave",
+        "Hail Satan?",
+        "Cold Case Hammarskjöld",
+        "For Sama",
+        "Honeyland",
+        "Tell Me Who I Am",
+        "State Funeral",
+        "The Show Must Go On: The Queen + Adam Lambert Story",
+        "Bikram: Yogi, Guru, Predator",
+        "Western Stars",
+        "The Edge of Democracy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Rewind", "Tell Me Who I Am"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Horror Noire: A History of Black Horror", "Rewind"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Rewind"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Fantastic Fungi",
+        "Rewind",
+        "Trixie Mattel: Moving Parts",
+        "Circus of Books",
+        "Hail Satan?",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Beyond The Visible - Hilma af Klint",
+        "Chasing Happiness",
+        "Leaving Neverland",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rewind",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rewind",
+        "One Child Nation",
+        "The Kingmaker",
+        "Tell Me Who I Am",
+        "Making Waves: The Art of Cinematic Sound",
+        "Trixie Mattel: Moving Parts",
+        "Hail Satan?",
+        "Leaving Neverland",
+        "Circus of Books"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rewind",
+        "Tell Me Who I Am",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Collective", "Rewind"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Rewind", "Tell Me Who I Am", "Collective"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Adolescents"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leaving Neverland", "Adolescents"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Adolescents",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Adolescents", "Homecoming: A Film by Beyoncé", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Adolescents", "Wandering Stars"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Collective", "Adolescents"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Varda by Agnès", "Psychomagic: A Healing Art"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tell Me Who I Am", "Psychomagic: A Healing Art"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Psychomagic: A Healing Art",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Psychomagic: A Healing Art", "Leaving Neverland"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Psychomagic: A Healing Art"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horror Noire: A History of Black Horror",
+        "Psychomagic: A Healing Art",
+        "Hail Satan?",
+        "Scream, Queen! My Nightmare on Elm Street"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Max Richter's Sleep",
+        "The Edge of Democracy",
+        "American Factory",
+        "Psychomagic: A Healing Art"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Last Breath"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Last Breath", "Fantastic Fungi"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Last Breath", "Fyre", "Game of Thrones: The Last Watch"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horror Noire: A History of Black Horror",
+        "Last Breath",
+        "Memory: The Origins of Alien"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Varda by Agnès",
+        "Honeyland",
+        "Collective",
+        "Diego Maradona",
+        "Last Breath",
+        "Inside Bill's Brain: Decoding Bill Gates",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["At the Heart of Gold: Inside the USA Gymnastics Scandal"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "The Edge of Democracy",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Honeyland",
+        "Collective",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "The Edge of Democracy",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "American Factory"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Leaving Neverland",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Toni Morrison: The Pieces I Am"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Toni Morrison: The Pieces I Am",
+        "Fantastic Fungi",
+        "Homecoming: A Film by Beyoncé",
+        "The Booksellers",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Circus of Books",
+        "Homecoming: A Film by Beyoncé",
+        "Toni Morrison: The Pieces I Am",
+        "Martin Margiela: In His Own Words",
+        "Diego Maradona",
+        "Knock Down the House",
+        "The Kingmaker",
+        "Leaving Neverland",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Varda by Agnès", "Toni Morrison: The Pieces I Am"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Toni Morrison: The Pieces I Am", "You Don't Nomi"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Toni Morrison: The Pieces I Am",
+        "Miles Davis: Birth of the Cool"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Martin Margiela: In His Own Words"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Martin Margiela: In His Own Words"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Varda by Agnès", "Martin Margiela: In His Own Words"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Martin Margiela: In His Own Words",
+        "Diego Maradona",
+        "Mystify: Michael Hutchence"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Martin Margiela: In His Own Words",
+        "Circus of Books",
+        "American Factory"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Aswang"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Aswang", "The Kingmaker"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Honeyland",
+        "Collective",
+        "Aswang",
+        "Adolescents",
+        "Untouchable",
+        "Waiting for the Carnival",
+        "Fyre",
+        "Making Waves: The Art of Cinematic Sound"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Collective", "Aswang", "The Kingmaker"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Babenco: Tell Me When I Die"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Babenco: Tell Me When I Die",
+        "The Edge of Democracy",
+        "American Factory",
+        "Miles Davis: Birth of the Cool",
+        "Fantastic Fungi"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Waiting for the Carnival",
+        "Babenco: Tell Me When I Die",
+        "The Edge of Democracy",
+        "Outcast Rockstar"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Babenco: Tell Me When I Die",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "The Edge of Democracy",
+        "American Factory"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Babenco: Tell Me When I Die",
+        "Travis Scott: Look Mom I Can Fly",
+        "The Edge of Democracy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Babenco: Tell Me When I Die",
+        "Conversations with a Killer: The Ted Bundy Tapes"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["10 Years with Hayao Miyazaki", "Fyre"]
+    },
+    {
+      "count": 5,
+      "ranking": ["10 Years with Hayao Miyazaki"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "10 Years with Hayao Miyazaki",
+        "Knock Down the House",
+        "American Factory",
+        "Leaving Neverland"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Diego Maradona",
+        "Raising Kratos",
+        "10 Years with Hayao Miyazaki",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Apollo 11",
+        "10 Years with Hayao Miyazaki",
+        "Diego Maradona",
+        "Knock Down the House",
+        "One Child Nation",
+        "The Kingmaker",
+        "Tell Me Who I Am",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "American Factory",
+        "Miles Davis: Birth of the Cool",
+        "The Devil Next Door",
+        "Chasing Happiness",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Leaving Neverland"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Never Surrender: A Galaxy Quest Documentary",
+        "Fyre",
+        "The Amazing Johnathan Documentary"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Woodstock",
+        "Mystify: Michael Hutchence",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Trixie Mattel: Moving Parts",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "You Don't Nomi",
+        "Fyre",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Honeyland",
+        "Never Surrender: A Galaxy Quest Documentary",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Leaving Neverland"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Honeyland",
+        "Collective",
+        "Max Richter's Sleep",
+        "Never Surrender: A Galaxy Quest Documentary"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Never Surrender: A Galaxy Quest Documentary"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Never Surrender: A Galaxy Quest Documentary",
+        "Aziz Ansari: Right Now",
+        "QT8: The First Eight",
+        "Leaving Neverland",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "The Edge of Democracy",
+        "Never Surrender: A Galaxy Quest Documentary",
+        "Game of Thrones: The Last Watch"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Knock Down the House",
+        "Homecoming: A Film by Beyoncé",
+        "Never Surrender: A Galaxy Quest Documentary"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Never Surrender: A Galaxy Quest Documentary", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "You Don't Nomi",
+        "Trixie Mattel: Moving Parts",
+        "Never Surrender: A Galaxy Quest Documentary",
+        "Tell Me Who I Am",
+        "Memory: The Origins of Alien"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Collective",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Selfie",
+        "Nomad: In the Footsteps of Bruce Chatwin",
+        "QT8: The First Eight",
+        "You Don't Nomi",
+        "Psychomagic: A Healing Art"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Nomad: In the Footsteps of Bruce Chatwin"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "QT8: The First Eight",
+        "Nomad: In the Footsteps of Bruce Chatwin"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Apollo 11", "Nomad: In the Footsteps of Bruce Chatwin"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Diego Maradona",
+        "Love, Antosha",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Midnight Family",
+        "Miles Davis: Birth of the Cool",
+        "Nomad: In the Footsteps of Bruce Chatwin"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nomad: In the Footsteps of Bruce Chatwin",
+        "Just Don't Think I'll Scream"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "One Child Nation",
+        "Nomad: In the Footsteps of Bruce Chatwin",
+        "ReMastered: The Two Killings of Sam Cooke",
+        "Pavarotti"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "For Sama",
+        "American Factory",
+        "Liam Gallagher: As It Was",
+        "Mystify: Michael Hutchence",
+        "Dolly Parton: Here I Am",
+        "You Don't Nomi",
+        "Homecoming: A Film by Beyoncé",
+        "Trixie Mattel: Moving Parts"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Dolly Parton: Here I Am"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Dolly Parton: Here I Am",
+        "Inside Bill's Brain: Decoding Bill Gates",
+        "The Great Hack"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tell Me Who I Am",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "The Devil Next Door",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Hail Satan?",
+        "Dolly Parton: Here I Am",
+        "Leaving Neverland",
+        "The Great Hack"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Linda Ronstadt: The Sound of My Voice",
+        "Dolly Parton: Here I Am"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Honeyland",
+        "Knock Down the House",
+        "Dolly Parton: Here I Am",
+        "Apollo 11",
+        "The Edge of Democracy",
+        "Iron Fists and Kung Fu Kicks"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Dolly Parton: Here I Am", "Circus of Books"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Marianne & Leonard: Words of Love"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Marianne & Leonard: Words of Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Gaza Fights for Freedom",
+        "Collective",
+        "Waiting for the Carnival",
+        "Knock Down the House",
+        "Just Don't Think I'll Scream",
+        "The Edge of Democracy",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Selfie",
+        "American Factory",
+        "Hail Satan?",
+        "The Devil Next Door",
+        "Grass Is Greener",
+        "Leaving Neverland",
+        "Marianne & Leonard: Words of Love",
+        "Circus of Books",
+        "Fyre",
+        "Bikram: Yogi, Guru, Predator",
+        "Travis Scott: Look Mom I Can Fly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Edge of Democracy", "Marianne & Leonard: Words of Love"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Marianne & Leonard: Words of Love",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["For Sama", "Marianne & Leonard: Words of Love"]
+    },
+    {
+      "count": 5,
+      "ranking": ["ReMastered: The Two Killings of Sam Cooke"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Bob Emergency",
+        "ReMastered: The Two Killings of Sam Cooke",
+        "Apollo 11",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Knock Down the House",
+        "Tell Me Who I Am",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "ReMastered: The Two Killings of Sam Cooke",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Game of Thrones: The Last Watch",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Last Breath", "ReMastered: The Two Killings of Sam Cooke"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Collective", "ReMastered: The Two Killings of Sam Cooke"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Diego Maradona",
+        "ReMastered: The Two Killings of Sam Cooke",
+        "Hail Satan?"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Once Were Brothers: Robbie Robertson and The Band"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Woodstock",
+        "Miles Davis: Birth of the Cool",
+        "Hail Satan?",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Once Were Brothers: Robbie Robertson and The Band"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Once Were Brothers: Robbie Robertson and The Band", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Linda Ronstadt: The Sound of My Voice", "Leaving Neverland"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Crystal Calls - Making The Dark Crystal: Age of Resistance",
+        "Linda Ronstadt: The Sound of My Voice",
+        "Miles Davis: Birth of the Cool",
+        "ReMastered: The Two Killings of Sam Cooke",
+        "Dolly Parton: Here I Am",
+        "QT8: The First Eight"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Linda Ronstadt: The Sound of My Voice", "Western Stars"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Linda Ronstadt: The Sound of My Voice"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Linda Ronstadt: The Sound of My Voice",
+        "Once Were Brothers: Robbie Robertson and The Band"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Circus of Books",
+        "Never Surrender: A Galaxy Quest Documentary",
+        "Memory: The Origins of Alien",
+        "The Great Hack",
+        "In Search of the Last Action Heroes",
+        "Fyre",
+        "Miles Davis: Birth of the Cool",
+        "Dolly Parton: Here I Am",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Diego Maradona",
+        "Linda Ronstadt: The Sound of My Voice",
+        "The Show Must Go On: The Queen + Adam Lambert Story",
+        "Apollo 11"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Honeyland",
+        "Knock Down the House",
+        "Linda Ronstadt: The Sound of My Voice",
+        "Gaza Fights for Freedom",
+        "Just Don't Think I'll Scream",
+        "Tell Me Who I Am",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Fyre",
+        "The Amazing Johnathan Documentary",
+        "Midnight Family"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Linda Ronstadt: The Sound of My Voice",
+        "Hail Satan?",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Trixie Mattel: Moving Parts",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "Fantastic Fungi",
+        "Fyre",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Wrinkles the Clown",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Iron Fists and Kung Fu Kicks"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Iron Fists and Kung Fu Kicks"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horror Noire: A History of Black Horror",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Hail Satan?",
+        "Leaving Neverland",
+        "Iron Fists and Kung Fu Kicks"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horror Noire: A History of Black Horror",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "In Search of the Last Action Heroes",
+        "Iron Fists and Kung Fu Kicks"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Iron Fists and Kung Fu Kicks", "Diego Maradona"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Crystal Calls - Making The Dark Crystal: Age of Resistance",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Leaving Neverland",
+        "Horror Noire: A History of Black Horror",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Bikram: Yogi, Guru, Predator",
+        "Iron Fists and Kung Fu Kicks"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Iron Fists and Kung Fu Kicks",
+        "Knock Down the House",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Bob Emergency",
+        "Don't F**k with Cats: Hunting an Internet Killer"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["The Bob Emergency"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Diego Maradona",
+        "The Bob Emergency",
+        "Fyre",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "The Devil Next Door"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Bob Emergency", "Leaving Neverland"]
+    },
+    {
+      "count": 6,
+      "ranking": ["The Cordillera of Dreams"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Collective", "The Cordillera of Dreams", "Woodstock"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Cordillera of Dreams",
+        "Don't F**k with Cats: Hunting an Internet Killer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Cordillera of Dreams",
+        "Making Waves: The Art of Cinematic Sound"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Cordillera of Dreams", "For Sama"]
+    },
+    {
+      "count": 8,
+      "ranking": ["Raising Kratos"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Raising Kratos", "Travis Scott: Look Mom I Can Fly"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Travis Scott: Look Mom I Can Fly", "Raising Kratos"]
+    },
+    {
+      "count": 2,
+      "ranking": ["BTS World Tour: Love Yourself in Seoul"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "BTS World Tour: Love Yourself in Seoul",
+        "Bring the Soul: The Movie",
+        "Tell Me Who I Am",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Fyre",
+        "Travis Scott: Look Mom I Can Fly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "BTS World Tour: Love Yourself in Seoul",
+        "Bring the Soul: The Movie",
+        "Chasing Happiness"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Untouchable"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Untouchable", "Travis Scott: Look Mom I Can Fly"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "In Search of the Last Action Heroes",
+        "Iron Fists and Kung Fu Kicks",
+        "Untouchable"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Cordillera of Dreams",
+        "Talking About Trees",
+        "Just Don't Think I'll Scream",
+        "Untouchable"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Dolly Parton: Here I Am",
+        "Leaving Neverland",
+        "Untouchable",
+        "Fyre",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Untouchable",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Fyre Fraud",
+        "Linda Ronstadt: The Sound of My Voice",
+        "Trixie Mattel: Moving Parts",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Untouchable"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Untouchable", "Chasing Happiness", "Penguins", "Fyre Fraud"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leaving Neverland", "Untouchable"]
+    },
+    {
+      "count": 7,
+      "ranking": ["Capital in the Twenty-First Century"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Diego Maradona",
+        "State Funeral",
+        "Capital in the Twenty-First Century",
+        "Varda by Agnès",
+        "Honeyland",
+        "Collective",
+        "Making Waves: The Art of Cinematic Sound",
+        "Hail Satan?",
+        "Nomad: In the Footsteps of Bruce Chatwin"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Capital in the Twenty-First Century",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "American Factory"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Collective",
+        "Knock Down the House",
+        "Miles Davis: Birth of the Cool",
+        "Capital in the Twenty-First Century",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["American Factory", "Penguins"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Penguins"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fyre Fraud",
+        "Fyre",
+        "Penguins",
+        "Trixie Mattel: Moving Parts",
+        "Circus of Books"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Penguins"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Apollo 11",
+        "One Child Nation",
+        "American Factory",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Penguins",
+        "The Booksellers",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Apollo 11",
+        "One Child Nation",
+        "Penguins",
+        "The Booksellers",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre Fraud",
+        "Tell Me Who I Am"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Kingmaker",
+        "The Cave",
+        "QT8: The First Eight",
+        "Beyond The Visible - Hilma af Klint",
+        "Dolly Parton: Here I Am",
+        "Fantastic Fungi",
+        "Circus of Books",
+        "For Sama",
+        "Diego Maradona",
+        "Tell Me Who I Am",
+        "Hail Satan?"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Beyond The Visible - Hilma af Klint"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Beyond The Visible - Hilma af Klint"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Never Surrender: A Galaxy Quest Documentary",
+        "Recorder: The Marion Stokes Project",
+        "Memory: The Origins of Alien",
+        "Fyre",
+        "The Great Hack"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Andrey Tarkovsky. A Cinema Prayer",
+        "Never Surrender: A Galaxy Quest Documentary",
+        "Recorder: The Marion Stokes Project"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Booksellers", "Recorder: The Marion Stokes Project"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Diego Maradona",
+        "Max Richter's Sleep",
+        "Miles Davis: Birth of the Cool",
+        "Fantastic Fungi",
+        "The Booksellers",
+        "Iron Fists and Kung Fu Kicks",
+        "Recorder: The Marion Stokes Project"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Recorder: The Marion Stokes Project"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nomad: In the Footsteps of Bruce Chatwin",
+        "Recorder: The Marion Stokes Project",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Varda by Agnès",
+        "Andrey Tarkovsky. A Cinema Prayer",
+        "Recorder: The Marion Stokes Project",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Aziz Ansari: Right Now",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Apollo 11",
+        "Recorder: The Marion Stokes Project",
+        "Honeyland",
+        "One Child Nation",
+        "Toni Morrison: The Pieces I Am",
+        "Rewind",
+        "Circus of Books",
+        "Tell Me Who I Am",
+        "Varda by Agnès",
+        "Talking About Trees",
+        "The Cordillera of Dreams",
+        "The Devil Next Door",
+        "Bikram: Yogi, Guru, Predator",
+        "Once Were Brothers: Robbie Robertson and The Band"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Recorder: The Marion Stokes Project",
+        "Varda by Agnès",
+        "The Bob Emergency",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["For Sama", "My Mexican Bretzel", "Fyre"]
+    },
+    {
+      "count": 4,
+      "ranking": ["My Mexican Bretzel"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Varda by Agnès", "My Mexican Bretzel"]
+    },
+    {
+      "count": 1,
+      "ranking": ["State Funeral", "My Mexican Bretzel"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Varda by Agnès", "My Mexican Bretzel", "State Funeral"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Nomad: In the Footsteps of Bruce Chatwin",
+        "Love, Antosha",
+        "Varda by Agnès",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "My Mexican Bretzel",
+        "Don't F**k with Cats: Hunting an Internet Killer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Homecoming: A Film by Beyoncé", "My Mexican Bretzel"]
+    },
+    {
+      "count": 9,
+      "ranking": [
+        "The Crystal Calls - Making The Dark Crystal: Age of Resistance"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fantastic Fungi",
+        "The Crystal Calls - Making The Dark Crystal: Age of Resistance"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Pavarotti"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Gaza Fights for Freedom",
+        "Homecoming: A Film by Beyoncé",
+        "The Bob Emergency",
+        "Bring the Soul: The Movie",
+        "63 Up",
+        "Love, Antosha",
+        "Apollo 11",
+        "10 Years with Hayao Miyazaki",
+        "Varda by Agnès",
+        "Honeyland",
+        "Collective",
+        "Toni Morrison: The Pieces I Am",
+        "Waiting for the Carnival",
+        "Martin Margiela: In His Own Words",
+        "Diego Maradona",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Talking About Trees",
+        "Andrey Tarkovsky. A Cinema Prayer",
+        "Horror Noire: A History of Black Horror",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Raising Kratos",
+        "Midnight Family",
+        "Knock Down the House",
+        "Aswang",
+        "One Child Nation",
+        "The Kingmaker",
+        "Adolescents",
+        "Just Don't Think I'll Scream",
+        "Wandering Stars",
+        "The Cordillera of Dreams",
+        "Leap of Faith: William Friedkin on The Exorcist",
+        "Tell Me Who I Am",
+        "Making Waves: The Art of Cinematic Sound",
+        "The Edge of Democracy",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Trixie Mattel: Moving Parts",
+        "American Factory",
+        "Miles Davis: Birth of the Cool",
+        "Hail Satan?",
+        "Chasing Happiness",
+        "Last Breath",
+        "Scream, Queen! My Nightmare on Elm Street",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Pavarotti",
+        "Game of Thrones: The Last Watch",
+        "Recorder: The Marion Stokes Project",
+        "Dolly Parton: Here I Am",
+        "QT8: The First Eight",
+        "Once Were Brothers: Robbie Robertson and The Band",
+        "You Don't Nomi",
+        "Leaving Neverland",
+        "Outcast Rockstar",
+        "Fantastic Fungi",
+        "The Booksellers",
+        "Circus of Books",
+        "Memory: The Origins of Alien",
+        "Iron Fists and Kung Fu Kicks",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Psychomagic: A Healing Art",
+        "The Great Hack",
+        "Bikram: Yogi, Guru, Predator",
+        "Fyre Fraud",
+        "Travis Scott: Look Mom I Can Fly",
+        "Wrinkles the Clown"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pavarotti", "Leaving Neverland", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": ["10 Years with Hayao Miyazaki", "Honeyland", "Pavarotti"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Love, Antosha",
+        "QT8: The First Eight",
+        "Pavarotti"
+      ]
+    },
+    {
+      "count": 9,
+      "ranking": ["Wandering Stars"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Varda by Agnès",
+        "Ask Dr. Ruth",
+        "American Factory",
+        "Hail Satan?",
+        "Love, Antosha",
+        "Honeyland",
+        "Making Waves: The Art of Cinematic Sound",
+        "QT8: The First Eight",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Recorder: The Marion Stokes Project",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Knock Down the House",
+        "Tell Me Who I Am",
+        "Iron Fists and Kung Fu Kicks",
+        "The Great Hack",
+        "Bikram: Yogi, Guru, Predator",
+        "Fyre Fraud",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "For Sama",
+        "Gaza Fights for Freedom",
+        "The Bob Emergency",
+        "Collective",
+        "Toni Morrison: The Pieces I Am",
+        "Waiting for the Carnival",
+        "One Child Nation",
+        "Max Richter's Sleep",
+        "Leaving Neverland",
+        "Fantastic Fungi"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "Apollo 11",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Midnight Family",
+        "Max Richter's Sleep",
+        "Miles Davis: Birth of the Cool",
+        "Marianne & Leonard: Words of Love",
+        "Memory: The Origins of Alien",
+        "Varda by Agnès",
+        "The Kingmaker",
+        "Making Waves: The Art of Cinematic Sound",
+        "Hail Satan?",
+        "Game of Thrones: The Last Watch",
+        "One Child Nation",
+        "Beyond The Visible - Hilma af Klint",
+        "Woodstock"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Max Richter's Sleep"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homecoming: A Film by Beyoncé",
+        "Love, Antosha",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Max Richter's Sleep"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Max Richter's Sleep", "State Funeral"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Honeyland",
+        "Collective",
+        "Midnight Family",
+        "For Sama",
+        "Apollo 11",
+        "Tell Me Who I Am",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "American Factory",
+        "Knock Down the House",
+        "One Child Nation",
+        "The Kingmaker",
+        "Max Richter's Sleep",
+        "Last Breath",
+        "Cold Case Hammarskjöld",
+        "Bikram: Yogi, Guru, Predator",
+        "The Edge of Democracy",
+        "The Great Hack"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Max Richter's Sleep",
+        "Fantastic Fungi",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Mystify: Michael Hutchence"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leaving Neverland", "Mystify: Michael Hutchence"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Linda Ronstadt: The Sound of My Voice",
+        "Mystify: Michael Hutchence",
+        "ReMastered: The Two Killings of Sam Cooke"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Hack", "Mystify: Michael Hutchence"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Fyre", "Mystify: Michael Hutchence", "QT8: The First Eight"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Inside Bill's Brain: Decoding Bill Gates"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Edge of Democracy",
+        "Inside Bill's Brain: Decoding Bill Gates"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Brené Brown: The Call to Courage",
+        "Inside Bill's Brain: Decoding Bill Gates",
+        "Aziz Ansari: Right Now"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Varda by Agnès",
+        "Woodstock",
+        "Inside Bill's Brain: Decoding Bill Gates",
+        "Fantastic Fungi",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Inside Bill's Brain: Decoding Bill Gates", "The Great Hack"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Inside Bill's Brain: Decoding Bill Gates", "Fantastic Fungi"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fyre",
+        "The Edge of Democracy",
+        "Miles Davis: Birth of the Cool",
+        "Inside Bill's Brain: Decoding Bill Gates",
+        "Travis Scott: Look Mom I Can Fly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Honeyland",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Miles Davis: Birth of the Cool",
+        "Game of Thrones: The Last Watch",
+        "Marianne & Leonard: Words of Love",
+        "In Search of the Last Action Heroes"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["In Search of the Last Action Heroes"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horror Noire: A History of Black Horror",
+        "In Search of the Last Action Heroes",
+        "Fyre",
+        "QT8: The First Eight"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "In Search of the Last Action Heroes",
+        "Iron Fists and Kung Fu Kicks"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "QT8: The First Eight",
+        "In Search of the Last Action Heroes",
+        "Fyre",
+        "The Show Must Go On: The Queen + Adam Lambert Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "QT8: The First Eight",
+        "In Search of the Last Action Heroes",
+        "The Inventor: Out for Blood in Silicon Valley"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Aziz Ansari: Right Now",
+        "In Search of the Last Action Heroes"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "QT8: The First Eight",
+        "You Don't Nomi",
+        "In Search of the Last Action Heroes"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Woodstock"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Woodstock", "Grass Is Greener"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Woodstock"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["10 Years with Hayao Miyazaki", "Woodstock"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "For Sama",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Woodstock",
+        "Leaving Neverland",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Grass Is Greener", "Fantastic Fungi"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Grass Is Greener"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Grass Is Greener", "QT8: The First Eight"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Grass Is Greener", "Leaving Neverland", "American Factory"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Grass Is Greener", "Travis Scott: Look Mom I Can Fly"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Trixie Mattel: Moving Parts",
+        "Miles Davis: Birth of the Cool",
+        "Grass Is Greener"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "For Sama",
+        "Honeyland",
+        "You Don't Nomi",
+        "Diego Maradona",
+        "Western Stars",
+        "Capital in the Twenty-First Century",
+        "Memory: The Origins of Alien"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Western Stars"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Western Stars",
+        "Apollo 11",
+        "Cold Case Hammarskjöld",
+        "Memory: The Origins of Alien",
+        "Wrinkles the Clown",
+        "One Child Nation"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tell Me Who I Am",
+        "Western Stars",
+        "ReMastered: The Two Killings of Sam Cooke",
+        "You Don't Nomi",
+        "Circus of Books",
+        "Fyre",
+        "Bikram: Yogi, Guru, Predator",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Homecoming: A Film by Beyoncé", "Western Stars"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Apollo 11", "Diego Maradona", "Western Stars"]
+    },
+    {
+      "count": 8,
+      "ranking": ["Selfie"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Adolescents",
+        "Making Waves: The Art of Cinematic Sound",
+        "Selfie",
+        "Capital in the Twenty-First Century"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["The Show Must Go On: The Queen + Adam Lambert Story"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "The Show Must Go On: The Queen + Adam Lambert Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Chasing Happiness",
+        "The Show Must Go On: The Queen + Adam Lambert Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "The Show Must Go On: The Queen + Adam Lambert Story"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Brené Brown: The Call to Courage"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Brené Brown: The Call to Courage",
+        "Dolly Parton: Here I Am",
+        "Apollo 11",
+        "Toni Morrison: The Pieces I Am",
+        "Trixie Mattel: Moving Parts",
+        "Leaving Neverland"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "The Devil Next Door",
+        "Trixie Mattel: Moving Parts",
+        "Bikram: Yogi, Guru, Predator",
+        "Brené Brown: The Call to Courage"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Honeyland", "Brené Brown: The Call to Courage"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Edge of Democracy",
+        "Homecoming: A Film by Beyoncé",
+        "Brené Brown: The Call to Courage"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Aziz Ansari: Right Now", "Brené Brown: The Call to Courage"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "Brené Brown: The Call to Courage",
+        "Fyre",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brené Brown: The Call to Courage", "Fyre"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Blood & Flesh: The Reel Life & Ghastly Death of Al Adamson"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Varda by Agnès",
+        "Honeyland",
+        "The Crystal Calls - Making The Dark Crystal: Age of Resistance",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Blood & Flesh: The Reel Life & Ghastly Death of Al Adamson",
+        "Bikram: Yogi, Guru, Predator"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Miles Davis: Birth of the Cool",
+        "Blood & Flesh: The Reel Life & Ghastly Death of Al Adamson"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Apollo 11",
+        "Horror Noire: A History of Black Horror",
+        "The Edge of Democracy",
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Hail Satan?",
+        "Grass Is Greener",
+        "Blood & Flesh: The Reel Life & Ghastly Death of Al Adamson",
+        "QT8: The First Eight",
+        "Fyre Fraud"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Don't F**k with Cats: Hunting an Internet Killer",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "Blood & Flesh: The Reel Life & Ghastly Death of Al Adamson",
+        "Iron Fists and Kung Fu Kicks"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Blood & Flesh: The Reel Life & Ghastly Death of Al Adamson",
+        "Memory: The Origins of Alien"
+      ]
+    },
+    {
+      "count": 8,
+      "ranking": ["Liam Gallagher: As It Was"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miles Davis: Birth of the Cool", "Liam Gallagher: As It Was"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Diego Maradona", "Liam Gallagher: As It Was", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Brené Brown: The Call to Courage",
+        "One Child Nation",
+        "Ask Dr. Ruth",
+        "Aziz Ansari: Right Now"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Ask Dr. Ruth"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Homecoming: A Film by Beyoncé", "Ask Dr. Ruth"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Honeyland", "Ask Dr. Ruth", "Diego Maradona"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Gaza Fights for Freedom",
+        "At the Heart of Gold: Inside the USA Gymnastics Scandal",
+        "American Factory",
+        "Ask Dr. Ruth",
+        "For Sama",
+        "Homecoming: A Film by Beyoncé",
+        "Knock Down the House",
+        "Leaving Neverland",
+        "Fyre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ask Dr. Ruth", "Fyre"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Toni Morrison: The Pieces I Am",
+        "Ask Dr. Ruth",
+        "Linda Ronstadt: The Sound of My Voice",
+        "Conversations with a Killer: The Ted Bundy Tapes",
+        "I Love You, Now Die: The Commonwealth v. Michelle Carter",
+        "Game of Thrones: The Last Watch",
+        "Dolly Parton: Here I Am",
+        "Leaving Neverland",
+        "Untouchable",
+        "The Inventor: Out for Blood in Silicon Valley",
+        "Fyre",
+        "Fyre Fraud"
+      ]
+    }
+  ]
+}

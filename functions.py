@@ -62,6 +62,7 @@ CATEGORY = CATEGORIES[5]
 WINNER = "winner here"
 WINNER_URL = "https://letterboxd.com/film/404-1/"
 ACTUAL_WINNER = "actual winner here"
+ACTUAL_NOMINEES = "actual nominees here"
 
 
 def create_start_menu(app):
@@ -127,9 +128,15 @@ def start_wwtap():
 
     WWTAP = ctk.CTkToplevel(APP)
     WWTAP.title("What Wouldn't The Academy Pick?")
-    WWTAP.geometry("500x500")
+    WWTAP.geometry("600x500")
     WWTAP.resizable(False, False)
     WWTAP.attributes("-topmost", True)
+
+    frame = ctk.CTkFrame(master=WWTAP, width=200, height=200)
+    frame.place(relx=0.2, rely=0.65, anchor=ctk.CENTER)
+
+    frame = ctk.CTkFrame(master=WWTAP, width=320, height=200)
+    frame.place(relx=0.7, rely=0.65, anchor=ctk.CENTER)
 
     pick_scheme_dropdown(WWTAP)
     pick_academy_year_dropdown(WWTAP)
@@ -147,7 +154,10 @@ def pick_scheme_dropdown(app):
         SCHEME = choice
 
     scheme = ctk.CTkComboBox(
-        master=app, values=SCHEMES, variable=choice, command=combobox_callback
+        master=app,
+        values=SCHEMES,
+        variable=choice,
+        command=combobox_callback,
     )
     scheme.pack(padx=20, pady=10)
     scheme.place(relx=0.2, rely=0.5, anchor=ctk.CENTER)
@@ -162,7 +172,10 @@ def pick_academy_year_dropdown(app):
         YEAR = choice
 
     scheme = ctk.CTkComboBox(
-        master=app, values=YEARS, variable=choice, command=pick_academy_year
+        master=app,
+        values=YEARS,
+        variable=choice,
+        command=pick_academy_year,
     )
     scheme.pack(padx=20, pady=10)
     scheme.place(relx=0.2, rely=0.7, anchor=ctk.CENTER)
@@ -177,7 +190,10 @@ def pick_academy_category_dropdown(app):
         CATEGORY = choice
 
     scheme = ctk.CTkComboBox(
-        master=app, values=CATEGORIES, variable=choice, command=pick_academy_category
+        master=app,
+        values=CATEGORIES,
+        variable=choice,
+        command=pick_academy_category,
     )
     scheme.pack(padx=20, pady=10)
     scheme.place(relx=0.2, rely=0.6, anchor=ctk.CENTER)
@@ -195,35 +211,50 @@ def run_election_button(app):
         global ACTUAL_WINNER
 
         command = f"python schemes/{SCHEME}.py --election academy-ballots/{CATEGORY}/{YEAR}-{CATEGORY}-ballots.json"
-        result = subprocess.check_output(command, shell=True, text=True)
-        winner = result.strip()
         winner_poster = "posters/AMBIGUOUS.jpg"
         WINNER_URL = "https://letterboxd.com/film/404-1/"
 
-        if winner != "<AMBIGUOUS>":
-            with open(
-                f"academy-scraping/{CATEGORY}/{YEAR}-{CATEGORY}.json",
-                "r",
-                encoding="utf-8",
-            ) as jsonf:
-                candidates = json.load(jsonf)
-                film_url = next(
-                    (film["url"] for film in candidates if film["Film_title"] == winner)
+        try:
+            result = subprocess.check_output(command, shell=True, text=True)
+            winner = result.strip()
+
+            if winner != "<AMBIGUOUS>":
+                with open(
+                    f"academy-scraping/{CATEGORY}/{YEAR}-{CATEGORY}.json",
+                    "r",
+                    encoding="utf-8",
+                ) as jsonf:
+                    candidates = json.load(jsonf)
+                    film_url = next(
+                        (
+                            film["url"]
+                            for film in candidates
+                            if film["Film_title"] == winner
+                        )
+                    )
+
+                # https://stackoverflow.com/questions/73803684/trying-to-scrape-posters-from-letterboxd-python
+                filmget = requests.get(film_url)
+                film_soup = BeautifulSoup(filmget.text, "html.parser")
+                script_w_data = film_soup.select_one(
+                    'script[type="application/ld+json"]'
+                )
+                json_obj = json.loads(
+                    script_w_data.text.split(" */")[1].split("/* ]]>")[0]
                 )
 
-            # https://stackoverflow.com/questions/73803684/trying-to-scrape-posters-from-letterboxd-python
-            filmget = requests.get(film_url)
-            film_soup = BeautifulSoup(filmget.text, "html.parser")
-            script_w_data = film_soup.select_one('script[type="application/ld+json"]')
-            json_obj = json.loads(script_w_data.text.split(" */")[1].split("/* ]]>")[0])
+                posterget = requests.get(json_obj["image"]).content
+                f = open("posters/winner.jpg", "wb")
+                f.write(posterget)
+                f.close()
 
-            posterget = requests.get(json_obj["image"]).content
-            f = open("posters/winner.jpg", "wb")
-            f.write(posterget)
-            f.close()
+                winner_poster = "posters/winner.jpg"
+                WINNER_URL = film_url
 
-            winner_poster = "posters/winner.jpg"
-            WINNER_URL = film_url
+        except Exception:
+            error_window("Runtime Error. :(")
+            threading.Timer(2.0, destroyError).start()
+            return
 
         winner_image = ctk.CTkImage(
             Image.open(f"{winner_poster}"),
@@ -231,7 +262,6 @@ def run_election_button(app):
         )
 
         WINNER.configure(text=winner, image=winner_image)
-        print(f"{SCHEME} Result: {result}")
 
         with open(
             f"academy-scraping/{CATEGORY}/oscar-winners-{CATEGORY}.json",
@@ -239,7 +269,6 @@ def run_election_button(app):
             encoding="utf-8",
         ) as jsonf:
             ceremonies = json.load(jsonf)
-            print(YEAR)
             actual_winner = next(
                 (
                     ceremony["winner"]
@@ -248,7 +277,20 @@ def run_election_button(app):
                 )
             )
 
+            actual_nominees_list = next(
+                (
+                    ceremony["nominees"]
+                    for ceremony in ceremonies
+                    if str(ceremony["year"]) == YEAR
+                )
+            )
+
+            actual_nominees = "Actual Nominees:\n"
+            for actual_nominee in actual_nominees_list:
+                actual_nominees += actual_nominee + "\n"
+
         ACTUAL_WINNER.configure(text=f"Actual Winner: \n{actual_winner}")
+        ACTUAL_NOMINEES.configure(text=actual_nominees)
 
     def winner_button():
         global WINNER_URL
@@ -266,7 +308,6 @@ def run_election_button(app):
         master=app,
         text=f"{WINNER}",
         image=button_image,
-        fg_color="transparent",
         command=winner_button,
     )
     WINNER.place(relx=0.5, rely=0.2, anchor=ctk.CENTER)
@@ -274,9 +315,23 @@ def run_election_button(app):
 
 def academy_winner_text(app):
     global ACTUAL_WINNER
+    global ACTUAL_NOMINEES
 
-    ACTUAL_WINNER = ctk.CTkLabel(app, text="actual winner here", fg_color="transparent")
-    ACTUAL_WINNER.place(relx=0.6, rely=0.5, anchor=ctk.CENTER)
+    ACTUAL_WINNER = ctk.CTkLabel(
+        app,
+        text="actual winner here",
+        text_color=("black", "white"),
+        fg_color=("#e8e4e4", "#212121"),
+    )
+    ACTUAL_WINNER.place(relx=0.7, rely=0.5, anchor=ctk.CENTER)
+
+    ACTUAL_NOMINEES = ctk.CTkLabel(
+        app,
+        text="actual nominees here",
+        text_color=("black", "white"),
+        fg_color=("#e8e4e4", "#212121"),
+    )
+    ACTUAL_NOMINEES.place(relx=0.7, rely=0.7, anchor=ctk.CENTER)
 
 
 def error_window(message):
