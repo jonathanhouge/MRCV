@@ -65,23 +65,35 @@ ACTUAL_WINNER = "actual winner here"
 ACTUAL_NOMINEES = "actual nominees here"
 
 
+# main menu
 def create_start_menu(app):
     global APP
     APP = app
 
-    button = ctk.CTkButton(
+    title = ctk.CTkLabel(
+        app,
+        text="MRCV",
+        font=("", 50, "bold"),
+    )
+    title.place(relx=0.5, rely=0.15, anchor=ctk.CENTER)
+
+    wwtap = ctk.CTkButton(
         master=app, text="What Wouldn't the Academy Pick?", command=start_wwtap
     )
-    button.place(relx=0.5, rely=0.4, anchor=ctk.CENTER)
-    button = ctk.CTkButton(master=app, text="MRCV Game", command=start_mrcv)
-    button.place(relx=0.5, rely=0.6, anchor=ctk.CENTER)
+    wwtap.place(relx=0.5, rely=0.4, anchor=ctk.CENTER)
+    mrcv_game = ctk.CTkButton(master=app, text="MRCV Game", command=start_mrcv)
+    mrcv_game.place(relx=0.5, rely=0.6, anchor=ctk.CENTER)
 
-    button = ctk.CTkButton(
+    light_dark_mode = ctk.CTkButton(
         master=app, text="Light / Dark Mode", command=change_app_appearance
     )
-    button.place(relx=0.2, rely=0.9, anchor=ctk.CENTER)
+    light_dark_mode.place(relx=0.2, rely=0.9, anchor=ctk.CENTER)
+
+    tutorial = ctk.CTkButton(master=app, text="Tutorial", command=tutorial_dialogue)
+    tutorial.place(relx=0.8, rely=0.9, anchor=ctk.CENTER)
 
 
+# dark / light mode button command
 def change_app_appearance():
     global MODE
     if MODE:
@@ -91,17 +103,43 @@ def change_app_appearance():
     MODE = not MODE
 
 
+# tutorial button command
+def tutorial_dialogue():
+    global APP
+
+    tutorial = ctk.CTkToplevel(APP)
+    tutorial.title("Tutorial")
+    tutorial.geometry("400x200")
+    tutorial.resizable(False, False)
+    tutorial.attributes("-topmost", True)
+
+    tutorial_text = (
+        "Welcome to MRCV! Developed by Jonathan Houge for CSC 496.\n\n"
+        "WWTAP: A chance for Letterboxd users to vote for the oscars! Data\nhas been gathered for seven categories over a decade. Pick a RCV\nscheme and see which movie would've won compared to what did.\n\n"
+        "MRCV Game: A chance to test your RCV and movie knowledge! Input\na valid Letterboxd URL or pick one of our suggested, we'll scrape\nrandom films from it and create ballots, then you choose which\ncandidate you think will win given the films and a random RCV\nscheme. How many can you get right!?"
+    )
+
+    label = ctk.CTkTextbox(tutorial, width=400, height=200, corner_radius=0)
+    label.place(relx=0.5, rely=0.5, anchor=ctk.CENTER)
+    label.insert("0.0", tutorial_text)
+
+
+## MRCV GAME RELATED FUNCTIONS ##
+
+
+# main functionality for mrcv game
 def start_mrcv():
     global MRCV
     global APP
 
+    # ensure only one window is open at a time
     if MRCV and MRCV.winfo_exists():
-        error_window("Already open.")
+        error_window("Already open.", APP)
         threading.Timer(2.0, destroyError).start()
         return
 
     if WWTAP and WWTAP.winfo_exists():
-        error_window("Other window open.")
+        error_window("Other window open.", APP)
         threading.Timer(2.0, destroyError).start()
         return
 
@@ -112,17 +150,22 @@ def start_mrcv():
     MRCV.attributes("-topmost", True)
 
 
+## WWTAP RELATED FUNCTIONS ##
+
+
+# main functionality for wwtap
 def start_wwtap():
     global WWTAP
     global APP
 
+    # ensure only one window is open at a time
     if WWTAP and WWTAP.winfo_exists():
-        error_window("Already open.")
+        error_window("Already open.", APP)
         threading.Timer(2.0, destroyError).start()
         return
 
     if MRCV and MRCV.winfo_exists():
-        error_window("Other window open.")
+        error_window("Other window open.", APP)
         threading.Timer(2.0, destroyError).start()
         return
 
@@ -132,19 +175,22 @@ def start_wwtap():
     WWTAP.resizable(False, False)
     WWTAP.attributes("-topmost", True)
 
-    frame = ctk.CTkFrame(master=WWTAP, width=200, height=200)
-    frame.place(relx=0.2, rely=0.65, anchor=ctk.CENTER)
+    # backdrops
+    actions_frame = ctk.CTkFrame(master=WWTAP, width=200, height=200)
+    actions_frame.place(relx=0.2, rely=0.65, anchor=ctk.CENTER)
 
-    frame = ctk.CTkFrame(master=WWTAP, width=320, height=200)
-    frame.place(relx=0.7, rely=0.65, anchor=ctk.CENTER)
+    academy_frame = ctk.CTkFrame(master=WWTAP, width=320, height=200)
+    academy_frame.place(relx=0.7, rely=0.65, anchor=ctk.CENTER)
 
+    # set up other buttons / functionality
     pick_scheme_dropdown(WWTAP)
     pick_academy_year_dropdown(WWTAP)
     pick_academy_category_dropdown(WWTAP)
     run_election_button(WWTAP)
-    academy_winner_text(WWTAP)
+    academy_results_text(WWTAP)
 
 
+# rcv scheme dropdown & associated command
 def pick_scheme_dropdown(app):
     global SCHEMES
     choice = ctk.StringVar(value=SCHEMES[6])  # initial value is "irv"
@@ -163,6 +209,7 @@ def pick_scheme_dropdown(app):
     scheme.place(relx=0.2, rely=0.5, anchor=ctk.CENTER)
 
 
+# year dropdown & associated command
 def pick_academy_year_dropdown(app):
     global YEARS
     choice = ctk.StringVar(value=YEARS[10])  # initial value is "2023"
@@ -171,16 +218,17 @@ def pick_academy_year_dropdown(app):
         global YEAR
         YEAR = choice
 
-    scheme = ctk.CTkComboBox(
+    year = ctk.CTkComboBox(
         master=app,
         values=YEARS,
         variable=choice,
         command=pick_academy_year,
     )
-    scheme.pack(padx=20, pady=10)
-    scheme.place(relx=0.2, rely=0.7, anchor=ctk.CENTER)
+    year.pack(padx=20, pady=10)
+    year.place(relx=0.2, rely=0.7, anchor=ctk.CENTER)
 
 
+# category dropdown & associated command
 def pick_academy_category_dropdown(app):
     global CATEGORIES
     choice = ctk.StringVar(value=CATEGORIES[5])  # initial value is "picture"
@@ -189,19 +237,21 @@ def pick_academy_category_dropdown(app):
         global CATEGORY
         CATEGORY = choice
 
-    scheme = ctk.CTkComboBox(
+    category = ctk.CTkComboBox(
         master=app,
         values=CATEGORIES,
         variable=choice,
         command=pick_academy_category,
     )
-    scheme.pack(padx=20, pady=10)
-    scheme.place(relx=0.2, rely=0.6, anchor=ctk.CENTER)
+    category.pack(padx=20, pady=10)
+    category.place(relx=0.2, rely=0.6, anchor=ctk.CENTER)
 
 
+# run election button & associated buttons / functionality
 def run_election_button(app):
     global WINNER
 
+    # run election button and command
     def run_election():
         global SCHEME
         global YEAR
@@ -211,13 +261,16 @@ def run_election_button(app):
         global ACTUAL_WINNER
 
         command = f"python schemes/{SCHEME}.py --election academy-ballots/{CATEGORY}/{YEAR}-{CATEGORY}-ballots.json"
+        winner = "<ERROR>"
         winner_poster = "posters/AMBIGUOUS.jpg"
         WINNER_URL = "https://letterboxd.com/film/404-1/"
 
+        # if the command fails, we have a runtime error - simply report it and move on
         try:
             result = subprocess.check_output(command, shell=True, text=True)
-            winner = result.strip()
+            winner = result.strip()  # trailing whitespace for some reason?
 
+            # go and get the winning movie's poster
             if winner != "<AMBIGUOUS>":
                 with open(
                     f"academy-scraping/{CATEGORY}/{YEAR}-{CATEGORY}.json",
@@ -251,11 +304,12 @@ def run_election_button(app):
                 winner_poster = "posters/winner.jpg"
                 WINNER_URL = film_url
 
-        except Exception:
-            error_window("Runtime Error. :(")
+        except Exception as e:
+            print(f"Error: f{e}")
+            error_window("Runtime Error. :(", app)
             threading.Timer(2.0, destroyError).start()
-            return
 
+        # update winner, either someone won or 'ambiguous' was returned
         winner_image = ctk.CTkImage(
             Image.open(f"{winner_poster}"),
             size=(100, 150),
@@ -263,6 +317,7 @@ def run_election_button(app):
 
         WINNER.configure(text=winner, image=winner_image)
 
+        # update academy's results
         with open(
             f"academy-scraping/{CATEGORY}/oscar-winners-{CATEGORY}.json",
             "r",
@@ -292,12 +347,14 @@ def run_election_button(app):
         ACTUAL_WINNER.configure(text=f"Actual Winner: \n{actual_winner}")
         ACTUAL_NOMINEES.configure(text=actual_nominees)
 
+    run_button = ctk.CTkButton(master=app, text="Run", command=run_election)
+    run_button.place(relx=0.2, rely=0.8, anchor=ctk.CENTER)
+
+    # set up our winner button - start as AMBIGUOUS, assign to global so we can update it later
+    # button allows us to go to the letterboxd page for the winner
     def winner_button():
         global WINNER_URL
         webbrowser.open(WINNER_URL)
-
-    button = ctk.CTkButton(master=app, text="Run", command=run_election)
-    button.place(relx=0.2, rely=0.8, anchor=ctk.CENTER)
 
     button_image = ctk.CTkImage(
         Image.open("posters/AMBIGUOUS.jpg"),
@@ -313,7 +370,8 @@ def run_election_button(app):
     WINNER.place(relx=0.5, rely=0.2, anchor=ctk.CENTER)
 
 
-def academy_winner_text(app):
+# academy results (are updated in 'run_election')
+def academy_results_text(app):
     global ACTUAL_WINNER
     global ACTUAL_NOMINEES
 
@@ -334,15 +392,19 @@ def academy_winner_text(app):
     ACTUAL_NOMINEES.place(relx=0.7, rely=0.7, anchor=ctk.CENTER)
 
 
-def error_window(message):
-    global APP
+## ERROR FUNCTIONS ##
+
+
+# create an error window
+def error_window(message, app):
     global ERRORS
 
-    error = ctk.CTkToplevel(APP)
+    error = ctk.CTkToplevel(app)
     error.title("ERROR WINDOW")
     error.geometry("200x100")
     error.resizable(False, False)
     error.attributes("-topmost", True)
+    error.focus()
 
     label = ctk.CTkLabel(error, text=message, fg_color="transparent")
     label.place(relx=0.5, rely=0.5, anchor=ctk.CENTER)
@@ -350,6 +412,7 @@ def error_window(message):
     ERRORS.append(error)
 
 
+# called after two seconds - destroys error window
 def destroyError():
     global ERRORS
 
