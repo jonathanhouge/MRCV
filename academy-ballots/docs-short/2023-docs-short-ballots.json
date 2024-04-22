@@ -1,0 +1,669 @@
+{
+  "ballots": [
+    {
+      "count": 13,
+      "ranking": ["Our Uniform"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The ABCs of Book Banning",
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "Our Uniform",
+        "The Barber of Little Rock",
+        "Island in Between"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Our Uniform",
+        "The Barber of Little Rock",
+        "The ABCs of Book Banning",
+        "Island in Between",
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "Our Uniform",
+        "The Barber of Little Rock",
+        "Island in Between",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The ABCs of Book Banning",
+        "The Last Repair Shop",
+        "Our Uniform",
+        "Temple of Film: 100 Years of the Egyptian Theatre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "The ABCs of Book Banning",
+        "Nǎi Nai & Wài Pó",
+        "Our Uniform",
+        "The Barber of Little Rock",
+        "Island in Between"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "Our Uniform",
+        "Nǎi Nai & Wài Pó",
+        "The Making of Priscilla",
+        "Island in Between",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Barber of Little Rock",
+        "Nǎi Nai & Wài Pó",
+        "Our Uniform",
+        "The ABCs of Book Banning",
+        "Island in Between",
+        "The Last Repair Shop"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Our Uniform", "Island in Between"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "Our Uniform",
+        "Nǎi Nai & Wài Pó",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Our Uniform", "Nǎi Nai & Wài Pó"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "Master & Apprentice: A Special Look at Ahsoka"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Inside Christopher Nolan's Oppenheimer",
+        "Master & Apprentice: A Special Look at Ahsoka"
+      ]
+    },
+    {
+      "count": 16,
+      "ranking": ["Master & Apprentice: A Special Look at Ahsoka"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Now and Then - The Last Beatles Song",
+        "Master & Apprentice: A Special Look at Ahsoka"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": [
+        "Making of The Last of Us",
+        "Master & Apprentice: A Special Look at Ahsoka"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Making of Chicken Run: Dawn of the Nugget",
+        "Master & Apprentice: A Special Look at Ahsoka"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The ABCs of Book Banning",
+        "Master & Apprentice: A Special Look at Ahsoka",
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "Our Uniform",
+        "The Barber of Little Rock",
+        "Island in Between"
+      ]
+    },
+    {
+      "count": 16,
+      "ranking": ["Temple of Film: 100 Years of the Egyptian Theatre"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Making of Priscilla",
+        "Temple of Film: 100 Years of the Egyptian Theatre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "Temple of Film: 100 Years of the Egyptian Theatre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "Temple of Film: 100 Years of the Egyptian Theatre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "Master & Apprentice: A Special Look at Ahsoka",
+        "The Barber of Little Rock",
+        "Temple of Film: 100 Years of the Egyptian Theatre",
+        "Nǎi Nai & Wài Pó",
+        "Our Uniform",
+        "Island in Between",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "Our Uniform",
+        "Temple of Film: 100 Years of the Egyptian Theatre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "Our Uniform",
+        "Nǎi Nai & Wài Pó",
+        "Temple of Film: 100 Years of the Egyptian Theatre",
+        "Island in Between",
+        "The ABCs of Book Banning",
+        "The Barber of Little Rock"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Temple of Film: 100 Years of the Egyptian Theatre",
+        "The Barber of Little Rock",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "Now and Then - The Last Beatles Song",
+        "Temple of Film: 100 Years of the Egyptian Theatre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Making of The Last of Us",
+        "Willow: Behind the Magic",
+        "The Making of Chicken Run: Dawn of the Nugget",
+        "Master & Apprentice: A Special Look at Ahsoka",
+        "Temple of Film: 100 Years of the Egyptian Theatre"
+      ]
+    },
+    {
+      "count": 23,
+      "ranking": ["Now and Then - The Last Beatles Song"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Island in Between", "Now and Then - The Last Beatles Song"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Now and Then - The Last Beatles Song",
+        "Trailer of a Film That Will Never Exist: Phony Wars"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "The Barber of Little Rock",
+        "The Last Repair Shop",
+        "Our Uniform",
+        "Island in Between",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "Nǎi Nai & Wài Pó",
+        "Island in Between",
+        "The Making of Chicken Run: Dawn of the Nugget"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Nǎi Nai & Wài Pó", "The Last Repair Shop"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "Nǎi Nai & Wài Pó",
+        "Our Uniform",
+        "The ABCs of Book Banning",
+        "The Barber of Little Rock",
+        "Island in Between"
+      ]
+    },
+    {
+      "count": 14,
+      "ranking": ["Nǎi Nai & Wài Pó"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Last Repair Shop", "Nǎi Nai & Wài Pó"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "The Barber of Little Rock",
+        "Island in Between"
+      ]
+    },
+    {
+      "count": 8,
+      "ranking": ["Island in Between"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "The Last Repair Shop",
+        "The Barber of Little Rock",
+        "Island in Between"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The ABCs of Book Banning",
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "The Barber of Little Rock",
+        "Island in Between"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "Island in Between",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "Our Uniform",
+        "The Barber of Little Rock",
+        "The ABCs of Book Banning",
+        "Island in Between"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The ABCs of Book Banning",
+        "Island in Between",
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "Our Uniform",
+        "The Barber of Little Rock"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "Our Uniform",
+        "Island in Between",
+        "The Barber of Little Rock",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "The Barber of Little Rock",
+        "Island in Between",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "The Barber of Little Rock",
+        "Island in Between",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 23,
+      "ranking": ["Trailer of a Film That Will Never Exist: Phony Wars"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "Trailer of a Film That Will Never Exist: Phony Wars",
+        "Our Uniform",
+        "The Barber of Little Rock",
+        "Island in Between",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "Trailer of a Film That Will Never Exist: Phony Wars"
+      ]
+    },
+    {
+      "count": 23,
+      "ranking": ["The Making of Chicken Run: Dawn of the Nugget"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "Master & Apprentice: A Special Look at Ahsoka",
+        "The Making of Chicken Run: Dawn of the Nugget"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Making of Chicken Run: Dawn of the Nugget",
+        "The Making of Priscilla"
+      ]
+    },
+    {
+      "count": 23,
+      "ranking": ["L'Acteur (ou la surprenante vertu de l'incompréhension)"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "L'Acteur (ou la surprenante vertu de l'incompréhension)",
+        "Nǎi Nai & Wài Pó"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Trailer of a Film That Will Never Exist: Phony Wars",
+        "L'Acteur (ou la surprenante vertu de l'incompréhension)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Inside Christopher Nolan's Oppenheimer",
+        "Making of The Last of Us"
+      ]
+    },
+    {
+      "count": 19,
+      "ranking": ["Inside Christopher Nolan's Oppenheimer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Now and Then - The Last Beatles Song",
+        "Inside Christopher Nolan's Oppenheimer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "Inside Christopher Nolan's Oppenheimer",
+        "The Barber of Little Rock",
+        "Island in Between",
+        "The Last Repair Shop"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Inside Christopher Nolan's Oppenheimer",
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "The Barber of Little Rock",
+        "Island in Between"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Making of Priscilla",
+        "Inside Christopher Nolan's Oppenheimer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "Inside Christopher Nolan's Oppenheimer",
+        "Trailer of a Film That Will Never Exist: Phony Wars"
+      ]
+    },
+    {
+      "count": 9,
+      "ranking": ["The ABCs of Book Banning"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Nǎi Nai & Wài Pó", "The ABCs of Book Banning"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The ABCs of Book Banning",
+        "Now and Then - The Last Beatles Song",
+        "Our Uniform",
+        "The Barber of Little Rock",
+        "Island in Between"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The ABCs of Book Banning",
+        "The Making of Chicken Run: Dawn of the Nugget"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The ABCs of Book Banning", "Nǎi Nai & Wài Pó"]
+    },
+    {
+      "count": 23,
+      "ranking": ["The Making of Priscilla"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Now and Then - The Last Beatles Song",
+        "The Making of Priscilla",
+        "Trailer of a Film That Will Never Exist: Phony Wars"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Making of The Last of Us", "The Making of Priscilla"]
+    },
+    {
+      "count": 22,
+      "ranking": ["Making Squid Game: The Challenge"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Making of The Last of Us",
+        "Now and Then - The Last Beatles Song",
+        "Making Squid Game: The Challenge"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Making Squid Game: The Challenge",
+        "Now and Then - The Last Beatles Song"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Making of The Last of Us",
+        "Making Squid Game: The Challenge"
+      ]
+    },
+    {
+      "count": 23,
+      "ranking": ["Making of The Last of Us"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Making of The Last of Us",
+        "The Making of Priscilla",
+        "Inside Christopher Nolan's Oppenheimer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Making of The Last of Us",
+        "Inside Christopher Nolan's Oppenheimer"
+      ]
+    },
+    {
+      "count": 25,
+      "ranking": ["Willow: Behind the Magic"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Last Repair Shop", "The Barber of Little Rock"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Our Uniform", "The Barber of Little Rock"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Making of The Last of Us",
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "Our Uniform",
+        "The Barber of Little Rock",
+        "The ABCs of Book Banning"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Barber of Little Rock"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "The Barber of Little Rock",
+        "Island in Between",
+        "The ABCs of Book Banning",
+        "Nǎi Nai & Wài Pó"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "The Last Repair Shop",
+        "The Making of Priscilla",
+        "The Barber of Little Rock",
+        "Island in Between"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Nǎi Nai & Wài Pó",
+        "Island in Between",
+        "The Barber of Little Rock"
+      ]
+    },
+    {
+      "count": 13,
+      "ranking": ["The Last Repair Shop"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Last Repair Shop",
+        "Making Squid Game: The Challenge",
+        "Temple of Film: 100 Years of the Egyptian Theatre"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Making of Chicken Run: Dawn of the Nugget",
+        "The Last Repair Shop"
+      ]
+    }
+  ]
+}

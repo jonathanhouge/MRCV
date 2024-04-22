@@ -1,0 +1,795 @@
+{
+  "ballots": [
+    {
+      "count": 19,
+      "ranking": ["A Night at the Garden"]
+    },
+    {
+      "count": 4,
+      "ranking": [
+        "history of the entire world, i guess",
+        "A Night at the Garden"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Heroin(e)", "A Night at the Garden"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Heroin(e)", "Edith+Eddie", "A Night at the Garden"]
+    },
+    {
+      "count": 16,
+      "ranking": ["Hairat"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Return", "Hairat", "Mia"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Tickle King", "Hairat"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "Hairat",
+        "The Man with the Gray Elevated Hair"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["history of the entire world, i guess", "Hairat"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Man with the Gray Elevated Hair",
+        "Hairat",
+        "A Night at the Garden"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hairat", "Dislocation Blues", "idizwadidiz"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "After Before",
+        "Behind the Red Curtain",
+        "I Had Bad Milk in Dehradun",
+        "The Man with the Gray Elevated Hair",
+        "Hairat",
+        "The Colour of His Hair"
+      ]
+    },
+    {
+      "count": 19,
+      "ranking": ["Carmen"]
+    },
+    {
+      "count": 1,
+      "ranking": ["history of the entire world, i guess", "Carmen"]
+    },
+    {
+      "count": 2,
+      "ranking": ["A Goodbye to Girls", "Carmen"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ram Dass, Going Home", "Carmen"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Colour of His Hair", "Carmen"]
+    },
+    {
+      "count": 1,
+      "ranking": ["history of the entire world, i guess", "Heroin(e)", "Carmen"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "Carmen",
+        "The Making of 'Split'"
+      ]
+    },
+    {
+      "count": 17,
+      "ranking": ["idizwadidiz"]
+    },
+    {
+      "count": 3,
+      "ranking": ["history of the entire world, i guess", "idizwadidiz"]
+    },
+    {
+      "count": 1,
+      "ranking": ["idizwadidiz", "Mia"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "I Had Bad Milk in Dehradun",
+        "idizwadidiz"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Road to Magnasanti", "idizwadidiz"]
+    },
+    {
+      "count": 1,
+      "ranking": ["I Had Bad Milk in Dehradun", "idizwadidiz"]
+    },
+    {
+      "count": 1,
+      "ranking": ["idizwadidiz", "A Night at the Garden"]
+    },
+    {
+      "count": 18,
+      "ranking": ["The Beaning"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hairat", "The Beaning"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Heroin(e)", "Traffic Stop", "The Beaning"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Beaning", "history of the entire world, i guess"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Tickle King",
+        "Dislocation Blues",
+        "idizwadidiz",
+        "The Beaning"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hairat", "A Night at the Garden", "The Beaning"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "Under an Arctic Sky",
+        "The Beaning",
+        "Heroin(e)",
+        "Edith+Eddie",
+        "Knife Skills",
+        "A Night at the Garden",
+        "Traffic Stop"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Return", "Carmen", "The Beaning"]
+    },
+    {
+      "count": 24,
+      "ranking": ["The Making of 'Split'"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "The Making of 'Split'"
+      ]
+    },
+    {
+      "count": 24,
+      "ranking": ["Mia"]
+    },
+    {
+      "count": 1,
+      "ranking": ["history of the entire world, i guess", "Mia"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Road to Magnasanti", "The Tickle King"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "history of the entire world, i guess",
+        "The Road to Magnasanti"
+      ]
+    },
+    {
+      "count": 16,
+      "ranking": ["The Road to Magnasanti"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Under an Arctic Sky", "The Road to Magnasanti"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Road to Magnasanti",
+        "Heroin(e)",
+        "Edith+Eddie",
+        "A Night at the Garden"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Road to Magnasanti",
+        "history of the entire world, i guess"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Road to Magnasanti", "The Tickle King", "Traffic Stop"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Road to Magnasanti", "Hairat", "Dislocation Blues"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Road to Magnasanti", "Hairat"]
+    },
+    {
+      "count": 23,
+      "ranking": ["Dislocation Blues"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "After Before",
+        "Behind the Red Curtain",
+        "I Had Bad Milk in Dehradun",
+        "The Man with the Gray Elevated Hair",
+        "Dislocation Blues",
+        "The Making of 'Split'"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["history of the entire world, i guess", "Dislocation Blues"]
+    },
+    {
+      "count": 21,
+      "ranking": ["The Pure and the Damned: 'Good Time'"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "After Before",
+        "The Pure and the Damned: 'Good Time'"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "The Pure and the Damned: 'Good Time'"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Pure and the Damned: 'Good Time'",
+        "history of the entire world, i guess"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Pure and the Damned: 'Good Time'",
+        "Heroin(e)",
+        "The Making of 'Split'",
+        "A Fan's Guide to Spider-Man: Homecoming"
+      ]
+    },
+    {
+      "count": 24,
+      "ranking": ["history of the entire world, i guess"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Tickle King", "history of the entire world, i guess"]
+    },
+    {
+      "count": 25,
+      "ranking": ["Return"]
+    },
+    {
+      "count": 19,
+      "ranking": ["The Tickle King"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Tickle King", "Heroin(e)", "Traffic Stop"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "The Tickle King",
+        "After Before"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Tickle King",
+        "Hairat",
+        "The Colour of His Hair",
+        "Carmen"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Tickle King", "The Pure and the Damned: 'Good Time'"]
+    },
+    {
+      "count": 1,
+      "ranking": ["history of the entire world, i guess", "The Tickle King"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ram Dass, Going Home", "The Colour of His Hair"]
+    },
+    {
+      "count": 21,
+      "ranking": ["The Colour of His Hair"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Colour of His Hair", "The Making of 'Split'"]
+    },
+    {
+      "count": 23,
+      "ranking": ["A Fan's Guide to Spider-Man: Homecoming"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Making of 'Split'",
+        "A Fan's Guide to Spider-Man: Homecoming"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Pure and the Damned: 'Good Time'",
+        "The Making of 'Split'",
+        "A Fan's Guide to Spider-Man: Homecoming"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Behind the Red Curtain"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "Behind the Red Curtain"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Behind the Red Curtain",
+        "history of the entire world, i guess"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "After Before",
+        "Behind the Red Curtain",
+        "I Had Bad Milk in Dehradun",
+        "The Man with the Gray Elevated Hair"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Behind the Red Curtain",
+        "I Had Bad Milk in Dehradun",
+        "history of the entire world, i guess"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Behind the Red Curtain", "I Had Bad Milk in Dehradun"]
+    },
+    {
+      "count": 1,
+      "ranking": ["I Had Bad Milk in Dehradun", "Behind the Red Curtain"]
+    },
+    {
+      "count": 4,
+      "ranking": [
+        "history of the entire world, i guess",
+        "Behind the Red Curtain",
+        "I Had Bad Milk in Dehradun",
+        "The Man with the Gray Elevated Hair"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Behind the Red Curtain", "The Making of 'Split'"]
+    },
+    {
+      "count": 4,
+      "ranking": [
+        "Behind the Red Curtain",
+        "I Had Bad Milk in Dehradun",
+        "The Man with the Gray Elevated Hair"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "Behind the Red Curtain",
+        "The Man with the Gray Elevated Hair",
+        "A Fan's Guide to Spider-Man: Homecoming"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "Behind the Red Curtain",
+        "I Had Bad Milk in Dehradun"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "Behind the Red Curtain",
+        "I Had Bad Milk in Dehradun",
+        "A Fan's Guide to Spider-Man: Homecoming"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Behind the Red Curtain",
+        "The Man with the Gray Elevated Hair"
+      ]
+    },
+    {
+      "count": 21,
+      "ranking": ["A Goodbye to Girls"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Edith+Eddie", "A Goodbye to Girls", "A Night at the Garden"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "A Goodbye to Girls",
+        "The Tickle King",
+        "The Man with the Gray Elevated Hair",
+        "The Pure and the Damned: 'Good Time'"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Goodbye to Girls", "The Road to Magnasanti"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Edith+Eddie"]
+    },
+    {
+      "count": 1,
+      "ranking": ["history of the entire world, i guess", "Edith+Eddie"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Knife Skills",
+        "Heroin(e)",
+        "Edith+Eddie",
+        "Under an Arctic Sky",
+        "Traffic Stop"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Heroin(e)",
+        "Knife Skills",
+        "A Night at the Garden",
+        "Edith+Eddie",
+        "Traffic Stop"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Heroin(e)",
+        "Knife Skills",
+        "Edith+Eddie",
+        "A Night at the Garden",
+        "Traffic Stop"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Heroin(e)", "Edith+Eddie"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Edith+Eddie", "Traffic Stop", "A Night at the Garden"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Tickle King", "Edith+Eddie", "The Colour of His Hair"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Edith+Eddie", "A Night at the Garden"]
+    },
+    {
+      "count": 5,
+      "ranking": [
+        "Heroin(e)",
+        "Edith+Eddie",
+        "Knife Skills",
+        "A Night at the Garden",
+        "Traffic Stop"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Road to Magnasanti", "Edith+Eddie"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Edith+Eddie",
+        "Heroin(e)",
+        "Knife Skills",
+        "A Fan's Guide to Spider-Man: Homecoming",
+        "A Night at the Garden",
+        "Traffic Stop"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Heroin(e)", "Knife Skills", "Traffic Stop", "Edith+Eddie"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Heroin(e)",
+        "Edith+Eddie",
+        "Knife Skills",
+        "Ram Dass, Going Home",
+        "A Night at the Garden",
+        "Traffic Stop"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Heroin(e)",
+        "Knife Skills",
+        "Traffic Stop",
+        "Edith+Eddie",
+        "A Night at the Garden"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Heroin(e)", "Edith+Eddie", "Dislocation Blues"]
+    },
+    {
+      "count": 8,
+      "ranking": ["The Man with the Gray Elevated Hair"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Behind the Red Curtain",
+        "I Had Bad Milk in Dehradun",
+        "The Man with the Gray Elevated Hair",
+        "Dislocation Blues"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["After Before", "The Man with the Gray Elevated Hair"]
+    },
+    {
+      "count": 3,
+      "ranking": [
+        "I Had Bad Milk in Dehradun",
+        "The Man with the Gray Elevated Hair"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Man with the Gray Elevated Hair",
+        "A Night at the Garden"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "history of the entire world, i guess",
+        "The Man with the Gray Elevated Hair"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "The Road to Magnasanti",
+        "Hairat",
+        "Dislocation Blues",
+        "The Colour of His Hair",
+        "Mia",
+        "The Beaning",
+        "Behind the Red Curtain",
+        "I Had Bad Milk in Dehradun",
+        "A Night at the Garden"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["I Had Bad Milk in Dehradun"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "After Before",
+        "I Had Bad Milk in Dehradun"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["history of the entire world, i guess", "After Before"]
+    },
+    {
+      "count": 16,
+      "ranking": ["After Before"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Goodbye to Girls", "After Before"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Tickle King", "After Before"]
+    },
+    {
+      "count": 20,
+      "ranking": ["Ram Dass, Going Home"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Heroin(e)", "Ram Dass, Going Home"]
+    },
+    {
+      "count": 3,
+      "ranking": [
+        "history of the entire world, i guess",
+        "Ram Dass, Going Home"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ram Dass, Going Home", "Heroin(e)"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Traffic Stop", "Heroin(e)"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Traffic Stop"]
+    },
+    {
+      "count": 1,
+      "ranking": ["history of the entire world, i guess", "Traffic Stop"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Tickle King", "Traffic Stop"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Heroin(e)", "Traffic Stop", "A Night at the Garden"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Heroin(e)", "A Night at the Garden", "Traffic Stop"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Night at the Garden",
+        "Carmen",
+        "The Beaning",
+        "Hairat",
+        "Dislocation Blues",
+        "The Colour of His Hair",
+        "Traffic Stop"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "Under an Arctic Sky",
+        "Heroin(e)",
+        "Traffic Stop"
+      ]
+    },
+    {
+      "count": 20,
+      "ranking": ["Heroin(e)"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Heroin(e)", "Knife Skills"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Night at the Garden", "Heroin(e)"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Heroin(e)", "history of the entire world, i guess"]
+    },
+    {
+      "count": 1,
+      "ranking": ["history of the entire world, i guess", "Heroin(e)"]
+    },
+    {
+      "count": 23,
+      "ranking": ["Under an Arctic Sky"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "history of the entire world, i guess",
+        "Heroin(e)",
+        "Under an Arctic Sky",
+        "A Fan's Guide to Spider-Man: Homecoming",
+        "Mia"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["history of the entire world, i guess", "Knife Skills"]
+    },
+    {
+      "count": 15,
+      "ranking": ["Knife Skills"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Knife Skills", "The Beaning"]
+    }
+  ]
+}
