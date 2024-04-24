@@ -27,8 +27,9 @@ def count_votes(candidates: list[Hashable], ballots: list[Ballot]) -> Counter[Ha
         votes[candidate] = 0
 
     for ballot in ballots:
-        winner: Hashable = ballot.ranking[0]
-        votes[winner] += ballot.tally
+        if ballot.ranking:
+            winner: Hashable = ballot.ranking[0]
+            votes[winner] += ballot.tally
 
     return votes
 
