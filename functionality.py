@@ -433,7 +433,7 @@ def generate_election_button(app):
 
     GAME_WINNER = ctk.CTkButton(
         master=app,
-        text=f"{GAME_WINNER}",
+        text="game winner here",
         image=button_image,
         command=winner_button,
     )
@@ -665,7 +665,7 @@ def run_election_button(app):
 
     WINNER = ctk.CTkButton(
         master=app,
-        text=f"{WINNER}",
+        text="wwtap winner here",
         image=button_image,
         command=winner_button,
     )
