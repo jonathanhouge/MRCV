@@ -177,6 +177,7 @@ def start_mrcv():
 
     # set up other buttons / functionality
     pick_url_dropdown(MRCV)
+    copy_game_stats_button(MRCV)
     generate_election_button(MRCV)
     game_choices_section(MRCV)
 
@@ -199,6 +200,28 @@ def pick_url_dropdown(app):
     GAME_URL = ctk.CTkTextbox(app, width=300, height=25)
     GAME_URL.insert("0.0", "actor/nicolas-cage/")
     GAME_URL.place(relx=0.25, rely=0.5, anchor=ctk.CENTER)
+
+def copy_game_stats_button(app):
+    def copy_stats():
+        try:
+            with open("game-files/stats.json", "r", encoding="utf-8") as jsonf:
+                profile = json.load(jsonf)
+        except:
+            pyperclip.copy("You don't have any stats!")
+            return
+        
+        game_history = ""
+        for game in profile["completed_games"]:
+            game_result = "won" if game["won?"] else "lost"
+            game_history += f"{game["game_url"]}, {game["scheme"]}, {game["date"]}: {game_result}\n"
+
+        stats = f"Streak: {profile["streak"]}\nBest Streak: {profile["best_streak"]}\nGame History:\n{game_history}"
+        pyperclip.copy(stats)
+
+    generate_button = ctk.CTkButton(
+        master=app, text="Copy Lifetime Stats", command=copy_stats
+    )
+    generate_button.place(relx=0.12, rely=0.94, anchor=ctk.CENTER)
 
 
 def generate_election_button(app):
@@ -346,8 +369,11 @@ def generate_election_button(app):
             result_window.attributes("-topmost", True)
             result_window.focus()
 
-            with open("game-files/stats.json", "r", encoding="utf-8") as jsonf:
-                profile = json.load(jsonf)
+            try:
+                with open("game-files/stats.json", "r", encoding="utf-8") as jsonf:
+                    profile = json.load(jsonf)
+            except:
+                profile = {"streak": 0, "best_streak": 0, "completed_games": [] }
 
             url = GAME_URL.get("0.0", "end").strip()
             today_date = str(datetime.today().date())
