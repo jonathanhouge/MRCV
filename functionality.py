@@ -394,6 +394,8 @@ def generate_election_button(app):
                 message = "Correct! Your stats have been\ncopied to your clipboard."
                 clip_text = f"I correctly guessed the winner of {url} using {GAME_SCHEME}.\nMy streak is now at {profile["streak"]}! Beat that!\nhttps://github.com/jonathanhouge/MRCV"
             else:
+                profile["streak"] = 0
+
                 message = "Aw, incorrect!\nChallenge a friend!\nThis round has been copied to your clipboard."
                 clip_text = f"{url} using {GAME_SCHEME} ended my streak of {profile["streak"]}.\nCan you do better?\nhttps://github.com/jonathanhouge/MRCV"
             pyperclip.copy(clip_text)
