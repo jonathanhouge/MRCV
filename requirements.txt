@@ -1,6 +1,7 @@
 customtkinter
 pyinstaller
 pillow
+pyperclip
 
 # 'listscraper' requirements
 beautifulsoup4==4.12.2

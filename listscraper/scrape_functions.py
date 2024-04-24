@@ -98,7 +98,10 @@ def scrape_page(
         # Grab the main film grid
         table = page_soup.find("ul", class_="poster-list")
         if table is None:
-            return
+            # for game / roles (actor, director, etc.)
+            table = page_soup.find("div", class_="poster-grid")
+            if table is None:
+                return
 
         films = table.find_all("li")
         if films == []:
@@ -106,9 +109,17 @@ def scrape_page(
 
         # Iterate through films
         for film in films if quiet else tqdm(films):
+            # for game / roles (actor, director, etc.) with less than four entries
+            if "poster-container placeholder" in str(film):
+                break
+
             film_dict = scrape_film(film, looking_for)
             if film_dict is not None:
                 page_films.append(film_dict)
+
+            # for game (remember to comment out for academy-ballot making)
+            if len(page_films) > 8:
+                break
 
     return page_films, page_soup
 
@@ -138,6 +149,17 @@ def scrape_film(film_html, looking_for=[]):
     film_dict["Film_title"] = film_soup.find("div", {"class": "col-17"}).find("h1").text
     film_dict["url"] = film_url
 
+    # Try to find release year, if missing or 0 insert nan
+    release_year = int(
+        str(film_soup.find_all("script"))
+        .split("releaseYear: ")[1]
+        .split(",")[0]
+        .strip('"')
+    )
+    if release_year == 0:
+        release_year = None
+    film_dict["Release_year"] = release_year
+
     # if we're making ballots, stop if the movie isn't a candidate
     if len(looking_for) != 0 and film_dict["Film_title"] not in looking_for:
         return None
@@ -165,9 +187,12 @@ def scrape_film(film_html, looking_for=[]):
         except:
             film_dict["Owner_rating"] = 0
 
-    # if we're making ballots, grab the movie
-    if len(looking_for) != 0 and film_dict["Film_title"] in looking_for:
-        return film_dict
+    # if we're making ballots (and still scraping for oscar potentials), grab the movie
+    # if len(looking_for) != 0 and film_dict["Film_title"] in looking_for:
+    #     return film_dict
+
+    # for game candidates & ballots (only purpose as of now)
+    return film_dict
 
     # Get movie runtime by searching for first sequence of digits in the p element with the runtime, if not found insert nan
     try:
@@ -183,12 +208,12 @@ def scrape_film(film_html, looking_for=[]):
     # for docs and live action shorts: film_dict["Runtime"] > 40 or film_dict["Runtime"] < 7
     # for animated shorts: film_dict["Runtime"] > 40 or film_dict["Runtime"] < 3
     # for feature films: film_dict["Runtime"] < 60 or film_dict["Runtime"] > 240
-    if (
-        film_dict["Runtime"] is None
-        or film_dict["Runtime"] > 40
-        or film_dict["Runtime"] < 7
-    ):
-        return None
+    # if (
+    #     film_dict["Runtime"] is None
+    #     or film_dict["Runtime"] > 40
+    #     or film_dict["Runtime"] < 7
+    # ):
+    #     return None
 
     # Finding countries
     try:
@@ -238,14 +263,14 @@ def scrape_film(film_html, looking_for=[]):
     except:
         film_dict["Genres"] = None
 
-    # CATEGORY SPECIFIC genre
-    # for best picture, international, and live action shorts
-    if (
-        film_dict["Genres"] is None
-        or "Documentary" in film_dict["Genres"]
-        or "Animation" in film_dict["Genres"]
-    ):
-        return None
+    # # CATEGORY SPECIFIC genre
+    # # for best picture, international, and live action shorts
+    # if (
+    #     film_dict["Genres"] is None
+    #     or "Documentary" in film_dict["Genres"]
+    #     or "Animation" in film_dict["Genres"]
+    # ):
+    #     return None
 
     # Getting number of watches, appearances in lists and number of likes (requires new link) ##
     movie = film_url.split("/")[-2]  # Movie title in URL
@@ -266,8 +291,8 @@ def scrape_film(film_html, looking_for=[]):
     # 2500 for docs
     # 3500 for animated
     # 5000 for international
-    if film_dict["Watches"] is None or film_dict["Watches"] < 1000:
-        return None
+    # if film_dict["Watches"] is None or film_dict["Watches"] < 1000:
+    #     return None
 
     # Get number of film appearances in lists
     list_appearances = stats_soup.find(

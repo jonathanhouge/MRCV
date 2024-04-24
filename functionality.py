@@ -6,6 +6,10 @@ from bs4 import BeautifulSoup
 import requests
 import json
 import webbrowser
+import random
+import pyperclip
+import os
+from datetime import datetime
 
 
 MODE = True
@@ -18,10 +22,12 @@ SCHEMES = [
     "baldwin",
     "black",
     "borda",
+    "btr_irv",
     "bucklin",
     "coombs",
     "copeland",
     "irv",
+    "kemeny_young",
     "minimax",
     "nanson",
     "river",
@@ -59,8 +65,20 @@ CATEGORIES = [
 SCHEME = SCHEMES[6]
 YEAR = YEARS[10]
 CATEGORY = CATEGORIES[5]
+
+GAME_URL = ""
+GAME_RESULT = False
+GAME_SCHEME = ""
+GAME_WINNER = "game winner here"
+GAME_WINNER_URL = "https://letterboxd.com/film/404-1/"
+GAME_CHOICES_AREA = "game candidates here"
+GAME_PREDICTED_WINNER = ""
+POSSIBLE_WINNERS_DROPDOWN = ""
+RUN_GAME_ELECTION_BUTTON = ""
+GAME_SCHEME_DROPDOWN = ""
+
 WINNER = "winner here"
-WINNER_URL = "https://letterboxd.com/film/404-1/"
+WWTAP_WINNER_URL = "https://letterboxd.com/film/404-1/"
 ACTUAL_WINNER = "actual winner here"
 ACTUAL_NOMINEES = "actual nominees here"
 
@@ -116,12 +134,13 @@ def tutorial_dialogue():
     tutorial_text = (
         "Welcome to MRCV! Developed by Jonathan Houge for CSC 496.\n\n"
         "WWTAP: A chance for Letterboxd users to vote for the oscars! Data\nhas been gathered for seven categories over a decade. Pick a RCV\nscheme and see which movie would've won compared to what did.\n\n"
-        "MRCV Game: A chance to test your RCV and movie knowledge! Input\na valid Letterboxd URL or pick one of our suggested, we'll scrape\nrandom films from it and create ballots, then you choose which\ncandidate you think will win given the films and a random RCV\nscheme. How many can you get right!?"
+        "MRCV Game: A chance to test your RCV and movie knowledge! Input\na valid Letterboxd URL ('list', 'films', 'role'), we'll scrape random\nfilms from it and create ballots, then you choose which candidate\nyou think will win given the films and a random RCV scheme.\nHow many can you get right!?"
     )
 
     label = ctk.CTkTextbox(tutorial, width=400, height=200, corner_radius=0)
     label.place(relx=0.5, rely=0.5, anchor=ctk.CENTER)
     label.insert("0.0", tutorial_text)
+    label.configure(state="disabled")
 
 
 ## MRCV GAME RELATED FUNCTIONS ##
@@ -145,9 +164,266 @@ def start_mrcv():
 
     MRCV = ctk.CTkToplevel(APP)
     MRCV.title("Movie-Ranked-Choice-Voting Game")
-    MRCV.geometry("500x500")
+    MRCV.geometry("700x500")
     MRCV.resizable(False, False)
     MRCV.attributes("-topmost", True)
+
+    # backdrops
+    actions_frame = ctk.CTkFrame(master=MRCV, width=320, height=200)
+    actions_frame.place(relx=0.25, rely=0.65, anchor=ctk.CENTER)
+
+    game_choices_frame = ctk.CTkFrame(master=MRCV, width=320, height=200)
+    game_choices_frame.place(relx=0.75, rely=0.65, anchor=ctk.CENTER)
+
+    # set up other buttons / functionality
+    pick_url_dropdown(MRCV)
+    generate_election_button(MRCV)
+    game_choices_section(MRCV)
+
+
+def pick_url_dropdown(app):
+    global GAME_URL
+
+    note = ctk.CTkTextbox(
+        app,
+        width=300,
+        height=5,
+        font=("", 10),
+        fg_color=("#e8e4e4", "#212121"),
+        bg_color=("#e8e4e4", "#212121"),
+    )
+    note.insert("0.0", "note: this is the path after 'https://letterboxd.com/'")
+    note.place(relx=0.25, rely=0.54, anchor=ctk.CENTER)
+    note.configure(state="disabled")
+
+    GAME_URL = ctk.CTkTextbox(app, width=300, height=25)
+    GAME_URL.insert("0.0", "actor/nicolas-cage/")
+    GAME_URL.place(relx=0.25, rely=0.5, anchor=ctk.CENTER)
+
+
+def generate_election_button(app):
+    global GAME_WINNER
+
+    # run election button and command
+    def generate_election():
+        global GAME_SCHEME
+        global GAME_WINNER_URL
+        global POSSIBLE_WINNERS_DROPDOWN
+        global RUN_GAME_ELECTION_BUTTON
+        global GAME_SCHEME_DROPDOWN
+        global GAME_PREDICTED_WINNER
+
+        url = GAME_URL.get("0.0", "end")  # scrape candidates
+        command = f"python -m listscraper https://letterboxd.com/{url}"
+
+        # if the command fails, we have a runtime error - simply report it and move on
+        try:
+            subprocess.check_output(command, shell=True, text=True)
+        except Exception as e:
+            print(f"Error: f{e}")
+            error_window("Runtime Error. :(", app)
+            threading.Timer(2.0, destroyError).start()
+
+        # update academy's results
+        with open(
+            f"game-files/game-candidates.json",
+            "r",
+            encoding="utf-8",
+        ) as jsonf:
+            candidates = json.load(jsonf)
+
+            game_choices_list = [candidate["Film_title"] for candidate in candidates]
+
+            game_choices = "Game Choices:\n"
+            for game_choice in game_choices_list:
+                game_choices += game_choice + "\n"
+
+        GAME_CHOICES_AREA.configure(text=game_choices)
+
+        # build ballots
+        command = f"python -m listscraper null"
+        try:
+            subprocess.check_output(command, shell=True, text=True)
+        except Exception as e:
+            print(f"Error: f{e}")
+            error_window("Runtime Error. :(", app)
+            threading.Timer(2.0, destroyError).start()
+
+        GAME_PREDICTED_WINNER = game_choices_list[0]
+        choice = ctk.StringVar(value=game_choices_list[0])
+
+        def combobox_callback(choice):
+            global GAME_PREDICTED_WINNER
+            GAME_PREDICTED_WINNER = choice
+
+        game_choices_list.append("<AMBIGUOUS>")
+        POSSIBLE_WINNERS_DROPDOWN = ctk.CTkComboBox(
+            master=app,
+            values=game_choices_list,
+            variable=choice,
+            command=combobox_callback,
+        )
+        POSSIBLE_WINNERS_DROPDOWN.pack(padx=20, pady=10)
+        POSSIBLE_WINNERS_DROPDOWN.place(relx=0.135, rely=0.7, anchor=ctk.CENTER)
+
+        GAME_SCHEME = SCHEMES[random.randint(0, len(SCHEMES) - 1)]
+        GAME_SCHEME_DROPDOWN = ctk.CTkLabel(
+            app,
+            text=f"scheme: {GAME_SCHEME[:14]}",
+            text_color=("black", "white"),
+            fg_color=("#e8e4e4", "#212121"),
+        )
+        GAME_SCHEME_DROPDOWN.place(relx=0.36, rely=0.7, anchor=ctk.CENTER)
+
+        def run_game_election():
+            global GAME_WINNER_URL
+            global GAME_PREDICTED_WINNER
+            global GAME_SCHEME
+            global GAME_RESULT
+            global GAME_URL
+
+            command = f"python schemes/{GAME_SCHEME}.py --election game-files/game-ballots.json"
+            winner = "<ERROR>"
+            winner_poster = "posters/AMBIGUOUS.jpg"
+            GAME_WINNER_URL = "https://letterboxd.com/film/404-1/"
+
+            # if the command fails, we have a runtime error - simply report it and move on
+            try:
+                result = subprocess.check_output(command, shell=True, text=True)
+                winner = result.strip()  # trailing whitespace for some reason?
+                GAME_RESULT = winner == GAME_PREDICTED_WINNER
+
+                # go and get the winning movie's poster
+                if winner != "<AMBIGUOUS>":
+                    with open(
+                        f"game-files/game-candidates.json",
+                        "r",
+                        encoding="utf-8",
+                    ) as jsonf:
+                        candidates = json.load(jsonf)
+                        film_url = next(
+                            (
+                                film["url"]
+                                for film in candidates
+                                if film["Film_title"] == winner
+                            )
+                        )
+
+                    # https://stackoverflow.com/questions/73803684/trying-to-scrape-posters-from-letterboxd-python
+                    filmget = requests.get(film_url)
+                    film_soup = BeautifulSoup(filmget.text, "html.parser")
+                    script_w_data = film_soup.select_one(
+                        'script[type="application/ld+json"]'
+                    )
+                    json_obj = json.loads(
+                        script_w_data.text.split(" */")[1].split("/* ]]>")[0]
+                    )
+
+                    posterget = requests.get(json_obj["image"]).content
+                    f = open("posters/winner.jpg", "wb")
+                    f.write(posterget)
+                    f.close()
+
+                    winner_poster = "posters/winner.jpg"
+                    GAME_WINNER_URL = film_url
+            except Exception as e:
+                print(f"Error: f{e}")
+                error_window("Runtime Error. :(", app)
+                threading.Timer(2.0, destroyError).start()
+
+            # update winner, either someone won or 'ambiguous' was returned
+            winner_image = ctk.CTkImage(
+                Image.open(f"{winner_poster}"),
+                size=(100, 150),
+            )
+
+            GAME_WINNER.configure(text=winner, image=winner_image)
+
+            result_window = ctk.CTkToplevel(app)
+            result_window.title("Game Result")
+            result_window.geometry("300x100")
+            result_window.resizable(False, False)
+            result_window.attributes("-topmost", True)
+            result_window.focus()
+
+            with open("game-files/stats.json", "r", encoding="utf-8") as jsonf:
+                profile = json.load(jsonf)
+
+            url = GAME_URL.get("0.0", "end").strip()
+            today_date = str(datetime.today().date())
+
+            round_stats = {
+                "date": today_date,
+                "game_url": url,
+                "scheme": GAME_SCHEME,
+                "won?": GAME_RESULT,
+            }
+            profile["completed_games"].append(round_stats)
+
+            if GAME_RESULT:
+                profile["streak"] += 1
+                if profile["streak"] > profile["best_streak"]:
+                    profile["best_streak"] = profile["streak"]
+
+                message = "Correct! Your stats have been\ncopied to your clipboard."
+                clip_text = f"I correctly guessed the winner of {url} using {GAME_SCHEME}.\nMy streak is now at {profile["streak"]}! Beat that!\nhttps://github.com/jonathanhouge/MRCV"
+            else:
+                message = "Aw, incorrect!\nChallenge a friend!\nThis round has been copied to your clipboard."
+                clip_text = f"{url} using {GAME_SCHEME} ended my streak of {profile["streak"]}.\nCan you do better?\nhttps://github.com/jonathanhouge/MRCV"
+            pyperclip.copy(clip_text)
+
+            outpath = os.path.join("game-files", "stats.json")
+            with open(outpath, "w", encoding="utf-8") as jsonf:
+                jsonf.write(json.dumps(profile, indent=2, ensure_ascii=False))
+
+            label = ctk.CTkLabel(result_window, text=message, fg_color="transparent")
+            label.place(relx=0.5, rely=0.5, anchor=ctk.CENTER)
+
+            POSSIBLE_WINNERS_DROPDOWN.destroy()
+            RUN_GAME_ELECTION_BUTTON.destroy()
+            GAME_SCHEME_DROPDOWN.destroy()
+            GAME_CHOICES_AREA.configure(text="game candidates here")
+
+        RUN_GAME_ELECTION_BUTTON = ctk.CTkButton(
+            master=app, text="Predict Winner", command=run_game_election
+        )
+        RUN_GAME_ELECTION_BUTTON.place(relx=0.25, rely=0.8, anchor=ctk.CENTER)
+
+    generate_button = ctk.CTkButton(
+        master=app, text="Generate Results", command=generate_election
+    )
+    generate_button.place(relx=0.25, rely=0.6, anchor=ctk.CENTER)
+
+    # set up our winner button - start as AMBIGUOUS, assign to global so we can update it later
+    # button allows us to go to the letterboxd page for the winner
+    def winner_button():
+        global GAME_WINNER_URL
+        webbrowser.open(GAME_WINNER_URL)
+
+    button_image = ctk.CTkImage(
+        Image.open("posters/AMBIGUOUS.jpg"),
+        size=(100, 150),
+    )
+
+    GAME_WINNER = ctk.CTkButton(
+        master=app,
+        text=f"{GAME_WINNER}",
+        image=button_image,
+        command=winner_button,
+    )
+    GAME_WINNER.place(relx=0.5, rely=0.2, anchor=ctk.CENTER)
+
+
+def game_choices_section(app):
+    global GAME_CHOICES_AREA
+
+    GAME_CHOICES_AREA = ctk.CTkLabel(
+        app,
+        text="game candidates here",
+        text_color=("black", "white"),
+        fg_color=("#e8e4e4", "#212121"),
+    )
+    GAME_CHOICES_AREA.place(relx=0.75, rely=0.65, anchor=ctk.CENTER)
 
 
 ## WWTAP RELATED FUNCTIONS ##
@@ -179,8 +455,8 @@ def start_wwtap():
     actions_frame = ctk.CTkFrame(master=WWTAP, width=200, height=200)
     actions_frame.place(relx=0.2, rely=0.65, anchor=ctk.CENTER)
 
-    academy_frame = ctk.CTkFrame(master=WWTAP, width=320, height=200)
-    academy_frame.place(relx=0.7, rely=0.65, anchor=ctk.CENTER)
+    academy_frame = ctk.CTkFrame(master=WWTAP, width=320, height=240)
+    academy_frame.place(relx=0.7, rely=0.69, anchor=ctk.CENTER)
 
     # set up other buttons / functionality
     pick_scheme_dropdown(WWTAP)
@@ -257,13 +533,13 @@ def run_election_button(app):
         global YEAR
         global CATEGORY
         global WINNER
-        global WINNER_URL
+        global WWTAP_WINNER_URL
         global ACTUAL_WINNER
 
         command = f"python schemes/{SCHEME}.py --election academy-ballots/{CATEGORY}/{YEAR}-{CATEGORY}-ballots.json"
         winner = "<ERROR>"
         winner_poster = "posters/AMBIGUOUS.jpg"
-        WINNER_URL = "https://letterboxd.com/film/404-1/"
+        WWTAP_WINNER_URL = "https://letterboxd.com/film/404-1/"
 
         # if the command fails, we have a runtime error - simply report it and move on
         try:
@@ -302,7 +578,7 @@ def run_election_button(app):
                 f.close()
 
                 winner_poster = "posters/winner.jpg"
-                WINNER_URL = film_url
+                WWTAP_WINNER_URL = film_url
 
         except Exception as e:
             print(f"Error: f{e}")
@@ -353,8 +629,8 @@ def run_election_button(app):
     # set up our winner button - start as AMBIGUOUS, assign to global so we can update it later
     # button allows us to go to the letterboxd page for the winner
     def winner_button():
-        global WINNER_URL
-        webbrowser.open(WINNER_URL)
+        global WWTAP_WINNER_URL
+        webbrowser.open(WWTAP_WINNER_URL)
 
     button_image = ctk.CTkImage(
         Image.open("posters/AMBIGUOUS.jpg"),
@@ -389,7 +665,7 @@ def academy_results_text(app):
         text_color=("black", "white"),
         fg_color=("#e8e4e4", "#212121"),
     )
-    ACTUAL_NOMINEES.place(relx=0.7, rely=0.7, anchor=ctk.CENTER)
+    ACTUAL_NOMINEES.place(relx=0.7, rely=0.75, anchor=ctk.CENTER)
 
 
 ## ERROR FUNCTIONS ##

@@ -1,6 +1,35 @@
 # This file contains functions that checks the user-input and, if deemed valid, imports the relevant information
 # If user-input is not valid, a relevant error message is generated and printed
 
+roles = [
+    "actor",
+    "director",
+    "producer",
+    "executive-producer",
+    "writer",
+    "story",
+    "casting",
+    "editor",
+    "cinematography",
+    "assistant-director",
+    "additional-directing",
+    "lighting",
+    "camera-operator",
+    "production-design",
+    "art-direction",
+    "set-decoration",
+    "composer",
+    "sound",
+    "costume-design",
+    "makeup",
+    "hairstyling",
+    "original-writer",
+    "additional-photography",
+    "special-effects",
+    "visual-effects",
+    "stunts",
+]
+
 
 def checkimport_url(url_string):
     """
@@ -40,6 +69,13 @@ def checkimport_url(url_string):
 
         # Letterboxd site generic lists
         elif url_chunks[3] == "films" and len(url_chunks) > 5:
+            type = "LBfilms"
+            username = "Letterboxd"
+            listname = "LBfilms"
+            check = True
+
+        # allow for roles, see top of file possible roles
+        elif url_chunks[3] in roles:
             type = "LBfilms"
             username = "Letterboxd"
             listname = "LBfilms"

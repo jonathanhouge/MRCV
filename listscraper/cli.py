@@ -18,6 +18,7 @@ def cli_arguments():
     ## Optional arguments / flags
     parser.add_argument("--version", action="version", version="%(prog)s 2.0.0")
 
+    # both set up for game
     parser.add_argument(
         "-on",
         "--output_name",
@@ -27,7 +28,7 @@ def cli_arguments():
             "If this flag is used and multiple URLs are provided, each CSV will be the concatenation of the output name with an increasing number _1, _2, etc.\n"
         ),
         required=False,
-        default=None,
+        default="game-candidates",
     )
 
     parser.add_argument(
@@ -36,7 +37,7 @@ def cli_arguments():
         type=str,
         help="set the path for the output CSV(s). Default output is a folder called 'scraper_outputs'.",
         required=False,
-        default="academy-ballots/docs",
+        default="game-files",
     )
 
     parser.add_argument(

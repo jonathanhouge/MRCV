@@ -109,7 +109,7 @@ class List:
         Writes the films of the List object to a CSV file.
         """
 
-        if len(self.films) == 1:
+        if len(self.films) == 0:
             return print(
                 f"        No films found to write out for list {self.listname}. Please try a different selection."
             )

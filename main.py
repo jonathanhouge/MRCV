@@ -8,6 +8,7 @@ app = ctk.CTk()
 app.geometry("400x240")
 app.title("MRCV - Start Menu")
 app.resizable(False, False)
+app.attributes("-topmost", True)
 
 create_start_menu(app)
 

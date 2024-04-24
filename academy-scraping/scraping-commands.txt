@@ -1,6 +1,7 @@
 for getting ballots:
-python3 -m listscraper null -c {category-scrape-path} -cat {member-filters} -on "{category}-ballots.json"
-ex: python3 -m listscraper null -c "academy-scraping/animated-short/2013-animated-short.json" -cat "2013/genre/animation/by/shortest/" -on "2013-animated-short-ballots.json"
+python3 -m listscraper ballots -c {category-scrape-path} -cat {member-filters} -on "{category}-ballots.json"
+ex: python3 -m listscraper ballots -c "academy-scraping/animated-short/2013-animated-short.json" -cat "2013/genre/animation/by/shortest/" -on "2013-animated-short-ballots.json"
+note: 'python3 -m listscraper null' is for the game
 
 for getting films:
 python3 -m listscraper {URL} -p #~# -on "{year}-{category}"
