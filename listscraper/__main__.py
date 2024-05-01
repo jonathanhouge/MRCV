@@ -79,8 +79,11 @@ def main():
 
         # write the ballots to a json
         outpath = os.path.join(args.output_path, args.output_name)
+        os.makedirs(args.output_path, exist_ok=True)
+
         if args.listURL == ["null"]:
             outpath = os.path.join("game-files", "game-ballots.json")
+            os.makedirs("game-files", exist_ok=True)
 
         with open(outpath, "w", encoding="utf-8") as jsonf:
             jsonf.write(json.dumps(ballots, indent=2, ensure_ascii=False))

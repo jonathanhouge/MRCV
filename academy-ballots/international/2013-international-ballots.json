@@ -1,0 +1,5378 @@
+{
+  "ballots": [
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "The Dance of Reality",
+        "Snowpiercer",
+        "I'm So Excited!"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Snowpiercer"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Great Beauty", "Snowpiercer"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Snowpiercer", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stranger by the Lake",
+        "The Past",
+        "Venus in Fur",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Is the Warmest Color", "Snowpiercer"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Great Beauty"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Beauty", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Age of Panic",
+        "The Great Beauty",
+        "Ida",
+        "The Past",
+        "Chinese Puzzle",
+        "Blue Is the Warmest Color",
+        "I'm So Excited!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "The Great Beauty",
+        "Stray Dogs",
+        "The Past"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "The Lunchbox",
+        "Omar",
+        "Mood Indigo",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Beauty", "Ida"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ida", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ida", "Hope"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "We Are the Best!",
+        "Omar",
+        "Ida",
+        "Borgman",
+        "Blue Is the Warmest Color",
+        "Tangerines",
+        "A Touch of Sin",
+        "Stranger by the Lake",
+        "Witching & Bitching",
+        "Why Don't You Play in Hell?",
+        "The Attorney",
+        "Snowpiercer",
+        "Venus in Fur",
+        "Big Bad Wolves",
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Suck Me Shakespeer", "Ida"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "The Great Beauty",
+        "Ida",
+        "A Touch of Sin",
+        "Hard to Be a God",
+        "The Dance of Reality",
+        "Snowpiercer",
+        "Borgman",
+        "Gloria",
+        "The Grandmaster",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Ida"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Ilo Ilo",
+        "Snowpiercer",
+        "Four Sisters and a Wedding",
+        "The Flu",
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+        "Ida",
+        "Barber's Tales",
+        "The Lunchbox",
+        "Miracle in Cell No. 7",
+        "Metro Manila"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Like Father, Like Son", "Stray Dogs", "The Grandmaster"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Why Don't You Play in Hell?",
+        "The Past",
+        "Snowpiercer",
+        "Venus in Fur",
+        "Miss Violence",
+        "Moebius"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blue Is the Warmest Color",
+        "Like Father, Like Son",
+        "A Touch of Sin"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Secretly, Greatly", "Like Father, Like Son"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Hope",
+        "My Sweet Orange Tree",
+        "My Mom Is a Character",
+        "Till Luck Do Us Part 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "Snowpiercer",
+        "The Past",
+        "Like Father, Like Son",
+        "Moebius"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miracle in Cell No. 7", "Like Father, Like Son"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Past",
+        "CM101MMXI Fundamentals",
+        "Snowpiercer",
+        "The Grandmaster",
+        "Like Father, Like Son",
+        "The Butterfly's Dream",
+        "Tom at the Farm",
+        "Wedding Association",
+        "I'm So Excited!",
+        "Celal and Ceren"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Tom at the Farm"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Big Bad Wolves",
+        "Free Fall",
+        "Tom at the Farm",
+        "I'm So Excited!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blue Is the Warmest Color",
+        "The Great Beauty",
+        "Tom at the Farm"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tom at the Farm",
+        "The Past",
+        "Gloria",
+        "Age of Panic",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tom at the Farm", "We Are the Nobles"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stranger by the Lake", "Tom at the Farm"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "Blue Is the Warmest Color",
+        "The Great Beauty",
+        "Like Father, Like Son",
+        "Tangerines",
+        "The Past",
+        "Ilo Ilo",
+        "Omar",
+        "Bad Hair",
+        "A Touch of Sin",
+        "Han Gong-ju",
+        "Tom at the Farm",
+        "Big Bad Wolves",
+        "Metalhead",
+        "Cold Eyes",
+        "Witching & Bitching",
+        "Human Capital",
+        "The Mafia Kills Only in Summer",
+        "Jealousy",
+        "Young & Beautiful",
+        "The German Doctor",
+        "Wetlands",
+        "Stranger by the Lake"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["The Grandmaster"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Stray Dogs",
+        "The Past",
+        "The Grandmaster"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Grandmaster",
+        "Tangerines",
+        "The Amazing Catfish",
+        "Young & Beautiful",
+        "Suck Me Shakespeer",
+        "Ruby Red"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Touch of Sin", "Snowpiercer", "The Grandmaster"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Grandmaster", "Like Father, Like Son"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Age of Panic",
+        "Me, Myself and Mum",
+        "9 Month Stretch",
+        "It Boy",
+        "Stranger by the Lake",
+        "Tom at the Farm",
+        "Mood Indigo",
+        "Chinese Puzzle",
+        "Young & Beautiful",
+        "Serial Teachers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "Ida",
+        "Snowpiercer",
+        "Instructions Not Included",
+        "The Great Beauty",
+        "Blue Is the Warmest Color",
+        "Tom at the Farm"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stranger by the Lake",
+        "Tom at the Farm",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Stranger by the Lake"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tom at the Farm", "Stranger by the Lake"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Stranger by the Lake",
+        "Nobody's Daughter Haewon",
+        "Han Gong-ju",
+        "Hwayi: A Monster Boy",
+        "New World",
+        "The Attorney",
+        "Snowpiercer"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Hard to Be a God"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hard to Be a God", "Borgman", "Tangerines"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "The Grandmaster",
+        "Camille Claudel, 1915",
+        "Hard to Be a God",
+        "Ida",
+        "Stranger by the Lake",
+        "Paradise: Hope",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hard to Be a God", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stranger by the Lake",
+        "The Grandmaster",
+        "The Great Beauty",
+        "Hard to Be a God",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Nobody's Daughter Haewon", "Hard to Be a God"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hard to Be a God", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 4,
+      "ranking": ["The Lunchbox"]
+    },
+    {
+      "count": 1,
+      "ranking": ["New World", "The Lunchbox"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Queen", "The Lunchbox"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Queen",
+        "Yeh Jawaani Hai Deewani",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Aashiqui 2",
+        "Raanjhanaa",
+        "Chennai Express",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "The Lunchbox",
+        "Human Capital",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Lunchbox", "The Great Beauty"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Lunchbox", "Ugly"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Why Don't You Play in Hell?",
+        "The Dance of Reality",
+        "Mood Indigo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Why Don't You Play in Hell?",
+        "Snowpiercer",
+        "Venus in Fur",
+        "Jealousy",
+        "Miss Violence"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Why Don't You Play in Hell?", "New World", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Why Don't You Play in Hell?", "Omar"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Why Don't You Play in Hell?"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Why Don't You Play in Hell?", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Why Don't You Play in Hell?",
+        "Snowpiercer",
+        "The Grandmaster"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tangerines",
+        "Why Don't You Play in Hell?",
+        "Snowpiercer",
+        "The Keeper of Lost Causes",
+        "Young & Beautiful",
+        "Miss Violence",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Young & Beautiful", "Blue Is the Warmest Color", "It Boy"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Young & Beautiful"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Young & Beautiful", "It Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Tom at the Farm",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color",
+        "9 Month Stretch",
+        "Crystal Fairy & the Magical Cactus"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Venus in Fur",
+        "Mood Indigo",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "It Boy",
+        "Tom at the Farm",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color",
+        "Mood Indigo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tom at the Farm",
+        "Like Father, Like Son",
+        "Why Don't You Play in Hell?",
+        "Snowpiercer",
+        "The Grandmaster",
+        "The Flu",
+        "A Touch of Sin",
+        "Stranger by the Lake",
+        "Age of Panic",
+        "R100",
+        "Ilo Ilo",
+        "Me, Myself and Mum"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stray Dogs", "Snowpiercer", "Omar", "A Touch of Sin"]
+    },
+    {
+      "count": 2,
+      "ranking": ["A Touch of Sin"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Attorney",
+        "A Touch of Sin",
+        "The Terror Live",
+        "New World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Touch of Sin", "Snowpiercer", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Like Father, Like Son", "A Touch of Sin", "The Grandmaster"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Touch of Sin", "A Wolf at the Door"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "My Mom Is a Character",
+        "Meu Passado Me Condena: O Filme",
+        "Till Luck Do Us Part 2",
+        "Miss Violence",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Hope", "Miracle in Cell No. 7"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Hope"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "Hwayi: A Monster Boy",
+        "Police Story: Lockdown",
+        "A Wolf at the Door",
+        "New World",
+        "Snowpiercer",
+        "The Grandmaster",
+        "Cold Eyes",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blue Is the Warmest Color",
+        "We Are the Best!",
+        "The Strange Color of Your Body's Tears"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blue Is the Warmest Color",
+        "We Are the Best!",
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "The Lunchbox",
+        "We Are the Best!",
+        "Ilo Ilo",
+        "Omar",
+        "Snowpiercer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "We Are the Best!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["We Are the Best!", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "We Are the Best!",
+        "Snowpiercer",
+        "Blue Is the Warmest Color",
+        "Like Father, Like Son"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Is the Warmest Color", "We Are the Best!"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Reaching for the Moon",
+        "Ida",
+        "The Lunchbox",
+        "We Are the Best!",
+        "Snowpiercer",
+        "Child's Pose",
+        "Tom at the Farm",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["We Are the Best!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ida", "We Are the Best!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miss Violence", "The Flu"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miss Violence", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Free Fall", "Miss Violence", "Tom at the Farm"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Wolf at the Door",
+        "Miss Violence",
+        "My Sweet Orange Tree",
+        "Reaching for the Moon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miss Violence", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miss Violence", "Crystal Fairy & the Magical Cactus"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Miss Violence"]
+    },
+    {
+      "count": 6,
+      "ranking": ["A Wolf at the Door"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "A Wolf at the Door",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Sweet Orange Tree",
+        "A Wolf at the Door",
+        "Teen's Confessions",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Wolf at the Door", "My Mom Is a Character"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "The Dance of Reality",
+        "My Mom Is a Character",
+        "Brazilian Western",
+        "A Wolf at the Door",
+        "Tattoo",
+        "Free Fall",
+        "Blue Is the Warmest Color",
+        "Meu Passado Me Condena: O Filme"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Venus in Fur",
+        "Age of Panic",
+        "Blue Is the Warmest Color",
+        "Stray Dogs",
+        "Paradise: Hope",
+        "Me, Myself and Mum"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Stray Dogs"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tom at the Farm", "Stray Dogs"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "Tangerines",
+        "The Strange Color of Your Body's Tears",
+        "Stray Dogs",
+        "The Great Beauty",
+        "Borgman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Touch of Sin", "Stray Dogs"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Like Father, Like Son", "Stray Dogs"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Touch of Sin",
+        "Like Father, Like Son",
+        "Stray Dogs",
+        "The Attorney",
+        "Snowpiercer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Venus in Fur", "The Past"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Past",
+        "Thou Gild'st the Even",
+        "The Butterfly's Dream",
+        "Wedding Association"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Past",
+        "Like Father, Like Son",
+        "The Lunchbox",
+        "Snowpiercer",
+        "The Mafia Kills Only in Summer",
+        "Miss Violence",
+        "Venus in Fur",
+        "Stockholm",
+        "The Great Beauty",
+        "Mood Indigo",
+        "The Strange Color of Your Body's Tears"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Past"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Past", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tangerines",
+        "CM101MMXI Fundamentals",
+        "Omar",
+        "Thou Gild'st the Even",
+        "The Butterfly's Dream",
+        "Wetlands",
+        "Wedding Association",
+        "Celal and Ceren"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Tangerines"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Butterfly's Dream",
+        "Tangerines",
+        "CM101MMXI Fundamentals",
+        "Blue Is the Warmest Color",
+        "Celal and Ceren"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tangerines", "CM101MMXI Fundamentals"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tangerines",
+        "CM101MMXI Fundamentals",
+        "Snowpiercer",
+        "Thou Gild'st the Even",
+        "The Butterfly's Dream",
+        "Blue Is the Warmest Color",
+        "Celal and Ceren"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "The Great Beauty", "Tangerines"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tangerines", "Ida", "Moebius"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Mood Indigo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mood Indigo", "Me, Myself and Mum", "Young & Beautiful"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Touch of Sin",
+        "Like Father, Like Son",
+        "Why Don't You Play in Hell?",
+        "Stray Dogs",
+        "The Past",
+        "Snowpiercer",
+        "Blue Is the Warmest Color",
+        "The Great Beauty",
+        "Mood Indigo",
+        "Ilo Ilo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["We Are the Best!", "Snowpiercer", "Mood Indigo"]
+    },
+    {
+      "count": 2,
+      "ranking": ["My Mom Is a Character", "Meu Passado Me Condena: O Filme"]
+    },
+    {
+      "count": 6,
+      "ranking": ["My Mom Is a Character"]
+    },
+    {
+      "count": 2,
+      "ranking": ["My Mom Is a Character", "Till Luck Do Us Part 2"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Reaching for the Moon", "My Mom Is a Character"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tom at the Farm",
+        "The Great Beauty",
+        "The Dance of Reality",
+        "Sun in Buckets"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Dance of Reality"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "The Dance of Reality"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+        "The Dance of Reality",
+        "The Great Beauty"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Dance of Reality", "Heli", "Instructions Not Included"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Dance of Reality",
+        "A Wolf at the Door",
+        "Tom at the Farm"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["New World"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "New World",
+        "The Attorney",
+        "Miracle in Cell No. 7",
+        "Cold Eyes",
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+        "Secretly, Greatly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "New World"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "New World",
+        "Hope",
+        "The Attorney",
+        "Snowpiercer",
+        "Hwayi: A Monster Boy",
+        "Secretly, Greatly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["New World", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": ["New World", "Hwayi: A Monster Boy"]
+    },
+    {
+      "count": 8,
+      "ranking": ["Instructions Not Included"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Instructions Not Included",
+        "The Mafia Kills Only in Summer",
+        "Belle and Sebastian",
+        "I'm So Excited!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Instructions Not Included"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Miracle in Cell No. 7"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Miracle in Cell No. 7",
+        "Snowpiercer",
+        "Four Sisters and a Wedding",
+        "The Flu"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Miracle in Cell No. 7",
+        "Pee Mak",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miracle in Cell No. 7", "Four Sisters and a Wedding"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Miracle in Cell No. 7",
+        "Soodhu Kavvum",
+        "Snowpiercer",
+        "Yeh Jawaani Hai Deewani",
+        "Raanjhanaa",
+        "Chennai Express"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Venus in Fur", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Venus in Fur"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Jealousy", "Venus in Fur"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Venus in Fur", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Why Don't You Play in Hell?",
+        "Venus in Fur",
+        "Stranger by the Lake",
+        "Tom at the Farm",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Great Beauty", "Crystal Fairy & the Magical Cactus"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Thou Gild'st the Even",
+        "Crystal Fairy & the Magical Cactus",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Crystal Fairy & the Magical Cactus"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Crystal Fairy & the Magical Cactus", "Ida"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "The Lunchbox",
+        "Snowpiercer",
+        "Thesis on a Homicide",
+        "The Great Beauty",
+        "Blue Is the Warmest Color",
+        "Crystal Fairy & the Magical Cactus"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Nobody's Daughter Haewon",
+        "Crystal Fairy & the Magical Cactus"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Crystal Fairy & the Magical Cactus", "Snowpiercer"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Yeh Jawaani Hai Deewani"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Yeh Jawaani Hai Deewani", "Chennai Express"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yeh Jawaani Hai Deewani",
+        "Aashiqui 2",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Queen",
+        "Lootera",
+        "Snowpiercer",
+        "Ugly",
+        "Yeh Jawaani Hai Deewani",
+        "Go Goa Gone",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Yeh Jawaani Hai Deewani", "Goliyon Ki Raasleela Ram-Leela"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Queen",
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Kai Po Che!",
+        "Aashiqui 2",
+        "Chennai Express",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Queen", "Yeh Jawaani Hai Deewani", "Chennai Express"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Strange Color of Your Body's Tears"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Venus in Fur",
+        "Camille Claudel, 1915",
+        "Like Father, Like Son",
+        "Ida",
+        "The Past",
+        "Ugly",
+        "Snowpiercer",
+        "Jealousy",
+        "Miss Violence",
+        "Blue Is the Warmest Color",
+        "Age of Uprising: The Legend of Michael Kohlhaas",
+        "Why Don't You Play in Hell?",
+        "Han Gong-ju",
+        "New World",
+        "Stranger by the Lake",
+        "Gloria",
+        "Tom at the Farm",
+        "Wetlands",
+        "Witching & Bitching",
+        "The Strange Color of Your Body's Tears",
+        "9 Month Stretch",
+        "It Boy",
+        "Age of Panic",
+        "Cold Eyes",
+        "Serial Teachers",
+        "I'm So Excited!",
+        "The Great Beauty",
+        "The Lunchbox",
+        "A Touch of Sin",
+        "Paradise: Hope",
+        "Chinese Puzzle",
+        "Young & Beautiful",
+        "R100"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blue Is the Warmest Color",
+        "The Strange Color of Your Body's Tears",
+        "Wetlands",
+        "Crystal Fairy & the Magical Cactus"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mary Is Happy, Mary Is Happy.",
+        "The Dance of Reality",
+        "R100",
+        "Snowpiercer",
+        "Like Father, Like Son",
+        "Big Bad Wolves",
+        "Mood Indigo",
+        "Metalhead",
+        "The Strange Color of Your Body's Tears",
+        "Crystal Fairy & the Magical Cactus",
+        "Blue Is the Warmest Color",
+        "Wetlands",
+        "Witching & Bitching"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "The Strange Color of Your Body's Tears"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hard to Be a God",
+        "Snowpiercer",
+        "Why Don't You Play in Hell?",
+        "The Strange Color of Your Body's Tears"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Thou Gild'st the Even", "Wetlands"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Wetlands"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Is the Warmest Color", "Miss Violence", "Wetlands"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Young & Beautiful", "Wetlands"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hard to Be a God",
+        "The Dance of Reality",
+        "Stranger by the Lake",
+        "Blue Is the Warmest Color",
+        "Snowpiercer",
+        "Wetlands"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Blue Is the Warmest Color", "Wetlands"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Is the Warmest Color", "Wetlands", "Young & Beautiful"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Living Is Easy with Eyes Closed", "I'm So Excited!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Is the Warmest Color", "I'm So Excited!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["I'm So Excited!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Beauty", "I'm So Excited!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Suck Me Shakespeer", "I'm So Excited!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Witching & Bitching", "I'm So Excited!"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Mary Is Happy, Mary Is Happy."]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mary Is Happy, Mary Is Happy.", "My Mom Is a Character"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Like Father, Like Son", "Mary Is Happy, Mary Is Happy."]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mary Is Happy, Mary Is Happy.", "Ilo Ilo"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Blue Is the Warmest Color",
+        "Mary Is Happy, Mary Is Happy."
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "Han Gong-ju",
+        "Snowpiercer",
+        "Young & Beautiful",
+        "Mary Is Happy, Mary Is Happy.",
+        "Blue Is the Warmest Color",
+        "Miss Violence"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "Paradise: Hope",
+        "The Keeper of Lost Causes",
+        "Like Father, Like Son",
+        "Tangerines",
+        "Omar",
+        "Snowpiercer",
+        "Police Story: Lockdown",
+        "The Great Beauty",
+        "Mary Is Happy, Mary Is Happy.",
+        "A Touch of Sin",
+        "The Past",
+        "Blue Is the Warmest Color",
+        "Moebius"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Borgman"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Snowpiercer", "Borgman"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blue Is the Warmest Color",
+        "Borgman",
+        "Journey to the West: Conquering the Demons"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ida", "Stranger by the Lake", "Borgman", "Tom at the Farm"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stranger by the Lake",
+        "Borgman",
+        "Snowpiercer",
+        "The Strange Color of Your Body's Tears"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Borgman", "Hard to Be a God"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Free Fall", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drishyam",
+        "Yeh Jawaani Hai Deewani",
+        "Free Fall",
+        "Blue Is the Warmest Color",
+        "Chennai Express"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Free Fall"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Mom Is a Character",
+        "Free Fall",
+        "Till Luck Do Us Part 2",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["It Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["It Boy", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Serial Teachers", "It Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Serial Teachers", "Belle and Sebastian", "It Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Blue Is the Warmest Color", "It Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Big Bad Wolves",
+        "Witching & Bitching",
+        "Rigor Mortis"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "Kai Po Che!",
+        "Big Bad Wolves",
+        "Journey to the West: Conquering the Demons",
+        "Go Goa Gone",
+        "Lootera",
+        "Chennai Express",
+        "Like Father, Like Son",
+        "Tangerines",
+        "Ida",
+        "Yeh Jawaani Hai Deewani",
+        "The Grandmaster",
+        "Raanjhanaa",
+        "Police Story: Lockdown"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Snowpiercer", "Big Bad Wolves"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Human Capital",
+        "Miss Violence",
+        "The Great Beauty",
+        "Snowpiercer",
+        "Big Bad Wolves",
+        "The Mafia Kills Only in Summer"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Big Bad Wolves"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Big Bad Wolves", "Rigor Mortis"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Jealousy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Jealousy", "Teen's Confessions", "We're So Young"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stray Dogs",
+        "The Great Beauty",
+        "A Touch of Sin",
+        "Jealousy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Age of Panic", "Jealousy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Beauty", "Jealousy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+        "Suck Me Shakespeer"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Suck Me Shakespeer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Paradise: Hope",
+        "Free Fall",
+        "Suck Me Shakespeer",
+        "Ruby Red"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Suck Me Shakespeer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Blue Is the Warmest Color",
+        "Suck Me Shakespeer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Suck Me Shakespeer", "Ruby Red"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Queen", "Chennai Express", "Dhoom 3"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Yeh Jawaani Hai Deewani", "Queen"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Lootera",
+        "Queen",
+        "Yeh Jawaani Hai Deewani",
+        "Kai Po Che!",
+        "Special 26",
+        "Go Goa Gone",
+        "Chennai Express",
+        "Dhoom 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lootera",
+        "Queen",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Raanjhanaa",
+        "Chennai Express",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Queen"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Soodhu Kavvum",
+        "Queen",
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Special 26",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Aashiqui 2",
+        "Raanjhanaa",
+        "Chennai Express",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Queen",
+        "Snowpiercer",
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Aashiqui 2",
+        "Raanjhanaa",
+        "Chennai Express",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Go Goa Gone", "Chennai Express"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Chennai Express", "Dhoom 3"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drishyam", "Chennai Express"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Dhoom 3", "Chennai Express", "I'm So Excited!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goliyon Ki Raasleela Ram-Leela", "Chennai Express"]
+    },
+    {
+      "count": 8,
+      "ranking": ["Barber's Tales"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Barber's Tales",
+        "Four Sisters and a Wedding",
+        "Like Father, Like Son"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Barber's Tales", "Four Sisters and a Wedding"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Tattoo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tattoo", "Miss Violence"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Tattoo", "My Mom Is a Character"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Wolf at the Door",
+        "Tattoo",
+        "My Sweet Orange Tree",
+        "Reaching for the Moon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Wolf at the Door", "Tattoo"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Wolf at the Door",
+        "Tattoo",
+        "Snowpiercer",
+        "My Mom Is a Character",
+        "Brazilian Western",
+        "We're So Young"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ida", "The Great Beauty", "Omar"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Brazilian Western",
+        "Stray Dogs",
+        "Ida",
+        "The Lunchbox",
+        "My Sweet Orange Tree",
+        "A Wolf at the Door",
+        "The Past",
+        "New World",
+        "Omar",
+        "Child's Pose",
+        "My Mom Is a Character",
+        "Venus in Fur",
+        "Stranger by the Lake",
+        "Gloria",
+        "Human Capital",
+        "Reaching for the Moon",
+        "Camille Claudel, 1915",
+        "Me, Myself and Mum",
+        "The Keeper of Lost Causes",
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+        "Chinese Puzzle",
+        "Jealousy",
+        "Young & Beautiful",
+        "Free Fall",
+        "Miss Violence",
+        "Blue Is the Warmest Color",
+        "The German Doctor",
+        "It Boy",
+        "We're So Young",
+        "I'm So Excited!"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Omar"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "The Lunchbox",
+        "Omar",
+        "Snowpiercer",
+        "Stranger by the Lake",
+        "Blue Is the Warmest Color",
+        "Go Goa Gone"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Moebius"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Grandmaster", "Moebius"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "The Great Beauty",
+        "The Past",
+        "Ida",
+        "Child's Pose",
+        "Bastards",
+        "Gloria",
+        "The Grandmaster",
+        "Snowpiercer",
+        "Moebius"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hope", "Why Don't You Play in Hell?", "Moebius"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Past",
+        "Human Capital",
+        "Like Father, Like Son",
+        "Ida",
+        "Snowpiercer",
+        "The Grandmaster",
+        "Moebius",
+        "Instructions Not Included",
+        "Witching & Bitching",
+        "Suck Me Shakespeer",
+        "Sun in Buckets"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Moebius", "Tom at the Farm"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Miracle in Cell No. 7",
+        "Living Is Easy with Eyes Closed",
+        "Journey to the West: Conquering the Demons",
+        "Blue Is the Warmest Color",
+        "Moebius"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tangerines",
+        "Ida",
+        "The Lunchbox",
+        "Blue Is the Warmest Color",
+        "Gloria",
+        "I'm So Excited!",
+        "Like Father, Like Son"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Ida",
+        "Han Gong-ju",
+        "Snowpiercer",
+        "Gloria",
+        "Bad Hair",
+        "Tom at the Farm",
+        "Heli",
+        "Age of Panic",
+        "Living Is Easy with Eyes Closed",
+        "Mood Indigo",
+        "Stockholm",
+        "Blue Is the Warmest Color",
+        "Witching & Bitching",
+        "I'm So Excited!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Gloria", "Like Father, Like Son", "Metalhead"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Why Don't You Play in Hell?",
+        "Hwayi: A Monster Boy",
+        "A Touch of Sin",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color",
+        "The Strange Color of Your Body's Tears",
+        "I'm So Excited!",
+        "Borgman",
+        "Journey to the West: Conquering the Demons",
+        "Witching & Bitching",
+        "The Dance of Reality",
+        "Snowpiercer",
+        "Cold Eyes",
+        "Moebius",
+        "R100",
+        "Police Story: Lockdown",
+        "Krrish 3",
+        "Gloria"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Gloria"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "The Great Beauty",
+        "Ida",
+        "The Past",
+        "Human Capital",
+        "Paradise: Hope",
+        "Miss Violence",
+        "The German Doctor",
+        "Love Steaks",
+        "A Wolf at the Door",
+        "Child's Pose",
+        "Gloria",
+        "Bad Hair",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Beauty", "Gloria"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Gloria",
+        "Crystal Fairy & the Magical Cactus",
+        "Blue Is the Warmest Color",
+        "The Great Beauty"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Witching & Bitching"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "The Dance of Reality",
+        "Wetlands",
+        "Blue Is the Warmest Color",
+        "The Strange Color of Your Body's Tears",
+        "Witching & Bitching",
+        "Suck Me Shakespeer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Beauty", "Witching & Bitching", "I'm So Excited!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Witching & Bitching", "It Boy", "Serial Teachers"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Metalhead"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Metalhead", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "Chinese Puzzle",
+        "I'm So Excited!",
+        "Thou Gild'st the Even",
+        "Metalhead",
+        "Hard to Be a God",
+        "The Great Beauty"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Metalhead", "My Mom Is a Character"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Snowpiercer",
+        "Mood Indigo",
+        "Metalhead",
+        "The Dance of Reality",
+        "Stranger by the Lake",
+        "Free Fall"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Flu"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pee Mak", "The Flu"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "The Flu"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Touch of Sin",
+        "Cold Eyes",
+        "Go Goa Gone",
+        "Chennai Express",
+        "The Flu",
+        "Dhoom 3",
+        "Krrish 3",
+        "New World",
+        "Snowpiercer",
+        "The Grandmaster"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Flu", "It Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hwayi: A Monster Boy", "The Flu"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Han Gong-ju",
+        "Snowpiercer",
+        "Mood Indigo",
+        "The Flu",
+        "Secretly, Greatly",
+        "Tom at the Farm"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+        "The Lunchbox"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": [
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+        "Wetlands",
+        "Suck Me Shakespeer",
+        "Snowpiercer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+        "Tom at the Farm",
+        "Love Steaks",
+        "Snowpiercer",
+        "Blue Is the Warmest Color",
+        "Suck Me Shakespeer"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Bastards"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Grandmaster",
+        "Bastards",
+        "The Dance of Reality",
+        "The Great Beauty",
+        "Hard to Be a God",
+        "Tom at the Farm"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Why Don't You Play in Hell?",
+        "The Great Beauty",
+        "The Past",
+        "Blue Is the Warmest Color",
+        "Young & Beautiful",
+        "A Touch of Sin",
+        "Snowpiercer",
+        "Bastards",
+        "Mood Indigo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "The Past",
+        "Metro Manila",
+        "Young & Beautiful",
+        "Snowpiercer",
+        "Child's Pose",
+        "A Touch of Sin",
+        "The Golden Dream",
+        "Ilo Ilo",
+        "Borgman",
+        "Human Capital",
+        "Miss Violence",
+        "Tangerines",
+        "Omar",
+        "Bastards",
+        "It Boy",
+        "The Amazing Catfish",
+        "Stockholm",
+        "The Great Beauty",
+        "Stranger by the Lake",
+        "Gloria",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Like Father, Like Son",
+        "Bastards",
+        "Young & Beautiful",
+        "9 Month Stretch",
+        "The Great Beauty",
+        "Ida",
+        "A Touch of Sin",
+        "The Past",
+        "Snowpiercer",
+        "Child's Pose",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "The Grandmaster",
+        "Stranger by the Lake",
+        "Camille Claudel, 1915",
+        "Tangerines",
+        "The Dance of Reality",
+        "Snowpiercer",
+        "Young & Beautiful",
+        "Bastards",
+        "Thesis on a Homicide",
+        "Crystal Fairy & the Magical Cactus",
+        "The Great Beauty",
+        "The Past",
+        "Borgman",
+        "Chinese Puzzle",
+        "Stockholm",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stray Dogs",
+        "Ida",
+        "Stranger by the Lake",
+        "Bastards",
+        "Free Fall",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bastards",
+        "The Great Beauty",
+        "Ida",
+        "Snowpiercer",
+        "Age of Panic",
+        "Mood Indigo"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Reaching for the Moon"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Reaching for the Moon", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Reaching for the Moon", "My Sweet Orange Tree"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tom at the Farm",
+        "Reaching for the Moon",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Mom Is a Character",
+        "Reaching for the Moon",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Snowpiercer",
+        "My Mom Is a Character",
+        "Reaching for the Moon",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["We Are the Nobles", "Instructions Not Included"]
+    },
+    {
+      "count": 7,
+      "ranking": ["We Are the Nobles"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Heli",
+        "The Great Beauty",
+        "The Amazing Catfish",
+        "The Dance of Reality",
+        "Instructions Not Included",
+        "The Golden Dream",
+        "Snowpiercer",
+        "Tom at the Farm",
+        "We Are the Nobles",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goliyon Ki Raasleela Ram-Leela", "We Are the Nobles"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "New World",
+        "Nobody's Daughter Haewon",
+        "Cold Eyes",
+        "Secretly, Greatly"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Nobody's Daughter Haewon"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Nobody's Daughter Haewon", "Moebius"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "New World",
+        "The Attorney",
+        "Snowpiercer",
+        "Hwayi: A Monster Boy",
+        "Nobody's Daughter Haewon",
+        "Hope",
+        "Miracle in Cell No. 7"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Nobody's Daughter Haewon"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Crystal Fairy & the Magical Cactus",
+        "Nobody's Daughter Haewon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Barber's Tales",
+        "Blue Is the Warmest Color",
+        "Hope",
+        "Miracle in Cell No. 7",
+        "Mary Is Happy, Mary Is Happy.",
+        "Han Gong-ju",
+        "Moebius",
+        "Nobody's Daughter Haewon",
+        "R100"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["My Sweet Orange Tree", "Nobody's Daughter Haewon"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Dance of Reality",
+        "Rigor Mortis",
+        "Blue Is the Warmest Color",
+        "Witching & Bitching",
+        "Why Don't You Play in Hell?",
+        "We Are the Best!",
+        "Snowpiercer",
+        "Stranger by the Lake",
+        "Borgman",
+        "Bastards",
+        "Moebius",
+        "The Strange Color of Your Body's Tears",
+        "R100"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Journey to the West: Conquering the Demons"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Grandmaster",
+        "Journey to the West: Conquering the Demons"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Journey to the West: Conquering the Demons", "R100"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "The Attorney",
+        "The Terror Live",
+        "New World",
+        "Police Story: Lockdown",
+        "The Grandmaster",
+        "Journey to the West: Conquering the Demons",
+        "The Flu"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Snowpiercer", "Journey to the West: Conquering the Demons"]
+    },
+    {
+      "count": 1,
+      "ranking": ["My Mom Is a Character", "My Sweet Orange Tree"]
+    },
+    {
+      "count": 5,
+      "ranking": ["My Sweet Orange Tree"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Sweet Orange Tree",
+        "Snowpiercer",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tangerines",
+        "Ida",
+        "Stray Dogs",
+        "My Sweet Orange Tree",
+        "Hard to Be a God",
+        "A Wolf at the Door",
+        "Snowpiercer",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["My Sweet Orange Tree", "Tattoo"]
+    },
+    {
+      "count": 4,
+      "ranking": ["The Butterfly's Dream"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Butterfly's Dream", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Butterfly's Dream", "Wedding Association"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "CM101MMXI Fundamentals",
+        "The Butterfly's Dream",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tangerines", "The Butterfly's Dream"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Han Gong-ju"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "The Strange Color of Your Body's Tears",
+        "Ida",
+        "Stray Dogs",
+        "Han Gong-ju",
+        "Hard to Be a God"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Tangerines",
+        "Han Gong-ju",
+        "Blue Is the Warmest Color",
+        "The Great Beauty",
+        "Ida",
+        "Nobody's Daughter Haewon",
+        "Snowpiercer",
+        "Camille Claudel, 1915"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Krrish 3", "Han Gong-ju"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Han Gong-ju", "Yeh Jawaani Hai Deewani"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Miracle in Cell No. 7",
+        "Han Gong-ju",
+        "The Flu"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Han Gong-ju", "Snowpiercer", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Han Gong-ju", "Snowpiercer"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Amazing Catfish", "We Are the Nobles"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Ida",
+        "Mary Is Happy, Mary Is Happy.",
+        "Han Gong-ju",
+        "The Amazing Catfish",
+        "Bad Hair",
+        "Miss Violence",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Amazing Catfish",
+        "We Are the Nobles",
+        "Instructions Not Included"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Reaching for the Moon", "The Amazing Catfish"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Amazing Catfish"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Instructions Not Included", "The Amazing Catfish"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Hope",
+        "The Great Beauty",
+        "The Lunchbox",
+        "Mary Is Happy, Mary Is Happy.",
+        "The Amazing Catfish",
+        "Nobody's Daughter Haewon",
+        "Gloria",
+        "The Grandmaster",
+        "Camille Claudel, 1915"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Ilo Ilo"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Miracle in Cell No. 7",
+        "Ilo Ilo",
+        "Four Sisters and a Wedding",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Ilo Ilo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Like Father, Like Son", "Ilo Ilo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ilo Ilo", "Snowpiercer", "It Boy", "Serial Teachers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Lunchbox", "Ilo Ilo", "It Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Goliyon Ki Raasleela Ram-Leela"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Dhoom 3",
+        "Yeh Jawaani Hai Deewani",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Aashiqui 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Queen",
+        "Yeh Jawaani Hai Deewani"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Chennai Express"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yeh Jawaani Hai Deewani",
+        "Chennai Express",
+        "Dhoom 3",
+        "Ugly",
+        "Bhaag Milkha Bhaag",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Raanjhanaa",
+        "Go Goa Gone",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yeh Jawaani Hai Deewani",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Aashiqui 2",
+        "Chennai Express",
+        "Dhoom 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Is the Warmest Color", "Chinese Puzzle"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Chinese Puzzle"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Chinese Puzzle", "Serial Teachers", "9 Month Stretch"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Chinese Puzzle", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Chinese Puzzle"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Blue Is the Warmest Color",
+        "The Grandmaster",
+        "Chinese Puzzle",
+        "Tom at the Farm",
+        "Young & Beautiful"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ida", "Chinese Puzzle"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Blue Is the Warmest Color",
+        "Snowpiercer",
+        "Chinese Puzzle"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "It Boy",
+        "Serial Teachers",
+        "Blue Is the Warmest Color",
+        "Chinese Puzzle"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Paradise: Hope", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blue Is the Warmest Color",
+        "Snowpiercer",
+        "Mood Indigo",
+        "The Great Beauty",
+        "Hard to Be a God",
+        "The Dance of Reality",
+        "New World",
+        "Venus in Fur",
+        "Stranger by the Lake",
+        "Borgman",
+        "Paradise: Hope",
+        "The Strange Color of Your Body's Tears"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Borgman",
+        "Paradise: Hope",
+        "We Are the Nobles",
+        "Why Don't You Play in Hell?",
+        "A Touch of Sin",
+        "The Amazing Catfish",
+        "Instructions Not Included",
+        "I'm So Excited!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "The Grandmaster",
+        "Paradise: Hope",
+        "Miss Violence",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blue Is the Warmest Color",
+        "Snowpiercer",
+        "Paradise: Hope",
+        "Wetlands",
+        "The Great Beauty"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Venus in Fur",
+        "Camille Claudel, 1915",
+        "Paradise: Hope",
+        "The Great Beauty",
+        "Tangerines",
+        "Ida"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Paradise: Hope"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Paradise: Hope", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "Ida",
+        "The Dance of Reality",
+        "Snowpiercer",
+        "Paradise: Hope",
+        "Hwayi: A Monster Boy"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Heli"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Heli", "We Are the Nobles"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mary Is Happy, Mary Is Happy.", "Gloria", "Heli"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Gloria", "Heli", "The German Doctor"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Butterfly's Dream",
+        "Moebius",
+        "Heli",
+        "Love Steaks",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Soodhu Kavvum", "Raanjhanaa", "Chennai Express", "Dhoom 3"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wedding Association", "Dhoom 3"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Lootera",
+        "Queen",
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Kai Po Che!",
+        "Special 26",
+        "Aashiqui 2",
+        "Raanjhanaa",
+        "Chennai Express",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Soodhu Kavvum", "Dhoom 3", "Raanjhanaa"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Four Sisters and a Wedding"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hope", "Four Sisters and a Wedding", "The Flu"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Four Sisters and a Wedding"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "Why Don't You Play in Hell?",
+        "Stray Dogs",
+        "Four Sisters and a Wedding"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "The Keeper of Lost Causes"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Keeper of Lost Causes"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tangerines",
+        "Hard to Be a God",
+        "Child's Pose",
+        "Miss Violence",
+        "Tattoo",
+        "The Keeper of Lost Causes",
+        "Like Father, Like Son",
+        "A Touch of Sin",
+        "Paradise: Hope"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Yeh Jawaani Hai Deewani", "The Keeper of Lost Causes"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Keeper of Lost Causes", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Big Bad Wolves", "The Keeper of Lost Causes", "Metalhead"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Keeper of Lost Causes", "Cold Eyes"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ida", "Queen", "The Keeper of Lost Causes"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Chennai Express",
+        "Dhoom 3",
+        "The Lunchbox",
+        "Ugly",
+        "Snowpiercer",
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Raanjhanaa",
+        "Go Goa Gone",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ugly",
+        "Raanjhanaa",
+        "Yeh Jawaani Hai Deewani",
+        "Chennai Express"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ugly", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Ugly",
+        "Snowpiercer",
+        "Chennai Express",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Omar",
+        "Ugly",
+        "The Great Beauty",
+        "The Lunchbox",
+        "Lootera",
+        "Snowpiercer",
+        "Kai Po Che!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drishyam",
+        "New World",
+        "Snowpiercer",
+        "Soodhu Kavvum",
+        "Queen",
+        "Bhaag Milkha Bhaag",
+        "Raanjhanaa",
+        "Yeh Jawaani Hai Deewani",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Aashiqui 2",
+        "Chennai Express",
+        "Krrish 3",
+        "Dhoom 3",
+        "Ida",
+        "The Lunchbox",
+        "Why Don't You Play in Hell?",
+        "Lootera",
+        "Ugly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Queen",
+        "Dhoom 3",
+        "Ugly",
+        "Special 26",
+        "Go Goa Gone",
+        "Chennai Express",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Lunchbox", "Ugly", "Tom at the Farm", "Lootera"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Queen",
+        "Ugly",
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Special 26",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Aashiqui 2",
+        "Raanjhanaa",
+        "Go Goa Gone",
+        "Chennai Express",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ugly",
+        "Bhaag Milkha Bhaag",
+        "Raanjhanaa",
+        "Chennai Express",
+        "Dhoom 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "We Are the Best!",
+        "The Attorney",
+        "Lootera",
+        "Snowpiercer",
+        "Bhaag Milkha Bhaag",
+        "Special 26"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lootera", "Ugly", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yeh Jawaani Hai Deewani",
+        "Queen",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Lootera",
+        "Aashiqui 2",
+        "Chennai Express",
+        "The Lunchbox"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lootera"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lootera", "Kai Po Che!"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lootera",
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Go Goa Gone"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lootera", "Bhaag Milkha Bhaag", "Aashiqui 2"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lootera", "Queen"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "New World",
+        "Lootera",
+        "The Lunchbox",
+        "Snowpiercer",
+        "Go Goa Gone"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yeh Jawaani Hai Deewani",
+        "Lootera",
+        "Queen",
+        "Bhaag Milkha Bhaag",
+        "Chennai Express"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "CM101MMXI Fundamentals",
+        "Thou Gild'st the Even",
+        "Wedding Association"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tangerines",
+        "Blue Is the Warmest Color",
+        "The Great Beauty",
+        "Snowpiercer",
+        "Thou Gild'st the Even"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Butterfly's Dream", "Thou Gild'st the Even"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Thou Gild'st the Even", "Tom at the Farm", "Metalhead"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Thou Gild'st the Even", "The Butterfly's Dream"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blue Is the Warmest Color",
+        "The Butterfly's Dream",
+        "Thou Gild'st the Even"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Human Capital"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Human Capital", "The Great Beauty"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Human Capital"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Blue Is the Warmest Color",
+        "Human Capital"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Dance of Reality", "Human Capital"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Human Capital", "Hard to Be a God", "Snowpiercer", "Moebius"]
+    },
+    {
+      "count": 6,
+      "ranking": ["The Golden Dream"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Golden Dream", "Serial Teachers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Why Don't You Play in Hell?",
+        "The Golden Dream",
+        "Hard to Be a God"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Golden Dream", "Belle and Sebastian"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Age of Panic"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Beauty", "Human Capital", "Age of Panic"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Age of Panic",
+        "Me, Myself and Mum",
+        "Mood Indigo",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color",
+        "9 Month Stretch",
+        "It Boy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Age of Panic", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yeh Jawaani Hai Deewani",
+        "Snowpiercer",
+        "Thesis on a Homicide",
+        "Ugly",
+        "Age of Panic",
+        "Queen",
+        "Bhaag Milkha Bhaag",
+        "Go Goa Gone",
+        "Chennai Express"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "The Grandmaster",
+        "Age of Panic",
+        "Crystal Fairy & the Magical Cactus",
+        "Blue Is the Warmest Color",
+        "Snowpiercer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Me, Myself and Mum",
+        "Age of Panic",
+        "Chinese Puzzle",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color",
+        "9 Month Stretch",
+        "It Boy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tangerines", "Rigor Mortis", "The German Doctor"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The German Doctor", "Ida"]
+    },
+    {
+      "count": 4,
+      "ranking": ["The German Doctor"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "I'm So Excited!",
+        "The German Doctor",
+        "Thesis on a Homicide"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Dance of Reality", "Snowpiercer", "The German Doctor"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Instructions Not Included",
+        "The German Doctor",
+        "Thesis on a Homicide"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Is the Warmest Color", "The German Doctor"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Attorney"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Attorney",
+        "Suck Me Shakespeer",
+        "Snowpiercer",
+        "Like Father, Like Son"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Miracle in Cell No. 7",
+        "The Attorney",
+        "Snowpiercer",
+        "Cold Eyes",
+        "New World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "Miracle in Cell No. 7",
+        "New World",
+        "The Attorney",
+        "Omar",
+        "Hwayi: A Monster Boy",
+        "Cold Eyes",
+        "The Flu"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Miracle in Cell No. 7",
+        "The Terror Live",
+        "Hope",
+        "The Attorney",
+        "Ugly",
+        "Snowpiercer",
+        "Bhaag Milkha Bhaag",
+        "The Strange Color of Your Body's Tears",
+        "The Flu",
+        "Borgman",
+        "Wetlands",
+        "Go Goa Gone",
+        "Suck Me Shakespeer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "The Attorney"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miss Violence", "R100"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "A Touch of Sin",
+        "Snowpiercer",
+        "Blue Is the Warmest Color",
+        "R100"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["R100"]
+    },
+    {
+      "count": 1,
+      "ranking": ["R100", "The Strange Color of Your Body's Tears"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Hope",
+        "We Are the Best!",
+        "Snowpiercer",
+        "The Grandmaster",
+        "Blue Is the Warmest Color",
+        "R100"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Ida",
+        "The Dance of Reality",
+        "Mood Indigo",
+        "R100"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mood Indigo",
+        "Journey to the West: Conquering the Demons",
+        "R100",
+        "Witching & Bitching"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blue Is the Warmest Color",
+        "Tangerines",
+        "Ida",
+        "Camille Claudel, 1915"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stray Dogs", "Bastards", "Jealousy", "Camille Claudel, 1915"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Camille Claudel, 1915"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Beauty", "Camille Claudel, 1915"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Camille Claudel, 1915", "My Mom Is a Character"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Camille Claudel, 1915", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Heli", "Camille Claudel, 1915", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Age of Uprising: The Legend of Michael Kohlhaas",
+        "Wetlands",
+        "Metalhead",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blue Is the Warmest Color",
+        "Ida",
+        "The Great Beauty",
+        "The Lunchbox",
+        "Young & Beautiful",
+        "Age of Uprising: The Legend of Michael Kohlhaas",
+        "Snowpiercer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Venus in Fur",
+        "Blue Is the Warmest Color",
+        "Mood Indigo",
+        "Age of Uprising: The Legend of Michael Kohlhaas",
+        "Young & Beautiful"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Age of Uprising: The Legend of Michael Kohlhaas"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Age of Uprising: The Legend of Michael Kohlhaas",
+        "Suck Me Shakespeer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Age of Uprising: The Legend of Michael Kohlhaas",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Age of Uprising: The Legend of Michael Kohlhaas",
+        "Hard to Be a God"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "CM101MMXI Fundamentals",
+        "Snowpiercer",
+        "The Butterfly's Dream",
+        "Age of Uprising: The Legend of Michael Kohlhaas",
+        "Dabbe: The Possession",
+        "Wedding Association",
+        "Dhoom 3",
+        "Celal and Ceren"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Free Fall",
+        "Age of Uprising: The Legend of Michael Kohlhaas",
+        "Suck Me Shakespeer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Big Bad Wolves",
+        "Witching & Bitching",
+        "Journey to the West: Conquering the Demons",
+        "The House at the End of Time"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["The House at the End of Time"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bad Hair",
+        "Blue Is the Warmest Color",
+        "The House at the End of Time"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The House at the End of Time", "Instructions Not Included"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "The Great Beauty",
+        "Tangerines",
+        "Ida",
+        "The Lunchbox",
+        "Mary Is Happy, Mary Is Happy.",
+        "A Touch of Sin",
+        "Stray Dogs",
+        "Hard to Be a God",
+        "The Dance of Reality",
+        "A Wolf at the Door",
+        "The Past",
+        "Ilo Ilo",
+        "Snowpiercer",
+        "Child's Pose",
+        "Thou Gild'st the Even",
+        "Venus in Fur",
+        "Nobody's Daughter Haewon",
+        "Stranger by the Lake",
+        "Gloria",
+        "Human Capital",
+        "Paradise: Hope",
+        "Camille Claudel, 1915",
+        "The Keeper of Lost Causes",
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+        "Jealousy",
+        "The House at the End of Time",
+        "Miss Violence",
+        "Dabbe: The Possession",
+        "I'm So Excited!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stranger by the Lake",
+        "Free Fall",
+        "Tom at the Farm",
+        "I'm So Excited!",
+        "We Are the Best!",
+        "The House at the End of Time",
+        "Snowpiercer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The House at the End of Time", "The Lunchbox"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tom at the Farm",
+        "Blue Is the Warmest Color",
+        "Young & Beautiful",
+        "Miss Violence",
+        "Why Don't You Play in Hell?",
+        "Hard to Be a God",
+        "Stockholm",
+        "The Strange Color of Your Body's Tears",
+        "Wetlands"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Young & Beautiful",
+        "Stockholm",
+        "Miss Violence",
+        "Blue Is the Warmest Color",
+        "The Strange Color of Your Body's Tears",
+        "Wetlands",
+        "Tom at the Farm"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Stockholm"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Stockholm"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Big Bad Wolves",
+        "Stockholm",
+        "Tangerines",
+        "Blue Is the Warmest Color",
+        "Witching & Bitching"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Young & Beautiful", "Stockholm"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Snowpiercer",
+        "Tom at the Farm",
+        "Me, Myself and Mum",
+        "Young & Beautiful",
+        "Stockholm",
+        "Blue Is the Warmest Color",
+        "Age of Uprising: The Legend of Michael Kohlhaas"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Chennai Express",
+        "Dhoom 3",
+        "Krrish 3",
+        "Snowpiercer",
+        "Rigor Mortis",
+        "Go Goa Gone"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miss Violence", "Witching & Bitching", "Rigor Mortis"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Snowpiercer", "Rigor Mortis"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Why Don't You Play in Hell?",
+        "A Touch of Sin",
+        "New World",
+        "The Grandmaster",
+        "Nobody's Daughter Haewon",
+        "The Terror Live",
+        "Rigor Mortis",
+        "Snowpiercer",
+        "Police Story: Lockdown"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Why Don't You Play in Hell?",
+        "Stray Dogs",
+        "Me, Myself and Mum",
+        "Rigor Mortis",
+        "Snowpiercer",
+        "Serial Teachers",
+        "Like Father, Like Son"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rigor Mortis",
+        "Venus in Fur",
+        "Bastards",
+        "The Great Beauty",
+        "Tangerines",
+        "Ida",
+        "Why Don't You Play in Hell?",
+        "Metro Manila",
+        "Snowpiercer",
+        "Borgman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Rigor Mortis"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Miracle in Cell No. 7",
+        "Snowpiercer",
+        "The Flu",
+        "The Lunchbox",
+        "Drishyam"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Why Don't You Play in Hell?",
+        "Drishyam",
+        "The Keeper of Lost Causes"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drishyam",
+        "Queen",
+        "Snowpiercer",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drishyam"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drishyam", "Yeh Jawaani Hai Deewani", "Chennai Express"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Chennai Express",
+        "Drishyam",
+        "Lootera",
+        "Yeh Jawaani Hai Deewani"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "Snowpiercer",
+        "Age of Panic",
+        "Blue Is the Warmest Color",
+        "Drishyam",
+        "My Mom Is a Character",
+        "Meu Passado Me Condena: O Filme",
+        "Till Luck Do Us Part 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Drishyam", "Chennai Express"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Drishyam",
+        "Lootera",
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Special 26",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Raanjhanaa",
+        "Chennai Express",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Me, Myself and Mum", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Me, Myself and Mum",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Me, Myself and Mum", "The Keeper of Lost Causes"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Me, Myself and Mum",
+        "Blue Is the Warmest Color",
+        "It Boy",
+        "Mood Indigo"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Me, Myself and Mum",
+        "Snowpiercer",
+        "Tom at the Farm",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Young & Beautiful", "It Boy", "Me, Myself and Mum"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Tom at the Farm",
+        "The Grandmaster",
+        "Me, Myself and Mum"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "It Boy",
+        "Me, Myself and Mum",
+        "Chinese Puzzle",
+        "Serial Teachers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Me, Myself and Mum"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bhaag Milkha Bhaag"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Raanjhanaa",
+        "Chennai Express",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "Miracle in Cell No. 7",
+        "Raanjhanaa",
+        "The Flu",
+        "Chennai Express",
+        "Wetlands",
+        "Krrish 3",
+        "Bhaag Milkha Bhaag",
+        "Aashiqui 2",
+        "Go Goa Gone",
+        "Dhoom 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Krrish 3",
+        "The Lunchbox",
+        "Bhaag Milkha Bhaag",
+        "Special 26",
+        "Chennai Express",
+        "Dhoom 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yeh Jawaani Hai Deewani",
+        "The Lunchbox",
+        "Queen",
+        "Bhaag Milkha Bhaag",
+        "Aashiqui 2",
+        "Raanjhanaa",
+        "Chennai Express",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Dhoom 3",
+        "Krrish 3",
+        "Go Goa Gone"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Miracle in Cell No. 7",
+        "CM101MMXI Fundamentals",
+        "The Butterfly's Dream",
+        "Wedding Association",
+        "Dhoom 3",
+        "Celal and Ceren"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["CM101MMXI Fundamentals", "The Butterfly's Dream"]
+    },
+    {
+      "count": 4,
+      "ranking": ["CM101MMXI Fundamentals"]
+    },
+    {
+      "count": 1,
+      "ranking": ["CM101MMXI Fundamentals", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Cold Eyes", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Cold Eyes", "The Flu", "Miracle in Cell No. 7"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pee Mak", "Cold Eyes"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tangerines",
+        "Ida",
+        "Instructions Not Included",
+        "A Wolf at the Door",
+        "The Amazing Catfish",
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+        "The Mafia Kills Only in Summer",
+        "The Flu",
+        "Snowpiercer",
+        "Bad Hair"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Cold Eyes"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Police Story: Lockdown",
+        "New World",
+        "Snowpiercer",
+        "The Terror Live",
+        "Cold Eyes",
+        "Moebius",
+        "The Flu"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Bad Hair"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bad Hair", "Tattoo"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tattoo",
+        "Stranger by the Lake",
+        "Bad Hair",
+        "Tom at the Farm",
+        "Miss Violence"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Bad Hair"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Ruby Red"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Suck Me Shakespeer", "Young & Beautiful", "Ruby Red"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ruby Red", "Serial Teachers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ruby Red", "It Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["It Boy", "Ruby Red"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Serial Teachers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Belle and Sebastian", "Serial Teachers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Serial Teachers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "The Great Beauty",
+        "The Lunchbox",
+        "Snowpiercer",
+        "Venus in Fur",
+        "Tom at the Farm",
+        "The Grandmaster",
+        "Mood Indigo",
+        "Chinese Puzzle",
+        "9 Month Stretch",
+        "It Boy",
+        "Serial Teachers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Belle and Sebastian", "It Boy", "Serial Teachers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Past",
+        "Blue Is the Warmest Color",
+        "The Great Beauty",
+        "Ida",
+        "Metro Manila",
+        "Snowpiercer",
+        "Big Bad Wolves",
+        "Gloria",
+        "Stranger by the Lake",
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Metro Manila", "Snowpiercer"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Metro Manila"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Metro Manila",
+        "Paradise: Hope",
+        "Love Steaks",
+        "Suck Me Shakespeer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Metro Manila", "Stockholm", "The Grandmaster"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Four Sisters and a Wedding",
+        "Blue Is the Warmest Color",
+        "Miracle in Cell No. 7",
+        "Metro Manila",
+        "Snowpiercer",
+        "We Are the Nobles"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Barber's Tales", "Metro Manila"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "Barber's Tales",
+        "Metro Manila",
+        "Snowpiercer",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yeh Jawaani Hai Deewani",
+        "Chennai Express",
+        "Pee Mak",
+        "Raanjhanaa"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Pee Mak"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mary Is Happy, Mary Is Happy.", "Pee Mak"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Barber's Tales",
+        "Miracle in Cell No. 7",
+        "Han Gong-ju",
+        "Pee Mak",
+        "The Flu"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hope", "Dabbe: The Possession", "Celal and Ceren"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Dabbe: The Possession"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "CM101MMXI Fundamentals",
+        "Thou Gild'st the Even",
+        "Blue Is the Warmest Color",
+        "Dabbe: The Possession",
+        "Wedding Association",
+        "Celal and Ceren"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "CM101MMXI Fundamentals",
+        "Snowpiercer",
+        "The Butterfly's Dream",
+        "Blue Is the Warmest Color",
+        "Dabbe: The Possession",
+        "Celal and Ceren"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Dabbe: The Possession",
+        "Krrish 3",
+        "Hope",
+        "Miracle in Cell No. 7",
+        "Drishyam",
+        "Snowpiercer",
+        "Journey to the West: Conquering the Demons",
+        "Miss Violence"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Celal and Ceren", "Dabbe: The Possession"]
+    },
+    {
+      "count": 7,
+      "ranking": ["Sun in Buckets"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sun in Buckets", "Witching & Bitching"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sun in Buckets", "The Great Beauty"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Is the Warmest Color", "Sun in Buckets"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Love Steaks"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Past",
+        "Jealousy",
+        "Young & Beautiful",
+        "Stockholm",
+        "Blue Is the Warmest Color",
+        "Love Steaks"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Crystal Fairy & the Magical Cactus",
+        "Love Steaks"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "The Great Beauty",
+        "A Touch of Sin",
+        "Omar",
+        "Thou Gild'st the Even",
+        "Chinese Puzzle",
+        "Blue Is the Warmest Color",
+        "Moebius",
+        "Love Steaks"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Love Steaks"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Miss Violence",
+        "Love Steaks",
+        "Blue Is the Warmest Color",
+        "Ida",
+        "My Mom Is a Character"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Love Steaks", "Dabbe: The Possession"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blue Is the Warmest Color",
+        "Love Steaks",
+        "Snowpiercer",
+        "The Butterfly's Dream"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "We Are the Best!",
+        "Venus in Fur",
+        "Stranger by the Lake",
+        "Bad Hair",
+        "Tom at the Farm",
+        "Free Fall",
+        "Blue Is the Warmest Color",
+        "The Strange Color of Your Body's Tears",
+        "Love Steaks"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Aashiqui 2", "Go Goa Gone"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Yeh Jawaani Hai Deewani", "Aashiqui 2", "Raanjhanaa"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Aashiqui 2"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Queen", "Yeh Jawaani Hai Deewani", "Raanjhanaa"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Soodhu Kavvum", "Raanjhanaa"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yeh Jawaani Hai Deewani",
+        "Lootera",
+        "Bhaag Milkha Bhaag",
+        "Raanjhanaa"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bhaag Milkha Bhaag",
+        "Kai Po Che!",
+        "Special 26",
+        "Chennai Express",
+        "The Lunchbox",
+        "Raanjhanaa"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Raanjhanaa"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Dance of Reality",
+        "Snowpiercer",
+        "Child's Pose",
+        "Like Father, Like Son",
+        "The Past",
+        "Paradise: Hope",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color",
+        "Suck Me Shakespeer",
+        "The Great Beauty",
+        "A Touch of Sin",
+        "Borgman",
+        "Ida",
+        "Why Don't You Play in Hell?",
+        "We Are the Best!",
+        "Tom at the Farm"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Child's Pose"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Hard to Be a God",
+        "Child's Pose",
+        "Snowpiercer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "The Great Beauty",
+        "Ida",
+        "Stray Dogs",
+        "The Past",
+        "Snowpiercer",
+        "Child's Pose",
+        "Venus in Fur",
+        "Heli",
+        "Moebius",
+        "New World",
+        "Miss Violence",
+        "The Grandmaster",
+        "I'm So Excited!",
+        "Borgman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Child's Pose",
+        "Human Capital",
+        "Like Father, Like Son"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Borgman",
+        "Like Father, Like Son",
+        "The Great Beauty",
+        "Ida",
+        "Stray Dogs",
+        "The Past",
+        "Snowpiercer",
+        "Child's Pose",
+        "Venus in Fur",
+        "Heli",
+        "Moebius",
+        "New World",
+        "Miss Violence",
+        "The Grandmaster",
+        "I'm So Excited!",
+        "Hope",
+        "Tangerines",
+        "Why Don't You Play in Hell?",
+        "A Touch of Sin",
+        "Hwayi: A Monster Boy",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Child's Pose",
+        "Bastards",
+        "Like Father, Like Son",
+        "Tom at the Farm",
+        "I'm So Excited!",
+        "My Mom Is a Character",
+        "The Dance of Reality",
+        "Venus in Fur"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Secretly, Greatly"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Lunchbox", "Secretly, Greatly"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "Miracle in Cell No. 7",
+        "Pee Mak",
+        "Secretly, Greatly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Secretly, Greatly", "Four Sisters and a Wedding"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hope", "Secretly, Greatly", "The Flu"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Miracle in Cell No. 7",
+        "Blue Is the Warmest Color",
+        "Secretly, Greatly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Free Fall", "Secretly, Greatly"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Four Sisters and a Wedding",
+        "Secretly, Greatly",
+        "Miracle in Cell No. 7"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miracle in Cell No. 7", "Secretly, Greatly"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Age of Panic",
+        "Blue Is the Warmest Color",
+        "Brazilian Western",
+        "Thesis on a Homicide",
+        "We're So Young",
+        "I'm So Excited!"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Thesis on a Homicide"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "The Grandmaster",
+        "The Past",
+        "Thesis on a Homicide",
+        "Ida"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Wolf at the Door", "Thesis on a Homicide"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "Venus in Fur",
+        "Blue Is the Warmest Color",
+        "Thesis on a Homicide"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Thesis on a Homicide", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Snowpiercer",
+        "Venus in Fur",
+        "Blue Is the Warmest Color",
+        "Brazilian Western",
+        "Thesis on a Homicide"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Mafia Kills Only in Summer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "The Mafia Kills Only in Summer",
+        "Sun in Buckets"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "The Lunchbox",
+        "The Mafia Kills Only in Summer",
+        "Snowpiercer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Mafia Kills Only in Summer", "Human Capital"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Sun in Buckets",
+        "The Mafia Kills Only in Summer",
+        "Suck Me Shakespeer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "A Touch of Sin",
+        "Like Father, Like Son",
+        "The Mafia Kills Only in Summer",
+        "Sun in Buckets",
+        "Snowpiercer",
+        "Witching & Bitching"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Mafia Kills Only in Summer", "Sun in Buckets"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Hope",
+        "The Great Beauty",
+        "Tangerines",
+        "Ida",
+        "The Lunchbox",
+        "Why Don't You Play in Hell?",
+        "Drishyam",
+        "Soodhu Kavvum",
+        "Han Gong-ju",
+        "The Dance of Reality",
+        "The Past",
+        "New World",
+        "Ilo Ilo",
+        "Lootera",
+        "Queen",
+        "Ugly",
+        "Snowpiercer",
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Kai Po Che!",
+        "Stranger by the Lake",
+        "Tom at the Farm",
+        "Special 26",
+        "The Grandmaster",
+        "Age of Panic",
+        "Goliyon Ki Raasleela Ram-Leela",
+        "Blue Is the Warmest Color",
+        "The Strange Color of Your Body's Tears",
+        "Crystal Fairy & the Magical Cactus",
+        "Raanjhanaa",
+        "Go Goa Gone",
+        "Chennai Express",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Special 26", "Chennai Express", "Dhoom 3", "Krrish 3"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Raanjhanaa", "Chennai Express", "Krrish 3"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bhaag Milkha Bhaag",
+        "Aashiqui 2",
+        "Chennai Express",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Queen",
+        "Yeh Jawaani Hai Deewani",
+        "Chennai Express",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Kai Po Che!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ugly", "Kai Po Che!", "Dhoom 3"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Kai Po Che!",
+        "Raanjhanaa",
+        "Chennai Express",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Soodhu Kavvum", "Yeh Jawaani Hai Deewani", "Kai Po Che!"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Lunchbox",
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Kai Po Che!",
+        "Go Goa Gone",
+        "Chennai Express",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kai Po Che!", "Chennai Express"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Miracle in Cell No. 7",
+        "The Terror Live",
+        "Blue Is the Warmest Color",
+        "The Flu"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hard to Be a God",
+        "Stranger by the Lake",
+        "The Terror Live",
+        "A Touch of Sin",
+        "We Are the Best!",
+        "Big Bad Wolves",
+        "Like Father, Like Son",
+        "Why Don't You Play in Hell?",
+        "The Past",
+        "Snowpiercer",
+        "Venus in Fur",
+        "Borgman",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color",
+        "Moebius"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tom at the Farm",
+        "Hope",
+        "CM101MMXI Fundamentals",
+        "My Sweet Orange Tree",
+        "New World",
+        "The Attorney",
+        "Snowpiercer",
+        "Stranger by the Lake",
+        "The Butterfly's Dream",
+        "The Terror Live",
+        "Hwayi: A Monster Boy",
+        "The House at the End of Time",
+        "Free Fall",
+        "Miss Violence",
+        "Secretly, Greatly",
+        "Dabbe: The Possession",
+        "Wedding Association",
+        "Celal and Ceren"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "The Terror Live"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Terror Live", "Miracle in Cell No. 7"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "The Grandmaster",
+        "The Terror Live",
+        "Secretly, Greatly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Terror Live"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Queen",
+        "Ugly",
+        "Hope",
+        "The Lunchbox",
+        "Soodhu Kavvum",
+        "Yeh Jawaani Hai Deewani",
+        "The Grandmaster",
+        "Raanjhanaa",
+        "Go Goa Gone",
+        "Chennai Express",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Soodhu Kavvum"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Krrish 3", "Soodhu Kavvum"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tangerines",
+        "Bhaag Milkha Bhaag",
+        "Soodhu Kavvum",
+        "Hope",
+        "Drishyam",
+        "Lootera",
+        "Queen",
+        "Ugly",
+        "Snowpiercer",
+        "Yeh Jawaani Hai Deewani",
+        "Raanjhanaa",
+        "Chennai Express",
+        "Dhoom 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Soodhu Kavvum",
+        "New World",
+        "The Lunchbox",
+        "The Past",
+        "Bhaag Milkha Bhaag",
+        "The House at the End of Time",
+        "Young & Beautiful"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Soodhu Kavvum", "Yeh Jawaani Hai Deewani"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hope", "Miracle in Cell No. 7", "Hwayi: A Monster Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Hope",
+        "The Great Beauty",
+        "Tangerines",
+        "Ida",
+        "Miracle in Cell No. 7",
+        "Mary Is Happy, Mary Is Happy.",
+        "Stranger by the Lake",
+        "Hwayi: A Monster Boy",
+        "Blue Is the Warmest Color",
+        "Moebius"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hwayi: A Monster Boy",
+        "The Strange Color of Your Body's Tears",
+        "Why Don't You Play in Hell?",
+        "The Dance of Reality",
+        "Snowpiercer",
+        "The Grandmaster",
+        "Big Bad Wolves",
+        "Moebius",
+        "Wetlands",
+        "Dhoom 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "New World",
+        "Hwayi: A Monster Boy",
+        "Hope",
+        "Young & Beautiful",
+        "Secretly, Greatly"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miracle in Cell No. 7", "Hwayi: A Monster Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hwayi: A Monster Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Mom Is a Character",
+        "Teen's Confessions",
+        "Meu Passado Me Condena: O Filme"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Teen's Confessions"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Mom Is a Character",
+        "Teen's Confessions",
+        "Meu Passado Me Condena: O Filme",
+        "Blue Is the Warmest Color",
+        "We're So Young",
+        "Till Luck Do Us Part 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Wolf at the Door",
+        "Snowpiercer",
+        "Blue Is the Warmest Color",
+        "We're So Young",
+        "Tattoo",
+        "My Mom Is a Character",
+        "Young & Beautiful",
+        "Teen's Confessions",
+        "Till Luck Do Us Part 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Venus in Fur",
+        "Teen's Confessions",
+        "Till Luck Do Us Part 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Brazilian Western",
+        "My Mom Is a Character",
+        "Meu Passado Me Condena: O Filme",
+        "Teen's Confessions",
+        "Till Luck Do Us Part 2",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Teen's Confessions",
+        "Till Luck Do Us Part 2",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "A Wolf at the Door",
+        "My Mom Is a Character",
+        "We're So Young"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["We're So Young"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Beauty", "We're So Young"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Sweet Orange Tree",
+        "My Mom Is a Character",
+        "Teen's Confessions",
+        "We're So Young",
+        "Meu Passado Me Condena: O Filme",
+        "Till Luck Do Us Part 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "We're So Young",
+        "Brazilian Western",
+        "Young & Beautiful",
+        "My Mom Is a Character"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["We're So Young", "Meu Passado Me Condena: O Filme"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "We're So Young",
+        "My Sweet Orange Tree",
+        "My Mom Is a Character"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Till Luck Do Us Part 2"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "My Mom Is a Character",
+        "Till Luck Do Us Part 2",
+        "Meu Passado Me Condena: O Filme"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Mom Is a Character",
+        "Reaching for the Moon",
+        "Till Luck Do Us Part 2"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Belle and Sebastian", "Blue Is the Warmest Color"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Belle and Sebastian"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Instructions Not Included",
+        "We Are the Nobles",
+        "Belle and Sebastian"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Belle and Sebastian", "It Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "It Boy",
+        "Blue Is the Warmest Color",
+        "Belle and Sebastian",
+        "Serial Teachers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Young & Beautiful", "Belle and Sebastian"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Special 26"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ugly",
+        "Queen",
+        "Kai Po Che!",
+        "Dhoom 3",
+        "The Lunchbox",
+        "Lootera",
+        "Snowpiercer",
+        "Special 26",
+        "Raanjhanaa"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Lunchbox", "Special 26", "Go Goa Gone"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Grandmaster",
+        "The Keeper of Lost Causes",
+        "New World",
+        "Snowpiercer",
+        "Serial Teachers",
+        "Police Story: Lockdown",
+        "Ruby Red"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Snowpiercer",
+        "Young & Beautiful",
+        "Bastards",
+        "R100",
+        "Venus in Fur",
+        "Age of Uprising: The Legend of Michael Kohlhaas",
+        "Police Story: Lockdown"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Lunchbox", "Drishyam", "Police Story: Lockdown"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hope",
+        "The Great Beauty",
+        "Ida",
+        "Why Don't You Play in Hell?",
+        "Miracle in Cell No. 7",
+        "New World",
+        "Snowpiercer",
+        "The Grandmaster",
+        "Blue Is the Warmest Color",
+        "Moebius",
+        "Police Story: Lockdown"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Journey to the West: Conquering the Demons",
+        "It Boy",
+        "Chennai Express",
+        "Police Story: Lockdown",
+        "Dhoom 3",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Cold Eyes",
+        "Gloria",
+        "The Grandmaster",
+        "Police Story: Lockdown",
+        "Young & Beautiful",
+        "Snowpiercer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "New World",
+        "Blue Is the Warmest Color",
+        "Police Story: Lockdown",
+        "Snowpiercer",
+        "Suck Me Shakespeer"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Police Story: Lockdown"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Go Goa Gone", "Chennai Express", "Dhoom 3"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Yeh Jawaani Hai Deewani", "Go Goa Gone"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Go Goa Gone"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ugly",
+        "The Lunchbox",
+        "Queen",
+        "Snowpiercer",
+        "Yeh Jawaani Hai Deewani",
+        "Bhaag Milkha Bhaag",
+        "Raanjhanaa",
+        "Go Goa Gone",
+        "Aashiqui 2",
+        "Chennai Express",
+        "Krrish 3",
+        "Dhoom 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Dhoom 3",
+        "Special 26",
+        "Go Goa Gone",
+        "Chennai Express",
+        "Krrish 3"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Chinese Puzzle", "9 Month Stretch", "Snowpiercer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Like Father, Like Son",
+        "Ida",
+        "Blue Is the Warmest Color",
+        "9 Month Stretch"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["9 Month Stretch"]
+    },
+    {
+      "count": 1,
+      "ranking": ["It Boy", "9 Month Stretch"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "Blue Is the Warmest Color",
+        "Like Father, Like Son",
+        "The Grandmaster",
+        "9 Month Stretch"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Me, Myself and Mum",
+        "Blue Is the Warmest Color",
+        "9 Month Stretch",
+        "It Boy"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Butterfly's Dream", "Celal and Ceren"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Celal and Ceren"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "CM101MMXI Fundamentals", "Celal and Ceren"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Wedding Association", "Celal and Ceren"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Snowpiercer", "Blue Is the Warmest Color", "Celal and Ceren"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Wedding Association"]
+    },
+    {
+      "count": 1,
+      "ranking": ["CM101MMXI Fundamentals", "Wedding Association"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wedding Association", "CM101MMXI Fundamentals"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "CM101MMXI Fundamentals",
+        "The Butterfly's Dream",
+        "Dabbe: The Possession",
+        "Wedding Association",
+        "Celal and Ceren"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "CM101MMXI Fundamentals",
+        "Wedding Association",
+        "Celal and Ceren"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Mom Is a Character",
+        "Reaching for the Moon",
+        "Brazilian Western"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "A Wolf at the Door",
+        "The Past",
+        "Heli",
+        "Blue Is the Warmest Color",
+        "Brazilian Western",
+        "We're So Young"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Brazilian Western"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Wolf at the Door", "Brazilian Western"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Free Fall", "Brazilian Western"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Wolf at the Door",
+        "My Mom Is a Character",
+        "Meu Passado Me Condena: O Filme"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Meu Passado Me Condena: O Filme", "My Mom Is a Character"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Meu Passado Me Condena: O Filme", "Till Luck Do Us Part 2"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "My Mom Is a Character",
+        "Meu Passado Me Condena: O Filme",
+        "Brazilian Western",
+        "We're So Young",
+        "Till Luck Do Us Part 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Snowpiercer",
+        "My Mom Is a Character",
+        "Blue Is the Warmest Color",
+        "Meu Passado Me Condena: O Filme"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "Snowpiercer",
+        "The Grandmaster",
+        "Living Is Easy with Eyes Closed"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Living Is Easy with Eyes Closed"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Living Is Easy with Eyes Closed", "Witching & Bitching"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ida",
+        "Living Is Easy with Eyes Closed",
+        "The 100 Year-Old Man Who Climbed Out the Window and Disappeared",
+        "Blue Is the Warmest Color",
+        "Young & Beautiful"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Living Is Easy with Eyes Closed",
+        "Witching & Bitching",
+        "I'm So Excited!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stockholm",
+        "Living Is Easy with Eyes Closed",
+        "Young & Beautiful",
+        "Blue Is the Warmest Color"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Beauty",
+        "Living Is Easy with Eyes Closed",
+        "Blue Is the Warmest Color"
+      ]
+    }
+  ]
+}

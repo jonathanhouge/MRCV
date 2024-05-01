@@ -1,0 +1,1901 @@
+{
+  "ballots": [
+    {
+      "count": 17,
+      "ranking": ["The Hedgehog"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Hedgehog", "Kung Fury"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Hedgehog", "Uncanny Valley", "#Introductions"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Group B", "The Hedgehog", "Brothers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "The Audition", "The Hedgehog", "Tuesday"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Power/Rangers", "The Hedgehog"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "The Hedgehog"]
+    },
+    {
+      "count": 19,
+      "ranking": ["The Boyfriend Game"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "The Boyfriend Game"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "M3LL155X",
+        "Stutterer",
+        "Backyard",
+        "Kung Fury",
+        "Brothers",
+        "Tuesday",
+        "De Djess",
+        "The Boyfriend Game"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "The Boyfriend Game"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Ellis",
+        "Greener Grass",
+        "Brothers",
+        "De Djess",
+        "Power/Rangers",
+        "The Boyfriend Game",
+        "Doc Brown Saves the World",
+        "The Audition",
+        "Les 3 Boutons",
+        "Vale"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Boyfriend Game", "Any Virgin Left Alive?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "M3LL155X",
+        "Stutterer",
+        "#Introductions",
+        "The Disappearance of Willie Bingham",
+        "The Boyfriend Game"
+      ]
+    },
+    {
+      "count": 16,
+      "ranking": ["The Answers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blood Below the Skin", "The Answers", "Kung Fury"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Answers", "Uncanny Valley", "The Quiet Zone"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Answers",
+        "Power/Rangers",
+        "Kung Fury",
+        "Predator: Dark Ages"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "The Answers",
+        "Blue Neighbourhood",
+        "Brothers",
+        "Paradise Lost?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stutterer", "The Answers", "Brothers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "The Answers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Answers", "Pretty Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Audition", "The Answers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Answers", "Blue Neighbourhood"]
+    },
+    {
+      "count": 17,
+      "ranking": ["Paradise Lost?"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Brothers", "Paradise Lost?"]
+    },
+    {
+      "count": 1,
+      "ranking": ["M3LL155X", "Paradise Lost?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kung Fury",
+        "M3LL155X",
+        "Power/Rangers",
+        "Vale",
+        "Paradise Lost?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Paradise Lost?"]
+    },
+    {
+      "count": 1,
+      "ranking": ["#Introductions", "Kung Fury", "Paradise Lost?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Brothers",
+        "Ellis",
+        "Tuesday",
+        "Paradise Lost?",
+        "Uncanny Valley",
+        "Vale"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Paradise Lost?", "Conventional"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Any Virgin Left Alive?", "Kung Fury"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brothers", "Tuesday", "Any Virgin Left Alive?"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Brothers", "Any Virgin Left Alive?"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Depressive Cop", "Any Virgin Left Alive?"]
+    },
+    {
+      "count": 8,
+      "ranking": ["Any Virgin Left Alive?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hunter",
+        "#Introductions",
+        "Kung Fury",
+        "Tuesday",
+        "Any Virgin Left Alive?"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Kung Fury", "Any Virgin Left Alive?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "#Introductions",
+        "Kung Fury",
+        "Depressive Cop",
+        "Any Virgin Left Alive?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kung Fury",
+        "Depressive Cop",
+        "Bagboy",
+        "Everything Will Be Okay",
+        "Our Lady of Hormones",
+        "Any Virgin Left Alive?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "#Introductions",
+        "Kung Fury",
+        "Tuesday",
+        "Any Virgin Left Alive?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Any Virgin Left Alive?", "The Audition"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Depressive Cop", "Any Virgin Left Alive?", "Technophobe"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Tuesday", "Any Virgin Left Alive?"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Our Lady of Hormones", "Any Virgin Left Alive?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Our Lady of Hormones",
+        "Any Virgin Left Alive?",
+        "Depressive Cop",
+        "Conventional"
+      ]
+    },
+    {
+      "count": 17,
+      "ranking": ["Conventional"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Conventional",
+        "Power/Rangers",
+        "Kung Fury",
+        "Uncanny Valley"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Brothers", "Tuesday", "Conventional"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Disappearance of Willie Bingham",
+        "Conventional",
+        "Vicious"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bagboy",
+        "Kung Fury",
+        "Uncanny Valley",
+        "Conventional",
+        "Power/Rangers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Stutterer",
+        "The Disappearance of Willie Bingham",
+        "Conventional",
+        "Vicious"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Conventional"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Kung Fury",
+        "Greener Grass",
+        "Conventional"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Doc Brown Saves the World", "Mr. Bean: Funeral"]
+    },
+    {
+      "count": 15,
+      "ranking": ["Doc Brown Saves the World"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kung Fury",
+        "The Audition",
+        "Brothers",
+        "Doc Brown Saves the World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Trembling", "Doc Brown Saves the World"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Kung Fury", "Doc Brown Saves the World"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Doc Brown Saves the World", "The Audition"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Doc Brown Saves the World",
+        "The Quiet Zone",
+        "Paradise Lost?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Power/Rangers", "Doc Brown Saves the World"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Audition", "Doc Brown Saves the World"]
+    },
+    {
+      "count": 21,
+      "ranking": ["Mr. Bean: Funeral"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mr. Bean: Funeral", "Doc Brown Saves the World"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "Mr. Bean: Funeral"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "#Introductions",
+        "Greener Grass",
+        "Les 3 Boutons",
+        "Mr. Bean: Funeral"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ahalya", "Brothers", "Mr. Bean: Funeral"]
+    },
+    {
+      "count": 18,
+      "ranking": ["A Reasonable Request"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Reasonable Request", "The Audition", "Ellis"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Reasonable Request", "Kung Fury"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Power/Rangers",
+        "Over",
+        "A Reasonable Request",
+        "Tuesday",
+        "Bad at Dancing"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Reasonable Request", "Tuesday"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Reasonable Request", "The Audition", "Stutterer"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "A Reasonable Request"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "A Reasonable Request"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Answers",
+        "Kung Fury",
+        "Uncanny Valley",
+        "Power/Rangers",
+        "Predator: Dark Ages",
+        "Paradise Lost?"
+      ]
+    },
+    {
+      "count": 11,
+      "ranking": ["Uncanny Valley"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Kung Fury", "Uncanny Valley"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Uncanny Valley", "Les 3 Boutons"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kung Fury",
+        "Uncanny Valley",
+        "Brothers",
+        "The Disappearance of Willie Bingham"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Uncanny Valley", "Greener Grass", "Vale"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Uncanny Valley", "The Disappearance of Willie Bingham"]
+    },
+    {
+      "count": 2,
+      "ranking": []
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mr. Bean: Funeral",
+        "Conventional",
+        "Uncanny Valley",
+        "The Quiet Zone"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Uncanny Valley", "Power/Rangers", "Stutterer"]
+    },
+    {
+      "count": 17,
+      "ranking": ["The Quiet Zone"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Quiet Zone", "Kung Fury", "Mr. Happy"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Disappearance of Willie Bingham", "The Quiet Zone"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Quiet Zone", "Brothers", "Vicious"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "The Quiet Zone"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "The Quiet Zone"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Technophobe", "The Quiet Zone"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Tuesday"]
+    },
+    {
+      "count": 16,
+      "ranking": ["Tuesday"]
+    },
+    {
+      "count": 1,
+      "ranking": ["#Introductions", "Brothers", "Tuesday", "The Audition"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Stutterer", "Tuesday"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Our Lady of Hormones",
+        "Tuesday",
+        "Depressive Cop",
+        "Any Virgin Left Alive?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kung Fury",
+        "Greener Grass",
+        "Tuesday",
+        "Power/Rangers",
+        "Any Virgin Left Alive?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brothers", "Tuesday"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "Doc Brown Saves the World"]
+    },
+    {
+      "count": 22,
+      "ranking": ["Brothers"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Audition", "Brothers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "Brothers"]
+    },
+    {
+      "count": 22,
+      "ranking": ["Les 3 Boutons"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Neighbourhood", "Stutterer", "Les 3 Boutons"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kung Fury",
+        "Les 3 Boutons",
+        "Stutterer",
+        "#Introductions",
+        "The Audition"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Hunter",
+        "Bad at Dancing",
+        "Brothers",
+        "Les 3 Boutons",
+        "Blue Neighbourhood"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bad at Dancing", "Kung Fury"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Kung Fury", "Bad at Dancing"]
+    },
+    {
+      "count": 14,
+      "ranking": ["Bad at Dancing"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Les 3 Boutons", "Bad at Dancing"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Bad at Dancing", "The Audition"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Bad at Dancing", "Les 3 Boutons"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mr. Happy",
+        "Our Lady of Hormones",
+        "Bad at Dancing",
+        "Any Virgin Left Alive?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Stutterer",
+        "Friend",
+        "Bad at Dancing",
+        "Day One",
+        "Ave Maria",
+        "Les 3 Boutons"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Group B", "Bad at Dancing"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Reasonable Request",
+        "Tuesday",
+        "Bad at Dancing",
+        "The Audition",
+        "Kung Fury"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Power/Rangers", "Vicious"]
+    },
+    {
+      "count": 20,
+      "ranking": ["Vicious"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pretty Boy", "Vicious"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hunter", "The Quiet Zone", "Vicious"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Disappearance of Willie Bingham", "Vicious"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Vicious", "Kung Fury"]
+    },
+    {
+      "count": 15,
+      "ranking": ["Vale"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stutterer", "The Audition", "Vale"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Tuesday", "Vale"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Vale", "#Introductions"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brothers", "The Audition", "Tuesday", "Vale"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Vale", "Bagboy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Vale", "Kung Fury"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Stutterer",
+        "Friend",
+        "Doc Brown Saves the World",
+        "Ave Maria",
+        "Vale"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Ellis",
+        "The Audition",
+        "Vale",
+        "Doc Brown Saves the World",
+        "Ave Maria",
+        "Bagboy"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Depressive Cop"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "Any Virgin Left Alive?", "Depressive Cop"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Any Virgin Left Alive?", "Depressive Cop"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "Depressive Cop"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kung Fury",
+        "Our Lady of Hormones",
+        "Depressive Cop",
+        "Any Virgin Left Alive?",
+        "The Quiet Zone"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Our Lady of Hormones",
+        "Any Virgin Left Alive?",
+        "Depressive Cop",
+        "Kung Fury"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Depressive Cop", "Any Virgin Left Alive?", "Tuesday"]
+    },
+    {
+      "count": 3,
+      "ranking": [
+        "Our Lady of Hormones",
+        "Depressive Cop",
+        "Any Virgin Left Alive?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Our Lady of Hormones",
+        "Tuesday",
+        "Depressive Cop",
+        "Any Virgin Left Alive?",
+        "The Audition"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Brothers",
+        "Depressive Cop",
+        "Any Virgin Left Alive?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Our Lady of Hormones", "Depressive Cop"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Depressive Cop", "Any Virgin Left Alive?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "M3LL155X",
+        "Kung Fury",
+        "Our Lady of Hormones",
+        "De Djess",
+        "Depressive Cop",
+        "Any Virgin Left Alive?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tuesday",
+        "Depressive Cop",
+        "Any Virgin Left Alive?",
+        "Ave Maria"
+      ]
+    },
+    {
+      "count": 22,
+      "ranking": ["Technophobe"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Technophobe"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brothers", "Technophobe"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Technophobe", "The Audition"]
+    },
+    {
+      "count": 17,
+      "ranking": ["Stutterer"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Stutterer", "Friend"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Stutterer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Power/Rangers",
+        "Kung Fury",
+        "Stutterer",
+        "Brothers",
+        "Vicious",
+        "Doc Brown Saves the World"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Stutterer", "Kung Fury"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Everything Will Be Okay", "Stutterer", "Friend"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Neighbourhood", "Stutterer"]
+    },
+    {
+      "count": 21,
+      "ranking": ["The Disappearance of Willie Bingham"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Disappearance of Willie Bingham", "Kung Fury"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bagboy",
+        "Kung Fury",
+        "The Disappearance of Willie Bingham",
+        "Brothers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Disappearance of Willie Bingham",
+        "The Audition",
+        "Brothers",
+        "Stutterer",
+        "Ahalya"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hedgehog",
+        "Kung Fury",
+        "The Disappearance of Willie Bingham",
+        "Conventional"
+      ]
+    },
+    {
+      "count": 22,
+      "ranking": ["Blue Neighbourhood"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Neighbourhood", "The Disappearance of Willie Bingham"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Neighbourhood", "Greener Grass"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pretty Boy", "Blue Neighbourhood"]
+    },
+    {
+      "count": 18,
+      "ranking": ["Power/Rangers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Power/Rangers", "The Audition"]
+    },
+    {
+      "count": 1,
+      "ranking": ["#Introductions", "Power/Rangers"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Kung Fury", "Power/Rangers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kung Fury",
+        "The Audition",
+        "Friend",
+        "Stutterer",
+        "Brothers",
+        "Tuesday",
+        "De Djess",
+        "Doc Brown Saves the World",
+        "Les 3 Boutons",
+        "Power/Rangers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bagboy", "Power/Rangers", "The Audition"]
+    },
+    {
+      "count": 16,
+      "ranking": ["Ellis"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Ellis", "The Audition"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stutterer", "Ellis"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ellis", "Brothers", "The Audition"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Ellis"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ellis", "Brothers", "Doc Brown Saves the World", "Vale"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bargain", "Kung Fury", "Ellis"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Power/Rangers", "Ellis", "The Audition"]
+    },
+    {
+      "count": 13,
+      "ranking": ["Hunter"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hunter", "Brothers", "#Introductions"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Hunter", "Kung Fury"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hunter", "Brothers", "Any Virgin Left Alive?"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bad at Dancing", "Hunter"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hunter", "Kung Fury", "Brothers", "The Audition"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "Hunter"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hunter", "Kung Fury", "Tuesday"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hunter", "Depressive Cop", "Tuesday", "Our Lady of Hormones"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hunter",
+        "Backyard",
+        "Kung Fury",
+        "Blood Below the Skin",
+        "The Audition",
+        "Les 3 Boutons"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brothers", "Stutterer", "Hunter"]
+    },
+    {
+      "count": 21,
+      "ranking": ["Bargain"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bargain", "Brothers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bargain", "Our Lady of Hormones", "Backyard"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Bargain"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bargain", "Backyard", "Kung Fury"]
+    },
+    {
+      "count": 18,
+      "ranking": ["Over"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "Over"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Over", "Day One"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Over", "Bad at Dancing"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Over", "Brothers", "The Boyfriend Game"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Neighbourhood", "Over"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Uncanny Valley",
+        "The Disappearance of Willie Bingham",
+        "Stutterer",
+        "Over",
+        "The Answers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "Over", "Stutterer"]
+    },
+    {
+      "count": 17,
+      "ranking": ["Ahalya"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Ahalya", "Brothers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Ahalya", "Brothers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Ahalya",
+        "Kung Fury",
+        "A Reasonable Request",
+        "Power/Rangers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ahalya", "Brothers", "Tuesday", "Vicious"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "Ahalya"]
+    },
+    {
+      "count": 18,
+      "ranking": ["Ave Maria"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Neighbourhood", "Ave Maria"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Day One",
+        "Ave Maria",
+        "Blood Below the Skin",
+        "Mr. Happy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Ave Maria"]
+    },
+    {
+      "count": 5,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Stutterer",
+        "Friend",
+        "Day One",
+        "Ave Maria"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Brothers",
+        "Tuesday",
+        "Ave Maria",
+        "Kung Fury",
+        "Any Virgin Left Alive?",
+        "Depressive Cop"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stutterer", "Ave Maria"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brothers", "Ave Maria", "The Hedgehog"]
+    },
+    {
+      "count": 15,
+      "ranking": ["Greener Grass"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Greener Grass", "Tuesday"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bagboy", "Kung Fury", "Greener Grass"]
+    },
+    {
+      "count": 1,
+      "ranking": ["M3LL155X", "Greener Grass"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Over", "Kung Fury", "Greener Grass"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Stutterer", "Kung Fury", "Greener Grass"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Greener Grass", "Les 3 Boutons"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Over", "Tuesday", "De Djess"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Power/Rangers",
+        "Bad at Dancing",
+        "Les 3 Boutons",
+        "The Hedgehog",
+        "De Djess",
+        "Blue Neighbourhood"
+      ]
+    },
+    {
+      "count": 12,
+      "ranking": ["De Djess"]
+    },
+    {
+      "count": 1,
+      "ranking": ["De Djess", "The Audition", "Tuesday"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Vale",
+        "Kung Fury",
+        "Our Lady of Hormones",
+        "Greener Grass",
+        "Brothers",
+        "Tuesday",
+        "De Djess",
+        "Depressive Cop",
+        "Any Virgin Left Alive?",
+        "Les 3 Boutons"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Tuesday", "De Djess"]
+    },
+    {
+      "count": 2,
+      "ranking": ["De Djess", "Les 3 Boutons"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kung Fury",
+        "#Introductions",
+        "A Reasonable Request",
+        "De Djess"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["De Djess", "Tuesday"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "De Djess"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "M3LL155X",
+        "Tuesday",
+        "De Djess",
+        "The Audition",
+        "Les 3 Boutons"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stutterer", "Kung Fury", "De Djess"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Greener Grass", "Brothers", "Tuesday", "De Djess"]
+    },
+    {
+      "count": 20,
+      "ranking": ["The Audition"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Brothers", "The Audition"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brothers", "The Audition"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Group B", "Stutterer", "The Audition"]
+    },
+    {
+      "count": 16,
+      "ranking": ["M3LL155X"]
+    },
+    {
+      "count": 1,
+      "ranking": ["M3LL155X", "Tuesday", "The Audition"]
+    },
+    {
+      "count": 2,
+      "ranking": ["M3LL155X", "Our Lady of Hormones", "Greener Grass"]
+    },
+    {
+      "count": 1,
+      "ranking": ["M3LL155X", "Bagboy", "Stutterer", "Over", "Kung Fury"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "M3LL155X"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "M3LL155X", "Stutterer"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stutterer", "M3LL155X"]
+    },
+    {
+      "count": 2,
+      "ranking": ["M3LL155X", "Tuesday"]
+    },
+    {
+      "count": 19,
+      "ranking": ["Trembling"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Trembling", "The Audition"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Trembling", "Blue Neighbourhood", "Brothers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "The Audition", "Trembling"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Trembling", "Brothers"]
+    },
+    {
+      "count": 10,
+      "ranking": ["Friend"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Friend", "The Audition"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Everything Will Be Okay", "Friend", "Day One"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Everything Will Be Okay", "Friend"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bagboy", "Stutterer", "Friend", "A Reasonable Request"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Stutterer",
+        "Friend",
+        "The Audition"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Friend"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Kung Fury",
+        "Friend",
+        "Everything Will Be Okay",
+        "Ave Maria",
+        "Day One"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Friend", "Brothers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Friend",
+        "Ave Maria",
+        "Day One",
+        "Everything Will Be Okay",
+        "Brothers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Everything Will Be Okay", "Stutterer", "Friend", "Ave Maria"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Ave Maria",
+        "Doc Brown Saves the World",
+        "Stutterer",
+        "Friend",
+        "Day One"
+      ]
+    },
+    {
+      "count": 18,
+      "ranking": ["Bagboy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Hedgehog", "Bagboy", "Kung Fury"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Bagboy", "Brothers"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Kung Fury", "Bagboy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bagboy", "The Audition"]
+    },
+    {
+      "count": 20,
+      "ranking": ["Mr. Happy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mr. Happy", "Brothers", "Tuesday"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mr. Happy", "Kung Fury"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stutterer", "Kung Fury", "Mr. Happy", "Brothers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Mr. Happy",
+        "Brothers",
+        "Tuesday",
+        "The Audition"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Everything Will Be Okay",
+        "Friend",
+        "Ave Maria",
+        "Day One"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Friend",
+        "Day One",
+        "Everything Will Be Okay",
+        "Uncanny Valley",
+        "Ave Maria",
+        "Les 3 Boutons"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Day One", "Friend"]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Stutterer",
+        "Day One",
+        "Ave Maria"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Stutterer",
+        "Friend",
+        "Ellis",
+        "Day One",
+        "Ave Maria",
+        "The Audition"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stutterer", "Brothers", "Day One"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Stutterer",
+        "Kung Fury",
+        "Friend",
+        "Ellis",
+        "Day One",
+        "Ave Maria",
+        "Predator: Dark Ages",
+        "Les 3 Boutons"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Stutterer",
+        "Kung Fury",
+        "Friend",
+        "Day One",
+        "Ave Maria"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Friend",
+        "Day One",
+        "Ave Maria",
+        "Everything Will Be Okay"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Day One",
+        "Stutterer",
+        "Kung Fury",
+        "Power/Rangers",
+        "Friend",
+        "Everything Will Be Okay",
+        "Ave Maria",
+        "Predator: Dark Ages"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Friend",
+        "Tuesday",
+        "Stutterer",
+        "Ave Maria",
+        "Day One"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "Friend",
+        "Les 3 Boutons",
+        "Day One",
+        "Ave Maria"
+      ]
+    },
+    {
+      "count": 22,
+      "ranking": ["Group B"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Group B"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Group B", "Kung Fury"]
+    },
+    {
+      "count": 15,
+      "ranking": ["Rocks that Bleed", "Blue Sushi"]
+    },
+    {
+      "count": 9,
+      "ranking": ["Rocks that Bleed"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tuesday",
+        "The Audition",
+        "Blue Sushi",
+        "Bad at Dancing",
+        "Rocks that Bleed",
+        "Kung Fury"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Rocks that Bleed"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mr. Bean: Funeral", "Conventional"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Reasonable Request", "Blue Sushi", "Rocks that Bleed"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Rocks that Bleed", "Stutterer"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Predator: Dark Ages", "Brothers"]
+    },
+    {
+      "count": 16,
+      "ranking": ["Predator: Dark Ages"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Brothers",
+        "Vicious",
+        "The Disappearance of Willie Bingham",
+        "Predator: Dark Ages"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Stutterer",
+        "Kung Fury",
+        "Friend",
+        "Greener Grass",
+        "Day One",
+        "Ave Maria",
+        "Predator: Dark Ages"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Kung Fury", "Predator: Dark Ages"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mr. Bean: Funeral",
+        "Doc Brown Saves the World",
+        "Predator: Dark Ages",
+        "The Hedgehog",
+        "Power/Rangers"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Everything Will Be Okay"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Everything Will Be Okay", "Kung Fury", "Power/Rangers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Disappearance of Willie Bingham",
+        "Stutterer",
+        "Everything Will Be Okay"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Everything Will Be Okay", "Stutterer"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Everything Will Be Okay",
+        "Stutterer",
+        "Brothers",
+        "Power/Rangers",
+        "The Audition"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Everything Will Be Okay", "Friend", "Power/Rangers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "Everything Will Be Okay"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stutterer",
+        "The Audition",
+        "Everything Will Be Okay",
+        "Kung Fury"
+      ]
+    },
+    {
+      "count": 12,
+      "ranking": ["Our Lady of Hormones"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brothers", "Our Lady of Hormones"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "Our Lady of Hormones", "Backyard"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Our Lady of Hormones", "Tuesday"]
+    },
+    {
+      "count": 19,
+      "ranking": ["#Introductions"]
+    },
+    {
+      "count": 1,
+      "ranking": ["#Introductions", "Brothers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "#Introductions"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "#Introductions", "Vicious"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stutterer", "#Introductions"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "#Introductions"]
+    },
+    {
+      "count": 22,
+      "ranking": ["Kung Fury"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tuesday", "Kung Fury"]
+    },
+    {
+      "count": 19,
+      "ranking": ["Pretty Boy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Hedgehog", "Pretty Boy", "Tuesday"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pretty Boy", "The Quiet Zone", "Uncanny Valley"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blue Neighbourhood", "Pretty Boy", "Brothers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Power/Rangers",
+        "Pretty Boy",
+        "Doc Brown Saves the World",
+        "Kung Fury"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pretty Boy", "Kung Fury"]
+    },
+    {
+      "count": 16,
+      "ranking": ["Blood Below the Skin"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blood Below the Skin", "Kung Fury"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tuesday",
+        "Blood Below the Skin",
+        "Les 3 Boutons",
+        "Bad at Dancing"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Trembling", "Blood Below the Skin"]
+    },
+    {
+      "count": 1,
+      "ranking": ["M3LL155X", "Blood Below the Skin"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Greener Grass",
+        "M3LL155X",
+        "Blue Neighbourhood",
+        "Blood Below the Skin"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Blood Below the Skin", "The Audition"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Rocks that Bleed", "Tuesday", "Blood Below the Skin"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hunter", "Blood Below the Skin"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fury", "Our Lady of Hormones", "Blood Below the Skin"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Blue Sushi"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brothers", "Blue Sushi"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "#Introductions",
+        "Kung Fury",
+        "Greener Grass",
+        "Tuesday",
+        "Blue Sushi",
+        "Les 3 Boutons"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Stutterer", "Rocks that Bleed", "Blue Sushi"]
+    }
+  ]
+}

@@ -1,0 +1,7463 @@
+{
+  "ballots": [
+    {
+      "count": 6,
+      "ranking": ["The Worst Person in the World"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Aloners",
+        "Parallel Mothers",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Official Competition",
+        "Parallel Mothers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "The Hand of God"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Lamb"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Drive My Car"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Drive My Car",
+        "Vortex",
+        "Great Freedom",
+        "Lost Illusions",
+        "Black Box",
+        "Anaïs in Love",
+        "Pleasure",
+        "Memoria",
+        "Paris, 13th District",
+        "OSS 117: From Africa with Love",
+        "Eiffel",
+        "Wheel of Fortune and Fantasy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Man in Love"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Drive My Car", "Titane"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Memoria", "Titane"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lost Illusions",
+        "Wheel of Fortune and Fantasy",
+        "Vortex",
+        "The Hand of God",
+        "Playground",
+        "Benedetta",
+        "After Blue (Dirty Paradise)",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Happening",
+        "Full Time",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Black Box",
+        "Parallel Mothers",
+        "France",
+        "Waiting for Bojangles",
+        "Titane",
+        "Anaïs in Love",
+        "The Stronghold",
+        "Midnight",
+        "Pleasure",
+        "Space Sweepers",
+        "Oxygen",
+        "Eiffel",
+        "OSS 117: From Africa with Love",
+        "Deception"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Indian Kitchen",
+        "Jai Bhim",
+        "Minnal Murali",
+        "Lamb",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Hit the Road",
+        "The Hand of God",
+        "Joji"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Titane"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Worst Person in the World", "Titane"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Veneciafrenia", "Titane"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamb", "Drive My Car", "Titane"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Classic Horror Story", "Lamb"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Petite Maman",
+        "Compartment No. 6",
+        "Lamb",
+        "Parallel Mothers",
+        "The Worst Person in the World",
+        "Titane",
+        "Outlaws"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Lamb"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Hero",
+        "Lost Illusions",
+        "Black Box",
+        "Titane",
+        "Parallel Mothers",
+        "France",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Benedetta", "Lamb"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Happening",
+        "The Hand of God",
+        "Parallel Mothers",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petite Maman",
+        "The Hand of God",
+        "In Front of Your Face",
+        "Paris, 13th District",
+        "Escape from Mogadishu",
+        "Introduction"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Parallel Mothers", "Petite Maman"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Aloners",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Petite Maman", "Vortex", "The Hand of God", "To Chiara"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Petite Maman"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Petite Maman", "Titane", "Ride or Die"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Petite Maman", "Ninjababy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Petite Maman", "Yuni"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "After Blue (Dirty Paradise)",
+        "Titane",
+        "Petite Maman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Petite Maman"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Parallel Mothers"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Parallel Mothers", "Veneciafrenia"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Parallel Mothers",
+        "The Worst Person in the World",
+        "A Classic Horror Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "Official Competition",
+        "Parallel Mothers",
+        "France",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Happening",
+        "Titane",
+        "The Good Boss",
+        "The Tale of King Crab",
+        "Benedetta",
+        "The Sadness",
+        "Lamb",
+        "Freaks Out",
+        "The Medium",
+        "Three Floors",
+        "A Classic Horror Story",
+        "The Advent Calendar",
+        "The Catholic School",
+        "Drive My Car",
+        "Petite Maman",
+        "Vortex",
+        "Compartment No. 6",
+        "Il Buco"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happening",
+        "Full Time",
+        "Vortex",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Limbo",
+        "Black Box",
+        "Parallel Mothers",
+        "Eiffel",
+        "Titane",
+        "Benedetta"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Parallel Mothers",
+        "Pleasure",
+        "Lamb",
+        "The Worst Person in the World"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Hand of God"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Medium",
+        "The Hand of God",
+        "We Made a Beautiful Bouquet"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Onoda: 10,000 Nights in the Jungle",
+        "Benedetta",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Happening",
+        "The Hand of God",
+        "Titane",
+        "The Innocents",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ride or Die",
+        "The Hand of God",
+        "Parallel Mothers",
+        "The Girl and the Spider",
+        "Lamb",
+        "Benedetta",
+        "Anaïs in Love",
+        "Photocopier"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Hand of God", "Lost Illusions"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Hand of God", "The Medium"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "A Classic Horror Story",
+        "Cube",
+        "Blood Red Sky"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "The Worst Person in the World",
+        "Last Film Show",
+        "What Do We See When We Look at the Sky?",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Waiting for Bojangles", "Black Box", "Benedetta"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Benedetta", "The Worst Person in the World"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "The Hand of God",
+        "The Innocents",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Benedetta",
+        "Petite Maman",
+        "My Best Friend Anne Frank",
+        "Midnight",
+        "The Catholic School",
+        "Prey",
+        "The Shadow in My Eye"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Compartment No. 6",
+        "Memoria",
+        "Lamb",
+        "The Worst Person in the World",
+        "What Do We See When We Look at the Sky?",
+        "Benedetta"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Shadow in My Eye", "Benedetta", "The Catholic School"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Great Freedom",
+        "Vortex",
+        "Fabian: Going to the Dogs",
+        "Titane",
+        "Benedetta"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Black Box",
+        "Benedetta",
+        "Some Like It Rare",
+        "The Sadness",
+        "A Classic Horror Story",
+        "Pleasure",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Benedetta"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bad Luck Banging or Loony Porn",
+        "Petite Maman",
+        "Full Time",
+        "Official Competition",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Memoria"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Petite Maman", "Hit the Road", "Memoria"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Vortex",
+        "Memoria",
+        "Titane",
+        "Introduction",
+        "Zero Fucks Given"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Memoria"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Vortex",
+        "Memoria",
+        "The Innocents",
+        "Lamb",
+        "After Blue (Dirty Paradise)",
+        "A Classic Horror Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wheel of Fortune and Fantasy",
+        "Great Freedom",
+        "Vortex",
+        "Hit the Road",
+        "Fabian: Going to the Dogs",
+        "Full Time",
+        "Memoria",
+        "Compartment No. 6",
+        "Onoda: 10,000 Nights in the Jungle",
+        "What Do We See When We Look at the Sky?",
+        "Il Buco",
+        "Petrov's Flu",
+        "Hold Me Tight",
+        "Neptune Frost",
+        "Bad Luck Banging or Loony Porn",
+        "Ahed's Knee",
+        "The Girl and the Spider",
+        "Three Floors",
+        "After Blue (Dirty Paradise)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Innocents",
+        "Deception",
+        "I'm Your Man",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Happening",
+        "Ninjababy",
+        "A Hero",
+        "Memoria",
+        "Lost Illusions",
+        "Il Buco",
+        "Petrov's Flu",
+        "Titane",
+        "The Good Boss",
+        "Hold Me Tight",
+        "Paris, 13th District",
+        "Freaks Out",
+        "Benedetta",
+        "Bad Luck Banging or Loony Porn",
+        "Medusa",
+        "France",
+        "The Sadness",
+        "Oxygen",
+        "Lamb",
+        "After Blue (Dirty Paradise)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Memoria", "Titane"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Oxygen",
+        "The Worst Person in the World",
+        "Titane",
+        "Pleasure",
+        "The Sadness",
+        "Lamb",
+        "La Abuela (The Grandmother)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Zero Fucks Given",
+        "Prayers for the Stolen",
+        "Pleasure",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Benedetta",
+        "The Girl Who Killed Her Parents",
+        "Lamb",
+        "Pleasure",
+        "The Worst Person in the World",
+        "Titane",
+        "Parallel Mothers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pleasure"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wheel of Fortune and Fantasy",
+        "Compartment No. 6",
+        "Petrov's Flu",
+        "The Shadow in My Eye",
+        "Lamb",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Great Freedom",
+        "A Hero",
+        "The Hand of God",
+        "Memoria",
+        "Titane",
+        "Parallel Mothers",
+        "The Innocents",
+        "The Tale of King Crab",
+        "Private Desert",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "I'm Your Man", "Pleasure"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Monica and Friends: Lessons",
+        "Pleasure",
+        "Crazy About Her",
+        "The Boy Who Killed My Parents",
+        "The Girl Who Killed Her Parents"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Limbo",
+        "Ninjababy",
+        "Lost Illusions",
+        "Official Competition",
+        "Black Box",
+        "Titane",
+        "Parallel Mothers",
+        "The Good Boss",
+        "Benedetta",
+        "Pleasure",
+        "La Abuela (The Grandmother)",
+        "Wheel of Fortune and Fantasy",
+        "Vortex",
+        "The Sadness",
+        "Paris, 13th District",
+        "The Worst Person in the World",
+        "Compartment No. 6",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Pleasure"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Vortex", "Titane"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Titane", "Vortex"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Vortex",
+        "Murina",
+        "Titane",
+        "Parallel Mothers",
+        "Hold Me Tight",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Vortex", "Pleasure"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "A Hero",
+        "Compartment No. 6",
+        "Vortex",
+        "Petite Maman",
+        "The Hand of God",
+        "The Girl and the Spider",
+        "France",
+        "Parallel Mothers",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Vortex"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wheel of Fortune and Fantasy",
+        "The Worst Person in the World",
+        "Deception",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Vortex",
+        "The Hand of God",
+        "Compartment No. 6",
+        "Petrov's Flu",
+        "Titane",
+        "Parallel Mothers",
+        "Bad Luck Banging or Loony Porn",
+        "Midnight"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Character",
+        "Wheel of Fortune and Fantasy",
+        "We Made a Beautiful Bouquet",
+        "Aloners",
+        "Midnight",
+        "Ride or Die"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Great Freedom",
+        "Titane",
+        "Lamb",
+        "Homunculus",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Aloners"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wheel of Fortune and Fantasy",
+        "The Worst Person in the World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wheel of Fortune and Fantasy", "Drive My Car"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Memoria",
+        "Lost Illusions",
+        "Hit the Road",
+        "The Hand of God",
+        "Jai Bhim",
+        "Benedetta",
+        "Ahed's Knee",
+        "Il Buco",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wheel of Fortune and Fantasy", "Benedetta", "Titane", "Lamb"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Innocents",
+        "Titane",
+        "Outlaws",
+        "La Abuela (The Grandmother)",
+        "Veneciafrenia"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Farha", "The Innocents"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Midnight",
+        "The Trip",
+        "The Worst Person in the World",
+        "Ninjababy",
+        "The Innocents"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Innocents"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Innocents", "Freaks Out", "The Sadness", "Oxygen"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "The Innocents"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wheel of Fortune and Fantasy",
+        "Happening",
+        "The Innocents",
+        "Great Freedom",
+        "The Sacred Spirit"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamb", "The Innocents"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Sadness", "The Worst Person in the World"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "The Sadness"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Sadness", "Benedetta"]
+    },
+    {
+      "count": 4,
+      "ranking": ["The Sadness"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Sadness",
+        "Titane",
+        "Benedetta",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petite Maman",
+        "Titane",
+        "Parallel Mothers",
+        "The Innocents",
+        "Lamb",
+        "Pleasure",
+        "France",
+        "The Sadness",
+        "Benedetta"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Petite Maman", "Drive My Car", "Happening"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Happening", "Petite Maman", "Aloners"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happening",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Great Freedom",
+        "The Good Boss",
+        "The Innocents"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happening",
+        "The Worst Person in the World",
+        "Compartment No. 6",
+        "Parallel Mothers"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Happening"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Below Zero",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Happening",
+        "The Hand of God",
+        "Playground"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Happening",
+        "A Hero",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Happening", "Titane", "Black Box"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Medium"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "83",
+        "The Medium",
+        "Pushpa: The Rise",
+        "Oxygen"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Medium",
+        "A Classic Horror Story",
+        "The Worst Person in the World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Oxygen", "The Medium"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Prayers for the Stolen", "The Medium"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Medium", "The Innocents"]
+    },
+    {
+      "count": 1,
+      "ranking": ["One for the Road", "The Medium", "The Whole Truth"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Sadness", "The Medium"]
+    },
+    {
+      "count": 6,
+      "ranking": ["A Classic Horror Story"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rurouni Kenshin: The Beginning",
+        "Rurouni Kenshin: The Final",
+        "A Classic Horror Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Medium",
+        "Benedetta",
+        "Lamb",
+        "A Classic Horror Story",
+        "Blood Red Sky"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Oxygen"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Stronghold", "Oxygen"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Lamb",
+        "Oxygen",
+        "Benedetta",
+        "Memoria"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kadaisi Vivasayi",
+        "The Great Indian Kitchen",
+        "Sarpatta Parambarai",
+        "Jai Bhim",
+        "Minnal Murali",
+        "83",
+        "Pushpa: The Rise",
+        "Master",
+        "Oxygen",
+        "The Whole Truth"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Oxygen", "Blood Red Sky"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petite Maman",
+        "Man in Love",
+        "The Worst Person in the World",
+        "Compartment No. 6"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Playground",
+        "Deception",
+        "The Worst Person in the World",
+        "Happening",
+        "Great Freedom",
+        "The Hand of God",
+        "Compartment No. 6",
+        "Titane",
+        "Paris, 13th District",
+        "Benedetta",
+        "France",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "A Hero",
+        "Compartment No. 6"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Veneciafrenia",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "The Hand of God",
+        "Compartment No. 6",
+        "Titane",
+        "The Good Boss",
+        "Outlaws"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petite Maman",
+        "The Worst Person in the World",
+        "Compartment No. 6",
+        "The Hand of God",
+        "Memoria",
+        "Drive My Car"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Compartment No. 6"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Memoria",
+        "Compartment No. 6",
+        "Anaïs in Love",
+        "Escape from Mogadishu",
+        "Benedetta",
+        "Bad Luck Banging or Loony Porn",
+        "Titane",
+        "Zero Fucks Given",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "We Made a Beautiful Bouquet"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Wheel of Fortune and Fantasy",
+        "Compartment No. 6",
+        "Petrov's Flu"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["A Hero"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Bad Luck Banging or Loony Porn",
+        "The Worst Person in the World",
+        "A Hero",
+        "Titane",
+        "Parallel Mothers",
+        "The Hand of God"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "The Worst Person in the World", "A Hero"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Hit the Road",
+        "A Hero",
+        "The Hand of God"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Hit the Road", "A Hero"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Hero",
+        "Memoria",
+        "Compartment No. 6",
+        "Prayers for the Stolen",
+        "Petrov's Flu",
+        "The Worst Person in the World",
+        "Happening",
+        "Official Competition",
+        "Bad Luck Banging or Loony Porn",
+        "Drive My Car",
+        "Petite Maman",
+        "Titane",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Great Freedom"]
+    },
+    {
+      "count": 1,
+      "ranking": []
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Great Freedom", "Lamb"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Great Freedom", "Memoria"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Innocents",
+        "Blood Red Sky",
+        "The Mad Women's Ball",
+        "Great Freedom",
+        "Titane",
+        "Lamb",
+        "The Advent Calendar",
+        "A Classic Horror Story",
+        "Anonymously Yours",
+        "Confessions of an Invisible Girl",
+        "Freaks Out",
+        "The Worst Person in the World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Great Freedom"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Great Freedom",
+        "Drive My Car",
+        "Memoria",
+        "Titane",
+        "Lamb",
+        "Deception"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Parallel Mothers",
+        "Paris, 13th District",
+        "The Worst Person in the World",
+        "The Hand of God"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Hit the Road",
+        "Paris, 13th District",
+        "A Hero"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Ninjababy",
+        "The Hand of God",
+        "Paris, 13th District",
+        "Three Floors"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Vortex",
+        "Zero Fucks Given",
+        "Memoria",
+        "Parallel Mothers",
+        "Paris, 13th District",
+        "Aloners",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Paris, 13th District"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Lost Illusions",
+        "Wheel of Fortune and Fantasy",
+        "Vortex",
+        "Memoria",
+        "Waiting for Bojangles",
+        "Black Box",
+        "Paris, 13th District",
+        "Titane",
+        "The Stronghold",
+        "Zero Fucks Given",
+        "Eiffel",
+        "OSS 117: From Africa with Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Compartment No. 6",
+        "Paris, 13th District",
+        "A Hero",
+        "Titane",
+        "Bad Luck Banging or Loony Porn",
+        "Benedetta",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Happening",
+        "The Hand of God",
+        "Memoria"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Compartment No. 6",
+        "Anaïs in Love",
+        "Neptune Frost",
+        "France",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Happening",
+        "Great Freedom",
+        "Vortex",
+        "Hit the Road",
+        "A Hero",
+        "The Hand of God",
+        "Official Competition",
+        "Murina",
+        "Titane",
+        "Parallel Mothers",
+        "The Good Boss",
+        "The Innocents",
+        "Paris, 13th District",
+        "To Chiara",
+        "Benedetta",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "The Hand of God",
+        "Aloners",
+        "Parallel Mothers",
+        "Paris, 13th District",
+        "To Chiara",
+        "Zero Fucks Given",
+        "France",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Blood Red Sky"]
+    },
+    {
+      "count": 1,
+      "ranking": ["La Abuela (The Grandmother)", "Blood Red Sky"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Man in Love", "Sweet & Sour", "Blood Red Sky"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Shadow in My Eye",
+        "Blood Red Sky",
+        "Black Box",
+        "The Stronghold"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blood Red Sky", "Kingdom: Ashin of the North"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hit the Road"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happening",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Hit the Road"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hit the Road", "Drive My Car", "A Hero"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hit the Road", "Great Freedom"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Worst Person in the World", "Hit the Road"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hit the Road", "Ninjababy", "Murina"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hit the Road", "Neptune Frost", "Last Film Show"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Benedetta",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Prayers for the Stolen",
+        "Aloners",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Photocopier",
+        "Aloners",
+        "Midnight",
+        "The Medium",
+        "Man in Love",
+        "Emergency Declaration"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Vortex",
+        "Titane",
+        "Drive My Car",
+        "Kingdom: Ashin of the North",
+        "The Medium",
+        "Raging Fire",
+        "Emergency Declaration",
+        "Jai Bhim",
+        "Minnal Murali",
+        "OSS 117: From Africa with Love",
+        "La Abuela (The Grandmother)",
+        "Cube",
+        "Freaks Out"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Aloners"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wheel of Fortune and Fantasy",
+        "Aloners",
+        "Oxygen",
+        "We Made a Beautiful Bouquet",
+        "Man in Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Good Boss",
+        "Farha",
+        "Happening",
+        "Parallel Mothers",
+        "The Shadow in My Eye",
+        "Outlaws",
+        "Operation Hyacinth",
+        "Official Competition",
+        "My Best Friend Anne Frank",
+        "The Hand of God",
+        "La Abuela (The Grandmother)",
+        "Veneciafrenia"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Wheel of Fortune and Fantasy",
+        "The Worst Person in the World",
+        "Hit the Road",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Limbo",
+        "Aloners",
+        "Titane",
+        "Emergency Declaration",
+        "I'm Your Man",
+        "Midnight",
+        "Pleasure",
+        "Space Sweepers",
+        "Oxygen",
+        "Compartment No. 6",
+        "A Classic Horror Story",
+        "Blood Red Sky",
+        "Red Dot",
+        "Homunculus",
+        "The Sadness"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Aloners", "7 Prisoners"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "Bad Luck Banging or Loony Porn",
+        "Drive My Car",
+        "Compartment No. 6",
+        "Black Box",
+        "The Worst Person in the World",
+        "Official Competition",
+        "Saloum",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petite Maman",
+        "Zero Fucks Given",
+        "Parallel Mothers",
+        "Lamb",
+        "Bad Luck Banging or Loony Porn",
+        "The Worst Person in the World",
+        "Paris, 13th District"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "In Front of Your Face",
+        "Drive My Car",
+        "Vortex",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Titane",
+        "Benedetta",
+        "El Planeta",
+        "Pleasure",
+        "Introduction",
+        "The Girl and the Spider",
+        "Petite Maman",
+        "After Blue (Dirty Paradise)",
+        "Bad Luck Banging or Loony Porn"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "Bad Luck Banging or Loony Porn",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Happening"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "Memoria",
+        "The Tale of King Crab",
+        "Bad Luck Banging or Loony Porn"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Drive My Car",
+        "Bad Luck Banging or Loony Porn",
+        "Compartment No. 6",
+        "Titane",
+        "I'm Your Man",
+        "Benedetta"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Happening",
+        "Great Freedom",
+        "Vortex",
+        "Hit the Road",
+        "Memoria",
+        "In Front of Your Face",
+        "What Do We See When We Look at the Sky?",
+        "Titane",
+        "Neptune Frost",
+        "To Chiara",
+        "Bad Luck Banging or Loony Porn",
+        "Pleasure",
+        "Introduction",
+        "France",
+        "After Blue (Dirty Paradise)"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Official Competition"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Official Competition"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Official Competition",
+        "Black Box",
+        "OSS 117: From Africa with Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Official Competition",
+        "In Front of Your Face",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Memoria"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "Jai Bhim",
+        "Zero Fucks Given",
+        "Benedetta",
+        "Official Competition",
+        "Paris, 13th District",
+        "Pleasure",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Compartment No. 6",
+        "Bad Luck Banging or Loony Porn"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Official Competition",
+        "Parallel Mothers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "I'm Your Man",
+        "Introduction"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["I'm Your Man"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Emergency Declaration",
+        "Titane",
+        "The Innocents",
+        "Some Like It Rare",
+        "Raging Fire",
+        "Lamb",
+        "A Classic Horror Story",
+        "Blood Red Sky",
+        "7 Women and a Murder",
+        "Limbo",
+        "The Trip",
+        "The Sadness",
+        "Aloners",
+        "Freaks Out",
+        "I'm Your Man"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["My Best Friend Anne Frank", "Happening", "I'm Your Man"]
+    },
+    {
+      "count": 1,
+      "ranking": ["I'm Your Man", "The Worst Person in the World"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "I'm Your Man",
+        "Azor",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Official Competition",
+        "The Good Boss",
+        "Oxygen"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Innocents", "I'm Your Man", "The Sadness", "Lamb"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Ninjababy",
+        "I'm Your Man"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Sadness",
+        "Space Sweepers",
+        "Homunculus",
+        "A Classic Horror Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Full Time",
+        "Black Box",
+        "Space Sweepers",
+        "Lost Illusions",
+        "The Stronghold",
+        "Eiffel"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "Rurouni Kenshin: The Beginning",
+        "Rurouni Kenshin: The Final",
+        "Space Sweepers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Space Sweepers", "Pushpa: The Rise", "Master"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Space Sweepers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lost Illusions", "Space Sweepers"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Space Sweepers", "Lamb"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Man in Love", "Space Sweepers"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Midnight"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Midnight", "The Medium"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Character", "Midnight"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "Lamb",
+        "The Medium",
+        "The Sadness",
+        "The Innocents",
+        "The Feast",
+        "Midnight",
+        "The Advent Calendar",
+        "Veneciafrenia",
+        "A Classic Horror Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Official Competition",
+        "Petrov's Flu",
+        "Character",
+        "The Worst Person in the World",
+        "Aloners",
+        "Midnight",
+        "The Hand of God",
+        "Compartment No. 6"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Aloners", "Midnight"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Titane", "Zero Fucks Given"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bad Luck Banging or Loony Porn",
+        "The Hand of God",
+        "Memoria",
+        "I'm Your Man",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "What Do We See When We Look at the Sky?",
+        "Paris, 13th District",
+        "Zero Fucks Given"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Drive My Car",
+        "Petite Maman",
+        "Happening",
+        "Hit the Road",
+        "The Hand of God",
+        "Paris, 13th District",
+        "Kingdom: Ashin of the North",
+        "Pleasure",
+        "Zero Fucks Given",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Pleasure",
+        "Zero Fucks Given",
+        "The Worst Person in the World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Zero Fucks Given",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Vortex",
+        "The Great Indian Kitchen",
+        "Ninjababy",
+        "Joji",
+        "Titane",
+        "Paris, 13th District",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Zero Fucks Given"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Limbo",
+        "Zero Fucks Given",
+        "Parallel Mothers",
+        "Petite Maman",
+        "I'm Your Man"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Raging Fire",
+        "Freaks Out",
+        "Benedetta",
+        "The Innocents",
+        "Kingdom: Ashin of the North",
+        "The Trip",
+        "Emergency Declaration",
+        "OSS 117: From Africa with Love",
+        "Zero Fucks Given",
+        "A Classic Horror Story",
+        "Oxygen",
+        "Blood Red Sky"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Midnight",
+        "Anaïs in Love",
+        "Parallel Mothers",
+        "Zero Fucks Given",
+        "The Worst Person in the World",
+        "The Innocents"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Black Box",
+        "Zero Fucks Given",
+        "OSS 117: From Africa with Love",
+        "The Stronghold"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": [
+        "The Boy Who Killed My Parents",
+        "The Girl Who Killed Her Parents"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Girl Who Killed Her Parents"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Girl Who Killed Her Parents",
+        "Parallel Mothers",
+        "The Worst Person in the World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Boy Who Killed My Parents",
+        "The Girl Who Killed Her Parents",
+        "Monica and Friends: Lessons",
+        "Confessions of an Invisible Girl"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": [
+        "The Girl Who Killed Her Parents",
+        "The Boy Who Killed My Parents"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Prayers for the Stolen"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Vortex",
+        "Prayers for the Stolen",
+        "The Hand of God",
+        "Impossible Things",
+        "Lamb",
+        "Anonymously Yours"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "The Worst Person in the World",
+        "Prayers for the Stolen"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Prayers for the Stolen",
+        "Aloners",
+        "Titane",
+        "Parallel Mothers",
+        "The Medium"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Prayers for the Stolen", "Petite Maman"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Prayers for the Stolen",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Paris, 13th District",
+        "A Classic Horror Story",
+        "The Hand of God",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Hive",
+        "France"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Vortex",
+        "Il Buco",
+        "Benedetta",
+        "France",
+        "Three Floors"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "What Do We See When We Look at the Sky?",
+        "Drive My Car",
+        "Wheel of Fortune and Fantasy",
+        "Memoria",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Petite Maman",
+        "Happening",
+        "We Made a Beautiful Bouquet",
+        "Compartment No. 6",
+        "Limbo",
+        "In Front of Your Face",
+        "Hold Me Tight",
+        "The Innocents",
+        "Vengeance Is Mine, All Others Pay Cash",
+        "Benedetta",
+        "France",
+        "Three Floors",
+        "The Worst Person in the World",
+        "Escape from Mogadishu",
+        "Introduction",
+        "The Medium"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happening",
+        "Waiting for Bojangles",
+        "Titane",
+        "France",
+        "The Shadow in My Eye",
+        "Benedetta",
+        "My Best Friend Anne Frank"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Wheel of Fortune and Fantasy",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Great Freedom",
+        "Memoria",
+        "Parallel Mothers",
+        "Hold Me Tight",
+        "I'm Your Man",
+        "Benedetta",
+        "France"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Hero",
+        "The Good Boss",
+        "The Trip",
+        "France",
+        "Hit the Road",
+        "The Hand of God",
+        "In Front of Your Face"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Memoria",
+        "Bad Luck Banging or Loony Porn",
+        "France",
+        "In Front of Your Face",
+        "Il Buco",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Parallel Mothers",
+        "Introduction",
+        "The Worst Person in the World",
+        "Great Freedom",
+        "Vortex",
+        "Zero Fucks Given",
+        "The Sadness",
+        "Compartment No. 6",
+        "Titane",
+        "Happening",
+        "Playground",
+        "After Blue (Dirty Paradise)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Boy Who Killed My Parents"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamb",
+        "The Worst Person in the World",
+        "Parallel Mothers",
+        "The Boy Who Killed My Parents",
+        "The Girl Who Killed Her Parents"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Monica and Friends: Lessons",
+        "The Boy Who Killed My Parents"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Yuni",
+        "Vengeance Is Mine, All Others Pay Cash",
+        "Photocopier"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Yuni",
+        "Aloners",
+        "Titane",
+        "Parallel Mothers",
+        "Neptune Frost"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Yuni"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Yuni",
+        "The Hand of God",
+        "Photocopier",
+        "The Medium",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Yuni",
+        "Escape from Mogadishu",
+        "The Innocents",
+        "Man in Love",
+        "Photocopier",
+        "The Medium"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Yuni", "Last Film Show"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Yuni", "Wheel of Fortune and Fantasy", "Aloners"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "The Innocents",
+        "The Medium",
+        "Yuni",
+        "Photocopier",
+        "Kingdom: Ashin of the North",
+        "Space Sweepers",
+        "Oxygen",
+        "Aloners",
+        "Vengeance Is Mine, All Others Pay Cash"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Yuni", "The Medium"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Neptune Frost"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Neptune Frost",
+        "Saloum",
+        "Raging Fire",
+        "After Blue (Dirty Paradise)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Private Desert",
+        "Aloners",
+        "Titane",
+        "Parallel Mothers",
+        "The Worst Person in the World",
+        "The Sacred Spirit",
+        "Neptune Frost"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Space Sweepers",
+        "Blood Red Sky",
+        "I'm Your Man",
+        "Neptune Frost",
+        "7 Women and a Murder",
+        "A Classic Horror Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Happening",
+        "Compartment No. 6",
+        "Benedetta",
+        "The Hand of God",
+        "Official Competition",
+        "Hold Me Tight",
+        "France",
+        "Petrov's Flu",
+        "A Classic Horror Story",
+        "The Worst Person in the World",
+        "Great Freedom",
+        "Vortex",
+        "Hit the Road",
+        "Memoria",
+        "Playground",
+        "Last Film Show",
+        "Titane",
+        "Neptune Frost"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Memoria",
+        "Titane",
+        "Parallel Mothers",
+        "Neptune Frost",
+        "Benedetta"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Neptune Frost", "Lamb"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Black Box", "The Stronghold"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Black Box"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Black Box", "Limbo", "The Stronghold"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Full Time", "Lost Illusions", "Black Box"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Black Box",
+        "Prayers for the Stolen"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["OSS 117: From Africa with Love", "Black Box"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Petrov's Flu",
+        "Azor",
+        "Memoria",
+        "Official Competition",
+        "Benedetta",
+        "The Hand of God",
+        "Black Box",
+        "Titane",
+        "Wheel of Fortune and Fantasy",
+        "Bad Luck Banging or Loony Porn"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Eiffel", "Black Box"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "Petrov's Flu",
+        "Drive My Car",
+        "Limbo",
+        "Official Competition",
+        "Black Box",
+        "Wheel of Fortune and Fantasy",
+        "Vortex",
+        "The Good Boss",
+        "I'm Your Man",
+        "Escape from Mogadishu",
+        "Benedetta",
+        "Lost Illusions",
+        "Parallel Mothers",
+        "Eiffel",
+        "Titane",
+        "Hit the Road",
+        "Ninjababy",
+        "Some Like It Rare"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "The Good Boss",
+        "Veneciafrenia",
+        "Below Zero",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "The Hand of God",
+        "Pleasure",
+        "Wheel of Fortune and Fantasy",
+        "The Shadow in My Eye",
+        "The Stronghold",
+        "Crazy About Her",
+        "A Classic Horror Story",
+        "Titane",
+        "Drive My Car",
+        "The Good Boss"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "A Hero",
+        "The Hand of God",
+        "Playground",
+        "The Good Boss",
+        "Lamb",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Happening",
+        "Great Freedom",
+        "The Hand of God",
+        "What Do We See When We Look at the Sky?",
+        "Petite Maman",
+        "Vortex",
+        "Memoria",
+        "Titane",
+        "Parallel Mothers",
+        "The Good Boss",
+        "Bad Luck Banging or Loony Porn",
+        "Ahed's Knee",
+        "Lamb",
+        "Wheel of Fortune and Fantasy",
+        "Official Competition",
+        "Il Buco",
+        "The Tale of King Crab",
+        "Paris, 13th District",
+        "Lingui: The Sacred Bonds",
+        "Azor",
+        "Space Sweepers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "The Good Boss"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Good Boss"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Full Time",
+        "The Good Boss",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Happening",
+        "Great Freedom",
+        "Hit the Road",
+        "A Hero",
+        "The Hand of God",
+        "Memoria",
+        "Compartment No. 6",
+        "Lost Illusions",
+        "Operation Hyacinth",
+        "Playground",
+        "What Do We See When We Look at the Sky?",
+        "Titane",
+        "Parallel Mothers",
+        "Paris, 13th District",
+        "Anaïs in Love",
+        "Azor",
+        "The Mad Women's Ball",
+        "Benedetta",
+        "El Planeta",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "The Good Boss",
+        "Benedetta",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Parallel Mothers",
+        "The Good Boss",
+        "Freaks Out",
+        "7 Women and a Murder"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Lost Illusions"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lost Illusions", "Eiffel", "OSS 117: From Africa with Love"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Vortex",
+        "Ninjababy",
+        "Compartment No. 6",
+        "Lost Illusions",
+        "Titane",
+        "Pleasure",
+        "After Blue (Dirty Paradise)"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Man in Love"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Operation Hyacinth", "Man in Love"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Man in Love", "The Whole Truth"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Midnight", "Man in Love"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Whole Truth", "Man in Love"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Paris, 13th District",
+        "Ninjababy",
+        "Anaïs in Love",
+        "Happening",
+        "The Hand of God",
+        "Compartment No. 6",
+        "Titane",
+        "Zero Fucks Given",
+        "Three Floors",
+        "Petite Maman",
+        "The Innocents",
+        "Pleasure",
+        "A Classic Horror Story",
+        "The Catholic School",
+        "7 Women and a Murder",
+        "Wheel of Fortune and Fantasy",
+        "The Tale of King Crab"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Benedetta", "Anaïs in Love"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Waiting for Bojangles",
+        "Anaïs in Love",
+        "Wheel of Fortune and Fantasy",
+        "Lost Illusions",
+        "The Mad Women's Ball"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Titane", "Anaïs in Love"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Anaïs in Love"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Anaïs in Love"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Great Freedom",
+        "Hit the Road",
+        "Aloners",
+        "Vengeance Is Mine, All Others Pay Cash",
+        "Compartment No. 6",
+        "Paris, 13th District",
+        "Escape from Mogadishu",
+        "Bad Luck Banging or Loony Porn",
+        "Kingdom: Ashin of the North",
+        "Emergency Declaration",
+        "Space Sweepers",
+        "Petite Maman",
+        "Yuni",
+        "The Hand of God",
+        "Anaïs in Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Vortex",
+        "The Hand of God",
+        "Titane",
+        "The Tale of King Crab",
+        "Anaïs in Love",
+        "Benedetta",
+        "France"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "Petite Maman",
+        "Happening",
+        "The Sadness",
+        "Lamb",
+        "The Worst Person in the World",
+        "Parallel Mothers",
+        "Benedetta",
+        "Private Desert",
+        "The Boy Who Killed My Parents",
+        "Aloners",
+        "Anaïs in Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Parallel Mothers",
+        "Anaïs in Love",
+        "Kingdom: Ashin of the North",
+        "Space Sweepers",
+        "Ride or Die"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Vortex",
+        "Ninjababy",
+        "The Shadow in My Eye",
+        "Lamb",
+        "Zero Fucks Given",
+        "The Worst Person in the World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ninjababy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Ninjababy",
+        "The Hand of God",
+        "Pleasure",
+        "Ride or Die"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ninjababy",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Brother's Keeper",
+        "Paris, 13th District"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Ninjababy",
+        "83",
+        "Zero Fucks Given"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Happening",
+        "Great Freedom",
+        "Yuni",
+        "Compartment No. 6",
+        "Official Competition",
+        "Brother's Keeper",
+        "Hold Me Tight",
+        "Pleasure",
+        "Hit the Road",
+        "Ninjababy",
+        "El Planeta",
+        "Introduction",
+        "Bad Luck Banging or Loony Porn",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Memoria",
+        "Titane",
+        "Parallel Mothers",
+        "The Boy Who Killed My Parents",
+        "The Girl Who Killed Her Parents",
+        "Pleasure",
+        "The Worst Person in the World",
+        "Great Freedom",
+        "Ninjababy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Ninjababy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Compartment No. 6",
+        "Drive My Car",
+        "Limbo",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Vortex", "Limbo"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Innocents",
+        "The Sadness",
+        "Pleasure",
+        "Limbo",
+        "Freaks Out"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "Vengeance Is Mine, All Others Pay Cash",
+        "The Mad Women's Ball",
+        "Happening",
+        "Official Competition",
+        "The Good Boss",
+        "The Sacred Spirit",
+        "The Stronghold",
+        "The Trip",
+        "Parallel Mothers",
+        "After Blue (Dirty Paradise)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Limbo",
+        "The Stronghold",
+        "The Sadness",
+        "Official Competition",
+        "The Trip",
+        "A Classic Horror Story",
+        "Parallel Mothers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Midnight", "Limbo"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Limbo"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "Limbo",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Parallel Mothers",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petite Maman",
+        "Red Dot",
+        "The Mad Women's Ball",
+        "The Trip",
+        "Blood Red Sky"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "The Shadow in My Eye",
+        "Limbo",
+        "Titane",
+        "Pleasure",
+        "The Sadness",
+        "The Trip",
+        "Oxygen",
+        "Benedetta",
+        "Blood Red Sky",
+        "Prey"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Trip", "Lamb"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wheel of Fortune and Fantasy", "The Trip"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Vortex", "Titane", "Benedetta", "The Trip"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Trip"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Trip",
+        "Lamb",
+        "A Classic Horror Story",
+        "Blood Red Sky",
+        "Homunculus"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Trip", "A Classic Horror Story"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Hero", "7 Prisoners", "The Trip"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Full Time"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Full Time", "Wheel of Fortune and Fantasy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Full Time",
+        "Private Desert",
+        "El Planeta"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ninjababy", "Full Time", "The Catholic School"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Petrov's Flu",
+        "Vortex",
+        "Ninjababy",
+        "Compartment No. 6",
+        "Wheel of Fortune and Fantasy",
+        "Full Time",
+        "Aloners",
+        "Titane",
+        "Hold Me Tight",
+        "The Girl and the Spider",
+        "Bad Luck Banging or Loony Porn",
+        "The Sadness",
+        "Memoria"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Full Time",
+        "Titane",
+        "Parallel Mothers",
+        "Benedetta",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rurouni Kenshin: The Final",
+        "Emergency Declaration",
+        "Man in Love",
+        "Character",
+        "Space Sweepers",
+        "The Worst Person in the World",
+        "One for the Road"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Emergency Declaration", "The Whole Truth"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Man in Love", "Emergency Declaration"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happening",
+        "Playground",
+        "The Worst Person in the World",
+        "The Hand of God",
+        "The Innocents",
+        "Drive My Car",
+        "Titane",
+        "The Stronghold",
+        "Emergency Declaration",
+        "Paris, 13th District",
+        "Benedetta",
+        "The Sadness"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Midnight", "Emergency Declaration"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kingdom: Ashin of the North", "Emergency Declaration"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Emergency Declaration"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Joji",
+        "Emergency Declaration",
+        "Master",
+        "Pushpa: The Rise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Drive My Car",
+        "Emergency Declaration"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "I'm Your Man",
+        "What Do We See When We Look at the Sky?",
+        "Crazy About Her",
+        "Petite Maman",
+        "Parallel Mothers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "The Worst Person in the World",
+        "Official Competition",
+        "What Do We See When We Look at the Sky?",
+        "Parallel Mothers",
+        "Aloners",
+        "Lamb",
+        "Blood Red Sky"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Onoda: 10,000 Nights in the Jungle",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Farha",
+        "Happening",
+        "Vortex",
+        "Hit the Road",
+        "Ninjababy",
+        "The Hand of God",
+        "Official Competition",
+        "In Front of Your Face",
+        "Playground",
+        "Last Film Show",
+        "Aloners",
+        "What Do We See When We Look at the Sky?",
+        "Il Buco",
+        "Titane",
+        "Parallel Mothers",
+        "7 Prisoners",
+        "Hold Me Tight",
+        "Paris, 13th District",
+        "Anaïs in Love",
+        "Azor",
+        "To Chiara",
+        "Benedetta",
+        "The Trip",
+        "The Girl and the Spider",
+        "Zero Fucks Given",
+        "Oxygen",
+        "Lamb",
+        "After Blue (Dirty Paradise)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bad Luck Banging or Loony Porn",
+        "In Front of Your Face",
+        "Benedetta",
+        "What Do We See When We Look at the Sky?",
+        "Petite Maman",
+        "Happening",
+        "Vortex",
+        "Hit the Road",
+        "Memoria",
+        "Playground"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["What Do We See When We Look at the Sky?"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "What Do We See When We Look at the Sky?",
+        "Sweet & Sour"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Full Time",
+        "What Do We See When We Look at the Sky?",
+        "Azor",
+        "Bad Luck Banging or Loony Porn"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "What Do We See When We Look at the Sky?",
+        "Zero Fucks Given",
+        "Aloners"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Memoria",
+        "Drive My Car",
+        "Titane",
+        "Lingui: The Sacred Bonds",
+        "Lamb",
+        "The Hand of God",
+        "What Do We See When We Look at the Sky?",
+        "Parallel Mothers",
+        "Pleasure",
+        "The Medium",
+        "The Worst Person in the World",
+        "Vortex",
+        "Zero Fucks Given",
+        "Aloners"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Saloum"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Petrov's Flu", "Saloum"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Benedetta",
+        "Blood Red Sky",
+        "Lamb",
+        "The Feast",
+        "Below Zero",
+        "Saloum",
+        "The Sadness"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Saloum",
+        "The Trip",
+        "The Sadness",
+        "La Abuela (The Grandmother)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Petite Maman", "Azor", "Saloum"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Ninjababy",
+        "Saloum"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Petite Maman", "Playground", "Saloum", "Oxygen"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Feast", "A Classic Horror Story"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bad Luck Banging or Loony Porn",
+        "A Hero",
+        "The Sadness",
+        "The Feast",
+        "Titane",
+        "The Innocents",
+        "Freaks Out",
+        "To Chiara",
+        "La Abuela (The Grandmother)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Benedetta",
+        "Titane",
+        "The Innocents",
+        "The Feast",
+        "A Classic Horror Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Midnight", "The Feast"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Feast"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Innocents",
+        "Lamb",
+        "Titane",
+        "Saloum",
+        "Midnight",
+        "Kingdom: Ashin of the North",
+        "The Sadness",
+        "Oxygen",
+        "The Advent Calendar",
+        "The Feast",
+        "A Classic Horror Story",
+        "Blood Red Sky",
+        "Cube"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Compartment No. 6",
+        "Titane",
+        "The Innocents",
+        "Pleasure",
+        "The Medium",
+        "The Trip",
+        "The Sadness",
+        "Oxygen",
+        "Lamb",
+        "The Feast",
+        "Blood Red Sky"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamb",
+        "The Advent Calendar",
+        "La Abuela (The Grandmother)",
+        "Playground",
+        "The Innocents",
+        "The Sadness",
+        "The Feast"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Petite Maman",
+        "Memoria",
+        "The Worst Person in the World",
+        "The Hand of God",
+        "The Medium",
+        "Ninjababy",
+        "The Sadness",
+        "The Advent Calendar",
+        "A Classic Horror Story",
+        "Parallel Mothers",
+        "Lamb",
+        "The Feast",
+        "Blood Red Sky",
+        "Vortex",
+        "Titane",
+        "Benedetta"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petite Maman",
+        "Farha",
+        "Vortex",
+        "The Worst Person in the World",
+        "Memoria",
+        "Titane",
+        "Pleasure",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Farha"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Farha", "The Worst Person in the World"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Great Freedom", "Paris, 13th District", "Farha"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Vortex",
+        "Farha",
+        "Great Freedom",
+        "Lamb",
+        "Compartment No. 6",
+        "Pleasure",
+        "The Worst Person in the World",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Farha",
+        "We Made a Beautiful Bouquet",
+        "Yuni",
+        "Character",
+        "In Front of Your Face",
+        "Lamb",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Parallel Mothers",
+        "Emergency Declaration",
+        "Sweet & Sour",
+        "Ride or Die"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Farha", "Freaks Out"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "Freaks Out",
+        "7 Women and a Murder",
+        "The Catholic School",
+        "Confessions of an Invisible Girl"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Freaks Out"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Freaks Out",
+        "Titane",
+        "Pleasure",
+        "Below Zero",
+        "The Sadness",
+        "The Innocents"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Great Freedom",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Memoria",
+        "Aloners",
+        "The Innocents",
+        "The Trip",
+        "Blood Red Sky",
+        "The Hand of God",
+        "Freaks Out",
+        "Pleasure",
+        "A Classic Horror Story",
+        "7 Women and a Murder",
+        "Prey",
+        "Happening",
+        "Ninjababy",
+        "Titane",
+        "Oxygen"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Innocents", "Freaks Out"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Freaks Out", "The Feast"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Catholic School",
+        "The Hand of God",
+        "Parallel Mothers",
+        "The Good Boss",
+        "Anaïs in Love",
+        "Freaks Out",
+        "The Stronghold",
+        "Outlaws"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["OSS 117: From Africa with Love", "The Stronghold"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Stronghold",
+        "Black Box",
+        "OSS 117: From Africa with Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Black Box", "The Stronghold", "Outlaws"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lost Illusions",
+        "Black Box",
+        "Parallel Mothers",
+        "The Stronghold"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Stronghold", "Some Like It Rare"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Playground"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "Playground",
+        "The Worst Person in the World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Happening",
+        "Playground",
+        "Medusa"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lost Illusions",
+        "Black Box",
+        "Titane",
+        "After Blue (Dirty Paradise)",
+        "Playground",
+        "The Stronghold",
+        "Eiffel",
+        "Waiting for Bojangles"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Playground",
+        "Compartment No. 6"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Benedetta", "Ride or Die", "Anaïs in Love"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Ride or Die"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Benedetta", "Ride or Die"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ride or Die", "Benedetta"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Operation Hyacinth", "Ride or Die"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Happening",
+        "A Hero",
+        "Parallel Mothers",
+        "Pleasure",
+        "Ride or Die"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["La Abuela (The Grandmother)"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "La Abuela (The Grandmother)",
+        "The Worst Person in the World",
+        "The Medium"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["La Abuela (The Grandmother)", "A Classic Horror Story"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamb", "La Abuela (The Grandmother)"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Parallel Mothers",
+        "The Worst Person in the World",
+        "La Abuela (The Grandmother)"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Monica and Friends: Lessons"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Monica and Friends: Lessons", "7 Women and a Murder"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Monica and Friends: Lessons"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kadaisi Vivasayi", "Master", "Karnan", "Jai Bhim"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "83",
+        "Jai Bhim",
+        "The Great Indian Kitchen",
+        "Sarpatta Parambarai",
+        "Pushpa: The Rise",
+        "Master",
+        "Kadaisi Vivasayi",
+        "Minnal Murali"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "We Made a Beautiful Bouquet",
+        "The Medium",
+        "Kadaisi Vivasayi",
+        "Wheel of Fortune and Fantasy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Kadaisi Vivasayi",
+        "The Great Indian Kitchen",
+        "Sarpatta Parambarai",
+        "Joji",
+        "Karnan",
+        "Jai Bhim",
+        "Minnal Murali",
+        "Man in Love",
+        "83",
+        "Master",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kadaisi Vivasayi", "Sarpatta Parambarai", "Master"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kadaisi Vivasayi",
+        "The Great Indian Kitchen",
+        "Sarpatta Parambarai",
+        "Joji",
+        "Karnan",
+        "Last Film Show",
+        "Jai Bhim"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Indian Kitchen",
+        "Minnal Murali",
+        "Kadaisi Vivasayi",
+        "Master",
+        "Karnan",
+        "Midnight",
+        "Emergency Declaration",
+        "Pushpa: The Rise",
+        "Sarpatta Parambarai",
+        "Jai Bhim",
+        "83"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kadaisi Vivasayi",
+        "Sarpatta Parambarai",
+        "Jai Bhim",
+        "83",
+        "Minnal Murali",
+        "Karnan",
+        "Pushpa: The Rise",
+        "Master"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "83",
+        "Kadaisi Vivasayi",
+        "Jai Bhim",
+        "Bad Luck Banging or Loony Porn",
+        "Drive My Car",
+        "The Great Indian Kitchen",
+        "Lamb",
+        "Master"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kadaisi Vivasayi"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Murina", "Memoria"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Murina", "Titane"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Anaïs in Love",
+        "Benedetta",
+        "Neptune Frost",
+        "The Mad Women's Ball",
+        "Pleasure",
+        "France",
+        "The Sadness",
+        "Murina",
+        "Titane",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Murina",
+        "The Worst Person in the World",
+        "Pleasure",
+        "A Classic Horror Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Titane",
+        "Farha",
+        "Happening",
+        "Murina"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Murina", "The Sadness", "Petite Maman", "El Planeta"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Murina", "The Worst Person in the World", "Parallel Mothers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Happening",
+        "Murina",
+        "Titane",
+        "I'm Your Man",
+        "The Medium",
+        "France",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Murina",
+        "Veneciafrenia",
+        "The Worst Person in the World",
+        "Titane",
+        "Pleasure",
+        "La Abuela (The Grandmother)",
+        "A Classic Horror Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Hand of God",
+        "The Worst Person in the World",
+        "A Hero",
+        "Memoria",
+        "Petite Maman",
+        "Happening",
+        "Vortex",
+        "In Front of Your Face",
+        "Titane",
+        "Parallel Mothers",
+        "Paris, 13th District",
+        "Benedetta",
+        "Introduction",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hit the Road",
+        "Titane",
+        "Escape from Mogadishu",
+        "Kingdom: Ashin of the North",
+        "Sweet & Sour",
+        "In Front of Your Face",
+        "Parallel Mothers",
+        "The Innocents",
+        "The Hand of God",
+        "Midnight",
+        "The Medium",
+        "Emergency Declaration",
+        "Lamb",
+        "France",
+        "Blood Red Sky",
+        "The Whole Truth",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Photocopier",
+        "A Classic Horror Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "In Front of Your Face"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["In Front of Your Face"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Wheel of Fortune and Fantasy",
+        "Memoria",
+        "In Front of Your Face"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Il Buco",
+        "Drive My Car",
+        "Wheel of Fortune and Fantasy",
+        "In Front of Your Face"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["In Front of Your Face", "Introduction"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happening",
+        "Escape from Mogadishu",
+        "Official Competition",
+        "Parallel Mothers",
+        "The Good Boss",
+        "Raging Fire",
+        "Blood Red Sky",
+        "The Hand of God",
+        "Kingdom: Ashin of the North"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Space Sweepers",
+        "Drive My Car",
+        "We Made a Beautiful Bouquet",
+        "Escape from Mogadishu",
+        "Kingdom: Ashin of the North"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kingdom: Ashin of the North", "The Medium", "Space Sweepers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Black Box",
+        "The Stronghold",
+        "Kingdom: Ashin of the North",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Kingdom: Ashin of the North"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Midnight",
+        "Kingdom: Ashin of the North",
+        "Space Sweepers",
+        "Sweet & Sour"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "We Made a Beautiful Bouquet",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["We Made a Beautiful Bouquet", "Character"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "We Made a Beautiful Bouquet",
+        "Man in Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "We Made a Beautiful Bouquet"]
+    },
+    {
+      "count": 5,
+      "ranking": ["We Made a Beautiful Bouquet"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kingdom: Ashin of the North",
+        "Midnight",
+        "Escape from Mogadishu",
+        "Emergency Declaration",
+        "Sweet & Sour",
+        "Space Sweepers",
+        "We Made a Beautiful Bouquet"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["7 Women and a Murder"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Parallel Mothers", "7 Women and a Murder"]
+    },
+    {
+      "count": 1,
+      "ranking": ["7 Women and a Murder", "Oxygen", "Anonymously Yours"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Memoria", "El Planeta"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Great Freedom",
+        "Memoria",
+        "El Planeta",
+        "Zero Fucks Given",
+        "Lamb",
+        "Eiffel",
+        "The Catholic School"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ninjababy",
+        "El Planeta",
+        "Zero Fucks Given",
+        "The Worst Person in the World",
+        "Petite Maman"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["El Planeta"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Ninjababy", "El Planeta"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "El Planeta"]
+    },
+    {
+      "count": 1,
+      "ranking": ["El Planeta", "Photocopier"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Happening",
+        "Pleasure",
+        "Titane",
+        "France",
+        "Petrov's Flu",
+        "Parallel Mothers",
+        "Paris, 13th District",
+        "El Planeta"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Memoria",
+        "Azor",
+        "Petite Maman",
+        "Happening",
+        "Great Freedom",
+        "Vortex",
+        "Hit the Road",
+        "Prayers for the Stolen",
+        "Full Time",
+        "A Hero",
+        "The Hand of God",
+        "Compartment No. 6",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Lost Illusions",
+        "In Front of Your Face",
+        "Playground",
+        "Jai Bhim",
+        "Murina",
+        "Titane",
+        "Parallel Mothers",
+        "7 Prisoners",
+        "Hold Me Tight",
+        "Paris, 13th District",
+        "Anaïs in Love",
+        "Hive",
+        "Neptune Frost",
+        "Lingui: The Sacred Bonds",
+        "Private Desert",
+        "I'm Your Man",
+        "Vengeance Is Mine, All Others Pay Cash",
+        "To Chiara",
+        "El Planeta",
+        "Saloum",
+        "Bad Luck Banging or Loony Porn",
+        "Introduction",
+        "Ahed's Knee",
+        "Medusa",
+        "The Girl and the Spider",
+        "Lamb",
+        "After Blue (Dirty Paradise)",
+        "Wheel of Fortune and Fantasy",
+        "Deception"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Il Buco", "Azor"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Azor"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "Memoria",
+        "Azor",
+        "Parallel Mothers",
+        "Lamb",
+        "A Classic Horror Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Drive My Car",
+        "Benedetta",
+        "A Hero",
+        "Parallel Mothers",
+        "Azor",
+        "Petite Maman",
+        "The Hand of God",
+        "Lamb",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Vortex",
+        "Parallel Mothers",
+        "Happening",
+        "A Hero",
+        "Memoria",
+        "Titane",
+        "Hold Me Tight",
+        "Benedetta",
+        "Lamb",
+        "Official Competition",
+        "Neptune Frost",
+        "Azor"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Azor"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Fabian: Going to the Dogs",
+        "Titane",
+        "The Medium",
+        "Lamb",
+        "Azor",
+        "Aloners",
+        "The Hand of God",
+        "The Sadness"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Official Competition", "Titane", "Azor"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Titane", "Drive My Car", "The Hand of God", "Azor"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Hit the Road",
+        "Memoria",
+        "Titane",
+        "Drive My Car",
+        "Wheel of Fortune and Fantasy",
+        "Happening",
+        "A Hero",
+        "Playground",
+        "Hive",
+        "Bad Luck Banging or Loony Porn",
+        "Petite Maman",
+        "Azor",
+        "The Hand of God",
+        "Parallel Mothers",
+        "The Innocents",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happening",
+        "The Hand of God",
+        "Private Desert",
+        "Operation Hyacinth",
+        "The Mad Women's Ball",
+        "Photocopier",
+        "The Boy Who Killed My Parents",
+        "The Girl Who Killed Her Parents",
+        "Prey",
+        "Farha",
+        "Monica and Friends: Lessons",
+        "Il Buco",
+        "Parallel Mothers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wheel of Fortune and Fantasy",
+        "Il Buco",
+        "Lingui: The Sacred Bonds",
+        "Vortex",
+        "Limbo",
+        "In Front of Your Face",
+        "Azor",
+        "Introduction",
+        "Zero Fucks Given",
+        "Lamb",
+        "Drive My Car",
+        "Memoria",
+        "What Do We See When We Look at the Sky?"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Freaks Out",
+        "Lamb",
+        "The Hand of God",
+        "Memoria",
+        "Il Buco",
+        "Three Floors"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamb",
+        "The Catholic School",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Happening",
+        "The Hand of God",
+        "Il Buco",
+        "Titane",
+        "Freaks Out",
+        "To Chiara"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Il Buco"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petite Maman",
+        "One for the Road",
+        "The Medium",
+        "Il Buco",
+        "Rurouni Kenshin: The Beginning",
+        "Rurouni Kenshin: The Final",
+        "Oxygen",
+        "Blood Red Sky",
+        "The Whole Truth"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Memoria",
+        "Il Buco",
+        "Lamb",
+        "Wheel of Fortune and Fantasy",
+        "Titane",
+        "The Tale of King Crab"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["7 Prisoners"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "7 Prisoners", "Deception"]
+    },
+    {
+      "count": 1,
+      "ranking": ["7 Prisoners", "Eiffel"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Impossible Things"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Aloners", "Impossible Things"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Impossible Things", "Prayers for the Stolen"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Impossible Things", "The Worst Person in the World"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Impossible Things"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Impossible Things"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Impossible Things"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Trip", "Limbo", "The Shadow in My Eye", "The Sadness"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Shadow in My Eye", "My Best Friend Anne Frank"]
+    },
+    {
+      "count": 7,
+      "ranking": ["The Shadow in My Eye"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Vortex",
+        "Black Box",
+        "Titane",
+        "OSS 117: From Africa with Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Black Box", "OSS 117: From Africa with Love"]
+    },
+    {
+      "count": 1,
+      "ranking": ["OSS 117: From Africa with Love", "Titane", "The Sadness"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamb", "OSS 117: From Africa with Love"]
+    },
+    {
+      "count": 1,
+      "ranking": ["OSS 117: From Africa with Love"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Eiffel",
+        "The Hand of God",
+        "Lost Illusions",
+        "OSS 117: From Africa with Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Titane",
+        "Parallel Mothers",
+        "Paris, 13th District",
+        "Saloum",
+        "Wheel of Fortune and Fantasy",
+        "Petrov's Flu"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Hand of God",
+        "The Worst Person in the World",
+        "Petrov's Flu",
+        "Paris, 13th District",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Compartment No. 6", "Petrov's Flu"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petrov's Flu",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Paris, 13th District",
+        "Bad Luck Banging or Loony Porn"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Memoria",
+        "Compartment No. 6",
+        "Titane",
+        "Benedetta",
+        "France",
+        "Paris, 13th District",
+        "Lamb",
+        "Petrov's Flu"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Memoria",
+        "Wheel of Fortune and Fantasy",
+        "France",
+        "The Worst Person in the World",
+        "A Hero",
+        "In Front of Your Face",
+        "Il Buco",
+        "Petrov's Flu",
+        "Benedetta",
+        "Happening",
+        "Full Time",
+        "Playground",
+        "Titane",
+        "Parallel Mothers",
+        "The Good Boss",
+        "Paris, 13th District",
+        "Bad Luck Banging or Loony Porn",
+        "Introduction",
+        "Three Floors",
+        "Lamb",
+        "Emergency Declaration",
+        "Space Sweepers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lost Illusions",
+        "Freaks Out",
+        "Happening",
+        "Drive My Car",
+        "Titane",
+        "Paris, 13th District",
+        "Benedetta",
+        "The Stronghold",
+        "The Worst Person in the World",
+        "Full Time",
+        "A Hero",
+        "Murina",
+        "The Good Boss",
+        "Some Like It Rare",
+        "Playground",
+        "Parallel Mothers",
+        "Hold Me Tight",
+        "The Tale of King Crab",
+        "To Chiara",
+        "After Blue (Dirty Paradise)",
+        "OSS 117: From Africa with Love",
+        "Great Freedom",
+        "Compartment No. 6",
+        "Waiting for Bojangles",
+        "Petrov's Flu",
+        "Zero Fucks Given",
+        "Lamb",
+        "Official Competition",
+        "In Front of Your Face",
+        "Anaïs in Love",
+        "France",
+        "Deception",
+        "Memoria",
+        "The Innocents"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sardar Udham", "Karnan", "Pushpa: The Rise", "Master"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sardar Udham",
+        "Jai Bhim",
+        "Minnal Murali",
+        "83",
+        "Pushpa: The Rise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Sardar Udham"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Sardar Udham"]
+    },
+    {
+      "count": 1,
+      "ranking": ["83", "Sardar Udham"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Minnal Murali", "Master", "Sardar Udham"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Benedetta", "Sardar Udham", "Jai Bhim"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Happening",
+        "Vortex",
+        "A Hero",
+        "The Hand of God",
+        "Memoria",
+        "Paris, 13th District",
+        "The Sacred Spirit",
+        "Neptune Frost",
+        "Prayers for the Stolen",
+        "In Front of Your Face",
+        "Titane",
+        "Escape from Mogadishu",
+        "Benedetta",
+        "After Blue (Dirty Paradise)",
+        "Compartment No. 6",
+        "The Innocents",
+        "France",
+        "Deception",
+        "Hit the Road",
+        "Official Competition",
+        "Murina",
+        "Anaïs in Love",
+        "The Mad Women's Ball",
+        "Medusa",
+        "Lamb",
+        "Parallel Mothers",
+        "Midnight",
+        "Blood Red Sky",
+        "The Worst Person in the World",
+        "Hold Me Tight"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["After Blue (Dirty Paradise)"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Titane", "After Blue (Dirty Paradise)"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happening",
+        "Murina",
+        "Titane",
+        "Pleasure",
+        "Vortex",
+        "Benedetta",
+        "The Stronghold",
+        "OSS 117: From Africa with Love",
+        "After Blue (Dirty Paradise)",
+        "Wheel of Fortune and Fantasy",
+        "Onoda: 10,000 Nights in the Jungle"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Vortex",
+        "Official Competition",
+        "Titane",
+        "The Good Boss",
+        "After Blue (Dirty Paradise)",
+        "Blood Red Sky",
+        "Homunculus"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Petite Maman",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Happening",
+        "Compartment No. 6",
+        "Limbo",
+        "Vortex",
+        "Titane",
+        "Hive",
+        "I'm Your Man",
+        "Space Sweepers",
+        "Hit the Road",
+        "A Hero",
+        "Brother's Keeper",
+        "What Do We See When We Look at the Sky?",
+        "Petrov's Flu",
+        "Parallel Mothers",
+        "Anaïs in Love",
+        "France",
+        "Memoria",
+        "In Front of Your Face",
+        "Pleasure",
+        "Below Zero",
+        "7 Women and a Murder",
+        "The Hand of God",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Parallel Mothers",
+        "Outlaws",
+        "Crazy About Her",
+        "Below Zero"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Below Zero"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Below Zero", "Pleasure"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Below Zero", "The Worst Person in the World"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Below Zero", "7 Prisoners", "Oxygen", "Blood Red Sky"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kingdom: Ashin of the North",
+        "The Whole Truth",
+        "Midnight",
+        "Below Zero"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Trip", "Below Zero"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Eiffel",
+        "Anonymously Yours",
+        "Crazy About Her",
+        "OSS 117: From Africa with Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Petite Maman",
+        "The Hand of God",
+        "Lost Illusions",
+        "Black Box",
+        "Anaïs in Love",
+        "The Stronghold",
+        "Eiffel",
+        "Anonymously Yours"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "The Worst Person in the World",
+        "My Best Friend Anne Frank",
+        "Anonymously Yours"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Anonymously Yours"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Indian Kitchen",
+        "Minnal Murali",
+        "Anonymously Yours"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Space Sweepers",
+        "Happening",
+        "Anonymously Yours",
+        "The Worst Person in the World",
+        "The Innocents",
+        "Midnight",
+        "Emergency Declaration"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Joji", "Jai Bhim", "Master"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Jai Bhim", "Master", "Karnan"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Jai Bhim"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sarpatta Parambarai", "Jai Bhim", "Master"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Minnal Murali",
+        "Pushpa: The Rise",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Happening",
+        "Sardar Udham",
+        "Sarpatta Parambarai",
+        "A Hero",
+        "Jai Bhim",
+        "Titane",
+        "Rurouni Kenshin: The Beginning",
+        "Anaïs in Love",
+        "Rurouni Kenshin: The Final",
+        "Benedetta",
+        "Kingdom: Ashin of the North",
+        "Raging Fire",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Black Box", "Eiffel"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Eiffel"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Sweet & Sour"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Hand of God", "Sweet & Sour"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Midnight", "Sweet & Sour"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sweet & Sour", "Ride or Die"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Medium", "Midnight", "Sweet & Sour"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ride or Die",
+        "The Worst Person in the World",
+        "Operation Hyacinth",
+        "Titane",
+        "Parallel Mothers",
+        "Benedetta"
+      ]
+    },
+    {
+      "count": 8,
+      "ranking": ["Operation Hyacinth"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "The Worst Person in the World",
+        "Paris, 13th District",
+        "Medusa",
+        "Parallel Mothers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Classic Horror Story", "Titane", "Medusa"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "Memoria",
+        "Paris, 13th District",
+        "Benedetta",
+        "The Worst Person in the World",
+        "Full Time",
+        "Lost Illusions",
+        "The Tale of King Crab",
+        "Ahed's Knee",
+        "Petite Maman",
+        "Vortex",
+        "Official Competition",
+        "Parallel Mothers",
+        "Wheel of Fortune and Fantasy",
+        "Bad Luck Banging or Loony Porn",
+        "The Girl and the Spider",
+        "The Sacred Spirit",
+        "Pleasure",
+        "Medusa",
+        "Anonymously Yours"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Medusa"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Playground",
+        "Benedetta",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Happening",
+        "Hit the Road",
+        "A Hero",
+        "The Hand of God",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Last Film Show",
+        "In Front of Your Face",
+        "Anaïs in Love",
+        "The Shadow in My Eye",
+        "Lingui: The Sacred Bonds",
+        "Escape from Mogadishu",
+        "Parallel Mothers",
+        "Neptune Frost",
+        "Lamb",
+        "Blood Red Sky",
+        "Medusa",
+        "After Blue (Dirty Paradise)",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Medusa"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamb", "Medusa"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "Paris, 13th District",
+        "Medusa",
+        "Zero Fucks Given"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Photocopier"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Man in Love", "Photocopier"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Emergency Declaration",
+        "Vengeance Is Mine, All Others Pay Cash",
+        "Photocopier"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ride or Die", "Photocopier"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Classic Horror Story", "Red Dot", "Prey"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Red Dot"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Titane", "Blood Red Sky", "Red Dot"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Red Dot", "Cube"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Innocents", "Benedetta", "Pleasure", "Red Dot"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Red Dot", "7 Women and a Murder", "A Classic Horror Story"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Oxygen", "A Classic Horror Story", "Red Dot", "Prey"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blood Red Sky",
+        "Benedetta",
+        "The Stronghold",
+        "Red Dot",
+        "Hold Me Tight",
+        "Below Zero"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["My Best Friend Anne Frank", "Black Box"]
+    },
+    {
+      "count": 6,
+      "ranking": ["My Best Friend Anne Frank"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Catholic School", "My Best Friend Anne Frank"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blood Red Sky", "My Best Friend Anne Frank"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Playground", "Ninjababy", "Hive"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Hive"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hive",
+        "I'm Your Man",
+        "Bad Luck Banging or Loony Porn",
+        "Crazy About Her",
+        "Petite Maman",
+        "The Hand of God"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hive", "Prey"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Parallel Mothers",
+        "Playground",
+        "Benedetta",
+        "Vortex",
+        "Hive",
+        "Lamb",
+        "Hit the Road",
+        "A Hero",
+        "The Hand of God",
+        "Memoria",
+        "Compartment No. 6",
+        "Happening",
+        "The Innocents",
+        "The Girl and the Spider",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Hit the Road",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Lost Illusions",
+        "Limbo",
+        "Titane",
+        "Hive",
+        "Ahed's Knee"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hive",
+        "Full Time",
+        "Drive My Car",
+        "Wheel of Fortune and Fantasy"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Waiting for Bojangles"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Waiting for Bojangles", "Titane"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lost Illusions",
+        "Waiting for Bojangles",
+        "Black Box",
+        "The Mad Women's Ball",
+        "To Chiara",
+        "Benedetta",
+        "Zero Fucks Given",
+        "Oxygen"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hit the Road", "Waiting for Bojangles"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sardar Udham", "83", "Pushpa: The Rise"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Jai Bhim",
+        "The Great Indian Kitchen",
+        "Joji",
+        "Pushpa: The Rise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pleasure", "Master", "Titane", "Pushpa: The Rise"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pushpa: The Rise"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pushpa: The Rise", "83"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Master",
+        "The Great Indian Kitchen",
+        "Joji",
+        "Minnal Murali",
+        "Pushpa: The Rise"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Karnan", "Jai Bhim", "Pushpa: The Rise", "Master"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Fabian: Going to the Dogs",
+        "What Do We See When We Look at the Sky?",
+        "Deception",
+        "Parallel Mothers",
+        "Three Floors",
+        "The Girl and the Spider",
+        "The Worst Person in the World",
+        "We Made a Beautiful Bouquet"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Fabian: Going to the Dogs", "Lamb"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Vortex",
+        "Fabian: Going to the Dogs",
+        "Memoria",
+        "Aloners",
+        "Titane",
+        "Parallel Mothers",
+        "Paris, 13th District",
+        "Hold Me Tight",
+        "The Mad Women's Ball",
+        "Pleasure",
+        "Zero Fucks Given",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wheel of Fortune and Fantasy",
+        "Vortex",
+        "Fabian: Going to the Dogs",
+        "Titane",
+        "Neptune Frost",
+        "Benedetta",
+        "The Medium"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Fabian: Going to the Dogs",
+        "Compartment No. 6",
+        "Pleasure",
+        "Titane"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Fabian: Going to the Dogs"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Great Freedom",
+        "Fabian: Going to the Dogs",
+        "To Chiara"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Indian Kitchen",
+        "Joji",
+        "Jai Bhim",
+        "Minnal Murali",
+        "Master"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Minnal Murali"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Joji", "Minnal Murali"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Indian Kitchen", "Joji", "Minnal Murali"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Master", "Joji", "Minnal Murali"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kadaisi Vivasayi", "Minnal Murali"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Happening",
+        "Vortex",
+        "Memoria",
+        "Titane",
+        "Parallel Mothers",
+        "Hold Me Tight",
+        "Paris, 13th District",
+        "Benedetta",
+        "Pleasure",
+        "Zero Fucks Given",
+        "France",
+        "Lamb",
+        "Deception"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Monica and Friends: Lessons",
+        "Midnight",
+        "Happening",
+        "Hold Me Tight",
+        "The Girl Who Killed Her Parents",
+        "Drive My Car",
+        "The Advent Calendar",
+        "The Boy Who Killed My Parents",
+        "A Classic Horror Story",
+        "Red Dot",
+        "Titane",
+        "Petite Maman"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Monica and Friends: Lessons",
+        "7 Women and a Murder",
+        "One for the Road"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Titane", "Hold Me Tight"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "The Hand of God",
+        "Memoria",
+        "Titane",
+        "Hold Me Tight",
+        "Three Floors"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Vortex",
+        "Prayers for the Stolen",
+        "Hold Me Tight",
+        "Zero Fucks Given",
+        "Impossible Things",
+        "Drive My Car",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Fabian: Going to the Dogs",
+        "The Hand of God",
+        "Memoria",
+        "Onoda: 10,000 Nights in the Jungle",
+        "What Do We See When We Look at the Sky?",
+        "Il Buco",
+        "Titane",
+        "Parallel Mothers",
+        "Neptune Frost",
+        "Azor",
+        "Benedetta",
+        "Bad Luck Banging or Loony Porn",
+        "Introduction",
+        "Ahed's Knee",
+        "The Girl and the Spider",
+        "France"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hold Me Tight"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lamb",
+        "A Classic Horror Story",
+        "Petite Maman",
+        "The Sacred Spirit",
+        "Hold Me Tight",
+        "The Innocents",
+        "Neptune Frost",
+        "Saloum",
+        "Midnight",
+        "The Trip",
+        "Space Sweepers",
+        "The Sadness",
+        "The Advent Calendar",
+        "Homunculus"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Happening",
+        "The Hand of God",
+        "Official Competition",
+        "In Front of Your Face",
+        "Aloners",
+        "Titane",
+        "Introduction",
+        "Paris, 13th District",
+        "France",
+        "Wheel of Fortune and Fantasy",
+        "Full Time",
+        "Memoria",
+        "Parallel Mothers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Wheel of Fortune and Fantasy",
+        "Introduction"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Introduction",
+        "A Classic Horror Story",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Memoria",
+        "Titane",
+        "Parallel Mothers",
+        "I'm Your Man",
+        "Benedetta",
+        "The Stronghold",
+        "France",
+        "Blood Red Sky"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Introduction"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Parallel Mothers",
+        "The Sadness",
+        "After Blue (Dirty Paradise)",
+        "Drive My Car",
+        "Wheel of Fortune and Fantasy",
+        "In Front of Your Face",
+        "Introduction"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamb", "The Advent Calendar"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Advent Calendar"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Classic Horror Story",
+        "Ride or Die",
+        "Prey",
+        "The Medium",
+        "The Worst Person in the World",
+        "The Advent Calendar",
+        "The Girl Who Killed Her Parents"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "The Sadness",
+        "La Abuela (The Grandmother)",
+        "Blood Red Sky",
+        "The Medium",
+        "Oxygen",
+        "The Advent Calendar"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "I'm Your Man",
+        "The Advent Calendar"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamb", "A Classic Horror Story", "The Advent Calendar"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Hit the Road",
+        "Titane",
+        "The Advent Calendar"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Titane",
+        "Petite Maman",
+        "Raging Fire",
+        "The Sadness",
+        "Space Sweepers"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Raging Fire"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Raging Fire", "The Sadness", "Below Zero"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Raging Fire", "The Sadness"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Titane", "Raging Fire"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Compartment No. 6",
+        "Lost Illusions",
+        "Waiting for Bojangles",
+        "Titane",
+        "The Innocents",
+        "Paris, 13th District",
+        "Benedetta",
+        "The Stronghold",
+        "Some Like It Rare",
+        "Kingdom: Ashin of the North",
+        "Raging Fire",
+        "The Trip",
+        "France",
+        "Lamb",
+        "La Abuela (The Grandmother)",
+        "Deception",
+        "OSS 117: From Africa with Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Hit the Road",
+        "Petite Maman",
+        "The Hand of God",
+        "Murina",
+        "Titane",
+        "Raging Fire",
+        "Lamb",
+        "Benedetta",
+        "Blood Red Sky"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brother's Keeper", "Titane"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Great Freedom",
+        "Brother's Keeper",
+        "Vortex",
+        "Benedetta",
+        "Pleasure",
+        "Hit the Road"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Brother's Keeper", "Paper Lives"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Brother's Keeper"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Great Freedom",
+        "Ninjababy",
+        "The Hand of God",
+        "Brother's Keeper",
+        "Titane",
+        "Parallel Mothers",
+        "7 Prisoners",
+        "Private Desert",
+        "Bad Luck Banging or Loony Porn",
+        "Medusa"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happening",
+        "Brother's Keeper",
+        "The Worst Person in the World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Petite Maman",
+        "Compartment No. 6",
+        "Bad Luck Banging or Loony Porn",
+        "I'm Your Man",
+        "The Girl and the Spider",
+        "Paper Lives",
+        "Brother's Keeper"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Brother's Keeper",
+        "Drive My Car",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "The Great Indian Kitchen",
+        "We Made a Beautiful Bouquet",
+        "Aloners",
+        "Titane",
+        "Zero Fucks Given",
+        "Ride or Die"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Last Film Show"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Indian Kitchen", "Last Film Show"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sardar Udham", "Last Film Show"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Joji",
+        "Jai Bhim",
+        "Last Film Show",
+        "The Great Indian Kitchen",
+        "Escape from Mogadishu",
+        "Pushpa: The Rise"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Last Film Show"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "The Hand of God",
+        "Last Film Show",
+        "Parallel Mothers",
+        "Pushpa: The Rise",
+        "Master",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Last Film Show",
+        "Master",
+        "Pushpa: The Rise",
+        "Kadaisi Vivasayi",
+        "Karnan"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Private Desert", "Drive My Car", "Petite Maman"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Happening",
+        "Drive My Car",
+        "Great Freedom",
+        "Fabian: Going to the Dogs",
+        "Official Competition",
+        "Titane",
+        "The Innocents",
+        "I'm Your Man",
+        "Pleasure",
+        "Petite Maman",
+        "A Hero",
+        "Last Film Show",
+        "Private Desert",
+        "Zero Fucks Given",
+        "Lamb",
+        "Parallel Mothers",
+        "Benedetta",
+        "The Good Boss",
+        "Bad Luck Banging or Loony Porn"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Private Desert"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petite Maman",
+        "Drive My Car",
+        "Titane",
+        "Private Desert",
+        "Kingdom: Ashin of the North",
+        "Parallel Mothers",
+        "The Worst Person in the World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Impossible Things", "Private Desert"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamb", "Private Desert"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Bad Luck Banging or Loony Porn",
+        "Memoria",
+        "The Tale of King Crab",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Ahed's Knee",
+        "Great Freedom",
+        "The Hand of God",
+        "Parallel Mothers",
+        "Private Desert",
+        "Titane",
+        "Vortex",
+        "Petite Maman",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Private Desert",
+        "The Worst Person in the World",
+        "The Boy Who Killed My Parents",
+        "The Girl Who Killed Her Parents"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Great Freedom",
+        "Titane",
+        "Private Desert",
+        "Pleasure",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Hand of God",
+        "Lost Illusions",
+        "Black Box",
+        "Titane",
+        "Paris, 13th District",
+        "The Mad Women's Ball",
+        "Benedetta",
+        "The Stronghold",
+        "Some Like It Rare",
+        "France",
+        "Three Floors",
+        "Lamb",
+        "Deception",
+        "OSS 117: From Africa with Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Black Box",
+        "Titane",
+        "Midnight",
+        "The Mad Women's Ball",
+        "Paper Lives",
+        "The Stronghold",
+        "Oxygen",
+        "Some Like It Rare"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Some Like It Rare",
+        "After Blue (Dirty Paradise)",
+        "The Innocents",
+        "Benedetta",
+        "Titane",
+        "Blood Red Sky",
+        "A Classic Horror Story",
+        "The Trip",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "Parallel Mothers",
+        "Limbo",
+        "After Blue (Dirty Paradise)",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Titane",
+        "The Sacred Spirit",
+        "Some Like It Rare"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lost Illusions",
+        "Black Box",
+        "Titane",
+        "Some Like It Rare",
+        "Waiting for Bojangles",
+        "Zero Fucks Given",
+        "OSS 117: From Africa with Love",
+        "The Stronghold"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Some Like It Rare"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Black Box", "Some Like It Rare"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Vortex", "Some Like It Rare"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Neptune Frost",
+        "Memoria",
+        "Titane",
+        "The Worst Person in the World",
+        "The Girl and the Spider"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Sardar Udham",
+        "Sarpatta Parambarai",
+        "Memoria",
+        "Karnan",
+        "Limbo",
+        "In Front of Your Face",
+        "Titane",
+        "Azor",
+        "Benedetta",
+        "Introduction",
+        "Raging Fire",
+        "The Girl and the Spider"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Girl and the Spider"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Drive My Car",
+        "The Girl and the Spider",
+        "Veneciafrenia"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Titane", "The Girl and the Spider"]
+    },
+    {
+      "count": 1,
+      "ranking": ["I'm Your Man", "The Girl and the Spider"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Parallel Mothers",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Ninjababy",
+        "Aloners",
+        "Titane",
+        "Petite Maman",
+        "Lingui: The Sacred Bonds",
+        "Pleasure",
+        "El Planeta",
+        "Zero Fucks Given",
+        "Crazy About Her",
+        "The Girl and the Spider",
+        "Deception"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Onoda: 10,000 Nights in the Jungle",
+        "Blood Red Sky",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Happening",
+        "Great Freedom",
+        "Vortex",
+        "Prayers for the Stolen",
+        "A Hero",
+        "The Hand of God",
+        "Memoria",
+        "Compartment No. 6",
+        "Murina",
+        "Titane",
+        "The Innocents",
+        "Freaks Out",
+        "Lingui: The Sacred Bonds",
+        "To Chiara",
+        "Benedetta",
+        "The Medium",
+        "Raging Fire",
+        "France",
+        "Lamb",
+        "After Blue (Dirty Paradise)",
+        "The Advent Calendar"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Happening", "Onoda: 10,000 Nights in the Jungle"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Innocents",
+        "Drive My Car",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Benedetta",
+        "Lamb",
+        "The Stronghold",
+        "Titane",
+        "OSS 117: From Africa with Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Petite Maman",
+        "Great Freedom",
+        "We Made a Beautiful Bouquet",
+        "Memoria",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Black Box",
+        "Titane",
+        "The Innocents",
+        "Escape from Mogadishu",
+        "Benedetta",
+        "Midnight",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lamb", "Onoda: 10,000 Nights in the Jungle"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happening",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Black Box",
+        "The Innocents",
+        "Lost Illusions",
+        "In Front of Your Face",
+        "The Stronghold",
+        "Oxygen",
+        "OSS 117: From Africa with Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Petite Maman",
+        "The Hand of God",
+        "Lost Illusions",
+        "Parallel Mothers",
+        "Escape from Mogadishu"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Escape from Mogadishu"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Escape from Mogadishu",
+        "The Medium",
+        "The Whole Truth",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Memoria"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Onoda: 10,000 Nights in the Jungle",
+        "Titane",
+        "Escape from Mogadishu"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kingdom: Ashin of the North",
+        "Escape from Mogadishu",
+        "Drive My Car"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Titane",
+        "Parallel Mothers",
+        "Escape from Mogadishu",
+        "Benedetta"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Jai Bhim", "Pushpa: The Rise", "Master"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Master"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kadaisi Vivasayi",
+        "Jai Bhim",
+        "Minnal Murali",
+        "Sarpatta Parambarai",
+        "Joji",
+        "Limbo",
+        "Midnight",
+        "The Medium",
+        "The Sadness"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "Joji"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sardar Udham",
+        "The Great Indian Kitchen",
+        "Joji",
+        "Karnan",
+        "Pushpa: The Rise",
+        "Master"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Joji", "83", "Pushpa: The Rise", "Master"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Indian Kitchen", "Sardar Udham", "Master"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Kingdom: Ashin of the North",
+        "The Medium",
+        "The Whole Truth",
+        "The Great Indian Kitchen",
+        "Karnan",
+        "Operation Hyacinth",
+        "Midnight",
+        "Emergency Declaration"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Indian Kitchen",
+        "Sarpatta Parambarai",
+        "Jai Bhim",
+        "Master",
+        "Karnan",
+        "Minnal Murali",
+        "Pushpa: The Rise",
+        "Joji"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Great Indian Kitchen"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Great Indian Kitchen",
+        "Jai Bhim",
+        "Joji",
+        "Karnan",
+        "Petite Maman",
+        "Benedetta"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Sadness",
+        "Kingdom: Ashin of the North",
+        "The Medium",
+        "Homunculus"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Homunculus"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Sadness", "Homunculus"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blood Red Sky", "Homunculus"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Mad Women's Ball",
+        "Lamb",
+        "Prayers for the Stolen",
+        "Homunculus"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Mad Women's Ball"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Titane", "The Mad Women's Ball", "Memoria", "Benedetta"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Black Box", "The Mad Women's Ball"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Stronghold",
+        "Black Box",
+        "The Mad Women's Ball",
+        "Eiffel",
+        "OSS 117: From Africa with Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "I'm Your Man",
+        "Parallel Mothers",
+        "The Mad Women's Ball",
+        "7 Women and a Murder"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Mad Women's Ball", "Waiting for Bojangles", "Black Box"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Waiting for Bojangles",
+        "Black Box",
+        "The Mad Women's Ball",
+        "The Stronghold"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Mad Women's Ball", "The Worst Person in the World"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "The Man with the Answers",
+        "Full Time",
+        "Bad Luck Banging or Loony Porn"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["The Man with the Answers"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sardar Udham",
+        "Joji",
+        "Kingdom: Ashin of the North",
+        "The Great Indian Kitchen",
+        "Pushpa: The Rise",
+        "The Man with the Answers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Man with the Answers", "Drive My Car"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "A Hero",
+        "The Hand of God",
+        "The Man with the Answers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Innocents",
+        "The Hand of God",
+        "Limbo",
+        "To Chiara",
+        "Aloners",
+        "The Man with the Answers",
+        "Below Zero",
+        "Lamb",
+        "A Classic Horror Story",
+        "Titane",
+        "Paper Lives",
+        "Prey",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Memoria"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happening",
+        "The Man with the Answers",
+        "The Worst Person in the World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["83", "Pushpa: The Rise"]
+    },
+    {
+      "count": 1,
+      "ranking": ["83", "Joji", "Pushpa: The Rise", "Master", "Minnal Murali"]
+    },
+    {
+      "count": 2,
+      "ranking": ["83"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Jai Bhim", "Pushpa: The Rise", "83"]
+    },
+    {
+      "count": 1,
+      "ranking": ["One for the Road", "The Medium"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Memoria",
+        "Rurouni Kenshin: The Beginning",
+        "Rurouni Kenshin: The Final",
+        "One for the Road",
+        "The Medium",
+        "Eiffel"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "One for the Road"]
+    },
+    {
+      "count": 2,
+      "ranking": ["One for the Road"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Benedetta", "One for the Road", "The Medium"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "One for the Road", "The Medium"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "We Made a Beautiful Bouquet",
+        "Character",
+        "Homunculus",
+        "The Worst Person in the World",
+        "The Hand of God",
+        "One for the Road"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petite Maman",
+        "The Worst Person in the World",
+        "Compartment No. 6",
+        "Titane",
+        "7 Prisoners",
+        "Memoria",
+        "Hive",
+        "One for the Road",
+        "Drive My Car",
+        "Wheel of Fortune and Fantasy",
+        "The Hand of God",
+        "What Do We See When We Look at the Sky?",
+        "Il Buco",
+        "Parallel Mothers",
+        "Vortex",
+        "Lingui: The Sacred Bonds"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ahed's Knee", "Bad Luck Banging or Loony Porn"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ahed's Knee", "Pleasure"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Great Freedom",
+        "Vortex",
+        "Hit the Road",
+        "Fabian: Going to the Dogs",
+        "Full Time",
+        "A Hero",
+        "The Hand of God",
+        "Memoria",
+        "Compartment No. 6",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Official Competition",
+        "In Front of Your Face",
+        "What Do We See When We Look at the Sky?",
+        "Il Buco",
+        "Titane",
+        "Hold Me Tight",
+        "Freaks Out",
+        "Neptune Frost",
+        "Benedetta",
+        "Bad Luck Banging or Loony Porn",
+        "Introduction",
+        "Ahed's Knee",
+        "The Girl and the Spider",
+        "France",
+        "The Sadness",
+        "Three Floors",
+        "Lamb",
+        "After Blue (Dirty Paradise)",
+        "Deception"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Great Freedom",
+        "Vortex",
+        "Fabian: Going to the Dogs",
+        "A Hero",
+        "The Hand of God",
+        "Memoria",
+        "Compartment No. 6",
+        "Onoda: 10,000 Nights in the Jungle",
+        "In Front of Your Face",
+        "What Do We See When We Look at the Sky?",
+        "Il Buco",
+        "Titane",
+        "Hold Me Tight",
+        "Freaks Out",
+        "Benedetta",
+        "Bad Luck Banging or Loony Porn",
+        "Introduction",
+        "Ahed's Knee",
+        "The Girl and the Spider",
+        "France",
+        "Three Floors",
+        "After Blue (Dirty Paradise)",
+        "Deception"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Hero",
+        "Official Competition",
+        "Paris, 13th District",
+        "Anaïs in Love",
+        "The Stronghold",
+        "The Innocents",
+        "Some Like It Rare",
+        "Zero Fucks Given",
+        "France",
+        "The Advent Calendar",
+        "Deception",
+        "Vortex",
+        "Compartment No. 6",
+        "Lamb",
+        "La Abuela (The Grandmother)",
+        "OSS 117: From Africa with Love",
+        "Waiting for Bojangles",
+        "Titane",
+        "Ahed's Knee",
+        "Three Floors",
+        "Memoria",
+        "Hold Me Tight",
+        "The Worst Person in the World",
+        "Full Time",
+        "Lost Illusions",
+        "Benedetta"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Bad Luck Banging or Loony Porn",
+        "Titane",
+        "Parallel Mothers",
+        "Ahed's Knee",
+        "Drive My Car"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Parallel Mothers",
+        "Ahed's Knee"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Shadow in My Eye",
+        "Man in Love",
+        "Emergency Declaration",
+        "The Whole Truth"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["The Whole Truth"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "Parallel Mothers",
+        "The Medium",
+        "The Sadness",
+        "A Classic Horror Story",
+        "Blood Red Sky",
+        "Cube",
+        "The Whole Truth"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sweet & Sour", "Photocopier", "The Whole Truth"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Sarpatta Parambarai"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Karnan",
+        "Joji",
+        "Master",
+        "The Advent Calendar",
+        "Sarpatta Parambarai",
+        "Jai Bhim",
+        "Minnal Murali"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sarpatta Parambarai",
+        "Last Film Show",
+        "Jai Bhim",
+        "Minnal Murali",
+        "Pushpa: The Rise",
+        "Master"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kadaisi Vivasayi", "Sarpatta Parambarai"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Man in Love", "Vengeance Is Mine, All Others Pay Cash"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Vengeance Is Mine, All Others Pay Cash",
+        "Yuni"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Yuni",
+        "Photocopier",
+        "The Medium",
+        "Sweet & Sour",
+        "Vengeance Is Mine, All Others Pay Cash"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Vengeance Is Mine, All Others Pay Cash"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Sardar Udham",
+        "Great Freedom",
+        "The Great Indian Kitchen",
+        "Sarpatta Parambarai",
+        "Hit the Road",
+        "A Hero",
+        "Joji",
+        "Karnan",
+        "Jai Bhim",
+        "Aloners",
+        "Titane",
+        "Paris, 13th District",
+        "Minnal Murali",
+        "Vengeance Is Mine, All Others Pay Cash",
+        "83",
+        "Pushpa: The Rise",
+        "Master"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Photocopier",
+        "Titane",
+        "Vengeance Is Mine, All Others Pay Cash",
+        "Man in Love",
+        "Drive My Car",
+        "The Worst Person in the World"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Photocopier",
+        "Yuni",
+        "Vengeance Is Mine, All Others Pay Cash"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Photocopier",
+        "Yuni",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Vengeance Is Mine, All Others Pay Cash"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Veneciafrenia"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "La Abuela (The Grandmother)",
+        "Veneciafrenia",
+        "Drive My Car",
+        "Wheel of Fortune and Fantasy",
+        "Ninjababy",
+        "Official Competition",
+        "Black Box",
+        "The Good Boss",
+        "Raging Fire",
+        "Three Floors",
+        "OSS 117: From Africa with Love"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Outlaws", "Veneciafrenia"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wheel of Fortune and Fantasy",
+        "The Hand of God",
+        "Lost Illusions",
+        "Official Competition",
+        "Parallel Mothers",
+        "Freaks Out",
+        "A Classic Horror Story",
+        "Veneciafrenia",
+        "7 Women and a Murder"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "Titane",
+        "The Worst Person in the World",
+        "Official Competition",
+        "Parallel Mothers",
+        "France",
+        "Three Floors",
+        "7 Women and a Murder",
+        "Drive My Car",
+        "Petite Maman",
+        "Happening",
+        "Ninjababy",
+        "Paris, 13th District",
+        "The Mad Women's Ball",
+        "Veneciafrenia"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "The Innocents", "Eiffel", "Veneciafrenia"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "To Chiara"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Parallel Mothers",
+        "To Chiara"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["To Chiara"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ninjababy",
+        "Happening",
+        "The Worst Person in the World",
+        "Deception",
+        "Anaïs in Love",
+        "Benedetta",
+        "To Chiara"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Memoria", "Titane", "To Chiara"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Titane", "The Worst Person in the World", "To Chiara"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Hand of God", "The Shadow in My Eye", "To Chiara"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Fabian: Going to the Dogs", "To Chiara"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Vortex",
+        "Official Competition",
+        "Paris, 13th District",
+        "Titane",
+        "Parallel Mothers",
+        "The Hand of God",
+        "Limbo",
+        "The Innocents",
+        "Freaks Out",
+        "The Stronghold",
+        "A Hero",
+        "Lost Illusions",
+        "The Good Boss",
+        "To Chiara",
+        "The Sadness",
+        "Some Like It Rare",
+        "Ahed's Knee",
+        "Hold Me Tight",
+        "La Abuela (The Grandmother)",
+        "OSS 117: From Africa with Love",
+        "A Classic Horror Story",
+        "Benedetta",
+        "Eiffel"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Sacred Spirit",
+        "The Worst Person in the World",
+        "Parallel Mothers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Innocents",
+        "Freaks Out",
+        "Benedetta",
+        "Outlaws",
+        "The Trip",
+        "The Sadness",
+        "Lamb",
+        "The Feast",
+        "The Sacred Spirit",
+        "The Medium",
+        "La Abuela (The Grandmother)",
+        "A Classic Horror Story",
+        "Some Like It Rare",
+        "Veneciafrenia",
+        "Titane",
+        "Oxygen",
+        "Below Zero",
+        "Blood Red Sky",
+        "Red Dot"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Hit the Road",
+        "Ninjababy",
+        "Outlaws",
+        "Parallel Mothers",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Titane",
+        "The Sacred Spirit",
+        "7 Women and a Murder"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Sacred Spirit"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Sacred Spirit", "Titane"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pleasure", "Aloners", "The Sacred Spirit"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Sacred Spirit", "El Planeta", "Veneciafrenia"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Karnan"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Hero",
+        "Introduction",
+        "France",
+        "Prayers for the Stolen",
+        "Impossible Things",
+        "Pleasure",
+        "The Sadness",
+        "The Medium",
+        "Veneciafrenia",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Ninjababy",
+        "Memoria",
+        "Karnan",
+        "In Front of Your Face",
+        "Rurouni Kenshin: The Beginning",
+        "Anaïs in Love",
+        "Rurouni Kenshin: The Final"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Medium",
+        "Titane",
+        "Karnan",
+        "Minnal Murali",
+        "Pushpa: The Rise",
+        "Benedetta",
+        "The Sadness",
+        "Master"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Hand of God",
+        "The Good Boss",
+        "The Worst Person in the World",
+        "Titane",
+        "Three Floors",
+        "Parallel Mothers"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Three Floors",
+        "Wheel of Fortune and Fantasy",
+        "We Made a Beautiful Bouquet"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Three Floors", "Benedetta"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Three Floors"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Man with the Answers",
+        "The Worst Person in the World",
+        "Great Freedom",
+        "Parallel Mothers",
+        "The Catholic School",
+        "Three Floors"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Petite Maman", "The Sadness", "Three Floors"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Shadow in My Eye",
+        "My Best Friend Anne Frank",
+        "A Classic Horror Story",
+        "Confessions of an Invisible Girl",
+        "The Catholic School"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Happening",
+        "Vortex",
+        "A Hero",
+        "The Hand of God",
+        "Compartment No. 6",
+        "Black Box",
+        "What Do We See When We Look at the Sky?",
+        "Titane",
+        "The Good Boss",
+        "Freaks Out",
+        "Pleasure",
+        "Three Floors",
+        "Oxygen",
+        "Lamb",
+        "The Catholic School"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Operation Hyacinth", "The Catholic School"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Catholic School"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Catholic School", "Waiting for Bojangles"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Stronghold", "The Catholic School"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Hand of God", "The Catholic School"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Midnight", "The Catholic School"]
+    },
+    {
+      "count": 7,
+      "ranking": ["Paper Lives"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Man in Love", "Paper Lives"]
+    },
+    {
+      "count": 1,
+      "ranking": ["My Best Friend Anne Frank", "Paper Lives"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Paris, 13th District",
+        "The Worst Person in the World",
+        "Deception"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Deception", "The Worst Person in the World", "The Trip"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Deception", "Drive My Car"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Petite Maman",
+        "The Hand of God",
+        "Deception",
+        "OSS 117: From Africa with Love",
+        "Titane",
+        "Parallel Mothers",
+        "Paris, 13th District",
+        "Private Desert",
+        "Benedetta",
+        "Medusa",
+        "Zero Fucks Given",
+        "Eiffel"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Parallel Mothers",
+        "Titane",
+        "Paris, 13th District",
+        "Anaïs in Love",
+        "Benedetta",
+        "France",
+        "Deception"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Vortex",
+        "The Worst Person in the World",
+        "Happening",
+        "Black Box",
+        "The Good Boss",
+        "Paris, 13th District",
+        "Benedetta",
+        "The Stronghold",
+        "Lamb",
+        "Drive My Car",
+        "Full Time",
+        "Onoda: 10,000 Nights in the Jungle",
+        "Lost Illusions",
+        "Official Competition",
+        "Titane",
+        "Parallel Mothers",
+        "Zero Fucks Given",
+        "France",
+        "After Blue (Dirty Paradise)",
+        "Petite Maman",
+        "Waiting for Bojangles",
+        "Some Like It Rare",
+        "OSS 117: From Africa with Love",
+        "Deception",
+        "Eiffel"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Deception"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rurouni Kenshin: The Beginning",
+        "Rurouni Kenshin: The Final"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Rurouni Kenshin: The Final"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "Rurouni Kenshin: The Beginning",
+        "Rurouni Kenshin: The Final"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Rurouni Kenshin: The Final"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "Rurouni Kenshin: The Beginning",
+        "Rurouni Kenshin: The Final",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rurouni Kenshin: The Beginning",
+        "Rurouni Kenshin: The Final",
+        "The Medium"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Rurouni Kenshin: The Final", "The Catholic School"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Veneciafrenia",
+        "The Medium",
+        "7 Women and a Murder",
+        "The Boy Who Killed My Parents",
+        "The Girl Who Killed Her Parents",
+        "Petite Maman",
+        "La Abuela (The Grandmother)",
+        "Cube"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Medium", "Cube"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Cube"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Monica and Friends: Lessons",
+        "The Boy Who Killed My Parents",
+        "The Girl Who Killed Her Parents",
+        "Cube"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Cube", "Memoria"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Midnight",
+        "Cube",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Memoria"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Veneciafrenia", "The Good Boss", "Oxygen", "Cube"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Outlaws"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Titane", "Outlaws"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Parallel Mothers", "Outlaws"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Worst Person in the World", "The Hand of God", "Outlaws"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "La Abuela (The Grandmother)",
+        "Below Zero",
+        "Crazy About Her",
+        "Outlaws",
+        "Oxygen"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Outlaws", "Below Zero"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Sadness", "Outlaws"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Sweet & Sour",
+        "The Worst Person in the World",
+        "Rurouni Kenshin: The Beginning"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Rurouni Kenshin: The Beginning"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Hero",
+        "Parallel Mothers",
+        "The Worst Person in the World",
+        "Happening",
+        "In Front of Your Face",
+        "We Made a Beautiful Bouquet",
+        "Titane",
+        "Lamb",
+        "Vortex",
+        "The Hand of God",
+        "Rurouni Kenshin: The Beginning",
+        "Rurouni Kenshin: The Final",
+        "Introduction",
+        "Drive My Car",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Memoria",
+        "Official Competition"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "We Made a Beautiful Bouquet",
+        "Rurouni Kenshin: The Beginning"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Character"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Aloners", "Character"]
+    },
+    {
+      "count": 1,
+      "ranking": ["We Made a Beautiful Bouquet", "Man in Love", "Character"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Memoria",
+        "The Worst Person in the World",
+        "In Front of Your Face",
+        "Master",
+        "Happening",
+        "Sarpatta Parambarai",
+        "Jai Bhim",
+        "El Planeta",
+        "The Girl and the Spider",
+        "Official Competition",
+        "Lamb",
+        "Drive My Car",
+        "Kadaisi Vivasayi",
+        "Petite Maman",
+        "Sardar Udham",
+        "The Great Indian Kitchen",
+        "A Hero",
+        "The Hand of God",
+        "Joji",
+        "Karnan",
+        "What Do We See When We Look at the Sky?",
+        "Titane",
+        "Character",
+        "Pushpa: The Rise"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Crazy About Her"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Parallel Mothers",
+        "Outlaws",
+        "Crazy About Her"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Crazy About Her", "The Worst Person in the World"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Classic Horror Story",
+        "Crazy About Her",
+        "Confessions of an Invisible Girl"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Outlaws", "The Worst Person in the World", "Crazy About Her"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Crazy About Her", "Lamb"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Girl Who Killed Her Parents",
+        "The Boy Who Killed My Parents",
+        "Confessions of an Invisible Girl"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Anonymously Yours", "Confessions of an Invisible Girl"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Confessions of an Invisible Girl"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Tale of King Crab", "The Hand of God"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Aloners", "Lamb", "Il Buco", "The Tale of King Crab"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Vortex",
+        "Murina",
+        "Titane",
+        "The Tale of King Crab",
+        "After Blue (Dirty Paradise)"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Great Freedom",
+        "Fabian: Going to the Dogs",
+        "Full Time",
+        "Il Buco",
+        "Parallel Mothers",
+        "The Tale of King Crab",
+        "Azor",
+        "Benedetta",
+        "The Girl and the Spider"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Hand of God", "The Tale of King Crab"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Worst Person in the World",
+        "Happening",
+        "A Hero",
+        "Titane",
+        "Parallel Mothers",
+        "Paris, 13th District",
+        "Freaks Out",
+        "Vortex",
+        "The Hand of God",
+        "Lost Illusions",
+        "Black Box",
+        "Anaïs in Love",
+        "Kingdom: Ashin of the North",
+        "Raging Fire",
+        "Emergency Declaration",
+        "The Innocents",
+        "The Tale of King Crab",
+        "Escape from Mogadishu",
+        "Midnight",
+        "The Stronghold",
+        "Benedetta",
+        "Lamb",
+        "Oxygen",
+        "Drive My Car",
+        "Memoria",
+        "Onoda: 10,000 Nights in the Jungle",
+        "The Medium",
+        "Zero Fucks Given"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Hit the Road",
+        "Prayers for the Stolen",
+        "A Hero",
+        "The Hand of God",
+        "Murina",
+        "Titane",
+        "The Tale of King Crab",
+        "Neptune Frost",
+        "I'm Your Man",
+        "Azor",
+        "Bad Luck Banging or Loony Porn",
+        "Pleasure",
+        "Introduction",
+        "The Trip",
+        "The Sadness",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Prey"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Black Box", "Titane", "The Stronghold", "Lamb", "Prey"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Midnight", "Blood Red Sky", "Cube", "Prey"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Classic Horror Story", "Prey"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Parallel Mothers",
+        "Anonymously Yours",
+        "The Worst Person in the World",
+        "The Catholic School",
+        "Prey"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Ninjababy",
+        "Wheel of Fortune and Fantasy",
+        "Lingui: The Sacred Bonds",
+        "Drive My Car",
+        "Memoria",
+        "What Do We See When We Look at the Sky?",
+        "Hold Me Tight"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Homunculus",
+        "Titane",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Monica and Friends: Lessons",
+        "In Front of Your Face",
+        "Aloners",
+        "Lingui: The Sacred Bonds",
+        "Kingdom: Ashin of the North",
+        "Introduction",
+        "Zero Fucks Given",
+        "A Classic Horror Story"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Tale of King Crab",
+        "The Innocents",
+        "Lingui: The Sacred Bonds",
+        "Benedetta",
+        "France",
+        "El Planeta",
+        "The Girl and the Spider",
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Wheel of Fortune and Fantasy",
+        "Vortex",
+        "Prayers for the Stolen",
+        "Ninjababy",
+        "The Hand of God",
+        "Playground",
+        "Aloners",
+        "Titane",
+        "The Good Boss",
+        "To Chiara",
+        "Pleasure",
+        "Zero Fucks Given",
+        "Lamb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Petite Maman",
+        "Titane",
+        "7 Prisoners",
+        "Lingui: The Sacred Bonds",
+        "Private Desert",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Petite Maman",
+        "The Worst Person in the World",
+        "Lamb",
+        "Drive My Car",
+        "Prayers for the Stolen",
+        "Memoria",
+        "Black Box",
+        "Titane",
+        "Lingui: The Sacred Bonds",
+        "Pleasure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "The Worst Person in the World",
+        "Wheel of Fortune and Fantasy",
+        "Great Freedom",
+        "Hit the Road",
+        "Titane",
+        "Parallel Mothers",
+        "Lingui: The Sacred Bonds",
+        "Zero Fucks Given"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Compartment No. 6",
+        "Hive",
+        "Lingui: The Sacred Bonds",
+        "The Sadness",
+        "Titane"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Drive My Car", "Lingui: The Sacred Bonds"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Titane",
+        "Playground",
+        "Last Film Show",
+        "7 Prisoners",
+        "The Innocents",
+        "Lingui: The Sacred Bonds",
+        "The Medium",
+        "Blood Red Sky"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Drive My Car",
+        "Lingui: The Sacred Bonds",
+        "7 Women and a Murder",
+        "Space Sweepers"
+      ]
+    }
+  ]
+}

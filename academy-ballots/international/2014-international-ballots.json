@@ -1,0 +1,4852 @@
+{
+  "ballots": [
+    {
+      "count": 8,
+      "ranking": ["Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Girlhood", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Reality"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Mommy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Force Majeure", "Mommy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "The Perfect Dictatorship", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Beauty and the Beast"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Force Majeure"]
+    },
+    {
+      "count": 7,
+      "ranking": ["A Girl Walks Home Alone at Night"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Phoenix",
+        "Wild Tales",
+        "A Girl Walks Home Alone at Night",
+        "The Way He Looks",
+        "Lucy",
+        "Necropolis Symphony"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Girl Walks Home Alone at Night",
+        "Force Majeure",
+        "Goodnight Mommy",
+        "Beauty and the Beast",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goodnight Mommy", "A Girl Walks Home Alone at Night"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Wild Tales"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "PK", "Who Am I", "Lucy"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Wild Tales"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Two Days, One Night",
+        "Force Majeure",
+        "Winter Sleep",
+        "Wild Tales"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Phoenix"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Goodnight Mommy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Gett: The Trial of Viviane Amsalem",
+        "Force Majeure",
+        "Two Days, One Night",
+        "Leviathan",
+        "Goodnight Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Goodnight Mommy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goodnight Mommy", "Lucy"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Force Majeure"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Wonders", "Force Majeure"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Force Majeure",
+        "Labyrinth of Lies",
+        "I Can Quit Whenever I Want",
+        "The Bélier Family",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Phoenix", "The Way He Looks", "Force Majeure"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Force Majeure"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Raid 2", "Goodnight Mommy"]
+    },
+    {
+      "count": 5,
+      "ranking": ["The Raid 2"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Raid 2", "A Girl Walks Home Alone at Night"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Raid 2", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lucy", "The Raid 2"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Force Majeure",
+        "Lucy",
+        "Mommy",
+        "The Raid 2",
+        "Goodnight Mommy"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["The Way He Looks"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Way He Looks",
+        "Men Are from Mars... And That's Where I'm Going!",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goodnight Mommy", "The Way He Looks"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Way He Looks", "Futuro Beach"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Way He Looks", "Boys"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leopardi",
+        "Leviathan",
+        "A Pigeon Sat on a Branch Reflecting on Existence"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Winter Sleep", "Wild Tales", "Leviathan"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Wonders", "Leviathan"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Leviathan"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leviathan", "Beauty and the Beast"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leviathan", "Force Majeure", "Pasolini"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Khoobsurat",
+        "Bang Bang!",
+        "Lucy",
+        "Happy New Year",
+        "Winter Sleep",
+        "Wild Tales",
+        "Leviathan",
+        "Jigarthanda",
+        "PK"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Timbuktu", "Leviathan", "The Raid 2"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Winter Sleep"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lucy", "Mommy", "Winter Sleep"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Timbuktu",
+        "Marshland",
+        "Jauja",
+        "Sivas",
+        "A Girl Walks Home Alone at Night",
+        "Goodbye to Language",
+        "Futuro Beach",
+        "Pasolini",
+        "Wild Tales",
+        "Phoenix",
+        "Two Days, One Night",
+        "The Connection",
+        "Love at First Fight",
+        "Saint Laurent",
+        "Winter Sleep",
+        "Li'l Quinquin",
+        "Force Majeure",
+        "Black Coal, Thin Ice"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Winter Sleep", "Who Am I"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Girlhood", "A Girl Walks Home Alone at Night"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Girlhood", "Goodbye to Language"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Girlhood"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "A Girl Walks Home Alone at Night",
+        "Girlhood",
+        "The Dark Valley",
+        "Lucy",
+        "The Raid 2",
+        "Labyrinth of Lies",
+        "Who Am I"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Girlhood", "Spanish Affair"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Breathe",
+        "Girlhood",
+        "Yves Saint Laurent",
+        "The Bélier Family",
+        "Babysitting",
+        "Serial (Bad) Weddings",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Two Days, One Night",
+        "The Wonders",
+        "Force Majeure",
+        "A Girl Walks Home Alone at Night",
+        "Girlhood",
+        "White God",
+        "Goodbye to Language"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Two Days, One Night", "Phoenix", "Li'l Quinquin"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Force Majeure", "Two Days, One Night"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "Phoenix",
+        "The Way He Looks",
+        "Two Days, One Night",
+        "Force Majeure",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Timbuktu",
+        "The Tribe",
+        "Goodnight Mommy",
+        "Winter Sleep",
+        "In Order of Disappearance",
+        "White God",
+        "Babysitting",
+        "Cub",
+        "Saint Laurent"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Phoenix",
+        "Two Days, One Night",
+        "A Girl Walks Home Alone at Night"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "A Girl Walks Home Alone at Night",
+        "Wild Tales",
+        "Two Days, One Night",
+        "The Raid 2",
+        "The Wonders",
+        "Goodnight Mommy",
+        "Girlhood",
+        "[REC]⁴ Apocalypse"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Magical Girl",
+        "Goodnight Mommy",
+        "The Salvation",
+        "Mommy",
+        "Wild Tales",
+        "Two Days, One Night",
+        "Girlhood",
+        "The Wonders",
+        "Boys"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leviathan",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Mommy",
+        "Two Days, One Night"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Winter Sleep",
+        "Wild Tales",
+        "Leviathan",
+        "Two Days, One Night",
+        "Force Majeure",
+        "White God"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Two Days, One Night"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Tribe",
+        "Force Majeure",
+        "Blind",
+        "Jauja",
+        "10,000 Km",
+        "Goodbye to Language",
+        "Horse Money",
+        "Coming Soon",
+        "Lucy",
+        "Winter Sleep",
+        "Wild Tales",
+        "Leviathan",
+        "Phoenix",
+        "Magical Girl",
+        "Two Days, One Night",
+        "In Order of Disappearance",
+        "Whisper If I Forget",
+        "Goodnight Mommy",
+        "The New Girlfriend"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Two Days, One Night",
+        "Phoenix",
+        "Wild Tales",
+        "Force Majeure",
+        "The New Girlfriend",
+        "Lucy",
+        "Leviathan",
+        "Goodnight Mommy",
+        "Casa Grande"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Phoenix"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Phoenix", "Marshland", "The Dark Valley", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Phoenix", "The Bélier Family"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lucy", "Phoenix"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Phoenix", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Phoenix", "Serial (Bad) Weddings", "Happy New Year"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "The Raid 2",
+        "A Girl Walks Home Alone at Night",
+        "Goodbye to Language"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Two Days, One Night",
+        "Shrew's Nest",
+        "Lucy",
+        "Mommy",
+        "Güeros",
+        "Magical Girl",
+        "Force Majeure",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "A Girl Walks Home Alone at Night",
+        "The Wonders",
+        "The Tribe",
+        "10,000 Km"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Lucy",
+        "Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "A Pigeon Sat on a Branch Reflecting on Existence"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Breathe",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "A Girl Walks Home Alone at Night"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Phoenix",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "A Girl Walks Home Alone at Night",
+        "White God",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "Two Days, One Night",
+        "Goodnight Mommy",
+        "Force Majeure",
+        "A Girl Walks Home Alone at Night",
+        "Cub",
+        "Phoenix",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Girlhood"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Mommy",
+        "Winter Sleep",
+        "Whisper If I Forget",
+        "Goodnight Mommy",
+        "Coming Soon",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Güeros"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lucy", "Mommy", "Güeros"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leviathan", "Spanish Affair", "Güeros"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Güeros", "The Perfect Dictatorship"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Güeros"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "Güeros",
+        "Leviathan",
+        "Two Days, One Night",
+        "Force Majeure",
+        "A Girl Walks Home Alone at Night",
+        "Goodnight Mommy"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Breathe"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Breathe", "Lucy", "Mommy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Way He Looks", "Breathe", "Boys"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Breathe",
+        "Yves Saint Laurent",
+        "Saint Laurent",
+        "Beauty and the Beast",
+        "Lucy",
+        "Serial (Bad) Weddings"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Beauty and the Beast",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Breathe"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["The World of Kanako"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The World of Kanako", "Serial (Bad) Weddings", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tokyo Tribe", "The World of Kanako"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Raid 2", "The World of Kanako"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The World of Kanako", "As the Gods Will"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Leviathan",
+        "Two Days, One Night",
+        "Force Majeure",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Timbuktu",
+        "Girlhood",
+        "Ode to My Father",
+        "Blind",
+        "Theeb",
+        "A Hard Day",
+        "Coming Home",
+        "A Girl at My Door",
+        "White God",
+        "The World of Kanako",
+        "Goodnight Mommy",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leviathan",
+        "Force Majeure",
+        "Black Coal, Thin Ice",
+        "Labyrinth of Lies",
+        "The Absent One",
+        "The Salvation",
+        "White God",
+        "[REC]⁴ Apocalypse",
+        "Mommy",
+        "Winter Sleep",
+        "Wild Tales",
+        "Horse Money",
+        "Two Days, One Night",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Marshland",
+        "The World of Kanako",
+        "Trash",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Boys"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Babysitting", "The Bélier Family", "Lucy", "Boys"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lucy", "Boys"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Boys"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Boys", "The Salvation", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Boys", "Lucy", "Recep Ivedik 4"]
+    },
+    {
+      "count": 4,
+      "ranking": ["PK"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "PK",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "PK",
+        "Coming Soon",
+        "But Muzeyyen That's the Deepest Desire",
+        "A Small September Affair",
+        "Winter Sleep",
+        "Sivas"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["PK", "Bang Bang!", "Happy New Year"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Jigarthanda", "PK"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Highway",
+        "PK",
+        "Margarita with a Straw",
+        "Khoobsurat",
+        "2 States",
+        "Bang Bang!",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bangalore Days", "Lucy", "PK"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Tribe"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lucy", "Mommy", "The Tribe"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The World of Kanako",
+        "Lucy",
+        "The Tribe",
+        "White God",
+        "Pasolini"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Way He Looks", "The Tribe", "Goodnight Mommy"]
+    },
+    {
+      "count": 7,
+      "ranking": ["As the Gods Will"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "Magical Girl",
+        "A Girl Walks Home Alone at Night",
+        "White God",
+        "The Bélier Family",
+        "Lucy",
+        "Leviathan",
+        "Phoenix",
+        "Two Days, One Night",
+        "Force Majeure",
+        "Timbuktu",
+        "The Tribe",
+        "Goodnight Mommy",
+        "Volley",
+        "Spanish Affair"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Force Majeure", "The Tribe"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Tribe", "Leopardi", "Pasolini", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goodbye to Language", "A Girl Walks Home Alone at Night"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Goodbye to Language"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goodbye to Language", "Force Majeure", "The Wonders"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "The Raid 2",
+        "Two Days, One Night",
+        "Reality",
+        "Goodbye to Language",
+        "Mommy",
+        "Li'l Quinquin",
+        "Hill of Freedom",
+        "Saint Laurent",
+        "Force Majeure",
+        "Love at First Fight",
+        "The Salvation",
+        "The New Girlfriend",
+        "Pasolini",
+        "The Bélier Family",
+        "Serial (Bad) Weddings",
+        "Tokyo Tribe"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Who Am I",
+        "Wild Tales",
+        "Goodnight Mommy",
+        "Cub",
+        "Marshland",
+        "Force Majeure",
+        "Boys",
+        "The Incident"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Who Am I"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lucy",
+        "Who Am I",
+        "But Muzeyyen That's the Deepest Desire",
+        "Recep Ivedik 4"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Who Am I", "Goodnight Mommy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Reality", "Lucy"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Reality"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Güeros",
+        "The Raid 2",
+        "Leviathan",
+        "Haider",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "PK",
+        "Reality",
+        "Black Coal, Thin Ice",
+        "Goodbye to Language",
+        "Saint Laurent",
+        "As the Gods Will",
+        "Serial (Bad) Weddings"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leopardi",
+        "Horse Money",
+        "Mommy",
+        "Leviathan",
+        "Force Majeure",
+        "Reality"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Reality", "I Can Quit Whenever I Want"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Reality",
+        "Jacky in the Kingdom of Women",
+        "The Bélier Family",
+        "Hippocrates",
+        "The Connection",
+        "Yves Saint Laurent",
+        "Babysitting",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Reality", "Marshland", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Reality", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Reality", "Lucy", "Hippocrates", "Babysitting"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "The Raid 2",
+        "The Way He Looks",
+        "Two Days, One Night",
+        "A Girl Walks Home Alone at Night",
+        "A Hard Day",
+        "In Order of Disappearance",
+        "Necropolis Symphony",
+        "Goodnight Mommy",
+        "As the Gods Will",
+        "The Salvation",
+        "Lucy",
+        "[REC]⁴ Apocalypse"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["As the Gods Will", "She's Dating the Gangster"]
+    },
+    {
+      "count": 1,
+      "ranking": ["As the Gods Will", "A Girl Walks Home Alone at Night"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "As the Gods Will",
+        "Ode to My Father",
+        "A Hard Day",
+        "The World of Kanako"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goodnight Mommy", "Boys", "Mommy", "Timbuktu"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Timbuktu", "Girlhood"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Timbuktu",
+        "Girlhood",
+        "Hippocrates",
+        "The Bélier Family",
+        "Serial (Bad) Weddings"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Güeros",
+        "Timbuktu",
+        "Lucy",
+        "Still the Water",
+        "The Perfect Dictatorship"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Güeros", "Timbuktu"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Timbuktu", "Still the Water"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Timbuktu", "Breathe"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Timbuktu"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Bélier Family",
+        "Goodbye to Language",
+        "Serial (Bad) Weddings",
+        "Güeros",
+        "Timbuktu",
+        "Still the Water",
+        "The Perfect Dictatorship",
+        "Goodnight Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Force Majeure",
+        "Leviathan",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Timbuktu"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Little Forest: Summer/Autumn",
+        "Ode to My Father",
+        "A Hard Day",
+        "Winter Sleep"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["A Hard Day"]
+    },
+    {
+      "count": 1,
+      "ranking": ["PK", "A Hard Day"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Force Majeure",
+        "A Hard Day",
+        "Who Am I",
+        "Trash",
+        "The Fool",
+        "Two Days, One Night",
+        "PK",
+        "The Wonders",
+        "The Admiral: Roaring Currents",
+        "As the Gods Will",
+        "Beauty and the Beast",
+        "Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bangalore Days",
+        "Force Majeure",
+        "PK",
+        "A Hard Day",
+        "Goodnight Mommy",
+        "Highway",
+        "Wild Tales",
+        "Jigarthanda"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Gett: The Trial of Viviane Amsalem",
+        "The Raid 2",
+        "Leviathan",
+        "Two Days, One Night",
+        "Force Majeure",
+        "Goodnight Mommy",
+        "A Girl Walks Home Alone at Night",
+        "A Hard Day",
+        "In Order of Disappearance",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Hard Day", "Black Coal, Thin Ice"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "The Way He Looks", "The Bélier Family"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Bélier Family"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goodnight Mommy", "The Bélier Family"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Connection",
+        "Hippocrates",
+        "The Bélier Family",
+        "Samba",
+        "Babysitting",
+        "Serial (Bad) Weddings"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Bélier Family", "Babysitting"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Bélier Family", "Spanish Affair"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Beauty and the Beast", "The Bélier Family"]
+    },
+    {
+      "count": 4,
+      "ranking": ["The Salvation"]
+    },
+    {
+      "count": 1,
+      "ranking": ["As the Gods Will", "The Salvation"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "The Salvation", "Lucy"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Salvation", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coming Home", "The Salvation", "Beauty and the Beast"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Salvation", "Goodnight Mommy", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The World of Kanako",
+        "Mommy",
+        "Wild Tales",
+        "Magical Girl",
+        "Marshland",
+        "A Hard Day",
+        "The Tribe",
+        "Spanish Affair"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Marshland",
+        "A Hard Day",
+        "In Order of Disappearance",
+        "Wild Tales",
+        "Shrew's Nest",
+        "Goodnight Mommy",
+        "Kung Fu Jungle",
+        "[REC]⁴ Apocalypse",
+        "The Raid 2"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Marshland"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Marshland", "Goodnight Mommy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Marshland", "Serial (Bad) Weddings"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Marshland"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Blind",
+        "Mommy",
+        "Wild Tales",
+        "Güeros",
+        "The Way He Looks",
+        "Two Days, One Night",
+        "Force Majeure",
+        "Girlhood",
+        "Marshland",
+        "Margarita with a Straw",
+        "Saint Laurent"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["White God"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Salvation", "White God"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "A Hard Day",
+        "PK",
+        "That Thing Called Tadhana",
+        "Kung Fu Jungle",
+        "White God",
+        "She's Dating the Gangster",
+        "As the Gods Will",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Force Majeure",
+        "Winter Sleep",
+        "Wild Tales",
+        "Phoenix",
+        "Theeb",
+        "Lucy",
+        "White God"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Winter Sleep",
+        "Wild Tales",
+        "Leviathan",
+        "Li'l Quinquin",
+        "Timbuktu",
+        "Girlhood",
+        "White God",
+        "Goodbye to Language",
+        "Love at First Fight",
+        "Saint Laurent"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["White God", "Wild Tales", "The Tribe"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Jauja", "White God"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Winter Sleep",
+        "Wild Tales",
+        "The Raid 2",
+        "Phoenix",
+        "Horse Money",
+        "Magical Girl",
+        "Breathe",
+        "Timbuktu",
+        "Hill of Freedom",
+        "Marshland",
+        "The Wonders",
+        "Blind",
+        "Jauja",
+        "A Hard Day",
+        "Goodnight Mommy",
+        "Goodbye to Language",
+        "The New Girlfriend",
+        "The Salvation",
+        "Kung Fu Jungle",
+        "Cub"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Magical Girl"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Magical Girl", "Marshland", "Spanish Affair"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Magical Girl"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "As the Gods Will",
+        "Magical Girl",
+        "The World of Kanako",
+        "The Salvation"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Magical Girl",
+        "Force Majeure",
+        "Marshland",
+        "Spanish Affair",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Magical Girl"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Spanish Affair",
+        "Serial (Bad) Weddings",
+        "The New Girlfriend"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goodnight Mommy", "[REC]⁴ Apocalypse"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Serial (Bad) Weddings"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Bélier Family",
+        "The Connection",
+        "Serial (Bad) Weddings"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Yves Saint Laurent", "Serial (Bad) Weddings"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Spanish Affair", "Serial (Bad) Weddings"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Babysitting", "Serial (Bad) Weddings"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Black Coal, Thin Ice"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Little Forest: Summer/Autumn", "Black Coal, Thin Ice"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "Phoenix",
+        "Horse Money",
+        "Magical Girl",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "A Girl Walks Home Alone at Night",
+        "Jauja",
+        "Black Coal, Thin Ice",
+        "Goodbye to Language",
+        "Pasolini",
+        "The Salvation"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "Force Majeure",
+        "Blind",
+        "The Raid 2",
+        "Black Coal, Thin Ice",
+        "Leviathan"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Black Coal, Thin Ice",
+        "Who Am I",
+        "Little Forest: Summer/Autumn",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leviathan",
+        "Still the Water",
+        "Black Coal, Thin Ice",
+        "In Order of Disappearance",
+        "Tokyo Tribe"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "Leviathan",
+        "Coming Home",
+        "Black Coal, Thin Ice",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Reality",
+        "Mommy",
+        "Magical Girl",
+        "Force Majeure",
+        "Black Coal, Thin Ice"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Pasolini",
+        "Black Coal, Thin Ice",
+        "Goodbye to Language",
+        "Dead Snow 2: Red vs. Dead",
+        "As the Gods Will"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Necropolis Symphony", "[REC]⁴ Apocalypse"]
+    },
+    {
+      "count": 6,
+      "ranking": ["[REC]⁴ Apocalypse"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Saint Laurent",
+        "Yves Saint Laurent",
+        "Serial (Bad) Weddings",
+        "Lucy",
+        "[REC]⁴ Apocalypse"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Cub", "[REC]⁴ Apocalypse", "Leopardi"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Stromberg – The Movie",
+        "Lucy",
+        "The Bélier Family",
+        "Yves Saint Laurent",
+        "[REC]⁴ Apocalypse"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Beauty and the Beast"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Serial (Bad) Weddings", "Beauty and the Beast"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Serial (Bad) Weddings",
+        "The Bélier Family",
+        "Babysitting",
+        "Beauty and the Beast",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leviathan", "Serial (Bad) Weddings", "Beauty and the Beast"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Babysitting", "Beauty and the Beast", "Lucy"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Pasolini"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Li'l Quinquin",
+        "Pasolini",
+        "Mommy",
+        "Winter Sleep",
+        "Wild Tales",
+        "Gett: The Trial of Viviane Amsalem",
+        "Magical Girl",
+        "Force Majeure",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "A Girl Walks Home Alone at Night",
+        "Breathe",
+        "Girlhood",
+        "The Wonders",
+        "Goodnight Mommy",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Magical Girl", "Mommy", "Timbuktu", "Pasolini"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Trash", "Pasolini"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goodnight Mommy", "Mommy", "Marshland", "Pasolini"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "Leviathan",
+        "Phoenix",
+        "Horse Money",
+        "Two Days, One Night",
+        "Girlhood",
+        "Hill of Freedom",
+        "Pasolini",
+        "Mommy",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Timbuktu",
+        "Goodbye to Language",
+        "Force Majeure",
+        "A Girl Walks Home Alone at Night",
+        "The Tribe",
+        "Li'l Quinquin",
+        "Jauja"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Wonders", "10,000 Km"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Wonders"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "A Girl Walks Home Alone at Night",
+        "The Wonders",
+        "Necropolis Symphony",
+        "Tim Maia",
+        "Trash",
+        "Futuro Beach",
+        "Casa Grande"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "I Can Quit Whenever I Want",
+        "The Tribe",
+        "Mommy",
+        "The Wonders"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Goodbye to Language",
+        "Güeros",
+        "Saint Laurent",
+        "Phoenix",
+        "Girlhood",
+        "The Wonders",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "The Wonders", "Spanish Affair", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Force Majeure", "The Wonders"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Saint Laurent"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "The New Girlfriend",
+        "Yves Saint Laurent",
+        "Saint Laurent",
+        "Beauty and the Beast",
+        "Lucy",
+        "Breathe",
+        "The Bélier Family",
+        "Samba",
+        "The Wonders"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Babysitting",
+        "Saint Laurent",
+        "Lucy",
+        "Yves Saint Laurent",
+        "Serial (Bad) Weddings"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Saint Laurent",
+        "Love at First Fight",
+        "The New Girlfriend",
+        "Beauty and the Beast"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Saint Laurent", "Yves Saint Laurent", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Way He Looks",
+        "Mommy",
+        "Beauty and the Beast",
+        "A Hard Day",
+        "Trash",
+        "Saint Laurent"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leviathan", "Force Majeure", "Saint Laurent"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The World of Kanako",
+        "Hill of Freedom",
+        "A Girl at My Door",
+        "As the Gods Will",
+        "Tokyo Tribe",
+        "Saint Laurent",
+        "The Raid 2",
+        "Horse Money",
+        "Girlhood",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "Rurouni Kenshin Part II: Kyoto Inferno"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Yves Saint Laurent"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Yves Saint Laurent", "Babysitting", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Yves Saint Laurent", "Babysitting"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Yves Saint Laurent"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Haider", "Highway", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Haider",
+        "Highway",
+        "PK",
+        "Hasee Toh Phasee",
+        "2 States",
+        "Bang Bang!",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Haider",
+        "Whisper If I Forget",
+        "A Small September Affair",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Happy New Year",
+        "The Raid 2",
+        "Haider",
+        "Jigarthanda",
+        "Highway",
+        "PK",
+        "Hasee Toh Phasee",
+        "Bang Bang!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Haider", "PK"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Haider", "Highway", "PK", "Lucy"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Haider"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horse Money",
+        "Force Majeure",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Girlhood",
+        "Hill of Freedom",
+        "Reality",
+        "A Hard Day",
+        "Shrew's Nest",
+        "Goodnight Mommy",
+        "Goodbye to Language",
+        "The New Girlfriend",
+        "Cub"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horse Money",
+        "Force Majeure",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Timbuktu"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Phoenix", "Horse Money"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Horse Money"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Horse Money", "Goodbye to Language", "Pasolini", "Mommy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Little Forest: Summer/Autumn",
+        "Horse Money",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "As the Gods Will"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "Horse Money",
+        "A Girl Walks Home Alone at Night",
+        "Dead Snow 2: Red vs. Dead",
+        "[REC]⁴ Apocalypse"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Phoenix",
+        "Horse Money",
+        "A Girl Walks Home Alone at Night",
+        "Goodbye to Language"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Phoenix",
+        "Horse Money",
+        "Hill of Freedom",
+        "Goodbye to Language",
+        "Pasolini"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goodnight Mommy", "Dead Snow 2: Red vs. Dead"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Dead Snow 2: Red vs. Dead"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Highway",
+        "Dead Snow 2: Red vs. Dead",
+        "Bang Bang!",
+        "Lucy",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["As the Gods Will", "Dead Snow 2: Red vs. Dead"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "Necropolis Symphony",
+        "Tim Maia",
+        "Goodnight Mommy",
+        "Trash",
+        "Dead Snow 2: Red vs. Dead",
+        "The Incident",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Force Majeure",
+        "A Girl Walks Home Alone at Night",
+        "I Can Quit Whenever I Want",
+        "Dead Snow 2: Red vs. Dead",
+        "Lucy",
+        "The Raid 2"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lucy",
+        "The Raid 2",
+        "A Girl Walks Home Alone at Night",
+        "Goodnight Mommy",
+        "Dead Snow 2: Red vs. Dead",
+        "[REC]⁴ Apocalypse"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "Dead Snow 2: Red vs. Dead",
+        "[REC]⁴ Apocalypse"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Tokyo Tribe"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Raid 2", "Tokyo Tribe"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tokyo Tribe", "The Raid 2"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Dead Snow 2: Red vs. Dead",
+        "[REC]⁴ Apocalypse",
+        "Shrew's Nest",
+        "Wild Tales",
+        "The Raid 2",
+        "Phoenix",
+        "Tokyo Tribe",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coming Home", "Tokyo Tribe", "Lucy", "Girlhood"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Tokyo Tribe",
+        "The World of Kanako",
+        "Goodnight Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Tokyo Tribe", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Tokyo Tribe",
+        "Leviathan",
+        "The Fool",
+        "Winter Sleep",
+        "The Raid 2",
+        "Force Majeure",
+        "Wild Tales",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tokyo Tribe", "Lucy", "The World of Kanako"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "Mommy",
+        "Wild Tales",
+        "Phoenix",
+        "Goodnight Mommy",
+        "The New Girlfriend",
+        "Two Days, One Night",
+        "Jauja",
+        "Lucy",
+        "Goodbye to Language"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Jauja"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leviathan", "Two Days, One Night", "Jauja"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Horse Money",
+        "Winter Sleep",
+        "Leviathan",
+        "Phoenix",
+        "Li'l Quinquin",
+        "A Girl Walks Home Alone at Night",
+        "Reality",
+        "Blind",
+        "The Tribe",
+        "Mommy",
+        "Güeros",
+        "The Fool",
+        "The Way He Looks",
+        "Two Days, One Night",
+        "Force Majeure",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Timbuktu",
+        "Girlhood",
+        "The Wonders",
+        "You're Sleeping, Nicole",
+        "Jauja",
+        "A Hard Day",
+        "Black Coal, Thin Ice",
+        "In Order of Disappearance",
+        "White God",
+        "Goodbye to Language",
+        "Pasolini",
+        "Saint Laurent",
+        "Lucy",
+        "Tokyo Tribe",
+        "The New Girlfriend"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Güeros",
+        "Court",
+        "Coming Home",
+        "Leviathan",
+        "Two Days, One Night",
+        "Timbuktu",
+        "Goodbye to Language",
+        "Horse Money",
+        "Magical Girl",
+        "Jauja",
+        "Li'l Quinquin",
+        "Force Majeure",
+        "The Wonders"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Two Days, One Night",
+        "Wild Tales",
+        "The Raid 2",
+        "Gett: The Trial of Viviane Amsalem",
+        "The Fool",
+        "Force Majeure",
+        "In Order of Disappearance",
+        "Leviathan",
+        "A Girl Walks Home Alone at Night",
+        "The Tribe",
+        "Timbuktu",
+        "Pasolini"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "Force Majeure",
+        "In Order of Disappearance",
+        "Serial (Bad) Weddings"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leviathan",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "In Order of Disappearance",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leviathan",
+        "The Fool",
+        "In Order of Disappearance",
+        "The Absent One",
+        "Serial (Bad) Weddings"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Fool", "In Order of Disappearance"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Force Majeure",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "In Order of Disappearance"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "In Order of Disappearance", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "A Girl Walks Home Alone at Night",
+        "In Order of Disappearance",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Raid 2", "Force Majeure", "In Order of Disappearance"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Tribe", "10,000 Km", "Blind"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blind"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Two Days, One Night",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Blind",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "Black Coal, Thin Ice",
+        "Who Am I",
+        "Shrew's Nest",
+        "The New Girlfriend",
+        "A Girl Walks Home Alone at Night",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "You're Sleeping, Nicole",
+        "Goodnight Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Phoenix", "Blind"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Marshland", "Wild Tales", "The Way He Looks", "Blind"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Two Days, One Night",
+        "You're Sleeping, Nicole",
+        "Blind",
+        "Mommy",
+        "Force Majeure",
+        "Theeb",
+        "The Way He Looks",
+        "Winter Sleep"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Blind", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "A Girl Walks Home Alone at Night",
+        "Phoenix",
+        "Blind",
+        "Goodnight Mommy",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leviathan", "Two Days, One Night", "Blind"]
+    },
+    {
+      "count": 4,
+      "ranking": ["The Fool"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Leviathan", "The Fool"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Jigarthanda", "The Fool", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Fool", "Tokyo Tribe", "As the Gods Will", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Raid 2", "The Fool", "A Hard Day"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The World of Kanako",
+        "Still the Water",
+        "Little Forest: Summer/Autumn",
+        "Highway"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Little Forest: Summer/Autumn"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Little Forest: Summer/Autumn",
+        "Beauty and the Beast",
+        "Ode to My Father",
+        "Miss Granny",
+        "The Admiral: Roaring Currents"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "Leviathan",
+        "Haider",
+        "Little Forest: Summer/Autumn",
+        "Two Days, One Night",
+        "Bangalore Days",
+        "Timbuktu",
+        "Highway",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Phoenix", "Hill of Freedom", "Goodbye to Language"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hill of Freedom", "Serial (Bad) Weddings"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Hill of Freedom"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Necropolis Symphony",
+        "Tim Maia",
+        "Casa Grande",
+        "Phoenix",
+        "Two Days, One Night",
+        "Hill of Freedom",
+        "Goodbye to Language"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Horse Money", "Hill of Freedom"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Phoenix",
+        "Two Days, One Night",
+        "Girlhood",
+        "Hill of Freedom",
+        "Coming Home",
+        "Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Court",
+        "Breathe",
+        "Phoenix",
+        "Mommy",
+        "Winter Sleep",
+        "Wild Tales",
+        "Leviathan",
+        "The Fool",
+        "Two Days, One Night",
+        "Force Majeure",
+        "Hill of Freedom",
+        "You're Sleeping, Nicole"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Still the Water"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Marshland",
+        "Still the Water",
+        "Wild Tales",
+        "Spanish Affair",
+        "The Bélier Family"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Still the Water"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Still the Water", "Yves Saint Laurent"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Li'l Quinquin",
+        "The Wonders",
+        "Still the Water",
+        "A Girl Walks Home Alone at Night",
+        "Goodnight Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Güeros", "Lucy", "Mommy", "Still the Water"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Güeros",
+        "Force Majeure",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Wild Tales",
+        "A Girl Walks Home Alone at Night",
+        "Marshland",
+        "Still the Water",
+        "Pasolini",
+        "The Wonders",
+        "Boys",
+        "Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Salvation",
+        "Lucy",
+        "Marshland",
+        "Still the Water",
+        "Dead Snow 2: Red vs. Dead",
+        "Spanish Affair"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Still the Water", "Wild Tales", "Magical Girl"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Girl Walks Home Alone at Night",
+        "Phoenix",
+        "The Way He Looks",
+        "Still the Water"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Casa Grande"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Casa Grande", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Tim Maia", "Casa Grande"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "Güeros",
+        "Force Majeure",
+        "The Wonders",
+        "Girlhood",
+        "Marshland",
+        "Casa Grande",
+        "The Boss: Anatomy of a Crime",
+        "The Perfect Dictatorship",
+        "Volley"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Happy New Year"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Bangalore Days",
+        "PK",
+        "Khoobsurat",
+        "2 States",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Haider", "2 States", "Happy New Year", "PK"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Happy New Year", "PK"]
+    },
+    {
+      "count": 1,
+      "ranking": ["PK", "Khoobsurat", "2 States", "Happy New Year"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Spanish Affair"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Marshland", "Spanish Affair"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Spanish Affair"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Shrew's Nest", "Spanish Affair"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Goodnight Mommy", "Spanish Affair"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Babysitting"]
+    },
+    {
+      "count": 5,
+      "ranking": ["Babysitting"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Babysitting", "Lucy"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Tim Maia"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Necropolis Symphony", "Tim Maia"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Way He Looks", "Tim Maia", "Good Luck", "Futuro Beach"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tim Maia", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tim Maia",
+        "Men Are from Mars... And That's Where I'm Going!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Tim Maia", "Force Majeure"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Way He Looks",
+        "Tim Maia",
+        "Men Are from Mars... And That's Where I'm Going!",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "PK",
+        "The Fool",
+        "Futuro Beach",
+        "Jigarthanda",
+        "Mommy",
+        "Wild Tales",
+        "Haider",
+        "The Way He Looks",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "A Hard Day",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "Who Am I",
+        "Boys",
+        "Miss Granny",
+        "Goodnight Mommy",
+        "Samba",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Good Luck", "Futuro Beach"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Girl Walks Home Alone at Night",
+        "Wild Tales",
+        "The Way He Looks",
+        "Futuro Beach",
+        "Beauty and the Beast",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "The Way He Looks",
+        "Force Majeure",
+        "Sivas",
+        "Futuro Beach",
+        "Saint Laurent"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Futuro Beach", "Casa Grande"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Way He Looks",
+        "A Girl Walks Home Alone at Night",
+        "Tim Maia",
+        "Futuro Beach",
+        "Casa Grande"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Futuro Beach"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Wild Tales", "Futuro Beach"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Way He Looks", "Goodnight Mommy", "Futuro Beach"]
+    },
+    {
+      "count": 5,
+      "ranking": ["The Perfect Dictatorship"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Way He Looks", "The Perfect Dictatorship"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Perfect Dictatorship", "Lucy", "Güeros", "The Incident"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Perfect Dictatorship", "Winter Sleep", "Force Majeure"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Güeros", "The Perfect Dictatorship"]
+    },
+    {
+      "count": 6,
+      "ranking": [
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "Rurouni Kenshin Part II: Kyoto Inferno"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Goodnight Mommy",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Phoenix",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "Who Am I"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Highway", "2 States"]
+    },
+    {
+      "count": 1,
+      "ranking": ["PK", "Happy New Year", "Haider", "Highway", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Highway",
+        "PK",
+        "Hasee Toh Phasee",
+        "2 States",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Highway"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lucy", "Highway"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Highway", "Lucy"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Gett: The Trial of Viviane Amsalem"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "Gett: The Trial of Viviane Amsalem",
+        "Haider",
+        "Phoenix",
+        "Force Majeure",
+        "A Girl Walks Home Alone at Night",
+        "Timbuktu",
+        "Girlhood",
+        "PK",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "The Tribe",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "Goodnight Mommy",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Serial (Bad) Weddings",
+        "Lucy",
+        "Mommy",
+        "Gett: The Trial of Viviane Amsalem",
+        "Miss Granny",
+        "Who Am I"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "Gett: The Trial of Viviane Amsalem",
+        "Leviathan",
+        "Timbuktu",
+        "The Connection",
+        "Who Am I",
+        "The Absent One"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Gett: The Trial of Viviane Amsalem"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Raid 2", "Phoenix", "Trash", "Lucy", "Force Majeure"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Trash"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Trash", "Serial (Bad) Weddings", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Tribe", "Trash", "The Raid 2"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Good Luck",
+        "Trash",
+        "Samba",
+        "Men Are from Mars... And That's Where I'm Going!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Trash",
+        "Men Are from Mars... And That's Where I'm Going!",
+        "Tim Maia"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Two Days, One Night",
+        "The Bélier Family",
+        "Trash",
+        "Beauty and the Beast",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Winter Sleep", "Haider", "Jigarthanda", "Court", "Highway"]
+    },
+    {
+      "count": 1,
+      "ranking": ["PK", "Bang Bang!", "Bangalore Days", "Court", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "The Raid 2",
+        "PK",
+        "2 States",
+        "Court",
+        "Girlhood"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Court"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Winter Sleep",
+        "Force Majeure",
+        "Court",
+        "Casa Grande"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Girl Walks Home Alone at Night",
+        "Mommy",
+        "Haider",
+        "Jigarthanda",
+        "Two Days, One Night",
+        "Court",
+        "Highway",
+        "The Tribe"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Khoobsurat", "Court"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Court", "Wild Tales", "PK"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Court", "PK"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Court", "Haider"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "Lucy",
+        "Rurouni Kenshin Part III: The Legend Ends"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Haider", "Bangalore Days"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bangalore Days", "Bang Bang!"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Bangalore Days"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bangalore Days", "Happy New Year"]
+    },
+    {
+      "count": 1,
+      "ranking": ["2 States", "Bangalore Days"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "The Absent One",
+        "Bangalore Days"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bangalore Days", "Boys"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bangalore Days", "PK"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Reality", "Samba"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Lucy", "Samba"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Samba"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Bélier Family", "Samba", "Serial (Bad) Weddings"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Force Majeure",
+        "The Wonders",
+        "I Can Quit Whenever I Want",
+        "Leopardi",
+        "The Bélier Family",
+        "The New Girlfriend",
+        "Pasolini",
+        "Samba",
+        "Serial (Bad) Weddings",
+        "Beauty and the Beast"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Bélier Family",
+        "Samba",
+        "Yves Saint Laurent",
+        "Serial (Bad) Weddings",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "Force Majeure",
+        "The Wonders",
+        "Samba",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Timbuktu", "The New Girlfriend"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "Serial (Bad) Weddings",
+        "[REC]⁴ Apocalypse",
+        "Mommy",
+        "Timbuktu",
+        "Girlhood",
+        "Reality",
+        "Still the Water",
+        "The New Girlfriend",
+        "Yves Saint Laurent"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "Force Majeure",
+        "Phoenix",
+        "Leviathan",
+        "Two Days, One Night",
+        "A Girl Walks Home Alone at Night",
+        "The New Girlfriend"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Leviathan", "The New Girlfriend", "Saint Laurent"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Haider", "Girlhood", "The New Girlfriend"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The New Girlfriend", "Lucy", "Mommy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The New Girlfriend"]
+    },
+    {
+      "count": 4,
+      "ranking": ["A Girl at My Door"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "The Raid 2",
+        "The Fool",
+        "Marshland",
+        "A Girl at My Door",
+        "Who Am I",
+        "The Absent One",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Girl Walks Home Alone at Night", "A Girl at My Door"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "Güeros",
+        "Breathe",
+        "A Girl at My Door",
+        "The World of Kanako",
+        "Miss Granny",
+        "Goodnight Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Girl at My Door", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Girl at My Door", "Ode to My Father"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Girl at My Door",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "In Order of Disappearance",
+        "Goodnight Mommy",
+        "Tokyo Tribe",
+        "Force Majeure"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Li'l Quinquin"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Li'l Quinquin", "Jauja", "Coming Home"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Li'l Quinquin", "Reality", "The Bélier Family", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Li'l Quinquin",
+        "Magical Girl",
+        "A Girl Walks Home Alone at Night",
+        "Timbuktu",
+        "Marshland",
+        "Love at First Fight",
+        "Wild Tales",
+        "Breathe",
+        "Girlhood",
+        "White God",
+        "Two Days, One Night",
+        "Jauja",
+        "10,000 Km",
+        "Haider",
+        "Mommy",
+        "Winter Sleep",
+        "Leviathan",
+        "Force Majeure"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "Phoenix",
+        "Horse Money",
+        "Li'l Quinquin",
+        "Goodbye to Language",
+        "Love at First Fight"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Li'l Quinquin",
+        "Reality",
+        "Serial (Bad) Weddings",
+        "Breathe",
+        "A Girl at My Door"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Li'l Quinquin", "Reality"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "The Admiral: Roaring Currents",
+        "The Salvation"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Admiral: Roaring Currents",
+        "Jigarthanda",
+        "Bangalore Days",
+        "PK",
+        "Lucy",
+        "Happy New Year",
+        "Güeros"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Admiral: Roaring Currents", "Lucy", "The Salvation"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Admiral: Roaring Currents"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "Ode to My Father",
+        "The Admiral: Roaring Currents",
+        "A Hard Day"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Admiral: Roaring Currents", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "The Admiral: Roaring Currents",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Shrew's Nest"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "A Girl Walks Home Alone at Night",
+        "Stromberg – The Movie",
+        "Goodnight Mommy",
+        "Dead Snow 2: Red vs. Dead",
+        "Shrew's Nest",
+        "A Hard Day",
+        "Who Am I",
+        "Lucy",
+        "Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Girl Walks Home Alone at Night", "Shrew's Nest"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Shrew's Nest", "Marshland", "Spanish Affair"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Girl Walks Home Alone at Night",
+        "Shrew's Nest",
+        "Goodnight Mommy",
+        "Dead Snow 2: Red vs. Dead",
+        "The Incident",
+        "As the Gods Will",
+        "[REC]⁴ Apocalypse"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Margarita with a Straw", "2 States"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Margarita with a Straw"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Haider", "Margarita with a Straw"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Haider",
+        "Horse Money",
+        "A Girl Walks Home Alone at Night",
+        "Jauja",
+        "Margarita with a Straw"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Margarita with a Straw",
+        "Highway",
+        "PK",
+        "Khoobsurat",
+        "2 States",
+        "Lucy",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Haider",
+        "Highway",
+        "PK",
+        "Margarita with a Straw",
+        "Khoobsurat",
+        "2 States",
+        "Bang Bang!",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Margarita with a Straw", "Khoobsurat"]
+    },
+    {
+      "count": 3,
+      "ranking": ["I Can Quit Whenever I Want"]
+    },
+    {
+      "count": 3,
+      "ranking": ["I Can Quit Whenever I Want", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Wonders", "Girlhood", "I Can Quit Whenever I Want"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Force Majeure", "I Can Quit Whenever I Want"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Pasolini", "I Can Quit Whenever I Want"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Pasolini", "I Can Quit Whenever I Want"]
+    },
+    {
+      "count": 6,
+      "ranking": ["Jigarthanda"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Jigarthanda", "PK", "Happy New Year"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "The Absent One",
+        "Jigarthanda",
+        "Bangalore Days",
+        "PK",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Haider",
+        "Jigarthanda",
+        "Bangalore Days",
+        "PK",
+        "2 States",
+        "Bang Bang!",
+        "Lucy",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Dark Valley", "Wild Tales"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Dark Valley", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Dark Valley",
+        "Stromberg – The Movie",
+        "Who Am I",
+        "The Bélier Family",
+        "Serial (Bad) Weddings",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leviathan",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Mommy",
+        "Force Majeure",
+        "White God",
+        "Reality",
+        "The Bélier Family",
+        "Lucy",
+        "The Dark Valley",
+        "Pasolini",
+        "A Girl Walks Home Alone at Night",
+        "Jauja"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "The Dark Valley",
+        "The Salvation",
+        "Kung Fu Jungle"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "Marshland",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "A Hard Day",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "Serial (Bad) Weddings",
+        "Lucy",
+        "The Dark Valley"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Dark Valley"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Raid 2", "The Dark Valley"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Salvation", "The Dark Valley", "Serial (Bad) Weddings"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Girl Walks Home Alone at Night", "Theeb", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Leviathan",
+        "You're Sleeping, Nicole",
+        "Jauja",
+        "Mommy",
+        "Gett: The Trial of Viviane Amsalem",
+        "Magical Girl",
+        "Two Days, One Night",
+        "The Wonders",
+        "Theeb",
+        "The Connection",
+        "Labyrinth of Lies",
+        "The Absent One",
+        "White God",
+        "Shrew's Nest",
+        "Good Luck",
+        "Hippocrates",
+        "The Bélier Family",
+        "Goodnight Mommy",
+        "10,000 Km",
+        "Trash",
+        "Spanish Affair",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Reality", "Theeb"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lucy", "Mommy", "Wild Tales", "Marshland", "Theeb"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Theeb",
+        "Sivas",
+        "The Boss: Anatomy of a Crime",
+        "The Bélier Family",
+        "Goodnight Mommy",
+        "Lucy",
+        "The Perfect Dictatorship",
+        "Samba"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "Breathe",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "Jauja",
+        "Theeb",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "Necropolis Symphony",
+        "Goodnight Mommy",
+        "Goodbye to Language",
+        "Trash",
+        "Casa Grande",
+        "Beauty and the Beast",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Theeb"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Theeb",
+        "Force Majeure",
+        "A Girl Walks Home Alone at Night",
+        "Goodnight Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["You're Sleeping, Nicole", "Mommy", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["You're Sleeping, Nicole"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "The Wonders", "You're Sleeping, Nicole"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Tribe",
+        "Leviathan",
+        "Reality",
+        "The Wonders",
+        "You're Sleeping, Nicole",
+        "Mommy",
+        "Winter Sleep",
+        "Force Majeure",
+        "A Pigeon Sat on a Branch Reflecting on Existence"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "A Girl Walks Home Alone at Night",
+        "You're Sleeping, Nicole",
+        "10,000 Km"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Phoenix",
+        "Haider",
+        "Horse Money",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Hill of Freedom",
+        "Theeb",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "The Absent One",
+        "The World of Kanako",
+        "PK",
+        "Goodnight Mommy",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "Phoenix",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "You're Sleeping, Nicole",
+        "Theeb"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "A Girl Walks Home Alone at Night",
+        "You're Sleeping, Nicole"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["You're Sleeping, Nicole", "A Girl Walks Home Alone at Night"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Connection", "Babysitting", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Connection", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Connection"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "The Raid 2",
+        "The Connection",
+        "Hippocrates",
+        "Babysitting",
+        "Lucy",
+        "Serial (Bad) Weddings",
+        "Reality",
+        "Jacky in the Kingdom of Women"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Winter Sleep",
+        "Gett: The Trial of Viviane Amsalem",
+        "Leviathan",
+        "Two Days, One Night",
+        "A Girl Walks Home Alone at Night",
+        "Reality",
+        "Sivas",
+        "The Connection",
+        "Samba",
+        "Coming Soon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hippocrates", "Wild Tales", "The Connection"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Connection", "Serial (Bad) Weddings", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Connection", "Yves Saint Laurent"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Connection",
+        "The Bélier Family",
+        "Babysitting",
+        "Serial (Bad) Weddings",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Necropolis Symphony"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Necropolis Symphony", "Futuro Beach", "Phoenix"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Phoenix", "Necropolis Symphony"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Casa Grande", "Necropolis Symphony"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Necropolis Symphony", "Timbuktu"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Necropolis Symphony", "Tim Maia", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "The Way He Looks",
+        "Pasolini",
+        "Two Days, One Night",
+        "Necropolis Symphony",
+        "Trash",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["Ode to My Father"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Hill of Freedom",
+        "Ode to My Father",
+        "Marshland",
+        "A Hard Day",
+        "Coming Home",
+        "Black Coal, Thin Ice",
+        "A Girl at My Door",
+        "Who Am I",
+        "The Admiral: Roaring Currents"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ode to My Father", "Miss Granny"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Ode to My Father", "A Hard Day"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Whisper If I Forget",
+        "A Small September Affair",
+        "Coming Soon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Coming Soon",
+        "Force Majeure",
+        "Sivas",
+        "Winter Sleep",
+        "PK",
+        "Whisper If I Forget",
+        "But Muzeyyen That's the Deepest Desire",
+        "A Small September Affair"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Winter Sleep", "Whisper If I Forget"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Whisper If I Forget", "Lucy"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Whisper If I Forget", "A Small September Affair", "Lucy"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Whisper If I Forget"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "Leviathan",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "A Girl Walks Home Alone at Night",
+        "PK",
+        "Sivas",
+        "Whisper If I Forget",
+        "Coming Soon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lucy",
+        "Whisper If I Forget",
+        "But Muzeyyen That's the Deepest Desire",
+        "A Small September Affair",
+        "Coming Soon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Spanish Affair",
+        "Shrew's Nest",
+        "Lucy",
+        "The Bélier Family",
+        "Marshland",
+        "Love at First Fight"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Love at First Fight"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hippocrates", "Love at First Fight"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Girlhood",
+        "Reality",
+        "Hippocrates",
+        "The Bélier Family",
+        "Love at First Fight",
+        "Saint Laurent",
+        "Jacky in the Kingdom of Women",
+        "Samba",
+        "Yves Saint Laurent",
+        "Beauty and the Beast"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "Force Majeure",
+        "Marshland",
+        "A Hard Day",
+        "Love at First Fight"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Love at First Fight", "Hippocrates"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Two Days, One Night",
+        "Breathe",
+        "Girlhood",
+        "The Connection",
+        "Hippocrates",
+        "Love at First Fight",
+        "10,000 Km",
+        "Jacky in the Kingdom of Women",
+        "Samba",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "A Girl Walks Home Alone at Night",
+        "Girlhood",
+        "Reality",
+        "Love at First Fight",
+        "Jacky in the Kingdom of Women",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 6,
+      "ranking": ["Men Are from Mars... And That's Where I'm Going!"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Men Are from Mars... And That's Where I'm Going!",
+        "Happy New Year",
+        "She's Dating the Gangster"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Way He Looks",
+        "Men Are from Mars... And That's Where I'm Going!"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["She's Dating the Gangster"]
+    },
+    {
+      "count": 1,
+      "ranking": ["She's Dating the Gangster", "The Way He Looks"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "She's Dating the Gangster",
+        "That Thing Called Tadhana",
+        "Goodnight Mommy",
+        "Lucy",
+        "Mommy",
+        "Güeros"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["That Thing Called Tadhana", "She's Dating the Gangster"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Coming Soon"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coming Soon", "Recep Ivedik 4"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coming Soon", "A Small September Affair", "Recep Ivedik 4"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Goodnight Mommy",
+        "Mommy",
+        "Winter Sleep",
+        "Wild Tales",
+        "Leviathan",
+        "Two Days, One Night",
+        "Force Majeure",
+        "Sivas",
+        "Coming Soon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "Leviathan",
+        "Who Am I",
+        "Coming Soon",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "A Small September Affair",
+        "Coming Soon",
+        "Lucy",
+        "Recep Ivedik 4"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Recep Ivedik 4", "Coming Soon"]
+    },
+    {
+      "count": 6,
+      "ranking": ["The Absent One"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Absent One", "Saint Laurent"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Jigarthanda", "The Absent One"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "The Raid 2",
+        "The Absent One",
+        "Serial (Bad) Weddings",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Raid 2", "Boys", "Cub", "The Way He Looks", "Lucy"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Cub", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Two Days, One Night", "Cub"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Cub"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "As the Gods Will",
+        "Wild Tales",
+        "Haider",
+        "A Hard Day",
+        "Lucy",
+        "[REC]⁴ Apocalypse",
+        "The New Girlfriend",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "In Order of Disappearance",
+        "Tokyo Tribe",
+        "The World of Kanako",
+        "Mommy",
+        "A Girl Walks Home Alone at Night",
+        "Kung Fu Jungle",
+        "Cub",
+        "Bang Bang!",
+        "White God",
+        "The Tribe"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Winter Sleep",
+        "Leviathan",
+        "Magical Girl",
+        "Force Majeure",
+        "Two Days, One Night",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "PK",
+        "The Wonders",
+        "Black Coal, Thin Ice",
+        "Goodnight Mommy",
+        "Wild Tales",
+        "Girlhood",
+        "Blind",
+        "White God",
+        "Lucy",
+        "A Girl Walks Home Alone at Night",
+        "Still the Water",
+        "Goodbye to Language",
+        "Beauty and the Beast",
+        "Cub",
+        "Phoenix",
+        "A Hard Day",
+        "Saint Laurent"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Goodnight Mommy",
+        "A Girl Walks Home Alone at Night",
+        "Cub",
+        "[REC]⁴ Apocalypse"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Goodnight Mommy",
+        "Cub",
+        "Goodbye to Language",
+        "A Girl Walks Home Alone at Night"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Force Majeure", "Goodnight Mommy", "Cub"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Girl Walks Home Alone at Night", "Coming Home"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Reality",
+        "Court",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Ode to My Father",
+        "Phoenix",
+        "Little Forest: Summer/Autumn",
+        "Jauja",
+        "Labyrinth of Lies",
+        "The Admiral: Roaring Currents",
+        "Pasolini",
+        "Lucy",
+        "Who Am I",
+        "Tokyo Tribe",
+        "Shrew's Nest",
+        "As the Gods Will",
+        "PK",
+        "The Absent One"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Two Days, One Night", "Coming Home", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Coming Home"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Coming Home"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Black Coal, Thin Ice", "Coming Home"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Whisper If I Forget",
+        "The Salvation",
+        "The New Girlfriend",
+        "But Muzeyyen That's the Deepest Desire",
+        "Coming Soon",
+        "Phoenix",
+        "Labyrinth of Lies"
+      ]
+    },
+    {
+      "count": 5,
+      "ranking": ["But Muzeyyen That's the Deepest Desire"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "Whisper If I Forget",
+        "Recep Ivedik 4",
+        "Goodnight Mommy",
+        "Lucy",
+        "A Small September Affair",
+        "But Muzeyyen That's the Deepest Desire",
+        "Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Two Days, One Night",
+        "Whisper If I Forget",
+        "But Muzeyyen That's the Deepest Desire",
+        "A Small September Affair"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "PK",
+        "Who Am I",
+        "Whisper If I Forget",
+        "But Muzeyyen That's the Deepest Desire",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Incident", "Shrew's Nest"]
+    },
+    {
+      "count": 2,
+      "ranking": ["The Incident", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Incident", "The Way He Looks", "Tim Maia"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Incident"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Force Majeure", "The Incident"]
+    },
+    {
+      "count": 3,
+      "ranking": ["Wild Tales", "The Boss: Anatomy of a Crime"]
+    },
+    {
+      "count": 3,
+      "ranking": ["The Boss: Anatomy of a Crime"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "Güeros",
+        "A Girl Walks Home Alone at Night",
+        "Breathe",
+        "Girlhood",
+        "The Boss: Anatomy of a Crime"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Boss: Anatomy of a Crime", "Wild Tales"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "The Boss: Anatomy of a Crime",
+        "Beauty and the Beast"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Boss: Anatomy of a Crime", "Mommy", "Wild Tales"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Hasee Toh Phasee"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bangalore Days", "Boys", "Hasee Toh Phasee"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Haider",
+        "Highway",
+        "PK",
+        "Hasee Toh Phasee",
+        "Bang Bang!",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["2 States", "Hasee Toh Phasee"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Highway", "Jigarthanda", "Hasee Toh Phasee"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Haider",
+        "PK",
+        "Margarita with a Straw",
+        "Hasee Toh Phasee",
+        "Khoobsurat",
+        "2 States",
+        "Bang Bang!",
+        "Lucy",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["PK", "Hasee Toh Phasee", "2 States", "Happy New Year"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "PK",
+        "Jigarthanda",
+        "Bangalore Days",
+        "2 States",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lucy", "PK", "2 States"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Court", "2 States", "Happy New Year"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "2 States",
+        "Bangalore Days",
+        "PK",
+        "Bang Bang!",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Leviathan", "Volley"]
+    },
+    {
+      "count": 1,
+      "ranking": ["As the Gods Will", "Wild Tales", "Volley"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Goodnight Mommy", "Volley"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Girl Walks Home Alone at Night", "Volley"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Volley"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Wild Tales", "Volley"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "Volley", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Volley", "Mommy", "Wild Tales"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lucy", "Miss Granny"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miss Granny", "A Girl Walks Home Alone at Night"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hasee Toh Phasee", "Miss Granny"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miss Granny"]
+    },
+    {
+      "count": 1,
+      "ranking": ["A Girl at My Door", "Miss Granny"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "That Thing Called Tadhana",
+        "Miss Granny",
+        "The Admiral: Roaring Currents"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miss Granny", "Khoobsurat"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Miss Granny", "PK"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sivas", "Lucy", "Recep Ivedik 4"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Force Majeure", "Sivas", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["PK", "Sivas", "Lucy", "Recep Ivedik 4"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Sivas"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "PK",
+        "Sivas",
+        "Who Am I",
+        "Coming Soon",
+        "Recep Ivedik 4"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Güeros", "Sivas"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Magical Girl", "Sivas"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Phoenix", "Sivas"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Winter Sleep",
+        "Leviathan",
+        "Sivas",
+        "Whisper If I Forget",
+        "Coming Soon"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bang Bang!", "Happy New Year"]
+    },
+    {
+      "count": 1,
+      "ranking": ["PK", "Bang Bang!"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Bang Bang!", "PK", "Happy New Year"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Lucy", "10,000 Km"]
+    },
+    {
+      "count": 1,
+      "ranking": ["10,000 Km", "Spanish Affair"]
+    },
+    {
+      "count": 4,
+      "ranking": ["10,000 Km"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Winter Sleep",
+        "Mommy",
+        "Force Majeure",
+        "10,000 Km",
+        "Recep Ivedik 4"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["10,000 Km", "[REC]⁴ Apocalypse"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Wild Tales", "10,000 Km"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Güeros", "10,000 Km"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Fool",
+        "Leviathan",
+        "Li'l Quinquin",
+        "Magical Girl",
+        "Force Majeure",
+        "A Girl Walks Home Alone at Night",
+        "Marshland",
+        "Reality",
+        "Labyrinth of Lies",
+        "The Admiral: Roaring Currents",
+        "Goodnight Mommy",
+        "Pasolini",
+        "Dead Snow 2: Red vs. Dead"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "Labyrinth of Lies",
+        "The Bélier Family",
+        "Spanish Affair",
+        "Lucy",
+        "[REC]⁴ Apocalypse"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Labyrinth of Lies"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Force Majeure",
+        "In Order of Disappearance",
+        "Lucy",
+        "Labyrinth of Lies"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Labyrinth of Lies",
+        "Force Majeure",
+        "The Absent One",
+        "Wild Tales",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "In Order of Disappearance",
+        "The Salvation",
+        "Serial (Bad) Weddings"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Girlhood",
+        "Labyrinth of Lies",
+        "The Bélier Family",
+        "Serial (Bad) Weddings",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Labyrinth of Lies", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Labyrinth of Lies", "Hippocrates"]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Wonders", "Leopardi"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Force Majeure",
+        "I Can Quit Whenever I Want",
+        "Leopardi"
+      ]
+    },
+    {
+      "count": 4,
+      "ranking": ["Leopardi"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leopardi", "Dead Snow 2: Red vs. Dead"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Winter Sleep",
+        "Two Days, One Night",
+        "Force Majeure",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "A Girl Walks Home Alone at Night",
+        "Leopardi",
+        "Trash",
+        "Samba",
+        "Beauty and the Beast",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Leopardi", "Lucy"]
+    },
+    {
+      "count": 4,
+      "ranking": ["Good Luck"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Two Days, One Night",
+        "Phoenix",
+        "The Way He Looks",
+        "Wild Tales",
+        "Good Luck"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Miss Granny",
+        "Rurouni Kenshin Part II: Kyoto Inferno",
+        "Good Luck",
+        "Hippocrates",
+        "Lucy",
+        "Rurouni Kenshin Part III: The Legend Ends",
+        "A Hard Day",
+        "Serial (Bad) Weddings"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Way He Looks",
+        "Lucy",
+        "Futuro Beach",
+        "Mommy",
+        "Good Luck",
+        "Trash",
+        "Beauty and the Beast"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Wild Tales",
+        "The Way He Looks",
+        "Good Luck",
+        "Samba",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Tim Maia",
+        "Good Luck",
+        "Lucy",
+        "Samba",
+        "Casa Grande",
+        "Güeros",
+        "The Way He Looks",
+        "Goodnight Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["The Raid 2", "PK", "Kung Fu Jungle", "Bang Bang!", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["PK", "Kung Fu Jungle", "2 States", "Happy New Year"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "A Girl Walks Home Alone at Night",
+        "Kung Fu Jungle",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 2,
+      "ranking": ["Kung Fu Jungle"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fu Jungle", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Wild Tales",
+        "Leviathan",
+        "A Girl Walks Home Alone at Night",
+        "The Tribe",
+        "Black Coal, Thin Ice",
+        "The Salvation",
+        "As the Gods Will",
+        "Kung Fu Jungle",
+        "The Fool",
+        "Winter Sleep",
+        "The Raid 2",
+        "Two Days, One Night",
+        "Force Majeure",
+        "A Pigeon Sat on a Branch Reflecting on Existence",
+        "Tokyo Tribe",
+        "Goodnight Mommy",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Raid 2",
+        "The Admiral: Roaring Currents",
+        "Kung Fu Jungle",
+        "Lucy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Kung Fu Jungle", "Babysitting"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hippocrates", "Jacky in the Kingdom of Women", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Mommy", "Hippocrates", "Magical Girl"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Li'l Quinquin", "Two Days, One Night", "Hippocrates"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Yves Saint Laurent", "Hippocrates", "Babysitting"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Force Majeure", "Hippocrates", "Yves Saint Laurent"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Khoobsurat"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Hasee Toh Phasee", "Khoobsurat"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Haider",
+        "Jigarthanda",
+        "Happy New Year",
+        "Bangalore Days",
+        "Highway",
+        "PK",
+        "Khoobsurat",
+        "2 States",
+        "Bang Bang!"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Haider",
+        "PK",
+        "Hasee Toh Phasee",
+        "Khoobsurat",
+        "2 States",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Haider",
+        "2 States",
+        "PK",
+        "Khoobsurat",
+        "Bang Bang!",
+        "Happy New Year"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["PK", "Khoobsurat", "Bang Bang!", "Happy New Year"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "PK",
+        "The Raid 2",
+        "Highway",
+        "Lucy",
+        "Bang Bang!",
+        "Happy New Year",
+        "2 States",
+        "Haider",
+        "Khoobsurat"
+      ]
+    },
+    {
+      "count": 3,
+      "ranking": ["Jacky in the Kingdom of Women"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Samba",
+        "Babysitting",
+        "Serial (Bad) Weddings",
+        "Jacky in the Kingdom of Women",
+        "Lucy",
+        "Goodnight Mommy"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Reality",
+        "Wild Tales",
+        "Girlhood",
+        "Jacky in the Kingdom of Women",
+        "The Bélier Family",
+        "Babysitting",
+        "Serial (Bad) Weddings",
+        "Still the Water",
+        "In Order of Disappearance"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "The Bélier Family",
+        "Samba",
+        "Yves Saint Laurent",
+        "Babysitting",
+        "Girlhood",
+        "Jacky in the Kingdom of Women",
+        "Serial (Bad) Weddings"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Reality",
+        "The Connection",
+        "Hippocrates",
+        "Love at First Fight",
+        "Babysitting",
+        "Jacky in the Kingdom of Women",
+        "Serial (Bad) Weddings"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Who Am I", "Lucy", "Recep Ivedik 4"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Recep Ivedik 4", "Lucy"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Winter Sleep", "PK", "Lucy", "Recep Ivedik 4"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "PK",
+        "Happy New Year",
+        "Winter Sleep",
+        "Lucy",
+        "Recep Ivedik 4"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": ["Whisper If I Forget", "Lucy", "Recep Ivedik 4"]
+    },
+    {
+      "count": 2,
+      "ranking": ["Recep Ivedik 4"]
+    },
+    {
+      "count": 1,
+      "ranking": ["Who Am I", "Coming Soon", "Recep Ivedik 4"]
+    },
+    {
+      "count": 2,
+      "ranking": ["A Small September Affair"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Mommy",
+        "Winter Sleep",
+        "Leviathan",
+        "The Fool",
+        "Two Days, One Night",
+        "PK",
+        "A Small September Affair"
+      ]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Lucy",
+        "The Way He Looks",
+        "Whisper If I Forget",
+        "A Small September Affair",
+        "Recep Ivedik 4"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["Stromberg – The Movie"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "Who Am I",
+        "Casa Grande",
+        "Serial (Bad) Weddings",
+        "Mommy",
+        "Timbuktu",
+        "Stromberg – The Movie"
+      ]
+    },
+    {
+      "count": 7,
+      "ranking": ["That Thing Called Tadhana"]
+    },
+    {
+      "count": 1,
+      "ranking": [
+        "A Hard Day",
+        "The Raid 2",
+        "Goodnight Mommy",
+        "Mommy",
+        "That Thing Called Tadhana"
+      ]
+    }
+  ]
+}
