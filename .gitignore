@@ -2,3 +2,5 @@ __pycache__
 scraper_outputs
 game-files
 winner.jpg
+build/
+dist/
